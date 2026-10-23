@@ -1,0 +1,95 @@
+{
+  "title": "Урок 1",
+  "words": [
+    {
+      "id": "nihao",
+      "hanzi": "你好",
+      "pinyin": "nǐ hǎo",
+      "ru": "привет, здравствуй",
+      "sentence": "___，我叫小明。",
+      "sentencePinyin": "Nǐ hǎo, wǒ jiào Xiǎo Míng.",
+      "sentenceRu": "Привет, меня зовут Сяо Мин."
+    },
+    {
+      "id": "xiexie",
+      "hanzi": "谢谢",
+      "pinyin": "xiè xie",
+      "ru": "спасибо",
+      "sentence": "___你的帮助！",
+      "sentencePinyin": "Xièxie nǐ de bāngzhù!",
+      "sentenceRu": "Спасибо за твою помощь!"
+    },
+    {
+      "id": "he",
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "ru": "пить",
+      "sentence": "你想___茶吗？",
+      "sentencePinyin": "Nǐ xiǎng hē chá ma?",
+      "sentenceRu": "Хочешь попить чаю?"
+    },
+    {
+      "id": "chi",
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "ru": "есть, кушать",
+      "sentence": "我们去___米饭吧。",
+      "sentencePinyin": "Wǒmen qù chī mǐfàn ba.",
+      "sentenceRu": "Пойдём поедим риса."
+    },
+    {
+      "id": "shu",
+      "hanzi": "书",
+      "pinyin": "shū",
+      "ru": "книга",
+      "sentence": "我在图书馆看___。",
+      "sentencePinyin": "Wǒ zài túshūguǎn kàn shū.",
+      "sentenceRu": "Я читаю книгу в библиотеке."
+    },
+    {
+      "id": "mao",
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "ru": "кошка",
+      "sentence": "我家有一只___。",
+      "sentencePinyin": "Wǒ jiā yǒu yì zhī māo.",
+      "sentenceRu": "У меня дома есть кошка."
+    },
+    {
+      "id": "pengyou",
+      "hanzi": "朋友",
+      "pinyin": "péng you",
+      "ru": "друг",
+      "sentence": "他是我的好___。",
+      "sentencePinyin": "Tā shì wǒ de hǎo péngyou.",
+      "sentenceRu": "Он мой хороший друг."
+    },
+    {
+      "id": "xuexi",
+      "hanzi": "学习",
+      "pinyin": "xué xí",
+      "ru": "учиться, изучать",
+      "sentence": "我在学校___汉语。",
+      "sentencePinyin": "Wǒ zài xuéxiào xuéxí Hànyǔ.",
+      "sentenceRu": "Я изучаю китайский в школе."
+    },
+    {
+      "id": "jintian",
+      "hanzi": "今天",
+      "pinyin": "jīn tiān",
+      "ru": "сегодня",
+      "sentence": "___是星期五。",
+      "sentencePinyin": "Jīntiān shì xīngqīwǔ.",
+      "sentenceRu": "Сегодня пятница."
+    },
+    {
+      "id": "shui",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "ru": "вода",
+      "sentence": "我想喝一杯___。",
+      "sentencePinyin": "Wǒ xiǎng hē yì bēi shuǐ.",
+      "sentenceRu": "Я хочу выпить стакан воды."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <title>Китайские карточки</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7/dist/hanzi-writer.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main id="app">
+
+    <!-- Старт -->
+    <section id="screen-start" class="screen">
+      <div class="start-seal">学</div>
+      <h1 id="deck-title">Загрузка…</h1>
+      <p class="muted" id="deck-info"></p>
+      <div class="how">
+        <div><span class="pill pill-no">←</span> не знаю — покажу перевод и произношение</div>
+        <div><span class="pill pill-yes">→</span> знаю — следующее слово</div>
+        <div><span class="pill">✓</span> в конце тест по выученным словам</div>
+      </div>
+      <button class="btn btn-primary" id="btn-start" disabled>Начать</button>
+    </section>
+
+    <!-- Карточки -->
+    <section id="screen-cards" class="screen hidden">
+      <div class="topbar">
+        <div class="progress"><div class="progress-fill" id="progress-fill"></div></div>
+        <div class="muted small" id="progress-text"></div>
+      </div>
+
+      <div class="card-area">
+        <div class="card" id="card">
+          <div class="stamp stamp-yes">Знаю</div>
+          <div class="stamp stamp-no">Не знаю</div>
+          <div class="card-inner">
+            <div class="face face-front">
+              <div class="hanzi" id="front-hanzi"></div>
+              <button class="icon-btn" id="btn-audio-front" aria-label="Послушать">🔊</button>
+              <div class="muted small hint">Знаешь это слово?</div>
+            </div>
+            <div class="face face-back">
+              <div class="back-head">
+                <div class="hanzi hanzi-sm" id="back-hanzi"></div>
+                <button class="icon-btn" id="btn-audio-back" aria-label="Послушать">🔊</button>
+              </div>
+              <div class="pinyin" id="back-pinyin"></div>
+              <div class="translation" id="back-ru"></div>
+              <div class="example">
+                <div class="example-zh" id="back-ex-zh"></div>
+                <div class="example-py muted small" id="back-ex-py"></div>
+                <div class="example-ru small" id="back-ex-ru"></div>
+                <button class="link-btn" id="btn-audio-ex">🔊 Послушать предложение</button>
+              </div>
+              <div class="strokes" id="strokes"></div>
+              <button class="link-btn" id="btn-strokes">✍️ Как писать</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="actions" id="actions-front">
+        <button class="btn btn-no" id="btn-no">Не знаю</button>
+        <button class="btn btn-yes" id="btn-yes">Знаю</button>
+      </div>
+      <div class="actions hidden" id="actions-back">
+        <button class="btn btn-primary wide" id="btn-next">Дальше — повторю позже</button>
+      </div>
+    </section>
+
+    <!-- Тест -->
+    <section id="screen-test" class="screen hidden">
+      <div class="topbar">
+        <div class="progress"><div class="progress-fill" id="test-fill"></div></div>
+        <div class="muted small" id="test-text"></div>
+      </div>
+      <div class="question">
+        <div class="muted small">Вставь пропущенное слово</div>
+        <div class="q-sentence" id="q-sentence"></div>
+        <div class="q-extra hidden" id="q-extra">
+          <div class="muted small" id="q-py"></div>
+          <div class="small" id="q-ru"></div>
+        </div>
+      </div>
+      <div class="options" id="options"></div>
+      <div class="actions hidden" id="actions-test">
+        <button class="btn btn-primary wide" id="btn-test-next">Дальше</button>
+      </div>
+    </section>
+
+    <!-- Отчёт -->
+    <section id="screen-result" class="screen hidden">
+      <div class="score-ring" id="score-ring"><span id="score-num"></span></div>
+      <h2 id="result-title"></h2>
+      <div class="stats" id="stats"></div>
+      <div class="mistakes" id="mistakes"></div>
+      <button class="btn btn-primary wide" id="btn-share">📤 Отправить учителю</button>
+      <button class="btn btn-ghost wide" id="btn-restart">Пройти ещё раз</button>
+    </section>
+
+  </main>
+</body>
+</html>
