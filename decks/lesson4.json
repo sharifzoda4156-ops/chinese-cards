@@ -1,0 +1,250 @@
+{
+  "title": "HSK-3 · Урок 4",
+  "subtitle": "这家宾馆跟别的都不一样 · Эта гостиница не похожа на другие",
+  "source": "新HSK教程 3, урок 4, 生词 № 1–27, страницы 30, 32, 33, 35",
+  "words": [
+    {
+      "id": "jiaqi",
+      "hanzi": "假期",
+      "pinyin": "jià qī",
+      "ru": "каникулы; отпуск",
+      "sentence": "暑假是学生一年中最长的___。",
+      "sentencePinyin": "Shǔjià shì xuésheng yì nián zhōng zuì cháng de jiàqī.",
+      "sentenceRu": "Летние каникулы — самые длинные каникулы у школьников за год."
+    },
+    {
+      "id": "hai",
+      "hanzi": "海",
+      "pinyin": "hǎi",
+      "ru": "море",
+      "sentence": "我想去___边游泳，看看蓝色的海水。",
+      "sentencePinyin": "Wǒ xiǎng qù hǎi biān yóu yǒng, kànkan lánsè de hǎishuǐ.",
+      "sentenceRu": "Я хочу поехать к морю, поплавать и посмотреть на синюю морскую воду."
+    },
+    {
+      "id": "caoyuan",
+      "hanzi": "草原",
+      "pinyin": "cǎo yuán",
+      "ru": "степь; луг; травянистая равнина",
+      "sentence": "一望无际的___上长满了绿草，羊群正在吃草。",
+      "sentencePinyin": "Yí wàng wú jì de cǎoyuán shang zhǎng mǎn le lǜ cǎo, yángqún zhèngzài chī cǎo.",
+      "sentenceRu": "В бескрайней степи растёт зелёная трава, и пасётся стадо овец."
+    },
+    {
+      "id": "zhuyi",
+      "hanzi": "主意",
+      "pinyin": "zhǔ yi",
+      "ru": "идея; замысел; решение",
+      "sentence": "我有个好___：我们坐火车去旅行吧。",
+      "sentencePinyin": "Wǒ yǒu ge hǎo zhǔyi: wǒmen zuò huǒchē qù lǚxíng ba.",
+      "sentenceRu": "У меня хорошая идея: давайте поедем путешествовать на поезде."
+    },
+    {
+      "id": "qi",
+      "hanzi": "骑",
+      "pinyin": "qí",
+      "ru": "ездить верхом; ехать на велосипеде",
+      "sentence": "他每天___自行车去学校，不坐公共汽车。",
+      "sentencePinyin": "Tā měi tiān qí zìxíngchē qù xuéxiào, bú zuò gōnggòng qìchē.",
+      "sentenceRu": "Каждый день он ездит в школу на велосипеде, а не на автобусе."
+    },
+    {
+      "id": "ma",
+      "hanzi": "马",
+      "pinyin": "mǎ",
+      "ru": "лошадь",
+      "sentence": "他骑着一匹___，沿着小路慢慢走。",
+      "sentencePinyin": "Tā qí zhe yì pǐ mǎ, yán zhe xiǎo lù mànmàn zǒu.",
+      "sentenceRu": "Он едет верхом на лошади по тропинке."
+    },
+    {
+      "id": "yang",
+      "hanzi": "羊",
+      "pinyin": "yáng",
+      "ru": "овца; коза",
+      "sentence": "这只___的毛又白又厚，可以用来织毛衣。",
+      "sentencePinyin": "Zhè zhī yáng de máo yòu bái yòu hòu, kěyǐ yòng lái zhī máoyī.",
+      "sentenceRu": "У этой овцы густая белая шерсть, из которой можно вязать свитера."
+    },
+    {
+      "id": "yueliang",
+      "hanzi": "月亮",
+      "pinyin": "yuè liang",
+      "ru": "луна",
+      "sentence": "夜空中的___又大又圆，像一个盘子。",
+      "sentencePinyin": "Yèkōng zhōng de yuèliang yòu dà yòu yuán, xiàng yí ge pánzi.",
+      "sentenceRu": "Луна в ночном небе большая и круглая, словно тарелка."
+    },
+    {
+      "id": "yiding",
+      "hanzi": "一定",
+      "pinyin": "yí dìng",
+      "ru": "обязательно; непременно; наверняка",
+      "sentence": "我答应了你就___会来，绝不失约。",
+      "sentencePinyin": "Wǒ dāying le nǐ jiù yídìng huì lái, jué bù shīyuē.",
+      "sentenceRu": "Раз я обещал тебе, я обязательно приду и не нарушу обещание."
+    },
+    {
+      "id": "ke_quarter",
+      "hanzi": "刻",
+      "pinyin": "kè",
+      "ru": "четверть часа (15 минут)",
+      "sentence": "一小时有四___，每刻十五分钟。",
+      "sentencePinyin": "Yì xiǎoshí yǒu sì kè, měi kè shíwǔ fēnzhōng.",
+      "sentenceRu": "В одном часе четыре четверти, каждая по пятнадцать минут."
+    },
+    {
+      "id": "qifei",
+      "hanzi": "起飞",
+      "pinyin": "qǐ fēi",
+      "ru": "взлетать (о самолёте)",
+      "sentence": "飞机马上就要___了，请系好安全带。",
+      "sentencePinyin": "Fēijī mǎshàng jiù yào qǐfēi le, qǐng jì hǎo ānquándài.",
+      "sentenceRu": "Самолёт сейчас взлетит. Пожалуйста, пристегните ремни безопасности."
+    },
+    {
+      "id": "binguan",
+      "hanzi": "宾馆",
+      "pinyin": "bīn guǎn",
+      "ru": "гостиница; отель",
+      "sentence": "我们在这家___订了两个房间，准备住三晚。",
+      "sentencePinyin": "Wǒmen zài zhè jiā bīnguǎn dìng le liǎng ge fángjiān, zhǔnbèi zhù sān wǎn.",
+      "sentenceRu": "Мы забронировали в этой гостинице два номера и собираемся прожить три ночи."
+    },
+    {
+      "id": "tebie",
+      "hanzi": "特别",
+      "pinyin": "tè bié",
+      "ru": "особенный; особенно",
+      "sentence": "今天是个很___的日子，因为我们结婚十年了。",
+      "sentencePinyin": "Jīntiān shì ge hěn tèbié de rìzi, yīnwèi wǒmen jiéhūn shí nián le.",
+      "sentenceRu": "Сегодня особенный день: мы женаты уже десять лет."
+    },
+    {
+      "id": "biede",
+      "hanzi": "别的",
+      "pinyin": "bié de",
+      "ru": "другой; другие; остальное",
+      "sentence": "这件太小了，还有___尺码吗？",
+      "sentencePinyin": "Zhè jiàn tài xiǎo le, hái yǒu bié de chǐmǎ ma?",
+      "sentenceRu": "Эта вещь слишком мала. Есть другой размер?"
+    },
+    {
+      "id": "yiyang",
+      "hanzi": "一样",
+      "pinyin": "yí yàng",
+      "ru": "одинаковый; такой же",
+      "sentence": "这两个杯子的大小完全___，没有区别。",
+      "sentencePinyin": "Zhè liǎng ge bēizi de dàxiǎo wánquán yíyàng, méiyǒu qūbié.",
+      "sentenceRu": "Эти две чашки совершенно одинакового размера, разницы нет."
+    },
+    {
+      "id": "niu",
+      "hanzi": "牛",
+      "pinyin": "niú",
+      "ru": "корова; бык; крупный рогатый скот",
+      "sentence": "农场里的奶___每天都产很多牛奶。",
+      "sentencePinyin": "Nóngchǎng lǐ de nǎiniú měi tiān dōu chǎn hěn duō niúnǎi.",
+      "sentenceRu": "Молочные коровы на ферме каждый день дают много молока."
+    },
+    {
+      "id": "xiangji",
+      "hanzi": "相机",
+      "pinyin": "xiàng jī",
+      "ru": "фотоаппарат; камера",
+      "sentence": "这台___有一个长镜头，能拍很远的东西。",
+      "sentencePinyin": "Zhè tái xiàngjī yǒu yí ge cháng jìngtóu, néng pāi hěn yuǎn de dōngxi.",
+      "sentenceRu": "У этого фотоаппарата длинный объектив: им можно снимать далёкие предметы."
+    },
+    {
+      "id": "huanying",
+      "hanzi": "欢迎",
+      "pinyin": "huān yíng",
+      "ru": "приветствовать; добро пожаловать",
+      "sentence": "___大家来我家做客，请进！",
+      "sentencePinyin": "Huānyíng dàjiā lái wǒ jiā zuò kè, qǐng jìn!",
+      "sentenceRu": "Добро пожаловать ко мне в гости! Проходите!"
+    },
+    {
+      "id": "siji",
+      "hanzi": "司机",
+      "pinyin": "sī jī",
+      "ru": "водитель",
+      "sentence": "出租车___问我：“您要去哪里？”",
+      "sentencePinyin": "Chūzūchē sījī wèn wǒ: “Nín yào qù nǎlǐ?”",
+      "sentenceRu": "Водитель такси спросил меня: «Куда вам нужно?»"
+    },
+    {
+      "id": "wandian",
+      "hanzi": "晚点",
+      "pinyin": "wǎn diǎn",
+      "ru": "опаздывать; задерживаться (о транспорте)",
+      "sentence": "火车原定八点到，今天___了半个小时。",
+      "sentencePinyin": "Huǒchē yuándìng bā diǎn dào, jīntiān wǎndiǎn le bàn ge xiǎoshí.",
+      "sentenceRu": "Поезд должен был прибыть в восемь, но сегодня задержался на полчаса."
+    },
+    {
+      "id": "jiu",
+      "hanzi": "久",
+      "pinyin": "jiǔ",
+      "ru": "долго; длительный",
+      "sentence": "你等了多___？一个小时还是两个小时？",
+      "sentencePinyin": "Nǐ děng le duō jiǔ? Yí ge xiǎoshí háishi liǎng ge xiǎoshí?",
+      "sentenceRu": "Как долго ты ждал? Час или два?"
+    },
+    {
+      "id": "chule",
+      "hanzi": "除了",
+      "pinyin": "chú le",
+      "ru": "кроме; помимо",
+      "sentence": "___苹果以外，我还买了香蕉。",
+      "sentencePinyin": "Chúle píngguǒ yǐwài, wǒ hái mǎi le xiāngjiāo.",
+      "sentenceRu": "Помимо яблок, я купил ещё и бананы."
+    },
+    {
+      "id": "yiwai",
+      "hanzi": "以外",
+      "pinyin": "yǐ wài",
+      "ru": "за пределами; кроме (после существительного)",
+      "sentence": "除了小王___，大家都到齐了。",
+      "sentencePinyin": "Chúle Xiǎo Wáng yǐwài, dàjiā dōu dào qí le.",
+      "sentenceRu": "Все собрались, кроме Сяо Вана."
+    },
+    {
+      "id": "xian",
+      "hanzi": "先",
+      "pinyin": "xiān",
+      "ru": "сначала; прежде",
+      "sentence": "吃饭前要___洗手，然后再坐下来吃。",
+      "sentencePinyin": "Chī fàn qián yào xiān xǐ shǒu, ránhòu zài zuò xià lái chī.",
+      "sentenceRu": "Перед едой нужно сначала вымыть руки, а затем садиться есть."
+    },
+    {
+      "id": "yizhi",
+      "hanzi": "一直",
+      "pinyin": "yì zhí",
+      "ru": "всё время; непрерывно; прямо",
+      "sentence": "沿着这条路___往前走，不要转弯，就能到车站。",
+      "sentencePinyin": "Yán zhe zhè tiáo lù yìzhí wǎng qián zǒu, bú yào zhuǎn wān, jiù néng dào chēzhàn.",
+      "sentenceRu": "Идите по этой дороге всё время прямо, не сворачивая, и дойдёте до станции."
+    },
+    {
+      "id": "ganjing",
+      "hanzi": "干净",
+      "pinyin": "gān jìng",
+      "ru": "чистый",
+      "sentence": "桌子擦得很___，一点儿灰尘都没有。",
+      "sentencePinyin": "Zhuōzi cā de hěn gānjìng, yì diǎnr huīchén dōu méiyǒu.",
+      "sentenceRu": "Стол вытерли начисто: на нём нет ни пылинки."
+    },
+    {
+      "id": "manyi",
+      "hanzi": "满意",
+      "pinyin": "mǎn yì",
+      "ru": "быть довольным; удовлетворённый",
+      "sentence": "这个房间正合我的要求，我对它很___。",
+      "sentencePinyin": "Zhège fángjiān zhèng hé wǒ de yāoqiú, wǒ duì tā hěn mǎnyì.",
+      "sentenceRu": "Эта комната точно соответствует моим требованиям, я ею очень доволен."
+    }
+  ]
+}
