@@ -1,0 +1,264 @@
+{
+  "title": "HSK-3 · Урок 5",
+  "subtitle": "这样的照片才好看 · Вот такие фотографии красивые",
+  "source": "新HSK教程 3, урок 5, 生词 № 1–27, страницы 39, 41, 42, 44",
+  "words": [
+    {
+      "id": "zongshi",
+      "hanzi": "总是",
+      "pinyin": "zǒng shì",
+      "ru": "всегда; постоянно",
+      "sentence": "他___迟到，几乎每天都比别人晚到十分钟。",
+      "sentencePinyin": "Tā zǒngshì chídào, jīhū měi tiān dōu bǐ biéren wǎn dào shí fēnzhōng.",
+      "sentenceRu": "Он постоянно опаздывает: почти каждый день приходит на десять минут позже остальных."
+    },
+    {
+      "id": "zhongyu",
+      "hanzi": "终于",
+      "pinyin": "zhōng yú",
+      "ru": "наконец; в конце концов",
+      "sentence": "等了三个小时，火车___来了。",
+      "sentencePinyin": "Děng le sān ge xiǎoshí, huǒchē zhōngyú lái le.",
+      "sentenceRu": "После трёх часов ожидания поезд наконец пришёл."
+    },
+    {
+      "id": "pa",
+      "hanzi": "爬",
+      "pinyin": "pá",
+      "ru": "карабкаться; лезть; ползти",
+      "sentence": "这座山很高，我们___了两个小时才到山顶。",
+      "sentencePinyin": "Zhè zuò shān hěn gāo, wǒmen pá le liǎng ge xiǎoshí cái dào shāndǐng.",
+      "sentenceRu": "Эта гора высокая: мы поднимались два часа, прежде чем дошли до вершины."
+    },
+    {
+      "id": "shan",
+      "hanzi": "山",
+      "pinyin": "shān",
+      "ru": "гора; холм",
+      "sentence": "这座___很高，山顶上还有白雪。",
+      "sentencePinyin": "Zhè zuò shān hěn gāo, shāndǐng shang hái yǒu bái xuě.",
+      "sentenceRu": "Эта гора очень высокая, на вершине даже лежит снег."
+    },
+    {
+      "id": "duanlian",
+      "hanzi": "锻炼",
+      "pinyin": "duàn liàn",
+      "ru": "тренироваться; заниматься физкультурой",
+      "sentence": "每天跑步能___身体，让我们更健康。",
+      "sentencePinyin": "Měi tiān pǎo bù néng duànliàn shēntǐ, ràng wǒmen gèng jiànkāng.",
+      "sentenceRu": "Ежедневный бег укрепляет тело и делает нас здоровее."
+    },
+    {
+      "id": "zhao",
+      "hanzi": "照",
+      "pinyin": "zhào",
+      "ru": "фотографировать; снимать",
+      "sentence": "请帮我___一张照片，背景要有那棵树。",
+      "sentencePinyin": "Qǐng bāng wǒ zhào yì zhāng zhàopiàn, bèijǐng yào yǒu nà kē shù.",
+      "sentenceRu": "Сфотографируй меня, пожалуйста, чтобы на заднем плане было то дерево."
+    },
+    {
+      "id": "xie",
+      "hanzi": "鞋",
+      "pinyin": "xié",
+      "ru": "обувь; туфля; ботинок",
+      "sentence": "这双___有点儿小，穿着走路脚会疼。",
+      "sentencePinyin": "Zhè shuāng xié yǒu diǎnr xiǎo, chuān zhe zǒu lù jiǎo huì téng.",
+      "sentenceRu": "Эта пара обуви немного мала: при ходьбе болят ноги."
+    },
+    {
+      "id": "dayi",
+      "hanzi": "大衣",
+      "pinyin": "dà yī",
+      "ru": "пальто",
+      "sentence": "冬天出门前，他在毛衣外面穿上了一件厚___。",
+      "sentencePinyin": "Dōngtiān chū mén qián, tā zài máoyī wàimiàn chuān shang le yí jiàn hòu dàyī.",
+      "sentenceRu": "Зимой перед выходом он надел поверх свитера толстое пальто."
+    },
+    {
+      "id": "paizhao",
+      "hanzi": "拍照",
+      "pinyin": "pāi zhào",
+      "ru": "фотографировать; делать фотографии",
+      "sentence": "博物馆里不许___，请把相机收起来。",
+      "sentencePinyin": "Bówùguǎn lǐ bù xǔ pāizhào, qǐng bǎ xiàngjī shōu qǐ lái.",
+      "sentenceRu": "В музее нельзя фотографировать. Уберите, пожалуйста, фотоаппарат.",
+      "quizExcludes": [
+        "zhaoxiang",
+        "zhao"
+      ],
+      "note": "拍照 и 照相 близки по смыслу: оба означают «фотографировать»."
+    },
+    {
+      "id": "ganxingqu",
+      "hanzi": "感兴趣",
+      "pinyin": "gǎn xìng qù",
+      "ru": "интересоваться; испытывать интерес",
+      "sentence": "我对中国历史很___，想多读一些相关的书。",
+      "sentencePinyin": "Wǒ duì Zhōngguó lìshǐ hěn gǎn xìngqù, xiǎng duō dú yì xiē xiāngguān de shū.",
+      "sentenceRu": "Я очень интересуюсь историей Китая и хочу читать больше книг о ней."
+    },
+    {
+      "id": "zhaoxiang",
+      "hanzi": "照相",
+      "pinyin": "zhào xiàng",
+      "ru": "фотографировать; фотографироваться",
+      "sentence": "来，大家站在一起___，我来按快门。",
+      "sentencePinyin": "Lái, dàjiā zhàn zài yìqǐ zhàoxiàng, wǒ lái àn kuàimén.",
+      "sentenceRu": "Вставайте все вместе фотографироваться, а я нажму кнопку.",
+      "quizExcludes": [
+        "paizhao",
+        "zhao"
+      ],
+      "note": "照相 и 拍照 близки по смыслу: оба означают «фотографировать»."
+    },
+    {
+      "id": "nankan",
+      "hanzi": "难看",
+      "pinyin": "nán kàn",
+      "ru": "некрасивый; уродливый",
+      "sentence": "这件衣服颜色不配，穿在一起真___。",
+      "sentencePinyin": "Zhè jiàn yīfu yánsè bú pèi, chuān zài yìqǐ zhēn nánkàn.",
+      "sentenceRu": "Цвет этой вещи не сочетается с остальной одеждой: вместе выглядит некрасиво."
+    },
+    {
+      "id": "bijiao",
+      "hanzi": "比较",
+      "pinyin": "bǐ jiào",
+      "ru": "сравнивать; довольно; сравнительно",
+      "sentence": "买东西前，先___一下两家店的价格。",
+      "sentencePinyin": "Mǎi dōngxi qián, xiān bǐjiào yí xià liǎng jiā diàn de jiàgé.",
+      "sentenceRu": "Перед покупкой сначала сравни цены в двух магазинах."
+    },
+    {
+      "id": "shuiping",
+      "hanzi": "水平",
+      "pinyin": "shuǐ píng",
+      "ru": "уровень (знаний, мастерства и т. п.)",
+      "sentence": "学了一年以后，他的汉语___提高了很多。",
+      "sentencePinyin": "Xué le yì nián yǐhòu, tā de Hànyǔ shuǐpíng tígāo le hěn duō.",
+      "sentenceRu": "После года обучения его уровень китайского значительно вырос."
+    },
+    {
+      "id": "taiyang",
+      "hanzi": "太阳",
+      "pinyin": "tài yáng",
+      "ru": "солнце",
+      "sentence": "白天，___从东方升起，照亮大地。",
+      "sentencePinyin": "Báitiān, tàiyáng cóng dōngfāng shēng qǐ, zhào liàng dàdì.",
+      "sentenceRu": "Днём солнце восходит на востоке и освещает землю."
+    },
+    {
+      "id": "shu_tree",
+      "hanzi": "树",
+      "pinyin": "shù",
+      "ru": "дерево",
+      "sentence": "这棵___很高，枝上有许多绿叶。",
+      "sentencePinyin": "Zhè kē shù hěn gāo, zhī shang yǒu xǔduō lǜ yè.",
+      "sentenceRu": "Это дерево высокое, на ветвях много зелёных листьев."
+    },
+    {
+      "id": "gan",
+      "hanzi": "干",
+      "pinyin": "gàn",
+      "ru": "делать; заниматься делом; работать",
+      "sentence": "你在___什么呢？是在洗衣服吗？",
+      "sentencePinyin": "Nǐ zài gàn shénme ne? Shì zài xǐ yīfu ma?",
+      "sentenceRu": "Что ты делаешь? Стираешь одежду?",
+      "audioText": "干活",
+      "audioNote": "Здесь 干 читается gàn — «делать, работать». В озвучке — 干活 (gàn huó), «работать»."
+    },
+    {
+      "id": "dian",
+      "hanzi": "电",
+      "pinyin": "diàn",
+      "ru": "электричество; заряд батареи",
+      "sentence": "手机没___了，我得找个地方充电。",
+      "sentencePinyin": "Shǒujī méi diàn le, wǒ děi zhǎo ge dìfang chōng diàn.",
+      "sentenceRu": "Телефон разрядился, мне нужно найти место для зарядки."
+    },
+    {
+      "id": "shoudao",
+      "hanzi": "收到",
+      "pinyin": "shōu dào",
+      "ru": "получать (письмо, посылку и т. п.)",
+      "sentence": "我今天___了你寄来的包裹，谢谢你！",
+      "sentencePinyin": "Wǒ jīntiān shōudào le nǐ jì lái de bāoguǒ, xièxie nǐ!",
+      "sentenceRu": "Сегодня я получил посылку, которую ты отправил. Спасибо!"
+    },
+    {
+      "id": "feng",
+      "hanzi": "封",
+      "pinyin": "fēng",
+      "ru": "счётное слово для писем",
+      "sentence": "她给远方的朋友写了一___信。",
+      "sentencePinyin": "Tā gěi yuǎnfāng de péngyou xiě le yì fēng xìn.",
+      "sentenceRu": "Она написала письмо другу, который живёт далеко."
+    },
+    {
+      "id": "youjian",
+      "hanzi": "邮件",
+      "pinyin": "yóu jiàn",
+      "ru": "электронное письмо; почтовое отправление",
+      "sentence": "我刚给你发了一封电子___，请查收。",
+      "sentencePinyin": "Wǒ gāng gěi nǐ fā le yì fēng diànzǐ yóujiàn, qǐng cháshōu.",
+      "sentenceRu": "Я только что отправил тебе электронное письмо, проверь почту."
+    },
+    {
+      "id": "nanguo",
+      "hanzi": "难过",
+      "pinyin": "nán guò",
+      "ru": "грустный; огорчаться; тяжело переживать",
+      "sentence": "听到朋友生病的消息，她心里很___。",
+      "sentencePinyin": "Tīng dào péngyou shēng bìng de xiāoxi, tā xīn lǐ hěn nánguò.",
+      "sentenceRu": "Услышав о болезни друга, она очень огорчилась."
+    },
+    {
+      "id": "haha",
+      "hanzi": "哈哈",
+      "pinyin": "hā hā",
+      "ru": "ха-ха (смех)",
+      "sentence": "“___，太好笑了！”大家听完笑话都笑了起来。",
+      "sentencePinyin": "“Hāhā, tài hǎoxiào le!” Dàjiā tīng wán xiàohua dōu xiào le qǐ lái.",
+      "sentenceRu": "«Ха-ха, как смешно!» Услышав шутку, все засмеялись."
+    },
+    {
+      "id": "yinyue",
+      "hanzi": "音乐",
+      "pinyin": "yīn yuè",
+      "ru": "музыка",
+      "sentence": "这段___的旋律很好听，我想再听一遍。",
+      "sentencePinyin": "Zhè duàn yīnyuè de xuánlǜ hěn hǎotīng, wǒ xiǎng zài tīng yí biàn.",
+      "sentenceRu": "У этого музыкального отрывка красивая мелодия, я хочу послушать ещё раз."
+    },
+    {
+      "id": "xingqu",
+      "hanzi": "兴趣",
+      "pinyin": "xìng qù",
+      "ru": "интерес; увлечение",
+      "sentence": "画画是我的___，我每天都画一会儿。",
+      "sentencePinyin": "Huà huà shì wǒ de xìngqù, wǒ měi tiān dōu huà yí huìr.",
+      "sentenceRu": "Рисование — моё увлечение, я каждый день немного рисую."
+    },
+    {
+      "id": "hui",
+      "hanzi": "会",
+      "pinyin": "huì",
+      "ru": "собрание; встреча; мероприятие",
+      "sentence": "公司下午三点开___，请大家准时参加。",
+      "sentencePinyin": "Gōngsī xiàwǔ sān diǎn kāi huì, qǐng dàjiā zhǔnshí cānjiā.",
+      "sentenceRu": "В компании в три часа дня собрание, просьба всем прийти вовремя.",
+      "audioText": "开会",
+      "audioNote": "Здесь 会 — существительное «собрание». В озвучке — 开会 (kāi huì), «проводить собрание»."
+    },
+    {
+      "id": "jieshu",
+      "hanzi": "结束",
+      "pinyin": "jié shù",
+      "ru": "заканчиваться; завершать",
+      "sentence": "电影十点___，观众才离开电影院。",
+      "sentencePinyin": "Diànyǐng shí diǎn jiéshù, guānzhòng cái líkāi diànyǐngyuàn.",
+      "sentenceRu": "Фильм заканчивается в десять, и только тогда зрители выходят из кинотеатра."
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "title": "HSK-3 · Урок 2",
+  "subtitle": "你们想吃什么就点什么 · Заказывайте, что хотите",
+  "source": "新HSK教程 3, урок 2, 生词 № 1–28, страницы 11, 13, 15, 16",
+  "words": [
+    {
+      "id": "caidan",
+      "hanzi": "菜单",
+      "pinyin": "cài dān",
+      "ru": "меню",
+      "sentence": "请给我一份___，我想看看有什么菜。",
+      "sentencePinyin": "Qǐng gěi wǒ yí fèn càidān, wǒ xiǎng kànkan yǒu shénme cài.",
+      "sentenceRu": "Дайте мне меню, пожалуйста: я хочу посмотреть, какие есть блюда."
+    },
+    {
+      "id": "you",
+      "hanzi": "又",
+      "pinyin": "yòu",
+      "ru": "и; снова; опять",
+      "sentence": "这家饭馆的菜___便宜又好吃。",
+      "sentencePinyin": "Zhè jiā fànguǎn de cài yòu piányi yòu hǎochī.",
+      "sentenceRu": "В этом ресторане блюда и недорогие, и вкусные."
+    },
+    {
+      "id": "e",
+      "hanzi": "饿",
+      "pinyin": "è",
+      "ru": "голодный",
+      "sentence": "我一天没吃饭，现在肚子很___。",
+      "sentencePinyin": "Wǒ yì tiān méi chī fàn, xiànzài dùzi hěn è.",
+      "sentenceRu": "Я целый день не ел и сейчас очень голоден."
+    },
+    {
+      "id": "ke",
+      "hanzi": "渴",
+      "pinyin": "kě",
+      "ru": "испытывать жажду",
+      "sentence": "跑完步我很___，想喝一大杯水。",
+      "sentencePinyin": "Pǎo wán bù wǒ hěn kě, xiǎng hē yí dà bēi shuǐ.",
+      "sentenceRu": "После пробежки я очень хочу пить: выпил бы большой стакан воды."
+    },
+    {
+      "id": "keqi",
+      "hanzi": "客气",
+      "pinyin": "kè qi",
+      "ru": "быть вежливым; церемониться",
+      "sentence": "我们是好朋友，你别跟我___。",
+      "sentencePinyin": "Wǒmen shì hǎo péngyou, nǐ bié gēn wǒ kèqi.",
+      "sentenceRu": "Мы хорошие друзья, не церемонься со мной."
+    },
+    {
+      "id": "yinliao",
+      "hanzi": "饮料",
+      "pinyin": "yǐn liào",
+      "ru": "напиток",
+      "sentence": "可乐和果汁都是___，你想喝哪一种？",
+      "sentencePinyin": "Kělè hé guǒzhī dōu shì yǐnliào, nǐ xiǎng hē nǎ yì zhǒng?",
+      "sentenceRu": "Кола и сок — напитки. Какой ты хочешь?"
+    },
+    {
+      "id": "haojiu",
+      "hanzi": "好久",
+      "pinyin": "hǎo jiǔ",
+      "ru": "очень долго; долгое время",
+      "sentence": "___不见！我们上次见面还是三年前。",
+      "sentencePinyin": "Hǎojiǔ bú jiàn! Wǒmen shàng cì jiànmiàn háishi sān nián qián.",
+      "sentenceRu": "Давно не виделись! Последний раз мы встречались три года назад."
+    },
+    {
+      "id": "fuwu",
+      "hanzi": "服务",
+      "pinyin": "fú wù",
+      "ru": "обслуживать; обслуживание",
+      "sentence": "这家店为客人提供送货___。",
+      "sentencePinyin": "Zhè jiā diàn wèi kèrén tígōng sòng huò fúwù.",
+      "sentenceRu": "Этот магазин предоставляет покупателям услугу доставки."
+    },
+    {
+      "id": "yuan",
+      "hanzi": "员",
+      "pinyin": "yuán",
+      "ru": "суффикс: работник, сотрудник",
+      "sentence": "在“服务___”这个词里，最后一个字表示从事这种工作的人。",
+      "sentencePinyin": "Zài “fúwùyuán” zhège cí lǐ, zuìhòu yí ge zì biǎoshì cóngshì zhè zhǒng gōngzuò de rén.",
+      "sentenceRu": "В слове «официант, обслуживающий работник» последний иероглиф обозначает человека, занятого этой работой."
+    },
+    {
+      "id": "shuang",
+      "hanzi": "双",
+      "pinyin": "shuāng",
+      "ru": "пара; счётное слово для парных предметов",
+      "sentence": "我买了一___鞋，两只鞋都很舒服。",
+      "sentencePinyin": "Wǒ mǎi le yì shuāng xié, liǎng zhī xié dōu hěn shūfu.",
+      "sentenceRu": "Я купил пару обуви: оба ботинка очень удобные."
+    },
+    {
+      "id": "kuaizi",
+      "hanzi": "筷子",
+      "pinyin": "kuài zi",
+      "ru": "палочки для еды",
+      "sentence": "吃面条时，他右手拿着一双___。",
+      "sentencePinyin": "Chī miàntiáo shí, tā yòushǒu ná zhe yì shuāng kuàizi.",
+      "sentenceRu": "Когда он ест лапшу, в правой руке у него пара палочек."
+    },
+    {
+      "id": "shaozi",
+      "hanzi": "勺子",
+      "pinyin": "sháo zi",
+      "ru": "ложка",
+      "sentence": "喝汤时，我用___把汤送到嘴里。",
+      "sentencePinyin": "Hē tāng shí, wǒ yòng sháozi bǎ tāng sòng dào zuǐ lǐ.",
+      "sentenceRu": "Когда я ем суп, я подношу его ко рту ложкой."
+    },
+    {
+      "id": "wan",
+      "hanzi": "碗",
+      "pinyin": "wǎn",
+      "ru": "миска; пиала",
+      "sentence": "这只___里装着热汤，小心别烫着。",
+      "sentencePinyin": "Zhè zhī wǎn lǐ zhuāng zhe rè tāng, xiǎoxīn bié tàng zhe.",
+      "sentenceRu": "В этой миске горячий суп. Осторожно, не обожгись."
+    },
+    {
+      "id": "mashang",
+      "hanzi": "马上",
+      "pinyin": "mǎ shàng",
+      "ru": "сейчас же; немедленно",
+      "sentence": "请你___过来，一分钟也不能等。",
+      "sentencePinyin": "Qǐng nǐ mǎshàng guò lái, yì fēnzhōng yě bù néng děng.",
+      "sentenceRu": "Пожалуйста, подойди немедленно: нельзя ждать ни минуты."
+    },
+    {
+      "id": "reqing",
+      "hanzi": "热情",
+      "pinyin": "rè qíng",
+      "ru": "радушный; приветливый; энтузиазм",
+      "sentence": "她对每位客人都很___，总是笑着打招呼。",
+      "sentencePinyin": "Tā duì měi wèi kèrén dōu hěn rèqíng, zǒngshì xiào zhe dǎ zhāohu.",
+      "sentenceRu": "Она радушна с каждым гостем и всегда приветствует всех с улыбкой."
+    },
+    {
+      "id": "chang",
+      "hanzi": "尝",
+      "pinyin": "cháng",
+      "ru": "пробовать на вкус",
+      "sentence": "你先___一口汤，看看咸不咸。",
+      "sentencePinyin": "Nǐ xiān cháng yì kǒu tāng, kànkan xián bu xián.",
+      "sentenceRu": "Сначала попробуй немного супа и проверь, не пересолен ли он."
+    },
+    {
+      "id": "ji",
+      "hanzi": "记",
+      "pinyin": "jì",
+      "ru": "запоминать; записывать",
+      "sentence": "这个电话号码太长，我得___在本子上。",
+      "sentencePinyin": "Zhège diànhuà hàomǎ tài cháng, wǒ děi jì zài běnzi shang.",
+      "sentenceRu": "Этот номер телефона слишком длинный: мне нужно записать его в блокнот."
+    },
+    {
+      "id": "yong",
+      "hanzi": "用",
+      "pinyin": "yòng",
+      "ru": "использовать; вежливо: есть, пить",
+      "sentence": "饭菜已经上齐了，请慢___。",
+      "sentencePinyin": "Fàncài yǐjīng shàng qí le, qǐng màn yòng.",
+      "sentenceRu": "Все блюда поданы. Приятного аппетита!"
+    },
+    {
+      "id": "ji_chicken",
+      "hanzi": "鸡",
+      "pinyin": "jī",
+      "ru": "курица",
+      "sentence": "这只___每天早上都会下一个蛋。",
+      "sentencePinyin": "Zhè zhī jī měi tiān zǎoshang dōu huì xià yí ge dàn.",
+      "sentenceRu": "Эта курица каждое утро несёт яйцо."
+    },
+    {
+      "id": "zhang",
+      "hanzi": "张",
+      "pinyin": "zhāng",
+      "ru": "счётное слово для листов, фотографий и т. п.",
+      "sentence": "请给我两___纸，我要写字。",
+      "sentencePinyin": "Qǐng gěi wǒ liǎng zhāng zhǐ, wǒ yào xiě zì.",
+      "sentenceRu": "Дайте мне, пожалуйста, два листа бумаги: я буду писать."
+    },
+    {
+      "id": "buyong",
+      "hanzi": "不用",
+      "pinyin": "bù yòng",
+      "ru": "не нужно; нет необходимости",
+      "sentence": "我已经吃饱了，你___再给我加饭。",
+      "sentencePinyin": "Wǒ yǐjīng chī bǎo le, nǐ bú yòng zài gěi wǒ jiā fàn.",
+      "sentenceRu": "Я уже наелся, больше риса мне добавлять не нужно."
+    },
+    {
+      "id": "xuan",
+      "hanzi": "选",
+      "pinyin": "xuǎn",
+      "ru": "выбирать",
+      "sentence": "这两件衣服只能___一件，你要哪件？",
+      "sentencePinyin": "Zhè liǎng jiàn yīfu zhǐ néng xuǎn yí jiàn, nǐ yào nǎ jiàn?",
+      "sentenceRu": "Из этих двух вещей можно выбрать только одну. Какую ты хочешь?"
+    },
+    {
+      "id": "waimai",
+      "hanzi": "外卖",
+      "pinyin": "wài mài",
+      "ru": "еда с доставкой; доставка еды",
+      "sentence": "今天不做饭了，我们点个___，让人送到家吧。",
+      "sentencePinyin": "Jīntiān bú zuò fàn le, wǒmen diǎn ge wàimài, ràng rén sòng dào jiā ba.",
+      "sentenceRu": "Сегодня не будем готовить: закажем еду с доставкой на дом."
+    },
+    {
+      "id": "fangbian",
+      "hanzi": "方便",
+      "pinyin": "fāng biàn",
+      "ru": "удобный",
+      "sentence": "我家门口就是地铁站，出门很___。",
+      "sentencePinyin": "Wǒ jiā ménkǒu jiù shì dìtiězhàn, chū mén hěn fāngbiàn.",
+      "sentenceRu": "Прямо у моего дома станция метро, поэтому ездить куда-либо очень удобно."
+    },
+    {
+      "id": "dangao",
+      "hanzi": "蛋糕",
+      "pinyin": "dàn gāo",
+      "ru": "торт; пирожное",
+      "sentence": "生日那天，妈妈给我买了一个插着蜡烛的___。",
+      "sentencePinyin": "Shēngrì nà tiān, māma gěi wǒ mǎi le yí ge chā zhe làzhú de dàngāo.",
+      "sentenceRu": "На день рождения мама купила мне торт со свечками."
+    },
+    {
+      "id": "zhi",
+      "hanzi": "只",
+      "pinyin": "zhǐ",
+      "ru": "только; лишь",
+      "sentence": "我___有一个问题，没有别的问题。",
+      "sentencePinyin": "Wǒ zhǐ yǒu yí ge wèntí, méiyǒu bié de wèntí.",
+      "sentenceRu": "У меня только один вопрос, других вопросов нет.",
+      "audioText": "只有",
+      "audioNote": "Здесь 只 читается zhǐ — «только». В озвучке — 只有 (zhǐ yǒu), «только есть; иметь лишь»."
+    },
+    {
+      "id": "fangbianmian",
+      "hanzi": "方便面",
+      "pinyin": "fāng biàn miàn",
+      "ru": "лапша быстрого приготовления",
+      "sentence": "这包___用开水泡三分钟就能吃。",
+      "sentencePinyin": "Zhè bāo fāngbiànmiàn yòng kāishuǐ pào sān fēnzhōng jiù néng chī.",
+      "sentenceRu": "Эту лапшу быстрого приготовления можно есть через три минуты после заливания кипятком."
+    },
+    {
+      "id": "jiandan",
+      "hanzi": "简单",
+      "pinyin": "jiǎn dān",
+      "ru": "простой; несложный",
+      "sentence": "这道题很___，三岁的孩子都会做。",
+      "sentencePinyin": "Zhè dào tí hěn jiǎndān, sān suì de háizi dōu huì zuò.",
+      "sentenceRu": "Эта задача очень простая: даже трёхлетний ребёнок справится."
+    }
+  ]
+}

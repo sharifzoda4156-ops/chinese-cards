@@ -275,8 +275,9 @@
     $('back-hanzi').textContent = w.hanzi;
     $('back-pinyin').innerHTML = colorPinyin(w.pinyin);
     $('back-ru').textContent = w.ru;
-    $('audio-note').textContent = w.audioNote || '';
-    $('audio-note').classList.toggle('hidden', !w.audioNote);
+    const notes = [w.audioNote, w.note].filter(Boolean).join(' ');
+    $('audio-note').textContent = notes;
+    $('audio-note').classList.toggle('hidden', !notes);
     $('back-ex-zh').innerHTML = escapeHtml(w.sentence).replace('___', `<b>${escapeHtml(w.hanzi)}</b>`);
     $('back-ex-py').textContent = w.sentencePinyin || '';
     $('back-ex-ru').textContent = w.sentenceRu || '';
@@ -426,7 +427,8 @@
     $('q-ru').textContent = w.sentenceRu || '';
     $('actions-test').classList.add('hidden');
 
-    const others = shuffle(deck.words.filter((x) => x.id !== w.id)).slice(0, OPTIONS_COUNT - 1);
+    const excluded = new Set([w.id, ...(w.quizExcludes || [])]);
+    const others = shuffle(deck.words.filter((x) => !excluded.has(x.id))).slice(0, OPTIONS_COUNT - 1);
     const options = shuffle([w, ...others]);
     const box = $('options');
     box.classList.remove('answered');

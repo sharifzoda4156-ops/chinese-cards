@@ -33,12 +33,19 @@ async def check():
         assert calls == ['你好', '再见', '再见'], calls
         calls.clear()
         await audio.main()
-        words = json.loads((audio.ROOT/'decks/lesson1.json').read_text())['words']
-        assert len(calls) == 54, len(calls)
-        for w in words:
-            assert (audio.OUT/'audio/lesson1'/f"{w['id']}.mp3").exists()
-            assert (audio.OUT/'audio/lesson1'/f"{w['id']}_s.mp3").exists()
+        expected = []
+        total_words = 0
+        for deck_path in sorted((audio.ROOT/'decks').glob('lesson*.json')):
+            words = json.loads(deck_path.read_text())['words']
+            total_words += len(words)
+            for w in words:
+                expected.extend([w.get('audioText', w['hanzi']), w['sentence'].replace('___', w['hanzi'])])
+                assert (audio.OUT/'audio'/deck_path.stem/f"{w['id']}.mp3").exists()
+                assert (audio.OUT/'audio'/deck_path.stem/f"{w['id']}_s.mp3").exists()
+        assert calls == expected
+        assert len(calls) == total_words * 2
+        assert not (audio.OUT/'audio/catalog').exists()
         assert '___' not in ''.join(calls)
-        print('PASS: 54 audio outputs, catalog exclusion, and text/voice cache invalidation.')
+        print(f'PASS: {len(calls)} audio outputs, catalog exclusion, pronunciation contexts, and text/voice cache invalidation.')
 
 asyncio.run(check())

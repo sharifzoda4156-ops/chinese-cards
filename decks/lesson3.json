@@ -1,0 +1,246 @@
+{
+  "title": "HSK-3 · Урок 3",
+  "subtitle": "这个小区挺好的 · Этот жилой комплекс очень хороший",
+  "source": "新HSK教程 3, урок 3, 生词 № 1–26, страницы 20, 22, 23, 25",
+  "words": [
+    {
+      "id": "chuzhong",
+      "hanzi": "初中",
+      "pinyin": "chū zhōng",
+      "ru": "средняя школа первой ступени (7–9 классы)",
+      "sentence": "小学毕业以后，他进入___，开始读七年级。",
+      "sentencePinyin": "Xiǎoxué bìyè yǐhòu, tā jìnrù chūzhōng, kāishǐ dú qī niánjí.",
+      "sentenceRu": "После начальной школы он поступил в среднюю школу и начал учиться в седьмом классе."
+    },
+    {
+      "id": "zanmen",
+      "hanzi": "咱们",
+      "pinyin": "zán men",
+      "ru": "мы с тобой; мы с вами (включая собеседника)",
+      "sentence": "你和我都饿了，___一起去吃饭吧。",
+      "sentencePinyin": "Nǐ hé wǒ dōu è le, zánmen yìqǐ qù chī fàn ba.",
+      "sentenceRu": "Мы с тобой оба голодны. Пойдём вместе поедим."
+    },
+    {
+      "id": "huan_change",
+      "hanzi": "换",
+      "pinyin": "huàn",
+      "ru": "менять; обменивать",
+      "sentence": "这件衣服小了，我想___一件大一点儿的。",
+      "sentencePinyin": "Zhè jiàn yīfu xiǎo le, wǒ xiǎng huàn yí jiàn dà yì diǎnr de.",
+      "sentenceRu": "Эта одежда мала, я хочу обменять её на размер побольше."
+    },
+    {
+      "id": "fangzi",
+      "hanzi": "房子",
+      "pinyin": "fáng zi",
+      "ru": "дом; жильё",
+      "sentence": "这座___有两层，里面住着一家四口。",
+      "sentencePinyin": "Zhè zuò fángzi yǒu liǎng céng, lǐmiàn zhù zhe yì jiā sì kǒu.",
+      "sentenceRu": "В этом доме два этажа, в нём живёт семья из четырёх человек."
+    },
+    {
+      "id": "xiaoqu",
+      "hanzi": "小区",
+      "pinyin": "xiǎo qū",
+      "ru": "жилой комплекс; жилой квартал",
+      "sentence": "我们住的___有十栋楼，门口还有保安。",
+      "sentencePinyin": "Wǒmen zhù de xiǎoqū yǒu shí dòng lóu, ménkǒu hái yǒu bǎo'ān.",
+      "sentenceRu": "В нашем жилом комплексе десять домов, а у входа есть охрана."
+    },
+    {
+      "id": "huanjing",
+      "hanzi": "环境",
+      "pinyin": "huán jìng",
+      "ru": "окружение; окружающая среда",
+      "sentence": "这里没有噪音，空气也好，生活___很不错。",
+      "sentencePinyin": "Zhèlǐ méiyǒu zàoyīn, kōngqì yě hǎo, shēnghuó huánjìng hěn búcuò.",
+      "sentenceRu": "Здесь нет шума и хороший воздух: условия для жизни отличные."
+    },
+    {
+      "id": "ting",
+      "hanzi": "挺",
+      "pinyin": "tǐng",
+      "ru": "довольно; весьма; очень",
+      "sentence": "这件衣服___好看的，我很喜欢。",
+      "sentencePinyin": "Zhè jiàn yīfu tǐng hǎokàn de, wǒ hěn xǐhuan.",
+      "sentenceRu": "Эта одежда весьма красивая, мне очень нравится."
+    },
+    {
+      "id": "kongtiao",
+      "hanzi": "空调",
+      "pinyin": "kōng tiáo",
+      "ru": "кондиционер",
+      "sentence": "屋里太热了，打开___，让房间凉快一点儿。",
+      "sentencePinyin": "Wū lǐ tài rè le, dǎ kāi kōngtiáo, ràng fángjiān liángkuai yì diǎnr.",
+      "sentenceRu": "В комнате слишком жарко. Включи кондиционер, чтобы стало прохладнее."
+    },
+    {
+      "id": "xiyiji",
+      "hanzi": "洗衣机",
+      "pinyin": "xǐ yī jī",
+      "ru": "стиральная машина",
+      "sentence": "把脏衣服放进___，按一下按钮就能洗。",
+      "sentencePinyin": "Bǎ zāng yīfu fàng jìn xǐyījī, àn yí xià ànniǔ jiù néng xǐ.",
+      "sentenceRu": "Положи грязную одежду в стиральную машину и нажми кнопку, чтобы запустить стирку."
+    },
+    {
+      "id": "ceng",
+      "hanzi": "层",
+      "pinyin": "céng",
+      "ru": "этаж; слой; счётное слово для этажей",
+      "sentence": "这栋楼一共有十八___，我住在第九楼。",
+      "sentencePinyin": "Zhè dòng lóu yígòng yǒu shíbā céng, wǒ zhù zài dì jiǔ lóu.",
+      "sentenceRu": "В этом здании всего восемнадцать этажей, я живу на девятом."
+    },
+    {
+      "id": "huayuan",
+      "hanzi": "花园",
+      "pinyin": "huā yuán",
+      "ru": "сад; цветник",
+      "sentence": "春天，___里开满了五颜六色的花。",
+      "sentencePinyin": "Chūntiān, huāyuán lǐ kāi mǎn le wǔ yán liù sè de huā.",
+      "sentenceRu": "Весной сад полон разноцветных цветов."
+    },
+    {
+      "id": "deng",
+      "hanzi": "灯",
+      "pinyin": "dēng",
+      "ru": "лампа; светильник",
+      "sentence": "天黑了，请打开桌上的___，我要看书。",
+      "sentencePinyin": "Tiān hēi le, qǐng dǎ kāi zhuō shang de dēng, wǒ yào kàn shū.",
+      "sentenceRu": "Стемнело. Включи лампу на столе, пожалуйста: я буду читать."
+    },
+    {
+      "id": "guan",
+      "hanzi": "关",
+      "pinyin": "guān",
+      "ru": "выключать; закрывать",
+      "sentence": "离开房间前，请把灯___了。",
+      "sentencePinyin": "Líkāi fángjiān qián, qǐng bǎ dēng guān le.",
+      "sentenceRu": "Перед выходом из комнаты выключите, пожалуйста, свет."
+    },
+    {
+      "id": "bingxiang",
+      "hanzi": "冰箱",
+      "pinyin": "bīng xiāng",
+      "ru": "холодильник",
+      "sentence": "牛奶要放在___里，冷藏才不容易坏。",
+      "sentencePinyin": "Niúnǎi yào fàng zài bīngxiāng lǐ, lěngcáng cái bù róngyì huài.",
+      "sentenceRu": "Молоко нужно хранить в холодильнике: в холоде оно не так быстро портится."
+    },
+    {
+      "id": "weishengjian",
+      "hanzi": "卫生间",
+      "pinyin": "wèi shēng jiān",
+      "ru": "туалет; ванная комната; санузел",
+      "sentence": "请问___在哪儿？我想上厕所。",
+      "sentencePinyin": "Qǐngwèn wèishēngjiān zài nǎr? Wǒ xiǎng shàng cèsuǒ.",
+      "sentenceRu": "Подскажите, где туалет? Мне нужно в уборную."
+    },
+    {
+      "id": "dasao",
+      "hanzi": "打扫",
+      "pinyin": "dǎ sǎo",
+      "ru": "убирать; подметать",
+      "sentence": "地上很脏，我们一起___房间吧。",
+      "sentencePinyin": "Dìshang hěn zāng, wǒmen yìqǐ dǎsǎo fángjiān ba.",
+      "sentenceRu": "На полу грязно. Давай вместе уберём комнату."
+    },
+    {
+      "id": "banjia",
+      "hanzi": "搬家",
+      "pinyin": "bān jiā",
+      "ru": "переезжать на другое место жительства",
+      "sentence": "我们下周要___了，新家离学校更近。",
+      "sentencePinyin": "Wǒmen xià zhōu yào bānjiā le, xīn jiā lí xuéxiào gèng jìn.",
+      "sentenceRu": "На следующей неделе мы переезжаем: новый дом ближе к школе.",
+      "quizExcludes": [
+        "ban_move"
+      ]
+    },
+    {
+      "id": "ban_handle",
+      "hanzi": "办",
+      "pinyin": "bàn",
+      "ru": "делать; оформлять; заниматься делом",
+      "sentence": "我想去银行___一张新的信用卡。",
+      "sentencePinyin": "Wǒ xiǎng qù yínháng bàn yì zhāng xīn de xìnyòngkǎ.",
+      "sentenceRu": "Я хочу пойти в банк и оформить новую кредитную карту."
+    },
+    {
+      "id": "xinyongka",
+      "hanzi": "信用卡",
+      "pinyin": "xìn yòng kǎ",
+      "ru": "кредитная карта",
+      "sentence": "用___买东西，可以先消费，下个月再还钱。",
+      "sentencePinyin": "Yòng xìnyòngkǎ mǎi dōngxi, kěyǐ xiān xiāofèi, xià ge yuè zài huán qián.",
+      "sentenceRu": "С кредитной картой можно купить вещи сейчас, а вернуть деньги в следующем месяце."
+    },
+    {
+      "id": "huan_return",
+      "hanzi": "还",
+      "pinyin": "huán",
+      "ru": "возвращать; отдавать обратно",
+      "sentence": "这本书是借来的，明天我要___给图书馆。",
+      "sentencePinyin": "Zhè běn shū shì jiè lái de, míngtiān wǒ yào huán gěi túshūguǎn.",
+      "sentenceRu": "Эта книга взята напрокат. Завтра я верну её в библиотеку.",
+      "audioText": "还书",
+      "audioNote": "Здесь 还 читается huán — «возвращать». В озвучке — 还书 (huán shū), «вернуть книгу»."
+    },
+    {
+      "id": "tingshuo",
+      "hanzi": "听说",
+      "pinyin": "tīng shuō",
+      "ru": "слышать о чём-либо; говорят, что",
+      "sentence": "我___你要结婚了，是真的吗？",
+      "sentencePinyin": "Wǒ tīngshuō nǐ yào jiéhūn le, shì zhēn de ma?",
+      "sentenceRu": "Я слышал, ты собираешься жениться. Это правда?"
+    },
+    {
+      "id": "yinhang",
+      "hanzi": "银行",
+      "pinyin": "yín háng",
+      "ru": "банк",
+      "sentence": "我去___存钱，顺便办一张银行卡。",
+      "sentencePinyin": "Wǒ qù yínháng cún qián, shùnbiàn bàn yì zhāng yínhángkǎ.",
+      "sentenceRu": "Я пойду в банк положить деньги на счёт и заодно оформлю банковскую карту."
+    },
+    {
+      "id": "cai",
+      "hanzi": "才",
+      "pinyin": "cái",
+      "ru": "только; лишь (позднее ожидаемого)",
+      "sentence": "他本来八点就该到，可是十点___来。",
+      "sentencePinyin": "Tā běnlái bā diǎn jiù gāi dào, kěshì shí diǎn cái lái.",
+      "sentenceRu": "Он должен был прийти в восемь, а пришёл только в десять."
+    },
+    {
+      "id": "zhi_paper",
+      "hanzi": "纸",
+      "pinyin": "zhǐ",
+      "ru": "бумага",
+      "sentence": "这张___是空白的，你可以在上面画画。",
+      "sentencePinyin": "Zhè zhāng zhǐ shì kòngbái de, nǐ kěyǐ zài shàngmian huà huà.",
+      "sentenceRu": "Этот лист бумаги чистый, на нём можно рисовать."
+    },
+    {
+      "id": "ban_move",
+      "hanzi": "搬",
+      "pinyin": "bān",
+      "ru": "переносить; передвигать",
+      "sentence": "请帮我把这张桌子___到楼上去。",
+      "sentencePinyin": "Qǐng bāng wǒ bǎ zhè zhāng zhuōzi bān dào lóu shang qù.",
+      "sentenceRu": "Пожалуйста, помоги мне перенести этот стол наверх."
+    },
+    {
+      "id": "xuyao",
+      "hanzi": "需要",
+      "pinyin": "xū yào",
+      "ru": "нуждаться; быть необходимым; потребность",
+      "sentence": "一个人搬不动这么重的桌子，我___你的帮助。",
+      "sentencePinyin": "Yí ge rén bān bu dòng zhème zhòng de zhuōzi, wǒ xūyào nǐ de bāngzhù.",
+      "sentenceRu": "Одному такой тяжёлый стол не перенести: мне нужна твоя помощь."
+    }
+  ]
+}

@@ -5,24 +5,106 @@
       "title": "HSK-3",
       "description": "新HSK教程 3 · 18 уроков",
       "lessons": [
-        { "id": "lesson1", "title": "Урок 1", "subtitle": "Встречаем вас в аэропорту", "wordCount": 27, "available": true },
-        { "id": "lesson2", "title": "Урок 2", "available": false },
-        { "id": "lesson3", "title": "Урок 3", "available": false },
-        { "id": "lesson4", "title": "Урок 4", "available": false },
-        { "id": "lesson5", "title": "Урок 5", "available": false },
-        { "id": "lesson6", "title": "Урок 6", "available": false },
-        { "id": "lesson7", "title": "Урок 7", "available": false },
-        { "id": "lesson8", "title": "Урок 8", "available": false },
-        { "id": "lesson9", "title": "Урок 9", "available": false },
-        { "id": "lesson10", "title": "Урок 10", "available": false },
-        { "id": "lesson11", "title": "Урок 11", "available": false },
-        { "id": "lesson12", "title": "Урок 12", "available": false },
-        { "id": "lesson13", "title": "Урок 13", "available": false },
-        { "id": "lesson14", "title": "Урок 14", "available": false },
-        { "id": "lesson15", "title": "Урок 15", "available": false },
-        { "id": "lesson16", "title": "Урок 16", "available": false },
-        { "id": "lesson17", "title": "Урок 17", "available": false },
-        { "id": "lesson18", "title": "Урок 18", "available": false }
+        {
+          "id": "lesson1",
+          "title": "Урок 1",
+          "subtitle": "Встречаем вас в аэропорту",
+          "wordCount": 27,
+          "available": true
+        },
+        {
+          "id": "lesson2",
+          "title": "Урок 2",
+          "available": true,
+          "subtitle": "Заказывайте, что хотите",
+          "wordCount": 28
+        },
+        {
+          "id": "lesson3",
+          "title": "Урок 3",
+          "available": true,
+          "subtitle": "Этот жилой комплекс очень хороший",
+          "wordCount": 26
+        },
+        {
+          "id": "lesson4",
+          "title": "Урок 4",
+          "available": true,
+          "subtitle": "Эта гостиница не похожа на другие",
+          "wordCount": 27
+        },
+        {
+          "id": "lesson5",
+          "title": "Урок 5",
+          "available": true,
+          "subtitle": "Вот такие фотографии красивые",
+          "wordCount": 27
+        },
+        {
+          "id": "lesson6",
+          "title": "Урок 6",
+          "available": false
+        },
+        {
+          "id": "lesson7",
+          "title": "Урок 7",
+          "available": false
+        },
+        {
+          "id": "lesson8",
+          "title": "Урок 8",
+          "available": false
+        },
+        {
+          "id": "lesson9",
+          "title": "Урок 9",
+          "available": false
+        },
+        {
+          "id": "lesson10",
+          "title": "Урок 10",
+          "available": false
+        },
+        {
+          "id": "lesson11",
+          "title": "Урок 11",
+          "available": false
+        },
+        {
+          "id": "lesson12",
+          "title": "Урок 12",
+          "available": false
+        },
+        {
+          "id": "lesson13",
+          "title": "Урок 13",
+          "available": false
+        },
+        {
+          "id": "lesson14",
+          "title": "Урок 14",
+          "available": false
+        },
+        {
+          "id": "lesson15",
+          "title": "Урок 15",
+          "available": false
+        },
+        {
+          "id": "lesson16",
+          "title": "Урок 16",
+          "available": false
+        },
+        {
+          "id": "lesson17",
+          "title": "Урок 17",
+          "available": false
+        },
+        {
+          "id": "lesson18",
+          "title": "Урок 18",
+          "available": false
+        }
       ]
     }
   ]
