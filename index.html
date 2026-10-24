@@ -7,10 +7,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=hsk3-1">
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7/dist/hanzi-writer.min.js" defer></script>
-  <script src="app.js" defer></script>
+  <script src="app.js?v=hsk3-1" defer></script>
 </head>
 <body>
   <main id="app">
@@ -18,19 +18,43 @@
     <!-- Старт -->
     <section id="screen-start" class="screen">
       <div class="start-seal">学</div>
-      <h1 id="deck-title">Загрузка…</h1>
-      <p class="muted" id="deck-info"></p>
+      <h1>Китайские карточки</h1>
+      <p class="muted">Выберите раздел и урок — учите слова с озвучкой</p>
       <div class="how">
         <div><span class="pill pill-no">←</span> не знаю — покажу перевод и произношение</div>
         <div><span class="pill pill-yes">→</span> знаю — следующее слово</div>
         <div><span class="pill">✓</span> в конце тест по выученным словам</div>
       </div>
-      <button class="btn btn-primary" id="btn-start" disabled>Начать</button>
+      <p class="muted small" id="catalog-status" role="status">Загрузка разделов…</p>
+      <button class="btn btn-primary" id="btn-start" disabled>Старт</button>
+      <button class="btn btn-ghost hidden" id="btn-catalog-retry">Попробовать снова</button>
+    </section>
+
+    <!-- Разделы и уроки -->
+    <section id="screen-sections" class="screen hidden">
+      <button class="link-btn nav-back" id="btn-home">← На главную</button>
+      <h1>Выберите раздел</h1>
+      <div class="catalog-list" id="sections"></div>
+    </section>
+    <section id="screen-lessons" class="screen hidden">
+      <button class="link-btn nav-back" id="btn-sections">← Разделы</button>
+      <h1 id="section-title">HSK-3</h1>
+      <p class="muted catalog-caption">Выберите урок. Остальные появятся по мере добавления.</p>
+      <div class="lesson-grid" id="lessons"></div>
+    </section>
+    <section id="screen-lesson" class="screen hidden">
+      <button class="link-btn nav-back" id="btn-lessons">← Уроки</button>
+      <h1 id="deck-title"></h1>
+      <p class="muted catalog-caption" id="deck-subtitle"></p>
+      <p class="catalog-caption" id="deck-info" role="status"></p>
+      <button class="btn btn-primary" id="btn-begin" disabled>Начать урок</button>
+      <button class="btn btn-ghost hidden" id="btn-deck-retry">Повторить загрузку</button>
     </section>
 
     <!-- Карточки -->
     <section id="screen-cards" class="screen hidden">
       <div class="topbar">
+        <div class="muted small" id="cards-lesson-title"></div>
         <div class="progress"><div class="progress-fill" id="progress-fill"></div></div>
         <div class="muted small" id="progress-text"></div>
       </div>
@@ -52,6 +76,7 @@
               </div>
               <div class="pinyin" id="back-pinyin"></div>
               <div class="translation" id="back-ru"></div>
+              <div class="muted small hidden" id="audio-note"></div>
               <div class="example">
                 <div class="example-zh" id="back-ex-zh"></div>
                 <div class="example-py muted small" id="back-ex-py"></div>
@@ -102,8 +127,10 @@
       <div class="mistakes" id="mistakes"></div>
       <button class="btn btn-primary wide" id="btn-share">📤 Отправить учителю</button>
       <button class="btn btn-ghost wide" id="btn-restart">Пройти ещё раз</button>
+      <button class="btn btn-ghost wide" id="btn-result-lessons">Выбрать другой урок</button>
     </section>
 
   </main>
 </body>
 </html>
+
