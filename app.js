@@ -14,7 +14,12 @@
   const $ = (id) => document.getElementById(id);
 
   // ---------- состояние ----------
-  let deckId = 'lesson1';
+  let deckId = '';
+  let catalog = null;
+  let section = null;
+  let deckLoadToken = 0;
+  let cardBusy = false;
+  let answered = false;
   let deck = null;          // { title, words: [...] }
   let queue = [];           // индексы слов, которые ещё надо пройти
   let stats = [];           // по каждому слову: { misses, knownFirst, learned, failed }
@@ -78,9 +83,10 @@
   }
 
   function show(screen) {
-    ['start', 'cards', 'test', 'result'].forEach((name) => {
+    ['start', 'sections', 'lessons', 'lesson', 'cards', 'test', 'result'].forEach((name) => {
       $('screen-' + name).classList.toggle('hidden', name !== screen);
     });
+    stopAudio();
     window.scrollTo(0, 0);
   }
 
@@ -88,6 +94,10 @@
   // Основной источник — mp3 (их генерирует GitHub Actions). Встроенный синтез браузера
   // только запасной: в Telegram на Android он не работает.
   let currentAudio = null;
+  function stopAudio() {
+    if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+    if (window.speechSynthesis) window.speechSynthesis.cancel();
+  }
   function speakFallback(text) {
     try {
       if (!('speechSynthesis' in window)) return;
@@ -99,16 +109,16 @@
     } catch (e) { /* нет синтеза */ }
   }
   function play(src, text) {
-    if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+    stopAudio();
     let fellBack = false;
-    const fallback = () => { if (!fellBack) { fellBack = true; speakFallback(text); } };
+    const fallback = () => { if (!fellBack && currentAudio === a) { fellBack = true; speakFallback(text); } };
     const a = new Audio(src);
     currentAudio = a;
     a.addEventListener('error', fallback, { once: true });
     const p = a.play();
     if (p && p.catch) p.catch(fallback);
   }
-  const wordAudio = (w) => play(`audio/${deckId}/${w.id}.mp3`, w.hanzi);
+  const wordAudio = (w) => play(`audio/${deckId}/${w.id}.mp3`, w.audioText || w.hanzi);
   const sentenceAudio = (w) => play(`audio/${deckId}/${w.id}_s.mp3`, fullSentence(w));
 
   // ---------- загрузка колоды ----------
@@ -117,27 +127,112 @@
     try { id = (tg && tg.initDataUnsafe && tg.initDataUnsafe.start_param) || ''; } catch (e) { /* */ }
     if (!id) id = new URLSearchParams(location.search).get('deck') || '';
     id = id.toLowerCase().replace(/[^a-z0-9_-]/g, '');
-    return id || 'lesson1';
+    return id;
   }
 
-  async function loadDeck() {
-    deckId = pickDeckId();
+  function lessonLocation(id) {
+    for (const group of catalog.sections) {
+      const lesson = group.lessons.find((item) => item.id === id);
+      if (lesson) return { group, lesson };
+    }
+    return null;
+  }
+
+  function renderSections() {
+    const box = $('sections');
+    box.replaceChildren();
+    catalog.sections.forEach((group) => {
+      const button = document.createElement('button');
+      button.className = 'catalog-item';
+      const ready = group.lessons.filter((lesson) => lesson.available).length;
+      button.innerHTML = `<strong>${escapeHtml(group.title)}</strong><span>${escapeHtml(group.description)}</span><small>Доступно ${ready} из ${group.lessons.length} уроков →</small>`;
+      button.addEventListener('click', () => openSection(group));
+      box.appendChild(button);
+    });
+    show('sections');
+  }
+
+  function openSection(group) {
+    section = group;
+    $('section-title').textContent = group.title;
+    const box = $('lessons');
+    box.replaceChildren();
+    group.lessons.forEach((lesson) => {
+      const button = document.createElement('button');
+      button.className = 'catalog-item lesson-item';
+      button.disabled = !lesson.available;
+      button.innerHTML = `<strong>${escapeHtml(lesson.title)}</strong><small>${lesson.available ? `${lesson.wordCount} слов · карточки и тест` : 'Скоро'}</small>`;
+      button.addEventListener('click', () => loadDeck(lesson.id));
+      box.appendChild(button);
+    });
+    show('lessons');
+  }
+
+  function returnToLessons() {
+    ++deckLoadToken; // ignore a response from a lesson the user has already left
+    openSection(section || catalog.sections[0]);
+  }
+
+  async function loadCatalog() {
+    $('btn-start').disabled = true;
+    $('catalog-status').textContent = 'Загрузка разделов…';
+    $('btn-catalog-retry').classList.add('hidden');
     try {
-      const res = await fetch(`decks/${deckId}.json`, { cache: 'no-cache' });
+      const res = await fetch('decks/catalog.json', { cache: 'no-cache' });
       if (!res.ok) throw new Error(res.status);
-      deck = await res.json();
+      catalog = await res.json();
+      renderSections();
+      show('start');
+      $('catalog-status').textContent = 'HSK-3 · уроки 1–18';
+      $('btn-start').disabled = false;
+      const id = pickDeckId();
+      if (id) await loadDeck(id);
     } catch (e) {
-      $('deck-title').textContent = 'Колода не найдена';
-      $('deck-info').textContent = `Нет файла decks/${deckId}.json`;
+      show('start');
+      $('catalog-status').textContent = 'Не удалось загрузить разделы. Проверьте соединение.';
+      $('btn-catalog-retry').classList.remove('hidden');
+    }
+  }
+
+  async function loadDeck(id) {
+    const token = ++deckLoadToken;
+    const selected = lessonLocation(id);
+    deck = null;
+    deckId = id;
+    if (selected) section = selected.group;
+    $('deck-title').textContent = selected ? `${selected.group.title} · ${selected.lesson.title}` : 'Урок не найден';
+    $('deck-subtitle').textContent = selected ? selected.lesson.subtitle || '' : '';
+    $('deck-info').textContent = 'Загрузка слов…';
+    $('btn-begin').disabled = true;
+    $('btn-deck-retry').classList.add('hidden');
+    show('lesson');
+    if (!selected || !selected.lesson.available) {
+      $('deck-info').textContent = selected ? 'Этот урок ещё готовится. Выберите доступный урок.' : 'Такого урока нет. Вернитесь к выбору уроков.';
       return;
     }
-    $('deck-title').textContent = deck.title || 'Китайские слова';
-    $('deck-info').textContent = `${deck.words.length} слов · карточки и тест`;
-    $('btn-start').disabled = false;
+    try {
+      const res = await fetch(`decks/${id}.json`, { cache: 'no-cache' });
+      if (!res.ok) throw new Error(res.status);
+      const loaded = await res.json();
+      if (!Array.isArray(loaded.words) || !loaded.words.length) throw new Error('Empty deck');
+      if (token !== deckLoadToken) return;
+      deck = loaded;
+      $('deck-title').textContent = deck.title;
+      $('deck-subtitle').textContent = deck.subtitle || '';
+      $('deck-info').textContent = `${deck.words.length} слов · озвучка · тест в конце`;
+      $('btn-begin').disabled = false;
+    } catch (e) {
+      if (token !== deckLoadToken) return;
+      $('deck-info').textContent = 'Не удалось загрузить слова. Проверьте соединение и попробуйте снова.';
+      $('btn-deck-retry').classList.remove('hidden');
+    }
   }
 
   // ---------- карточки ----------
   function startCards() {
+    if (!deck) return;
+    cardBusy = false;
+    $('cards-lesson-title').textContent = deck.title;
     queue = shuffle(deck.words.map((_, i) => i));
     stats = deck.words.map(() => ({ misses: 0, knownFirst: false, learned: false, failed: false }));
     show('cards');
@@ -159,6 +254,8 @@
   }
 
   function nextCard() {
+    cardBusy = false;
+    stopAudio();
     updateProgress();
     if (queue.length === 0) { startTest(); return; }
     current = queue[0];
@@ -178,6 +275,8 @@
     $('back-hanzi').textContent = w.hanzi;
     $('back-pinyin').innerHTML = colorPinyin(w.pinyin);
     $('back-ru').textContent = w.ru;
+    $('audio-note').textContent = w.audioNote || '';
+    $('audio-note').classList.toggle('hidden', !w.audioNote);
     $('back-ex-zh').innerHTML = escapeHtml(w.sentence).replace('___', `<b>${escapeHtml(w.hanzi)}</b>`);
     $('back-ex-py').textContent = w.sentencePinyin || '';
     $('back-ex-ru').textContent = w.sentenceRu || '';
@@ -191,6 +290,8 @@
   }
 
   function know() {
+    if (cardBusy || flipped) return;
+    cardBusy = true;
     const s = stats[current];
     if (s.misses > 0) s.learned = true; else s.knownFirst = true;
     haptic('ok');
@@ -198,6 +299,7 @@
   }
 
   function dontKnow() {
+    if (cardBusy || flipped) return;
     stats[current].misses++;
     haptic('error');
     flipped = true;
@@ -210,6 +312,8 @@
   }
 
   function afterBack(dir) {
+    if (cardBusy || !flipped) return;
+    cardBusy = true;
     const s = stats[current];
     flyOut(dir || -1, () => {
       queue.shift();
@@ -265,7 +369,7 @@
     let startX = 0, startY = 0, dx = 0, dragging = false, moved = false;
 
     card.addEventListener('pointerdown', (e) => {
-      if (e.target.closest('button')) return;
+      if (cardBusy || e.target.closest('button')) return;
       dragging = true; moved = false;
       startX = e.clientX; startY = e.clientY; dx = 0;
       card.classList.remove('animate');
@@ -310,6 +414,7 @@
   }
 
   function renderQuestion() {
+    answered = false;
     const w = testItems[testPos];
     $('test-fill').style.width = `${(testPos / testItems.length) * 100}%`;
     $('test-text').textContent = `Вопрос ${testPos + 1} из ${testItems.length}`;
@@ -337,6 +442,9 @@
   }
 
   function answer(opt, btn) {
+    if (answered) return;
+    answered = true;
+    $('options').querySelectorAll('button').forEach((button) => { button.disabled = true; });
     const w = testItems[testPos];
     const ok = opt.id === w.id;
     testResults.push({ word: w, chosen: opt, ok });
@@ -357,6 +465,8 @@
   }
 
   function nextQuestion() {
+    if (!answered) return;
+    answered = false;
     testPos++;
     if (testPos < testItems.length) renderQuestion();
     else showResult();
@@ -442,7 +552,7 @@
 
   async function share() {
     const text = reportText();
-    const pageUrl = location.origin + location.pathname;
+    const pageUrl = location.origin + location.pathname + '?deck=' + encodeURIComponent(deckId);
     if (inTelegram) {
       // открывает выбор чата: ученик выбирает учителя и отправляет
       tg.openTelegramLink(`https://t.me/share/url?url=${encodeURIComponent(pageUrl)}&text=${encodeURIComponent(text)}`);
@@ -460,7 +570,14 @@
   }
 
   // ---------- кнопки ----------
-  $('btn-start').addEventListener('click', startCards);
+  $('btn-start').addEventListener('click', renderSections);
+  $('btn-catalog-retry').addEventListener('click', loadCatalog);
+  $('btn-home').addEventListener('click', () => show('start'));
+  $('btn-sections').addEventListener('click', renderSections);
+  $('btn-lessons').addEventListener('click', returnToLessons);
+  $('btn-result-lessons').addEventListener('click', returnToLessons);
+  $('btn-begin').addEventListener('click', startCards);
+  $('btn-deck-retry').addEventListener('click', () => loadDeck(deckId));
   $('btn-yes').addEventListener('click', know);
   $('btn-no').addEventListener('click', () => { $('card').classList.add('animate'); dontKnow(); });
   $('btn-next').addEventListener('click', () => afterBack(-1));
@@ -470,8 +587,9 @@
   $('btn-strokes').addEventListener('click', drawStrokes);
   $('btn-test-next').addEventListener('click', nextQuestion);
   $('btn-share').addEventListener('click', share);
-  $('btn-restart').addEventListener('click', () => { show('start'); });
+  $('btn-restart').addEventListener('click', startCards);
 
   setupSwipe();
-  loadDeck();
+  loadCatalog();
 })();
+

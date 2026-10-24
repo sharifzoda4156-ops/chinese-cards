@@ -1,95 +1,252 @@
 {
-  "title": "Урок 1",
+  "title": "HSK-3 · Урок 1",
+  "subtitle": "我们去机场接你们 · Встречаем вас в аэропорту",
+  "source": "新HSK教程 3, урок 1, 生词 № 1–27, страницы 2, 4, 6, 8",
   "words": [
     {
-      "id": "nihao",
-      "hanzi": "你好",
-      "pinyin": "nǐ hǎo",
-      "ru": "привет, здравствуй",
-      "sentence": "___，我叫小明。",
-      "sentencePinyin": "Nǐ hǎo, wǒ jiào Xiǎo Míng.",
-      "sentenceRu": "Привет, меня зовут Сяо Мин."
+      "id": "yiwei",
+      "hanzi": "以为",
+      "pinyin": "yǐ wéi",
+      "ru": "полагать, ошибочно считать",
+      "sentence": "我原来___今天是星期五，其实是星期四。",
+      "sentencePinyin": "Wǒ yuánlái yǐwéi jīntiān shì xīngqīwǔ, qíshí shì xīngqīsì.",
+      "sentenceRu": "Я думал, что сегодня пятница, а на самом деле четверг."
     },
     {
-      "id": "xiexie",
-      "hanzi": "谢谢",
-      "pinyin": "xiè xie",
-      "ru": "спасибо",
-      "sentence": "___你的帮助！",
-      "sentencePinyin": "Xièxie nǐ de bāngzhù!",
-      "sentenceRu": "Спасибо за твою помощь!"
+      "id": "xiang",
+      "hanzi": "像",
+      "pinyin": "xiàng",
+      "ru": "быть похожим на",
+      "sentence": "这只猫的眼睛___两颗星星。",
+      "sentencePinyin": "Zhè zhī māo de yǎnjing xiàng liǎng kē xīngxing.",
+      "sentenceRu": "Глаза этой кошки похожи на две звёздочки."
     },
     {
-      "id": "he",
-      "hanzi": "喝",
-      "pinyin": "hē",
-      "ru": "пить",
-      "sentence": "你想___茶吗？",
-      "sentencePinyin": "Nǐ xiǎng hē chá ma?",
-      "sentenceRu": "Хочешь попить чаю?"
+      "id": "zhang",
+      "hanzi": "长",
+      "pinyin": "zhǎng",
+      "ru": "расти; выглядеть, иметь внешность",
+      "sentence": "这个孩子___得很快，去年的衣服已经小了。",
+      "sentencePinyin": "Zhège háizi zhǎng de hěn kuài, qùnián de yīfu yǐjīng xiǎo le.",
+      "sentenceRu": "Этот ребёнок быстро растёт: прошлогодняя одежда уже мала.",
+      "audioText": "长大",
+      "audioNote": "Здесь 长 читается zhǎng. В озвучке — 长大 (zhǎng dà), «вырасти»."
     },
     {
-      "id": "chi",
-      "hanzi": "吃",
-      "pinyin": "chī",
-      "ru": "есть, кушать",
-      "sentence": "我们去___米饭吧。",
-      "sentencePinyin": "Wǒmen qù chī mǐfàn ba.",
-      "sentenceRu": "Пойдём поедим риса."
+      "id": "shengao",
+      "hanzi": "身高",
+      "pinyin": "shēn gāo",
+      "ru": "рост человека",
+      "sentence": "请在表格里填写你的___和体重。",
+      "sentencePinyin": "Qǐng zài biǎogé lǐ tiánxiě nǐ de shēngāo hé tǐzhòng.",
+      "sentenceRu": "Впишите в таблицу свой рост и вес."
     },
     {
-      "id": "shu",
-      "hanzi": "书",
-      "pinyin": "shū",
-      "ru": "книга",
-      "sentence": "我在图书馆看___。",
-      "sentencePinyin": "Wǒ zài túshūguǎn kàn shū.",
-      "sentenceRu": "Я читаю книгу в библиотеке."
+      "id": "mi",
+      "hanzi": "米",
+      "pinyin": "mǐ",
+      "ru": "метр",
+      "sentence": "这张桌子长两___，可以坐六个人。",
+      "sentencePinyin": "Zhè zhāng zhuōzi cháng liǎng mǐ, kěyǐ zuò liù ge rén.",
+      "sentenceRu": "Этот стол длиной два метра, за ним могут сидеть шесть человек."
     },
     {
-      "id": "mao",
-      "hanzi": "猫",
-      "pinyin": "māo",
-      "ru": "кошка",
-      "sentence": "我家有一只___。",
-      "sentencePinyin": "Wǒ jiā yǒu yì zhī māo.",
-      "sentenceRu": "У меня дома есть кошка."
+      "id": "shou",
+      "hanzi": "瘦",
+      "pinyin": "shòu",
+      "ru": "худой; худеть",
+      "sentence": "他以前很胖，现在___了十公斤。",
+      "sentencePinyin": "Tā yǐqián hěn pàng, xiànzài shòu le shí gōngjīn.",
+      "sentenceRu": "Раньше он был полным, а теперь похудел на десять килограммов."
     },
     {
-      "id": "pengyou",
-      "hanzi": "朋友",
-      "pinyin": "péng you",
-      "ru": "друг",
-      "sentence": "他是我的好___。",
-      "sentencePinyin": "Tā shì wǒ de hǎo péngyou.",
-      "sentenceRu": "Он мой хороший друг."
+      "id": "jie",
+      "hanzi": "接",
+      "pinyin": "jiē",
+      "ru": "встречать; забирать кого-либо",
+      "sentence": "爸爸开车去机场___刚下飞机的奶奶。",
+      "sentencePinyin": "Bàba kāichē qù jīchǎng jiē gāng xià fēijī de nǎinai.",
+      "sentenceRu": "Папа едет в аэропорт встречать бабушку, которая только что прилетела."
     },
     {
-      "id": "xuexi",
-      "hanzi": "学习",
-      "pinyin": "xué xí",
-      "ru": "учиться, изучать",
-      "sentence": "我在学校___汉语。",
-      "sentencePinyin": "Wǒ zài xuéxiào xuéxí Hànyǔ.",
-      "sentenceRu": "Я изучаю китайский в школе."
+      "id": "xingli",
+      "hanzi": "行李",
+      "pinyin": "xíng li",
+      "ru": "багаж",
+      "sentence": "坐飞机前，我们把两件___交给了工作人员。",
+      "sentencePinyin": "Zuò fēijī qián, wǒmen bǎ liǎng jiàn xíngli jiāo gěi le gōngzuò rényuán.",
+      "sentenceRu": "Перед полётом мы сдали сотруднику два места багажа."
     },
     {
-      "id": "jintian",
-      "hanzi": "今天",
-      "pinyin": "jīn tiān",
-      "ru": "сегодня",
-      "sentence": "___是星期五。",
-      "sentencePinyin": "Jīntiān shì xīngqīwǔ.",
-      "sentenceRu": "Сегодня пятница."
+      "id": "diu",
+      "hanzi": "丢",
+      "pinyin": "diū",
+      "ru": "терять",
+      "sentence": "请把钥匙收好，别___了。",
+      "sentencePinyin": "Qǐng bǎ yàoshi shōu hǎo, bié diū le.",
+      "sentenceRu": "Уберите ключи как следует, не потеряйте их."
     },
     {
-      "id": "shui",
-      "hanzi": "水",
-      "pinyin": "shuǐ",
-      "ru": "вода",
-      "sentence": "我想喝一杯___。",
-      "sentencePinyin": "Wǒ xiǎng hē yì bēi shuǐ.",
-      "sentenceRu": "Я хочу выпить стакан воды."
+      "id": "xiangzi",
+      "hanzi": "箱子",
+      "pinyin": "xiāng zi",
+      "ru": "чемодан; ящик",
+      "sentence": "这个___有四个轮子，里面装着我的衣服。",
+      "sentencePinyin": "Zhège xiāngzi yǒu sì ge lúnzi, lǐmiàn zhuāng zhe wǒ de yīfu.",
+      "sentenceRu": "У этого чемодана четыре колёсика, внутри лежит моя одежда."
+    },
+    {
+      "id": "haoma",
+      "hanzi": "号码",
+      "pinyin": "hào mǎ",
+      "ru": "номер",
+      "sentence": "你的电话号码是多少？我的___是一三八开头的。",
+      "sentencePinyin": "Nǐ de diànhuà hàomǎ shì duōshao? Wǒ de hàomǎ shì yī sān bā kāitóu de.",
+      "sentenceRu": "Какой у тебя номер телефона? Мой номер начинается на 138."
+    },
+    {
+      "id": "haoxiang",
+      "hanzi": "好像",
+      "pinyin": "hǎo xiàng",
+      "ru": "кажется; как будто",
+      "sentence": "外面___下雨了，你看，地上都湿了。",
+      "sentencePinyin": "Wàimiàn hǎoxiàng xià yǔ le, nǐ kàn, dìshang dōu shī le.",
+      "sentenceRu": "Кажется, на улице прошёл дождь: смотри, земля вся мокрая."
+    },
+    {
+      "id": "zhongyao",
+      "hanzi": "重要",
+      "pinyin": "zhòng yào",
+      "ru": "важный",
+      "sentence": "明天的考试很___，关系到我能不能毕业。",
+      "sentencePinyin": "Míngtiān de kǎoshì hěn zhòngyào, guānxì dào wǒ néng bu néng bìyè.",
+      "sentenceRu": "Завтрашний экзамен очень важен: от него зависит, смогу ли я окончить учёбу."
+    },
+    {
+      "id": "zhaoji",
+      "hanzi": "着急",
+      "pinyin": "zháo jí",
+      "ru": "волноваться; торопиться",
+      "sentence": "火车快开了，可他还没到，我很___。",
+      "sentencePinyin": "Huǒchē kuài kāi le, kě tā hái méi dào, wǒ hěn zháojí.",
+      "sentenceRu": "Поезд скоро отправляется, а он ещё не приехал. Я очень волнуюсь."
+    },
+    {
+      "id": "huzhao",
+      "hanzi": "护照",
+      "pinyin": "hù zhào",
+      "ru": "паспорт для заграничных поездок",
+      "sentence": "出国的时候，要带上有签证的___。",
+      "sentencePinyin": "Chū guó de shíhou, yào dài shang yǒu qiānzhèng de hùzhào.",
+      "sentenceRu": "Отправляясь за границу, нужно взять паспорт с визой."
+    },
+    {
+      "id": "fuwutai",
+      "hanzi": "服务台",
+      "pinyin": "fú wù tái",
+      "ru": "стойка обслуживания; справочная стойка",
+      "sentence": "不知道登机口在哪儿，可以去机场的___问工作人员。",
+      "sentencePinyin": "Bù zhīdào dēngjīkǒu zài nǎr, kěyǐ qù jīchǎng de fúwùtái wèn gōngzuò rényuán.",
+      "sentenceRu": "Если не знаете, где выход на посадку, можно спросить сотрудника у справочной стойки аэропорта."
+    },
+    {
+      "id": "yinggai",
+      "hanzi": "应该",
+      "pinyin": "yīng gāi",
+      "ru": "следует; нужно; должно быть",
+      "sentence": "生病了就___早点休息，不要熬夜。",
+      "sentencePinyin": "Shēng bìng le jiù yīnggāi zǎo diǎn xiūxi, bú yào áoyè.",
+      "sentenceRu": "Если заболел, следует пораньше отдыхать и не сидеть допоздна."
+    },
+    {
+      "id": "zhan",
+      "hanzi": "站",
+      "pinyin": "zhàn",
+      "ru": "стоять",
+      "sentence": "没有座位了，我只好___着坐地铁。",
+      "sentencePinyin": "Méiyǒu zuòwèi le, wǒ zhǐhǎo zhàn zhe zuò dìtiě.",
+      "sentenceRu": "Свободных мест нет, поэтому мне приходится ехать в метро стоя."
+    },
+    {
+      "id": "zhongjian",
+      "hanzi": "中间",
+      "pinyin": "zhōng jiān",
+      "ru": "середина; между",
+      "sentence": "我坐在爸爸妈妈___，左边是爸爸，右边是妈妈。",
+      "sentencePinyin": "Wǒ zuò zài bàba māma zhōngjiān, zuǒbian shì bàba, yòubian shì māma.",
+      "sentenceRu": "Я сижу между родителями: слева папа, справа мама."
+    },
+    {
+      "id": "duan",
+      "hanzi": "短",
+      "pinyin": "duǎn",
+      "ru": "короткий",
+      "sentence": "这条裤子太___了，连脚踝都盖不住。",
+      "sentencePinyin": "Zhè tiáo kùzi tài duǎn le, lián jiǎohuái dōu gài bu zhù.",
+      "sentenceRu": "Эти брюки слишком короткие, даже щиколотки не закрывают."
+    },
+    {
+      "id": "toufa",
+      "hanzi": "头发",
+      "pinyin": "tóu fa",
+      "ru": "волосы на голове",
+      "sentence": "她每天早上用梳子梳___。",
+      "sentencePinyin": "Tā měi tiān zǎoshang yòng shūzi shū tóufa.",
+      "sentenceRu": "Каждое утро она расчёсывает волосы расчёской."
+    },
+    {
+      "id": "nianqing",
+      "hanzi": "年轻",
+      "pinyin": "nián qīng",
+      "ru": "молодой",
+      "sentence": "爷爷七十岁了，看起来却很___，像五十岁的人。",
+      "sentencePinyin": "Yéye qīshí suì le, kàn qǐlái què hěn niánqīng, xiàng wǔshí suì de rén.",
+      "sentenceRu": "Дедушке семьдесят, но он выглядит молодо, словно ему пятьдесят."
+    },
+    {
+      "id": "faxian",
+      "hanzi": "发现",
+      "pinyin": "fā xiàn",
+      "ru": "обнаруживать; замечать",
+      "sentence": "打开箱子后，我才___里面少了一件衣服。",
+      "sentencePinyin": "Dǎ kāi xiāngzi hòu, wǒ cái fāxiàn lǐmiàn shǎo le yí jiàn yīfu.",
+      "sentenceRu": "Только открыв чемодан, я обнаружил, что не хватает одной вещи."
+    },
+    {
+      "id": "bujian",
+      "hanzi": "不见",
+      "pinyin": "bù jiàn",
+      "ru": "пропасть; потеряться",
+      "sentence": "桌上的手机___了，我找了半天也没找到。",
+      "sentencePinyin": "Zhuō shang de shǒujī bújiàn le, wǒ zhǎo le bàn tiān yě méi zhǎodào.",
+      "sentenceRu": "Телефон со стола пропал. Я долго искал, но так и не нашёл."
+    },
+    {
+      "id": "dai",
+      "hanzi": "带",
+      "pinyin": "dài",
+      "ru": "брать с собой; приносить",
+      "sentence": "外面要下雨了，出门时别忘了___伞。",
+      "sentencePinyin": "Wàimiàn yào xià yǔ le, chū mén shí bié wàng le dài sǎn.",
+      "sentenceRu": "На улице собирается дождь. Выходя, не забудь взять зонт."
+    },
+    {
+      "id": "bangzhu",
+      "hanzi": "帮助",
+      "pinyin": "bāng zhù",
+      "ru": "помогать; помощь",
+      "sentence": "谢谢你的___，现在我终于会用这台电脑了。",
+      "sentencePinyin": "Xièxie nǐ de bāngzhù, xiànzài wǒ zhōngyú huì yòng zhè tái diànnǎo le.",
+      "sentenceRu": "Спасибо за помощь! Теперь я наконец умею пользоваться этим компьютером."
+    },
+    {
+      "id": "zhaopian",
+      "hanzi": "照片",
+      "pinyin": "zhào piàn",
+      "ru": "фотография",
+      "sentence": "这张___是去年用相机拍的。",
+      "sentencePinyin": "Zhè zhāng zhàopiàn shì qùnián yòng xiàngjī pāi de.",
+      "sentenceRu": "Эта фотография была сделана фотоаппаратом в прошлом году."
     }
   ]
 }
