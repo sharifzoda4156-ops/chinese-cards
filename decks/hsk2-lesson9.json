@@ -1,0 +1,124 @@
+{
+  "title": "HSK-2 · Урок 9",
+  "subtitle": "我去买杯奶茶 · Пойду куплю чай с молоком",
+  "source": "新HSK教程 2, урок 9, 生词, страницы 74, 76, 78, 80; все пронумерованные слова",
+  "words": [
+    {
+      "id": "huai",
+      "hanzi": "坏",
+      "pinyin": "huài",
+      "ru": "плохой; сломанный",
+      "sentence": "我的手机___了，不能打电话。",
+      "sentencePinyin": "Wǒ de shǒujī huài le, bù néng dǎ diànhuà.",
+      "sentenceRu": "Мой телефон сломался, не могу звонить."
+    },
+    {
+      "id": "pangbian",
+      "hanzi": "旁边",
+      "pinyin": "páng biān",
+      "ru": "рядом; сбоку",
+      "sentence": "超市就在学校___。",
+      "sentencePinyin": "Chāoshì jiù zài xuéxiào pángbiān.",
+      "sentenceRu": "Супермаркет рядом со школой."
+    },
+    {
+      "id": "nanhair",
+      "hanzi": "男孩儿",
+      "pinyin": "nán háir",
+      "ru": "мальчик",
+      "sentence": "那个___是我的弟弟。",
+      "sentencePinyin": "Nà ge nánháir shì wǒ de dìdi.",
+      "sentenceRu": "Тот мальчик — мой младший брат."
+    },
+    {
+      "id": "zheyang",
+      "hanzi": "这样",
+      "pinyin": "zhè yàng",
+      "ru": "так; такой",
+      "sentence": "你___说，我就明白了。",
+      "sentencePinyin": "Nǐ zhèyàng shuō, wǒ jiù míngbai le.",
+      "sentenceRu": "Если ты так объясняешь, я понимаю."
+    },
+    {
+      "id": "gezi",
+      "hanzi": "个子",
+      "pinyin": "gè zi",
+      "ru": "рост; телосложение",
+      "sentence": "他___很高，是班里最高的。",
+      "sentencePinyin": "Tā gèzi hěn gāo, shì bān lǐ zuì gāo de.",
+      "sentenceRu": "Он высокого роста, выше всех в классе."
+    },
+    {
+      "id": "name",
+      "hanzi": "那么",
+      "pinyin": "nà me",
+      "ru": "так; настолько (указывает на то)",
+      "sentence": "别走得___快，我跟不上。",
+      "sentencePinyin": "Bié zǒu de nàme kuài, wǒ gēn bu shàng.",
+      "sentenceRu": "Не ходи так быстро, я не успеваю."
+    },
+    {
+      "id": "gao",
+      "hanzi": "高",
+      "pinyin": "gāo",
+      "ru": "высокий; большой ростом",
+      "sentence": "这棵树很___。",
+      "sentencePinyin": "Zhè kē shù hěn gāo.",
+      "sentenceRu": "Это дерево очень высокое."
+    },
+    {
+      "id": "menkou",
+      "hanzi": "门口",
+      "pinyin": "mén kǒu",
+      "ru": "вход; у двери",
+      "sentence": "我们在电影院___见面吧。",
+      "sentencePinyin": "Wǒmen zài diànyǐngyuàn ménkǒu jiànmiàn ba.",
+      "sentenceRu": "Давай встретимся у входа в кинотеатр."
+    },
+    {
+      "id": "kafei",
+      "hanzi": "咖啡",
+      "pinyin": "kā fēi",
+      "ru": "кофе",
+      "sentence": "我早上喜欢喝___。",
+      "sentencePinyin": "Wǒ zǎoshang xǐhuan hē kāfēi.",
+      "sentenceRu": "Утром я люблю пить кофе."
+    },
+    {
+      "id": "li",
+      "hanzi": "离",
+      "pinyin": "lí",
+      "ru": "от (указывает расстояние)",
+      "sentence": "学校___我家很近。",
+      "sentencePinyin": "Xuéxiào lí wǒ jiā hěn jìn.",
+      "sentenceRu": "Школа недалеко от моего дома."
+    },
+    {
+      "id": "jin",
+      "hanzi": "近",
+      "pinyin": "jìn",
+      "ru": "близкий; близко",
+      "sentence": "图书馆离这里很___。",
+      "sentencePinyin": "Túshūguǎn lí zhèlǐ hěn jìn.",
+      "sentenceRu": "Библиотека рядом."
+    },
+    {
+      "id": "zoulu",
+      "hanzi": "走路",
+      "pinyin": "zǒu lù",
+      "ru": "идти пешком; ходить",
+      "sentence": "我每天___去上班。",
+      "sentencePinyin": "Wǒ měi tiān zǒulù qù shàngbān.",
+      "sentenceRu": "Я каждый день хожу на работу пешком."
+    },
+    {
+      "id": "zhou",
+      "hanzi": "周",
+      "pinyin": "zhōu",
+      "ru": "неделя",
+      "sentence": "我每___都去游泳。",
+      "sentencePinyin": "Wǒ měi zhōu dōu qù yóuyǒng.",
+      "sentenceRu": "Каждую неделю я хожу плавать."
+    }
+  ]
+}
