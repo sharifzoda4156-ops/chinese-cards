@@ -1,0 +1,108 @@
+{
+  "title": "HSK-2 · Урок 12",
+  "subtitle": "这里比北京冷多了 · Здесь гораздо холоднее, чем в Пекине",
+  "source": "新HSK教程 2, урок 12, 生词 № 1–11, печатные страницы 103, 105, 107, 109",
+  "words": [
+    {
+      "id": "shiqing",
+      "hanzi": "事情",
+      "pinyin": "shì qing",
+      "ru": "дело; событие; ситуация",
+      "sentence": "我有一件重要的___要告诉你。",
+      "sentencePinyin": "Wǒ yǒu yí jiàn zhòngyào de shìqing yào gàosu nǐ.",
+      "sentenceRu": "Мне нужно рассказать тебе об одном важном деле."
+    },
+    {
+      "id": "qing",
+      "hanzi": "晴",
+      "pinyin": "qíng",
+      "ru": "ясный; солнечный (о погоде)",
+      "sentence": "明天是___天，我们出去玩吧。",
+      "sentencePinyin": "Míngtiān shì qíngtiān, wǒmen chūqù wán ba.",
+      "sentenceRu": "Завтра будет солнечный день, пойдём гулять."
+    },
+    {
+      "id": "zheng",
+      "hanzi": "正",
+      "pinyin": "zhèng",
+      "ru": "как раз; именно сейчас",
+      "sentence": "妈妈___在厨房做饭。",
+      "sentencePinyin": "Māma zhèng zài chúfáng zuò fàn.",
+      "sentenceRu": "Мама как раз готовит на кухне.",
+      "audioText": "正在",
+      "audioNote": "Здесь 正 читается zhèng («как раз»), в озвучке — 正在."
+    },
+    {
+      "id": "waimian",
+      "hanzi": "外面",
+      "pinyin": "wài mian",
+      "ru": "снаружи; на улице",
+      "sentence": "___下雪了，记得穿大衣。",
+      "sentencePinyin": "Wàimian xià xuě le, jìde chuān dàyī.",
+      "sentenceRu": "На улице снег, не забудь надеть пальто."
+    },
+    {
+      "id": "yin",
+      "hanzi": "阴",
+      "pinyin": "yīn",
+      "ru": "пасмурный; облачный",
+      "sentence": "今天是___天，看不见太阳。",
+      "sentencePinyin": "Jīntiān shì yīntiān, kàn bú jiàn tàiyáng.",
+      "sentenceRu": "Сегодня пасмурно, солнца не видно."
+    },
+    {
+      "id": "congxiao",
+      "hanzi": "从小",
+      "pinyin": "cóng xiǎo",
+      "ru": "с детства",
+      "sentence": "他___就喜欢打篮球。",
+      "sentencePinyin": "Tā cóngxiǎo jiù xǐhuan dǎ lánqiú.",
+      "sentenceRu": "Он с детства любит баскетбол."
+    },
+    {
+      "id": "ditie",
+      "hanzi": "地铁",
+      "pinyin": "dì tiě",
+      "ru": "метро",
+      "sentence": "我每天坐___去上班。",
+      "sentencePinyin": "Wǒ měi tiān zuò dìtiě qù shàngbān.",
+      "sentenceRu": "Я каждый день езжу на работу на метро."
+    },
+    {
+      "id": "lou",
+      "hanzi": "楼",
+      "pinyin": "lóu",
+      "ru": "здание; этаж",
+      "sentence": "教室在三___。",
+      "sentencePinyin": "Jiàoshì zài sān lóu.",
+      "sentenceRu": "Аудитория на третьем этаже."
+    },
+    {
+      "id": "zhan",
+      "hanzi": "站",
+      "pinyin": "zhàn",
+      "ru": "остановка; станция",
+      "sentence": "在下一___下车就到学校了。",
+      "sentencePinyin": "Zài xià yí zhàn xià chē jiù dào xuéxiào le.",
+      "sentenceRu": "Выйдешь на следующей остановке — и окажешься у школы."
+    },
+    {
+      "id": "xiaoshihou",
+      "hanzi": "小时候",
+      "pinyin": "xiǎo shí hou",
+      "ru": "в детстве",
+      "sentence": "我___经常和爸爸去游泳。",
+      "sentencePinyin": "Wǒ xiǎoshíhou jīngcháng hé bàba qù yóuyǒng.",
+      "sentenceRu": "В детстве я часто ходил плавать с папой."
+    },
+    {
+      "id": "hao",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "ru": "очень; довольно (как наречие)",
+      "sentence": "你跑得___快啊！",
+      "sentencePinyin": "Nǐ pǎo de hǎo kuài a!",
+      "sentenceRu": "Как же быстро ты бегаешь!"
+    }
+  ]
+}
