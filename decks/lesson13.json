@@ -1,0 +1,250 @@
+{
+  "title": "HSK-3 · Урок 13",
+  "subtitle": "我的新邻居来自英国 · Мои новые соседи из Великобритании",
+  "source": "新HSK教程 3, урок 13, 生词 № 1–27, страницы 116, 118, 120, 122; географическое имя собственное не включено",
+  "words": [
+    {
+      "id": "qingke",
+      "hanzi": "请客",
+      "pinyin": "qǐng kè",
+      "ru": "угощать; приглашать в гости за свой счёт",
+      "sentence": "今天是我生日，我要___，大家随便点。",
+      "sentencePinyin": "Jīntiān shì wǒ shēngrì, wǒ yào qǐngkè, dàjiā suíbiàn diǎn.",
+      "sentenceRu": "Сегодня мой день рождения, я угощаю, заказывайте."
+    },
+    {
+      "id": "nanfang",
+      "hanzi": "南方",
+      "pinyin": "nán fāng",
+      "ru": "юг; южные районы",
+      "sentence": "中国___的冬天一般比较暖和。",
+      "sentencePinyin": "Zhōngguó nánfāng de dōngtiān yìbān bǐjiào nuǎnhuo.",
+      "sentenceRu": "На юге Китая зимы обычно теплее."
+    },
+    {
+      "id": "beifang",
+      "hanzi": "北方",
+      "pinyin": "běi fāng",
+      "ru": "север; северные районы",
+      "sentence": "___的冬天常常下雪。",
+      "sentencePinyin": "Běifāng de dōngtiān chángcháng xià xuě.",
+      "sentenceRu": "На севере зимой часто идёт снег."
+    },
+    {
+      "id": "zuofa",
+      "hanzi": "做法",
+      "pinyin": "zuò fǎ",
+      "ru": "способ приготовления; метод",
+      "sentence": "这道鱼的___很简单。",
+      "sentencePinyin": "Zhè dào yú de zuòfǎ hěn jiǎndān.",
+      "sentenceRu": "Способ приготовления этой рыбы очень простой."
+    },
+    {
+      "id": "butong",
+      "hanzi": "不同",
+      "pinyin": "bù tóng",
+      "ru": "различный; отличаться",
+      "sentence": "这两个城市的天气很___。",
+      "sentencePinyin": "Zhè liǎng ge chéngshì de tiānqì hěn bùtóng.",
+      "sentenceRu": "В этих двух городах очень разная погода."
+    },
+    {
+      "id": "jia",
+      "hanzi": "加",
+      "pinyin": "jiā",
+      "ru": "добавлять",
+      "sentence": "这杯茶太淡了，请___一点儿糖。",
+      "sentencePinyin": "Zhè bēi chá tài dàn le, qǐng jiā yì diǎnr táng.",
+      "sentenceRu": "Этот чай слишком слабый, добавьте немного сахара."
+    },
+    {
+      "id": "dehua",
+      "hanzi": "的话",
+      "pinyin": "de huà",
+      "ru": "если; в случае если (в конце условия)",
+      "sentence": "你明天有时间___，就来我家吃饭。",
+      "sentencePinyin": "Nǐ míngtiān yǒu shíjiān dehuà, jiù lái wǒ jiā chī fàn.",
+      "sentenceRu": "Если завтра будет время, приходи к нам поесть."
+    },
+    {
+      "id": "zuoke",
+      "hanzi": "做客",
+      "pinyin": "zuò kè",
+      "ru": "быть гостем; приходить в гости",
+      "sentence": "周末我去朋友家___。",
+      "sentencePinyin": "Zhōumò wǒ qù péngyou jiā zuòkè.",
+      "sentenceRu": "На выходных я иду к друзьям в гости."
+    },
+    {
+      "id": "linju",
+      "hanzi": "邻居",
+      "pinyin": "lín jū",
+      "ru": "сосед",
+      "sentence": "隔壁的___昨天送给我一盒水果。",
+      "sentencePinyin": "Gébì de línjū zuótiān sòng gěi wǒ yì hé shuǐguǒ.",
+      "sentenceRu": "Вчера сосед из соседней квартиры принёс мне фрукты."
+    },
+    {
+      "id": "fangxin",
+      "hanzi": "放心",
+      "pinyin": "fàng xīn",
+      "ru": "успокоиться; не волноваться",
+      "sentence": "孩子已经到家了，你可以___了。",
+      "sentencePinyin": "Háizi yǐjīng dào jiā le, nǐ kěyǐ fàngxīn le.",
+      "sentenceRu": "Ребёнок уже дома, можешь не волноваться."
+    },
+    {
+      "id": "jiu",
+      "hanzi": "酒",
+      "pinyin": "jiǔ",
+      "ru": "алкогольный напиток; вино",
+      "sentence": "他开车，所以不能喝___。",
+      "sentencePinyin": "Tā kāichē, suǒyǐ bù néng hē jiǔ.",
+      "sentenceRu": "Он за рулём и не может пить алкоголь."
+    },
+    {
+      "id": "fang",
+      "hanzi": "放",
+      "pinyin": "fàng",
+      "ru": "класть; ставить",
+      "sentence": "请把杯子___在桌子上。",
+      "sentencePinyin": "Qǐng bǎ bēizi fàng zài zhuōzi shang.",
+      "sentenceRu": "Поставь стакан на стол."
+    },
+    {
+      "id": "keren",
+      "hanzi": "客人",
+      "pinyin": "kè rén",
+      "ru": "гость",
+      "sentence": "家里来了三位___，妈妈正在做饭。",
+      "sentencePinyin": "Jiā lǐ lái le sān wèi kèrén, māma zhèngzài zuò fàn.",
+      "sentenceRu": "К нам пришли трое гостей, мама готовит ужин."
+    },
+    {
+      "id": "wanhui",
+      "hanzi": "晚会",
+      "pinyin": "wǎn huì",
+      "ru": "вечер; вечернее праздничное мероприятие",
+      "sentence": "学校周五晚上有一场新年___。",
+      "sentencePinyin": "Xuéxiào zhōuwǔ wǎnshang yǒu yì chǎng xīnnián wǎnhuì.",
+      "sentenceRu": "В пятницу вечером в школе новогодний концерт."
+    },
+    {
+      "id": "liwu",
+      "hanzi": "礼物",
+      "pinyin": "lǐ wù",
+      "ru": "подарок",
+      "sentence": "我给妈妈准备了一份生日___。",
+      "sentencePinyin": "Wǒ gěi māma zhǔnbèi le yí fèn shēngrì lǐwù.",
+      "sentenceRu": "Я приготовил маме подарок ко дню рождения."
+    },
+    {
+      "id": "huajia",
+      "hanzi": "画家",
+      "pinyin": "huà jiā",
+      "ru": "художник",
+      "sentence": "他的爸爸是一位有名的___。",
+      "sentencePinyin": "Tā de bàba shì yí wèi yǒumíng de huàjiā.",
+      "sentenceRu": "Его отец — известный художник."
+    },
+    {
+      "id": "panzi",
+      "hanzi": "盘子",
+      "pinyin": "pán zi",
+      "ru": "тарелка; блюдо",
+      "sentence": "请把水果放到___里。",
+      "sentencePinyin": "Qǐng bǎ shuǐguǒ fàng dào pánzi lǐ.",
+      "sentenceRu": "Положите фрукты на тарелку."
+    },
+    {
+      "id": "yibian",
+      "hanzi": "一边",
+      "pinyin": "yì biān",
+      "ru": "одновременно; с одной стороны",
+      "sentence": "她___听音乐，一边做作业。",
+      "sentencePinyin": "Tā yìbiān tīng yīnyuè, yìbiān zuò zuòyè.",
+      "sentenceRu": "Она одновременно слушает музыку и делает уроки."
+    },
+    {
+      "id": "liaotianr",
+      "hanzi": "聊天儿",
+      "pinyin": "liáo tiānr",
+      "ru": "болтать; беседовать",
+      "sentence": "我们坐在沙发上___，一直聊到晚上。",
+      "sentencePinyin": "Wǒmen zuò zài shāfā shang liáotiānr, yìzhí liáo dào wǎnshang.",
+      "sentenceRu": "Мы сидели на диване и болтали до вечера."
+    },
+    {
+      "id": "laizi",
+      "hanzi": "来自",
+      "pinyin": "lái zì",
+      "ru": "быть родом из; происходить из",
+      "sentence": "我的新同学___英国。",
+      "sentencePinyin": "Wǒ de xīn tóngxué láizì Yīngguó.",
+      "sentenceRu": "Мой новый одноклассник из Великобритании."
+    },
+    {
+      "id": "fuqi",
+      "hanzi": "夫妻",
+      "pinyin": "fū qī",
+      "ru": "супруги; муж и жена",
+      "sentence": "那对___已经结婚二十年了。",
+      "sentencePinyin": "Nà duì fūqī yǐjīng jiéhūn èrshí nián le.",
+      "sentenceRu": "Эти супруги женаты уже двадцать лет."
+    },
+    {
+      "id": "zhidao",
+      "hanzi": "直到",
+      "pinyin": "zhí dào",
+      "ru": "до; вплоть до",
+      "sentence": "我等了一个小时，___八点他才来。",
+      "sentencePinyin": "Wǒ děng le yí ge xiǎoshí, zhídào bā diǎn tā cái lái.",
+      "sentenceRu": "Я ждал час, только к восьми он пришёл."
+    },
+    {
+      "id": "ditu",
+      "hanzi": "地图",
+      "pinyin": "dì tú",
+      "ru": "карта (географическая)",
+      "sentence": "第一次来这里，我要看___找路。",
+      "sentencePinyin": "Dì yī cì lái zhèlǐ, wǒ yào kàn dìtú zhǎo lù.",
+      "sentenceRu": "Я здесь впервые, мне нужна карта, чтобы найти дорогу."
+    },
+    {
+      "id": "dian",
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "ru": "точка; небольшое пятно",
+      "sentence": "请在___上画一个小圆圈。",
+      "sentencePinyin": "Qǐng zài diǎn shang huà yí ge xiǎo yuánquān.",
+      "sentenceRu": "Нарисуйте маленький кружок вокруг точки."
+    },
+    {
+      "id": "gandao",
+      "hanzi": "感到",
+      "pinyin": "gǎn dào",
+      "ru": "чувствовать; ощущать",
+      "sentence": "听到这个好消息，我___非常开心。",
+      "sentencePinyin": "Tīng dào zhège hǎo xiāoxi, wǒ gǎndào fēicháng kāixīn.",
+      "sentenceRu": "Услышав хорошую новость, я почувствовал радость."
+    },
+    {
+      "id": "dongfang",
+      "hanzi": "东方",
+      "pinyin": "dōng fāng",
+      "ru": "восток",
+      "sentence": "太阳每天从___升起。",
+      "sentencePinyin": "Tàiyáng měi tiān cóng dōngfāng shēng qǐ.",
+      "sentenceRu": "Каждый день солнце восходит на востоке."
+    },
+    {
+      "id": "wenhua",
+      "hanzi": "文化",
+      "pinyin": "wén huà",
+      "ru": "культура",
+      "sentence": "我很想了解中国的传统___。",
+      "sentencePinyin": "Wǒ hěn xiǎng liǎojiě Zhōngguó de chuántǒng wénhuà.",
+      "sentenceRu": "Я хочу узнать больше о традиционной культуре Китая."
+    }
+  ]
+}

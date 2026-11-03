@@ -1,0 +1,250 @@
+{
+  "title": "HSK-3 · Урок 12",
+  "subtitle": "这个季节天气变化很快 · В этом сезоне погода быстро меняется",
+  "source": "新HSK教程 3, урок 12, 生词 № 1–27, печатные страницы 105, 107, 108, 110",
+  "words": [
+    {
+      "id": "jie",
+      "hanzi": "街",
+      "pinyin": "jiē",
+      "ru": "улица",
+      "sentence": "这条___上有很多商店和咖啡馆。",
+      "sentencePinyin": "Zhè tiáo jiē shang yǒu hěn duō shāngdiàn hé kāfēiguǎn.",
+      "sentenceRu": "На этой улице много магазинов и кафе."
+    },
+    {
+      "id": "kaihua",
+      "hanzi": "开花",
+      "pinyin": "kāi huā",
+      "ru": "цвести; распускаться",
+      "sentence": "春天来了，公园里的树开始___了。",
+      "sentencePinyin": "Chūntiān lái le, gōngyuán lǐ de shù kāishǐ kāihuā le.",
+      "sentenceRu": "Весной деревья в парке начинают цвести."
+    },
+    {
+      "id": "gongyuan",
+      "hanzi": "公园",
+      "pinyin": "gōng yuán",
+      "ru": "парк",
+      "sentence": "天气很好，下午我们去___散步吧。",
+      "sentencePinyin": "Tiānqì hěn hǎo, xiàwǔ wǒmen qù gōngyuán sànbù ba.",
+      "sentenceRu": "Хорошая погода, давай погуляем в парке."
+    },
+    {
+      "id": "chuan",
+      "hanzi": "船",
+      "pinyin": "chuán",
+      "ru": "лодка; судно",
+      "sentence": "我们坐___游览了整个湖。",
+      "sentencePinyin": "Wǒmen zuò chuán yóulǎn le zhěng ge hú.",
+      "sentenceRu": "Мы прокатились на лодке по озеру."
+    },
+    {
+      "id": "gongzuori",
+      "hanzi": "工作日",
+      "pinyin": "gōng zuò rì",
+      "ru": "рабочий день",
+      "sentence": "星期一到星期五通常都是___。",
+      "sentencePinyin": "Xīngqīyī dào xīngqīwǔ tōngcháng dōu shì gōngzuòrì.",
+      "sentenceRu": "Понедельник–пятница обычно рабочие дни."
+    },
+    {
+      "id": "difang",
+      "hanzi": "地方",
+      "pinyin": "dì fang",
+      "ru": "место",
+      "sentence": "附近有什么好玩的___吗？",
+      "sentencePinyin": "Fùjìn yǒu shénme hǎowán de dìfang ma?",
+      "sentenceRu": "Есть ли поблизости интересные места?"
+    },
+    {
+      "id": "gangcai",
+      "hanzi": "刚才",
+      "pinyin": "gāng cái",
+      "ru": "только что; минуту назад",
+      "sentence": "他___还在教室，现在已经出去了。",
+      "sentencePinyin": "Tā gāngcái hái zài jiàoshì, xiànzài yǐjīng chūqù le.",
+      "sentenceRu": "Только что он был в классе, но уже вышел."
+    },
+    {
+      "id": "gua",
+      "hanzi": "刮",
+      "pinyin": "guā",
+      "ru": "дуть (о ветре)",
+      "sentence": "外面正在___大风，别出去。",
+      "sentencePinyin": "Wàimiàn zhèngzài guā dà fēng, bié chūqù.",
+      "sentenceRu": "На улице дует сильный ветер, не выходи."
+    },
+    {
+      "id": "feng",
+      "hanzi": "风",
+      "pinyin": "fēng",
+      "ru": "ветер",
+      "sentence": "今天的___很大，树都在摇。",
+      "sentencePinyin": "Jīntiān de fēng hěn dà, shù dōu zài yáo.",
+      "sentenceRu": "Сегодня сильный ветер, деревья качаются."
+    },
+    {
+      "id": "xinwen",
+      "hanzi": "新闻",
+      "pinyin": "xīn wén",
+      "ru": "новости",
+      "sentence": "我每天早上在手机上看___。",
+      "sentencePinyin": "Wǒ měi tiān zǎoshang zài shǒujī shang kàn xīnwén.",
+      "sentenceRu": "Каждое утро читаю новости на телефоне."
+    },
+    {
+      "id": "san",
+      "hanzi": "伞",
+      "pinyin": "sǎn",
+      "ru": "зонт",
+      "sentence": "下雨了，记得带上___。",
+      "sentencePinyin": "Xià yǔ le, jìde dài shàng sǎn.",
+      "sentenceRu": "Пошёл дождь, возьми зонт."
+    },
+    {
+      "id": "jie2",
+      "hanzi": "借",
+      "pinyin": "jiè",
+      "ru": "одалживать; брать взаймы",
+      "sentence": "我的笔坏了，可以向你___一支吗？",
+      "sentencePinyin": "Wǒ de bǐ huài le, kěyǐ xiàng nǐ jiè yì zhī ma?",
+      "sentenceRu": "У меня сломалась ручка, можно одолжить твою?"
+    },
+    {
+      "id": "ba",
+      "hanzi": "把",
+      "pinyin": "bǎ",
+      "ru": "счётное слово для предметов с ручкой",
+      "sentence": "我买了一___新雨伞。",
+      "sentencePinyin": "Wǒ mǎi le yì bǎ xīn yǔsǎn.",
+      "sentenceRu": "Я купил новый зонт."
+    },
+    {
+      "id": "yuyi",
+      "hanzi": "雨衣",
+      "pinyin": "yǔ yī",
+      "ru": "дождевик",
+      "sentence": "下雨骑车时，穿___比打伞安全。",
+      "sentencePinyin": "Xià yǔ qíchē shí, chuān yǔyī bǐ dǎ sǎn ānquán.",
+      "sentenceRu": "В дождь на велосипеде лучше надеть дождевик."
+    },
+    {
+      "id": "bian",
+      "hanzi": "变",
+      "pinyin": "biàn",
+      "ru": "меняться; становиться",
+      "sentence": "天快黑了，天空慢慢___暗了。",
+      "sentencePinyin": "Tiān kuài hēi le, tiānkōng mànmàn biàn àn le.",
+      "sentenceRu": "Смеркается, небо постепенно темнеет."
+    },
+    {
+      "id": "jijie",
+      "hanzi": "季节",
+      "pinyin": "jì jié",
+      "ru": "сезон; время года",
+      "sentence": "你最喜欢哪个___，春天还是秋天？",
+      "sentencePinyin": "Nǐ zuì xǐhuan nǎ ge jìjié, chūntiān háishi qiūtiān?",
+      "sentenceRu": "Какое время года любишь больше — весну или осень?"
+    },
+    {
+      "id": "bianhua",
+      "hanzi": "变化",
+      "pinyin": "biàn huà",
+      "ru": "изменение; изменяться",
+      "sentence": "最近天气___很大，一会儿热一会儿冷。",
+      "sentencePinyin": "Zuìjìn tiānqì biànhuà hěn dà, yíhuìr rè yíhuìr lěng.",
+      "sentenceRu": "В последнее время погода сильно меняется."
+    },
+    {
+      "id": "dongtian",
+      "hanzi": "冬天",
+      "pinyin": "dōng tiān",
+      "ru": "зима",
+      "sentence": "北方的___很冷，经常下雪。",
+      "sentencePinyin": "Běifāng de dōngtiān hěn lěng, jīngcháng xià xuě.",
+      "sentenceRu": "Зимой на севере очень холодно и снежно."
+    },
+    {
+      "id": "changchang",
+      "hanzi": "常常",
+      "pinyin": "cháng cháng",
+      "ru": "часто",
+      "sentence": "到了雨季，这里___下雨。",
+      "sentencePinyin": "Dào le yǔjì, zhèlǐ chángcháng xià yǔ.",
+      "sentenceRu": "В сезон дождей здесь часто дожди."
+    },
+    {
+      "id": "guanzhu",
+      "hanzi": "关注",
+      "pinyin": "guān zhù",
+      "ru": "следить; обращать внимание",
+      "sentence": "旅行前要___天气预报。",
+      "sentencePinyin": "Lǚxíng qián yào guānzhù tiānqì yùbào.",
+      "sentenceRu": "Перед поездкой нужно следить за прогнозом."
+    },
+    {
+      "id": "siji",
+      "hanzi": "四季",
+      "pinyin": "sì jì",
+      "ru": "четыре времени года",
+      "sentence": "这座城市___分明，夏天热，冬天冷。",
+      "sentencePinyin": "Zhè zuò chéngshì sìjì fēnmíng, xiàtiān rè, dōngtiān lěng.",
+      "sentenceRu": "В этом городе все четыре сезона ярко выражены."
+    },
+    {
+      "id": "chuntian",
+      "hanzi": "春天",
+      "pinyin": "chūn tiān",
+      "ru": "весна",
+      "sentence": "每年___，公园里都会开很多花。",
+      "sentencePinyin": "Měi nián chūntiān, gōngyuán lǐ dōu huì kāi hěn duō huā.",
+      "sentenceRu": "Каждую весну в парке распускаются цветы."
+    },
+    {
+      "id": "xiatian",
+      "hanzi": "夏天",
+      "pinyin": "xià tiān",
+      "ru": "лето",
+      "sentence": "___天气热，我最喜欢吃西瓜。",
+      "sentencePinyin": "Xiàtiān tiānqì rè, wǒ zuì xǐhuan chī xīguā.",
+      "sentenceRu": "Летом жарко, я люблю есть арбуз."
+    },
+    {
+      "id": "liangkuai",
+      "hanzi": "凉快",
+      "pinyin": "liáng kuai",
+      "ru": "прохладный; свежий",
+      "sentence": "下过雨以后，天气变得很___。",
+      "sentencePinyin": "Xià guo yǔ yǐhòu, tiānqì biàn de hěn liángkuai.",
+      "sentenceRu": "После дождя стало прохладно."
+    },
+    {
+      "id": "qiutian",
+      "hanzi": "秋天",
+      "pinyin": "qiū tiān",
+      "ru": "осень",
+      "sentence": "___来了，树叶开始变黄了。",
+      "sentencePinyin": "Qiūtiān lái le, shùyè kāishǐ biàn huáng le.",
+      "sentenceRu": "Пришла осень, листья пожелтели."
+    },
+    {
+      "id": "yezi",
+      "hanzi": "叶子",
+      "pinyin": "yè zi",
+      "ru": "лист; листья",
+      "sentence": "风一吹，黄色的___就落到了地上。",
+      "sentencePinyin": "Fēng yì chuī, huángsè de yèzi jiù luò dào le dì shang.",
+      "sentenceRu": "Ветер подул, и жёлтые листья упали на землю."
+    },
+    {
+      "id": "biancheng",
+      "hanzi": "变成",
+      "pinyin": "biàn chéng",
+      "ru": "превращаться; становиться",
+      "sentence": "天气冷了，水会___冰。",
+      "sentencePinyin": "Tiānqì lěng le, shuǐ huì biànchéng bīng.",
+      "sentenceRu": "На холоде вода превращается в лёд."
+    }
+  ]
+}

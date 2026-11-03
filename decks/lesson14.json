@@ -1,0 +1,250 @@
+{
+  "title": "HSK-3 · Урок 14",
+  "subtitle": "这本书被别人借走了 · Эту книгу взял кто-то другой",
+  "source": "新HSK教程 3, урок 14, 生词 № 1–27, печатные страницы 125, 127, 129, 130",
+  "words": [
+    {
+      "id": "cidian",
+      "hanzi": "词典",
+      "pinyin": "cí diǎn",
+      "ru": "словарь",
+      "sentence": "遇到不认识的字，我就查___。",
+      "sentencePinyin": "Yùdào bù rènshi de zì, wǒ jiù chá cídiǎn.",
+      "sentenceRu": "Когда встречаю незнакомый иероглиф, смотрю в словаре."
+    },
+    {
+      "id": "zuihao",
+      "hanzi": "最好",
+      "pinyin": "zuì hǎo",
+      "ru": "лучше всего; было бы лучше",
+      "sentence": "你___早点儿出门，路上可能堵车。",
+      "sentencePinyin": "Nǐ zuìhǎo zǎo diǎnr chūmén, lù shang kěnéng dǔchē.",
+      "sentenceRu": "Лучше выйди пораньше: могут быть пробки."
+    },
+    {
+      "id": "jie",
+      "hanzi": "节",
+      "pinyin": "jié",
+      "ru": "счётное слово для уроков; секция",
+      "sentence": "今天上午我们有三___汉语课。",
+      "sentencePinyin": "Jīntiān shàngwǔ wǒmen yǒu sān jié Hànyǔ kè.",
+      "sentenceRu": "Сегодня утром у нас три урока китайского."
+    },
+    {
+      "id": "tushuguan",
+      "hanzi": "图书馆",
+      "pinyin": "tú shū guǎn",
+      "ru": "библиотека",
+      "sentence": "我每周去学校___借书。",
+      "sentencePinyin": "Wǒ měi zhōu qù xuéxiào túshūguǎn jiè shū.",
+      "sentenceRu": "Каждую неделю беру книги в школьной библиотеке."
+    },
+    {
+      "id": "bei",
+      "hanzi": "被",
+      "pinyin": "bèi",
+      "ru": "предлог пассивного залога",
+      "sentence": "我的书___同学借走了。",
+      "sentencePinyin": "Wǒ de shū bèi tóngxué jiè zǒu le.",
+      "sentenceRu": "Мою книгу взял одноклассник."
+    },
+    {
+      "id": "mingren",
+      "hanzi": "名人",
+      "pinyin": "míng rén",
+      "ru": "знаменитость; известный человек",
+      "sentence": "这本书介绍了很多中国历史上的___。",
+      "sentencePinyin": "Zhè běn shū jièshào le hěn duō Zhōngguó lìshǐ shang de míngrén.",
+      "sentenceRu": "В книге рассказывают о знаменитых людях истории Китая."
+    },
+    {
+      "id": "gushi",
+      "hanzi": "故事",
+      "pinyin": "gù shi",
+      "ru": "история; рассказ",
+      "sentence": "妈妈每天晚上给孩子讲睡前___。",
+      "sentencePinyin": "Māma měi tiān wǎnshang gěi háizi jiǎng shuìqián gùshi.",
+      "sentenceRu": "Каждый вечер мама рассказывает ребёнку сказку."
+    },
+    {
+      "id": "ranhou",
+      "hanzi": "然后",
+      "pinyin": "rán hòu",
+      "ru": "затем; после этого",
+      "sentence": "我们先去买票，___坐车去学校。",
+      "sentencePinyin": "Wǒmen xiān qù mǎi piào, ránhòu zuò chē qù xuéxiào.",
+      "sentenceRu": "Сначала купим билеты, затем поедем в школу."
+    },
+    {
+      "id": "baozhi",
+      "hanzi": "报纸",
+      "pinyin": "bào zhǐ",
+      "ru": "газета",
+      "sentence": "爷爷喜欢早上喝茶时看___。",
+      "sentencePinyin": "Yéye xǐhuan zǎoshang hē chá shí kàn bàozhǐ.",
+      "sentenceRu": "Дедушка любит читать газету за утренним чаем."
+    },
+    {
+      "id": "wangji",
+      "hanzi": "忘记",
+      "pinyin": "wàng jì",
+      "ru": "забывать",
+      "sentence": "我出门太急，___带手机了。",
+      "sentencePinyin": "Wǒ chūmén tài jí, wàngjì dài shǒujī le.",
+      "sentenceRu": "Я спешил и забыл взять телефон."
+    },
+    {
+      "id": "dianzishu",
+      "hanzi": "电子书",
+      "pinyin": "diàn zǐ shū",
+      "ru": "электронная книга",
+      "sentence": "我在平板电脑上读___。",
+      "sentencePinyin": "Wǒ zài píngbǎn diànnǎo shang dú diànzǐshū.",
+      "sentenceRu": "Я читаю электронную книгу на планшете."
+    },
+    {
+      "id": "nusheng",
+      "hanzi": "女生",
+      "pinyin": "nǚ shēng",
+      "ru": "ученица; студентка; девушка",
+      "sentence": "我们班有十五个___和十二个男生。",
+      "sentencePinyin": "Wǒmen bān yǒu shíwǔ ge nǚshēng hé shí'èr ge nánshēng.",
+      "sentenceRu": "В нашем классе пятнадцать девушек и двенадцать парней."
+    },
+    {
+      "id": "biaoyan",
+      "hanzi": "表演",
+      "pinyin": "biǎo yǎn",
+      "ru": "выступать; представление",
+      "sentence": "同学们明天要在晚会上___唱歌。",
+      "sentencePinyin": "Tóngxuémen míngtiān yào zài wǎnhuì shang biǎoyǎn chànggē.",
+      "sentenceRu": "Завтра ученики выступят с песней на школьном вечере."
+    },
+    {
+      "id": "jiemu",
+      "hanzi": "节目",
+      "pinyin": "jié mù",
+      "ru": "номер выступления; программа",
+      "sentence": "晚会的第一个___是唱歌。",
+      "sentencePinyin": "Wǎnhuì de dì yī ge jiémù shì chànggē.",
+      "sentenceRu": "Первый номер концерта — песня."
+    },
+    {
+      "id": "zenmeban",
+      "hanzi": "怎么办",
+      "pinyin": "zěn me bàn",
+      "ru": "что делать; как быть",
+      "sentence": "我把手机丢了，现在该___？",
+      "sentencePinyin": "Wǒ bǎ shǒujī diū le, xiànzài gāi zěnme bàn?",
+      "sentenceRu": "Я потерял телефон, что же теперь делать?"
+    },
+    {
+      "id": "xiaozhang",
+      "hanzi": "校长",
+      "pinyin": "xiào zhǎng",
+      "ru": "директор школы; ректор",
+      "sentence": "开学第一天，___向同学们讲话。",
+      "sentencePinyin": "Kāixué dì yī tiān, xiàozhǎng xiàng tóngxuémen jiǎnghuà.",
+      "sentenceRu": "В первый день учёбы директор выступил перед учениками."
+    },
+    {
+      "id": "mianqian",
+      "hanzi": "面前",
+      "pinyin": "miàn qián",
+      "ru": "перед; в присутствии",
+      "sentence": "第一次在这么多人___唱歌，我很紧张。",
+      "sentencePinyin": "Dì yī cì zài zhème duō rén miànqián chànggē, wǒ hěn jǐnzhāng.",
+      "sentenceRu": "Впервые пою перед столькими людьми, очень волнуюсь."
+    },
+    {
+      "id": "youxie",
+      "hanzi": "有些",
+      "pinyin": "yǒu xiē",
+      "ru": "немного; несколько; довольно",
+      "sentence": "他上台前___紧张，手一直在抖。",
+      "sentencePinyin": "Tā shàng tái qián yǒuxiē jǐnzhāng, shǒu yìzhí zài dǒu.",
+      "sentenceRu": "Перед выходом на сцену он немного нервничал."
+    },
+    {
+      "id": "xiangxin",
+      "hanzi": "相信",
+      "pinyin": "xiāng xìn",
+      "ru": "верить; доверять",
+      "sentence": "别紧张，我___你一定能做好。",
+      "sentencePinyin": "Bié jǐnzhāng, wǒ xiāngxìn nǐ yídìng néng zuò hǎo.",
+      "sentenceRu": "Не волнуйся, я верю, что у тебя получится."
+    },
+    {
+      "id": "xinnian",
+      "hanzi": "新年",
+      "pinyin": "xīn nián",
+      "ru": "Новый год",
+      "sentence": "大家一起参加学校的___晚会。",
+      "sentencePinyin": "Dàjiā yìqǐ cānjiā xuéxiào de xīnnián wǎnhuì.",
+      "sentenceRu": "Все вместе участвуют в школьном новогоднем вечере."
+    },
+    {
+      "id": "banji",
+      "hanzi": "班级",
+      "pinyin": "bān jí",
+      "ru": "класс; учебная группа",
+      "sentence": "这次活动每个___都要准备一个节目。",
+      "sentencePinyin": "Zhè cì huódòng měi ge bānjí dōu yào zhǔnbèi yí ge jiémù.",
+      "sentenceRu": "Каждый класс должен подготовить номер к этому мероприятию."
+    },
+    {
+      "id": "tiao",
+      "hanzi": "跳",
+      "pinyin": "tiào",
+      "ru": "прыгать; танцевать",
+      "sentence": "孩子们在操场上___绳。",
+      "sentencePinyin": "Háizimen zài cāochǎng shang tiào shéng.",
+      "sentenceRu": "Дети прыгают через скакалку на площадке."
+    },
+    {
+      "id": "liuxuesheng",
+      "hanzi": "留学生",
+      "pinyin": "liú xué shēng",
+      "ru": "иностранный студент",
+      "sentence": "学校来了几个从国外来的___。",
+      "sentencePinyin": "Xuéxiào lái le jǐ ge cóng guówài lái de liúxuéshēng.",
+      "sentenceRu": "В школу приехали несколько иностранных студентов."
+    },
+    {
+      "id": "zuihou",
+      "hanzi": "最后",
+      "pinyin": "zuì hòu",
+      "ru": "в конце; последний",
+      "sentence": "___一个节目结束后，大家一起拍照。",
+      "sentencePinyin": "Zuìhòu yí ge jiémù jiéshù hòu, dàjiā yìqǐ pāizhào.",
+      "sentenceRu": "После последнего номера все сфотографировались."
+    },
+    {
+      "id": "yikuair",
+      "hanzi": "一块儿",
+      "pinyin": "yí kuàir",
+      "ru": "вместе",
+      "sentence": "放学以后，我们___去图书馆吧。",
+      "sentencePinyin": "Fàngxué yǐhòu, wǒmen yíkuàir qù túshūguǎn ba.",
+      "sentenceRu": "После уроков пойдём вместе в библиотеку."
+    },
+    {
+      "id": "wangzhan",
+      "hanzi": "网站",
+      "pinyin": "wǎng zhàn",
+      "ru": "веб-сайт",
+      "sentence": "学校的___上有新的课程表。",
+      "sentencePinyin": "Xuéxiào de wǎngzhàn shang yǒu xīn de kèchéngbiǎo.",
+      "sentenceRu": "На сайте школы есть новое расписание."
+    },
+    {
+      "id": "shipin",
+      "hanzi": "视频",
+      "pinyin": "shì pín",
+      "ru": "видео; видеоролик",
+      "sentence": "老师给我们看了一段学习汉语的___。",
+      "sentencePinyin": "Lǎoshī gěi wǒmen kàn le yí duàn xuéxí Hànyǔ de shìpín.",
+      "sentenceRu": "Учитель показал нам видео об изучении китайского."
+    }
+  ]
+}

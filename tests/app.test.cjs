@@ -17,7 +17,11 @@ const sourceWords = {
   lesson7: '辆 自行车 旧 矮 试 黄色 短裤 大小 合适 裤子 更 决定 西瓜 新鲜 甜 公斤 冰 极 斤 香蕉 一共 毛 结婚 不但 而且 声 开机',
   lesson8: '最近 常常 体育馆 习惯 胖 健康 以后 羽毛球 耳朵 感冒 发烧 低 关心 注意 突然 住院 担心 腿 病人 差不多 得 开心 出院 开 种 方法 其他 心里',
   lesson9: '校园 卡 操场 运动会 男生 练 参加 网球 比赛 练习 好多 几乎 只是 啤酒 吧 紧张 主要 受到 影响 得分 体育 世界 运动 得到 成绩',
-  lesson10: '数学 认真 笔记 清楚 黑板 把 作业 遍 提高 历史 难 要求 差 复习 外语 当然 遇到 办公室 页 对话 明白 讲 句 句子 年级 后年 一般 努力'
+  lesson10: '数学 认真 笔记 清楚 黑板 把 作业 遍 提高 历史 难 要求 差 复习 外语 当然 遇到 办公室 页 对话 明白 讲 句 句子 年级 后年 一般 努力',
+  lesson11: '会议 经理 开会 后天 地点 室 发 笔记本 或者 声音 看来 办法 解决 只能 别人 请假 同事 休假 怕 邮箱 愿意 城市 离开 机会 生活 为 或',
+  lesson12: '街 开花 公园 船 工作日 地方 刚才 刮 风 新闻 伞 借 把 雨衣 变 季节 变化 冬天 常常 关注 四季 春天 夏天 凉快 秋天 叶子 变成',
+  lesson13: '请客 南方 北方 做法 不同 加 的话 做客 邻居 放心 酒 放 客人 晚会 礼物 画家 盘子 一边 聊天儿 来自 夫妻 直到 地图 点 感到 东方 文化',
+  lesson14: '词典 最好 节 图书馆 被 名人 故事 然后 报纸 忘记 电子书 女生 表演 节目 怎么办 校长 面前 有些 相信 新年 班级 跳 留学生 最后 一块儿 网站 视频'
 };
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'decks/catalog.json')));
 const available = catalog.sections[0].lessons.filter(l => l.available);
@@ -82,10 +86,10 @@ const server = http.createServer((req, res) => {
   try {
     await page.goto(base);
     await page.locator('#btn-start').click(); await visible('sections');
-    assert.equal(await page.locator('#sections button').innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 10 из 18 уроков →');
+    assert.equal(await page.locator('#sections button').innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 14 из 18 уроков →');
     await page.locator('#sections button').click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 18);
-    assert.equal(await page.locator('#lessons button:disabled').count(), 8);
+    assert.equal(await page.locator('#lessons button:disabled').count(), 4);
     await page.screenshot({path:path.join(screenshots,'hsk3-lessons.png')});
     await page.locator('#lessons button').first().click(); await visible('lesson');
     await page.locator('#btn-begin').click(); await visible('cards');
@@ -123,7 +127,7 @@ const server = http.createServer((req, res) => {
     await page.locator('#btn-result-lessons').click(); await visible('lessons');
     assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true);
     // Direct links, unavailable/unknown lessons and retry on a failed fetch.
-    await page.goto(base+'/?deck=lesson11'); await visible('lesson');
+    await page.goto(base+'/?deck=lesson15'); await visible('lesson');
     assert.match(await page.locator('#deck-info').innerText(), /ещё готовится/);
     assert.equal(await page.locator('#btn-begin').isDisabled(), true);
     await page.goto(base+'/?deck=missing'); await visible('lesson');
@@ -192,6 +196,6 @@ const server = http.createServer((req, res) => {
     await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
     assert.equal(await page.locator('#deck-title').innerText(), 'HSK-3 · Урок 1');
     assert.equal(errors.length, 0, errors.join('\n'));
-    console.log('PASS: source vocabulary, 18-lesson catalog, mobile navigation, all 269 cards across lessons 1–10, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
+    console.log('PASS: source vocabulary, 18-lesson catalog, mobile navigation, all 377 cards across lessons 1–14, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
   } finally { await browser.close(); server.close(); }
 })().catch(e => { console.error(e); process.exitCode=1; server.close(); });

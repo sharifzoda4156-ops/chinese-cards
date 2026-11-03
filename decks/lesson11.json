@@ -1,0 +1,257 @@
+{
+  "title": "HSK-3 · Урок 11",
+  "subtitle": "看来我没办法解决这个问题 · Похоже, я не смогу решить эту проблему",
+  "source": "新HSK教程 3, урок 11, 生词 № 1–27, страницы 96, 98, 99, 101; имена собственные исключены",
+  "words": [
+    {
+      "id": "huiyi",
+      "hanzi": "会议",
+      "pinyin": "huì yì",
+      "ru": "совещание; конференция",
+      "sentence": "公司明天上午有一个重要的___。",
+      "sentencePinyin": "Gōngsī míngtiān shàngwǔ yǒu yí ge zhòngyào de huìyì.",
+      "sentenceRu": "Завтра утром в компании важное совещание."
+    },
+    {
+      "id": "jingli",
+      "hanzi": "经理",
+      "pinyin": "jīng lǐ",
+      "ru": "менеджер; руководитель",
+      "sentence": "我们的___正在和客户谈工作。",
+      "sentencePinyin": "Wǒmen de jīnglǐ zhèngzài hé kèhù tán gōngzuò.",
+      "sentenceRu": "Наш менеджер обсуждает работу с клиентом."
+    },
+    {
+      "id": "kaihui",
+      "hanzi": "开会",
+      "pinyin": "kāi huì",
+      "ru": "проводить собрание; заседать",
+      "sentence": "大家都到会议室了，准备___。",
+      "sentencePinyin": "Dàjiā dōu dào huìyìshì le, zhǔnbèi kāihuì.",
+      "sentenceRu": "Все пришли в переговорную и готовятся к совещанию."
+    },
+    {
+      "id": "houtian",
+      "hanzi": "后天",
+      "pinyin": "hòu tiān",
+      "ru": "послезавтра",
+      "sentence": "今天是星期一，___就是星期三。",
+      "sentencePinyin": "Jīntiān shì xīngqīyī, hòutiān jiù shì xīngqīsān.",
+      "sentenceRu": "Сегодня понедельник, послезавтра среда."
+    },
+    {
+      "id": "didian",
+      "hanzi": "地点",
+      "pinyin": "dì diǎn",
+      "ru": "место; местоположение",
+      "sentence": "请告诉我明天开会的时间和___。",
+      "sentencePinyin": "Qǐng gàosu wǒ míngtiān kāihuì de shíjiān hé dìdiǎn.",
+      "sentenceRu": "Скажи время и место завтрашнего совещания."
+    },
+    {
+      "id": "shi",
+      "hanzi": "室",
+      "pinyin": "shì",
+      "ru": "комната; помещение в сложных словах",
+      "sentence": "我们在三楼的会议___等你。",
+      "sentencePinyin": "Wǒmen zài sān lóu de huìyìshì děng nǐ.",
+      "sentenceRu": "Мы ждём тебя в переговорной на третьем этаже."
+    },
+    {
+      "id": "fa",
+      "hanzi": "发",
+      "pinyin": "fā",
+      "ru": "отправлять; посылать",
+      "sentence": "我马上给同事___一封邮件。",
+      "sentencePinyin": "Wǒ mǎshàng gěi tóngshì fā yì fēng yóujiàn.",
+      "sentenceRu": "Я сейчас отправлю коллеге письмо."
+    },
+    {
+      "id": "bijiben",
+      "hanzi": "笔记本",
+      "pinyin": "bǐ jì běn",
+      "ru": "ноутбук (сокр. от 笔记本电脑)",
+      "sentence": "我开会时要用___电脑记笔记。",
+      "sentencePinyin": "Wǒ kāihuì shí yào yòng bǐjìběn diànnǎo jì bǐjì.",
+      "sentenceRu": "На совещании мне нужен ноутбук для записей.",
+      "note": "В этом уроке 笔记本（电脑） означает «ноутбук» (笔记本电脑)."
+    },
+    {
+      "id": "huozhe",
+      "hanzi": "或者",
+      "pinyin": "huò zhě",
+      "ru": "или; либо",
+      "sentence": "坐地铁___坐公交车都可以。",
+      "sentencePinyin": "Zuò dìtiě huòzhě zuò gōngjiāochē dōu kěyǐ.",
+      "sentenceRu": "Можно поехать на метро или на автобусе.",
+      "quizExcludes": [
+        "huo"
+      ]
+    },
+    {
+      "id": "shengyin",
+      "hanzi": "声音",
+      "pinyin": "shēng yīn",
+      "ru": "звук; голос",
+      "sentence": "电脑的___太小了，听不清楚。",
+      "sentencePinyin": "Diànnǎo de shēngyīn tài xiǎo le, tīng bù qīngchu.",
+      "sentenceRu": "У компьютера слишком тихий звук."
+    },
+    {
+      "id": "kanlai",
+      "hanzi": "看来",
+      "pinyin": "kàn lái",
+      "ru": "судя по всему; похоже",
+      "sentence": "天上有很多乌云，___快要下雨了。",
+      "sentencePinyin": "Tiān shang yǒu hěn duō wūyún, kànlái kuài yào xià yǔ le.",
+      "sentenceRu": "На небе много туч, похоже, скоро дождь."
+    },
+    {
+      "id": "banfa",
+      "hanzi": "办法",
+      "pinyin": "bàn fǎ",
+      "ru": "способ; выход из положения",
+      "sentence": "电脑坏了，我们得想个___修好它。",
+      "sentencePinyin": "Diànnǎo huài le, wǒmen děi xiǎng ge bànfǎ xiū hǎo tā.",
+      "sentenceRu": "Компьютер сломался, надо придумать, как его починить."
+    },
+    {
+      "id": "jiejue",
+      "hanzi": "解决",
+      "pinyin": "jiě jué",
+      "ru": "решать; устранять проблему",
+      "sentence": "老师帮我们___了这个难题。",
+      "sentencePinyin": "Lǎoshī bāng wǒmen jiějué le zhège nántí.",
+      "sentenceRu": "Учитель помог нам решить сложную задачу."
+    },
+    {
+      "id": "zhineng",
+      "hanzi": "只能",
+      "pinyin": "zhǐ néng",
+      "ru": "можно только; остаётся лишь",
+      "sentence": "末班车走了，我们___打车回家。",
+      "sentencePinyin": "Mòbānchē zǒu le, wǒmen zhǐnéng dǎchē huí jiā.",
+      "sentenceRu": "Последний автобус ушёл, теперь только такси."
+    },
+    {
+      "id": "bieren",
+      "hanzi": "别人",
+      "pinyin": "bié rén",
+      "ru": "другие люди; кто-то другой",
+      "sentence": "请不要随便拿___的东西。",
+      "sentencePinyin": "Qǐng bú yào suíbiàn ná biérén de dōngxi.",
+      "sentenceRu": "Не бери без спроса чужие вещи."
+    },
+    {
+      "id": "qingjia",
+      "hanzi": "请假",
+      "pinyin": "qǐng jià",
+      "ru": "просить отпуск или отгул",
+      "sentence": "她生病了，今天向经理___了。",
+      "sentencePinyin": "Tā shēngbìng le, jīntiān xiàng jīnglǐ qǐngjià le.",
+      "sentenceRu": "Она заболела и попросила отгул у руководителя."
+    },
+    {
+      "id": "tongshi",
+      "hanzi": "同事",
+      "pinyin": "tóng shì",
+      "ru": "коллега по работе",
+      "sentence": "我的___都很友好，常常帮助我。",
+      "sentencePinyin": "Wǒ de tóngshì dōu hěn yǒuhǎo, chángcháng bāngzhù wǒ.",
+      "sentenceRu": "Мои коллеги очень дружелюбные."
+    },
+    {
+      "id": "xiujia",
+      "hanzi": "休假",
+      "pinyin": "xiū jià",
+      "ru": "быть в отпуске; отдыхать",
+      "sentence": "他这周不用上班，正在___。",
+      "sentencePinyin": "Tā zhè zhōu bú yòng shàngbān, zhèngzài xiūjià.",
+      "sentenceRu": "На этой неделе он в отпуске."
+    },
+    {
+      "id": "pa",
+      "hanzi": "怕",
+      "pinyin": "pà",
+      "ru": "бояться; опасаться",
+      "sentence": "我不___考试，因为已经准备好了。",
+      "sentencePinyin": "Wǒ bú pà kǎoshì, yīnwèi yǐjīng zhǔnbèi hǎo le.",
+      "sentenceRu": "Я не боюсь экзамена, потому что подготовился."
+    },
+    {
+      "id": "youxiang",
+      "hanzi": "邮箱",
+      "pinyin": "yóu xiāng",
+      "ru": "почтовый ящик; электронная почта",
+      "sentence": "请把文件发到我的电子___。",
+      "sentencePinyin": "Qǐng bǎ wénjiàn fā dào wǒ de diànzǐ yóuxiāng.",
+      "sentenceRu": "Отправьте документ мне на электронную почту."
+    },
+    {
+      "id": "yuanyi",
+      "hanzi": "愿意",
+      "pinyin": "yuàn yì",
+      "ru": "быть готовым; соглашаться",
+      "sentence": "你___跟我们一起去旅行吗？",
+      "sentencePinyin": "Nǐ yuànyì gēn wǒmen yìqǐ qù lǚxíng ma?",
+      "sentenceRu": "Ты согласен отправиться с нами в путешествие?"
+    },
+    {
+      "id": "chengshi",
+      "hanzi": "城市",
+      "pinyin": "chéng shì",
+      "ru": "город",
+      "sentence": "上海是中国很大的___。",
+      "sentencePinyin": "Shànghǎi shì Zhōngguó hěn dà de chéngshì.",
+      "sentenceRu": "Шанхай — очень большой город Китая."
+    },
+    {
+      "id": "likai",
+      "hanzi": "离开",
+      "pinyin": "lí kāi",
+      "ru": "покидать; уходить",
+      "sentence": "火车快开了，请不要___站台。",
+      "sentencePinyin": "Huǒchē kuài kāi le, qǐng bú yào líkāi zhàntái.",
+      "sentenceRu": "Поезд скоро отправится, не уходите с платформы."
+    },
+    {
+      "id": "jihui",
+      "hanzi": "机会",
+      "pinyin": "jī huì",
+      "ru": "возможность; шанс",
+      "sentence": "希望将来有___去中国学习。",
+      "sentencePinyin": "Xīwàng jiānglái yǒu jīhuì qù Zhōngguó xuéxí.",
+      "sentenceRu": "Надеюсь получить возможность учиться в Китае."
+    },
+    {
+      "id": "shenghuo",
+      "hanzi": "生活",
+      "pinyin": "shēng huó",
+      "ru": "жизнь; жить",
+      "sentence": "我喜欢这里安静的___。",
+      "sentencePinyin": "Wǒ xǐhuan zhèlǐ ānjìng de shēnghuó.",
+      "sentenceRu": "Мне нравится здешняя спокойная жизнь."
+    },
+    {
+      "id": "wei",
+      "hanzi": "为",
+      "pinyin": "wèi",
+      "ru": "для; ради",
+      "sentence": "她___孩子准备了一个蛋糕。",
+      "sentencePinyin": "Tā wèi háizi zhǔnbèi le yí ge dàngāo.",
+      "sentenceRu": "Она приготовила торт для детей."
+    },
+    {
+      "id": "huo",
+      "hanzi": "或",
+      "pinyin": "huò",
+      "ru": "или; либо",
+      "sentence": "请用红色___蓝色的笔写标题。",
+      "sentencePinyin": "Qǐng yòng hóngsè huò lánsè de bǐ xiě biāotí.",
+      "sentenceRu": "Напишите заголовок красной или синей ручкой.",
+      "quizExcludes": [
+        "huozhe"
+      ]
+    }
+  ]
+}
