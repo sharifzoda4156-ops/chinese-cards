@@ -1,0 +1,126 @@
+{
+  "title": "HSK-2 · Урок 11",
+  "subtitle": "我最喜欢吃中国菜 · Больше всего люблю китайскую кухню",
+  "source": "新HSK教程 2, урок 11, 生词 № 1–13, печатные страницы 94, 96, 98, 99",
+  "words": [
+    {
+      "id": "tou",
+      "hanzi": "头",
+      "pinyin": "tóu",
+      "ru": "голова",
+      "sentence": "我今天___有点儿疼。",
+      "sentencePinyin": "Wǒ jīntiān tóu yǒu diǎnr téng.",
+      "sentenceRu": "У меня сегодня немного болит голова."
+    },
+    {
+      "id": "teng",
+      "hanzi": "疼",
+      "pinyin": "téng",
+      "ru": "болеть; причинять боль",
+      "sentence": "我的脚很___，不能跑步。",
+      "sentencePinyin": "Wǒ de jiǎo hěn téng, bù néng pǎobù.",
+      "sentenceRu": "У меня болит нога, не могу бегать."
+    },
+    {
+      "id": "jingchang",
+      "hanzi": "经常",
+      "pinyin": "jīng cháng",
+      "ru": "часто; регулярно",
+      "sentence": "我___去学校图书馆看书。",
+      "sentencePinyin": "Wǒ jīngcháng qù xuéxiào túshūguǎn kàn shū.",
+      "sentenceRu": "Я часто читаю в школьной библиотеке."
+    },
+    {
+      "id": "dong",
+      "hanzi": "动",
+      "pinyin": "dòng",
+      "ru": "двигаться; шевелиться",
+      "sentence": "医生说我现在不能乱___。",
+      "sentencePinyin": "Yīshēng shuō wǒ xiànzài bù néng luàn dòng.",
+      "sentenceRu": "Врач сказал мне сейчас не двигаться без необходимости."
+    },
+    {
+      "id": "zhe",
+      "hanzi": "着",
+      "pinyin": "zhe",
+      "ru": "частица продолженного действия или состояния",
+      "sentence": "他正在沙发上坐___看书。",
+      "sentencePinyin": "Tā zhèngzài shāfā shang zuò zhe kàn shū.",
+      "sentenceRu": "Он сидит на диване и читает.",
+      "audioText": "坐着",
+      "audioNote": "Здесь 着 читается zhe, частица длительного состояния. Для озвучки — 坐着."
+    },
+    {
+      "id": "lushang",
+      "hanzi": "路上",
+      "pinyin": "lù shang",
+      "ru": "в дороге; по пути",
+      "sentence": "今天___的车很多。",
+      "sentencePinyin": "Jīntiān lùshang de chē hěn duō.",
+      "sentenceRu": "Сегодня на дороге много машин."
+    },
+    {
+      "id": "man",
+      "hanzi": "慢",
+      "pinyin": "màn",
+      "ru": "медленный; медленно",
+      "sentence": "请开得___一点儿。",
+      "sentencePinyin": "Qǐng kāi de màn yì diǎnr.",
+      "sentenceRu": "Пожалуйста, веди машину помедленнее."
+    },
+    {
+      "id": "jin",
+      "hanzi": "进",
+      "pinyin": "jìn",
+      "ru": "входить; войти",
+      "sentence": "请___屋子里坐。",
+      "sentencePinyin": "Qǐng jìn wūzi lǐ zuò.",
+      "sentenceRu": "Пожалуйста, заходите и садитесь."
+    },
+    {
+      "id": "yao",
+      "hanzi": "药",
+      "pinyin": "yào",
+      "ru": "лекарство",
+      "sentence": "医生让我饭后吃___。",
+      "sentencePinyin": "Yīshēng ràng wǒ fànhòu chī yào.",
+      "sentenceRu": "Врач велел мне принимать лекарство после еды."
+    },
+    {
+      "id": "shenti",
+      "hanzi": "身体",
+      "pinyin": "shēn tǐ",
+      "ru": "тело; здоровье",
+      "sentence": "多运动对___很好。",
+      "sentencePinyin": "Duō yùndòng duì shēntǐ hěn hǎo.",
+      "sentenceRu": "Регулярные упражнения полезны для здоровья."
+    },
+    {
+      "id": "shi",
+      "hanzi": "时",
+      "pinyin": "shí",
+      "ru": "время; момент",
+      "sentence": "吃饭___不要看手机。",
+      "sentencePinyin": "Chīfàn shí bú yào kàn shǒujī.",
+      "sentenceRu": "Во время еды не смотри в телефон."
+    },
+    {
+      "id": "zui",
+      "hanzi": "最",
+      "pinyin": "zuì",
+      "ru": "самый; больше всего",
+      "sentence": "我___喜欢吃中国菜。",
+      "sentencePinyin": "Wǒ zuì xǐhuan chī Zhōngguó cài.",
+      "sentenceRu": "Больше всего я люблю китайскую кухню."
+    },
+    {
+      "id": "yaodian",
+      "hanzi": "药店",
+      "pinyin": "yào diàn",
+      "ru": "аптека",
+      "sentence": "这家___晚上十点关门。",
+      "sentencePinyin": "Zhè jiā yàodiàn wǎnshang shí diǎn guānmén.",
+      "sentenceRu": "Эта аптека закрывается в десять вечера."
+    }
+  ]
+}
