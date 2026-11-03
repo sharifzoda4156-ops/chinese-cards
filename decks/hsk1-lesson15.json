@@ -1,0 +1,160 @@
+{
+  "title": "HSK-1 · Урок 15",
+  "subtitle": "大兴机场见！ · Увидимся в аэропорту Дасин!",
+  "source": "新HSK教程 1, урок 15, 生词 №1–17, печатные страницы 113, 115, 117; 西安, 北京, 大兴, 机场名称 как собственные имена исключены",
+  "words": [
+    {
+      "id": "ai",
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "ru": "любить; обожать",
+      "sentence": "我___中国菜。",
+      "sentencePinyin": "Wǒ ài Zhōngguó cài.",
+      "sentenceRu": "Я люблю китайскую кухню."
+    },
+    {
+      "id": "nage",
+      "hanzi": "哪个",
+      "pinyin": "nǎ ge",
+      "ru": "какой; который из них",
+      "sentence": "你喜欢___城市？",
+      "sentencePinyin": "Nǐ xǐhuan nǎ ge chéngshì?",
+      "sentenceRu": "Какой город тебе нравится?"
+    },
+    {
+      "id": "qunian",
+      "hanzi": "去年",
+      "pinyin": "qù nián",
+      "ru": "в прошлом году",
+      "sentence": "___我去过北京。",
+      "sentencePinyin": "Qùnián wǒ qù guo Běijīng.",
+      "sentenceRu": "В прошлом году я был в Пекине."
+    },
+    {
+      "id": "nanpengyou",
+      "hanzi": "男朋友",
+      "pinyin": "nán péng you",
+      "ru": "парень; молодой человек",
+      "sentence": "这是我的___，他叫小明。",
+      "sentencePinyin": "Zhè shì wǒ de nánpéngyou, tā jiào Xiǎomíng.",
+      "sentenceRu": "Это мой парень, его зовут Сяомин."
+    },
+    {
+      "id": "ji",
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "ru": "несколько; сколько",
+      "sentence": "我想买___本书。",
+      "sentencePinyin": "Wǒ xiǎng mǎi jǐ běn shū.",
+      "sentenceRu": "Я хочу купить несколько книг."
+    },
+    {
+      "id": "nian",
+      "hanzi": "年",
+      "pinyin": "nián",
+      "ru": "год",
+      "sentence": "我学汉语学了两___。",
+      "sentencePinyin": "Wǒ xué Hànyǔ xué le liǎng nián.",
+      "sentenceRu": "Я изучаю китайский уже два года."
+    },
+    {
+      "id": "haowanr",
+      "hanzi": "好玩儿",
+      "pinyin": "hǎo wánr",
+      "ru": "интересный; весёлый",
+      "sentence": "这个地方真___。",
+      "sentencePinyin": "Zhège dìfang zhēn hǎowánr.",
+      "sentenceRu": "В этом месте очень интересно."
+    },
+    {
+      "id": "feiji",
+      "hanzi": "飞机",
+      "pinyin": "fēi jī",
+      "ru": "самолёт",
+      "sentence": "我明天坐___去北京。",
+      "sentencePinyin": "Wǒ míngtiān zuò fēijī qù Běijīng.",
+      "sentenceRu": "Завтра я лечу на самолёте в Пекин."
+    },
+    {
+      "id": "yao",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "ru": "требоваться; нужно",
+      "sentence": "去机场___一个小时。",
+      "sentencePinyin": "Qù jīchǎng yào yí ge xiǎoshí.",
+      "sentenceRu": "До аэропорта ехать час."
+    },
+    {
+      "id": "xiaoshi",
+      "hanzi": "小时",
+      "pinyin": "xiǎo shí",
+      "ru": "час (длительность)",
+      "sentence": "从这里到机场要一个___。",
+      "sentencePinyin": "Cóng zhèlǐ dào jīchǎng yào yí ge xiǎoshí.",
+      "sentenceRu": "Отсюда до аэропорта нужен час."
+    },
+    {
+      "id": "jiaren",
+      "hanzi": "家人",
+      "pinyin": "jiā rén",
+      "ru": "члены семьи; родные",
+      "sentence": "今年过年，我和___一起回家。",
+      "sentencePinyin": "Jīnnián guònián, wǒ hé jiārén yìqǐ huí jiā.",
+      "sentenceRu": "На Новый год я вернусь домой с семьёй."
+    },
+    {
+      "id": "shijian",
+      "hanzi": "时间",
+      "pinyin": "shí jiān",
+      "ru": "время; промежуток",
+      "sentence": "我今天没有___去看电影。",
+      "sentencePinyin": "Wǒ jīntiān méiyǒu shíjiān qù kàn diànyǐng.",
+      "sentenceRu": "Сегодня у меня нет времени сходить в кино."
+    },
+    {
+      "id": "jichang",
+      "hanzi": "机场",
+      "pinyin": "jī chǎng",
+      "ru": "аэропорт",
+      "sentence": "飞机八点到___。",
+      "sentencePinyin": "Fēijī bā diǎn dào jīchǎng.",
+      "sentenceRu": "Самолёт прибывает в аэропорт в восемь."
+    },
+    {
+      "id": "jie",
+      "hanzi": "接",
+      "pinyin": "jiē",
+      "ru": "встречать; забирать",
+      "sentence": "爸爸去机场___妈妈。",
+      "sentencePinyin": "Bàba qù jīchǎng jiē māma.",
+      "sentenceRu": "Папа поехал в аэропорт встречать маму."
+    },
+    {
+      "id": "zhu",
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "ru": "жить; проживать",
+      "sentence": "我___在北京。",
+      "sentencePinyin": "Wǒ zhù zài Běijīng.",
+      "sentenceRu": "Я живу в Пекине."
+    },
+    {
+      "id": "zao",
+      "hanzi": "早",
+      "pinyin": "zǎo",
+      "ru": "рано; ранний",
+      "sentence": "我们明天___一点儿出发。",
+      "sentencePinyin": "Wǒmen míngtiān zǎo yì diǎnr chūfā.",
+      "sentenceRu": "Завтра мы выезжаем немного раньше."
+    },
+    {
+      "id": "a",
+      "hanzi": "啊",
+      "pinyin": "a",
+      "ru": "восклицательная частица",
+      "sentence": "北京真漂亮___！",
+      "sentencePinyin": "Běijīng zhēn piàoliang a!",
+      "sentenceRu": "Какой же красивый Пекин!"
+    }
+  ]
+}
