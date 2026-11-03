@@ -64,7 +64,10 @@
       "sentence": "休息十分钟后，我们___学习。",
       "sentencePinyin": "Xiūxi shí fēnzhōng hòu, wǒmen jìxù xuéxí.",
       "sentenceRu": "После десятиминутного перерыва мы продолжим учиться.",
-      "id": "jixu"
+      "id": "jixu",
+      "quizExcludes": [
+        "chongxin"
+      ]
     },
     {
       "hanzi": "网友",
@@ -118,7 +121,10 @@
       "sentence": "我们今天通过___课程学习。",
       "sentencePinyin": "Wǒmen jīntiān tōngguò xiànshàng kèchéng xuéxí.",
       "sentenceRu": "Сегодня мы учимся через онлайн-курс.",
-      "id": "xianshang"
+      "id": "xianshang",
+      "quizExcludes": [
+        "xianxia"
+      ]
     },
     {
       "hanzi": "线下",
@@ -127,7 +133,10 @@
       "sentence": "这个周末我们参加___活动。",
       "sentencePinyin": "Zhège zhōumò wǒmen cānjiā xiànxià huódòng.",
       "sentenceRu": "На выходных мы участвуем в очном мероприятии.",
-      "id": "xianxia"
+      "id": "xianxia",
+      "quizExcludes": [
+        "xianshang"
+      ]
     },
     {
       "hanzi": "视频",
@@ -280,7 +289,10 @@
       "sentence": "你今天的表现真___！",
       "sentencePinyin": "Nǐ jīntiān de biǎoxiàn zhēn bàng!",
       "sentenceRu": "Сегодня ты прекрасно себя проявил!",
-      "id": "bang"
+      "id": "bang",
+      "quizExcludes": [
+        "youxiu"
+      ]
     },
     {
       "hanzi": "一生",
@@ -295,9 +307,9 @@
       "hanzi": "快速",
       "pinyin": "kuài sù",
       "ru": "быстрый; стремительный",
-      "sentence": "互联网发展得非常___。",
-      "sentencePinyin": "Hùliánwǎng fāzhǎn de fēicháng kuàisù.",
-      "sentenceRu": "Интернет развивается очень быстро.",
+      "sentence": "通过网络，我们可以___找到学习资料。",
+      "sentencePinyin": "Tōngguò wǎngluò, wǒmen kěyǐ kuàisù zhǎodào xuéxí zīliào.",
+      "sentenceRu": "Через интернет мы можем быстро находить учебные материалы.",
       "id": "kuaisu"
     },
     {
@@ -307,7 +319,10 @@
       "sentence": "她是一位非常___的老师。",
       "sentencePinyin": "Tā shì yí wèi fēicháng yōuxiù de lǎoshī.",
       "sentenceRu": "Она замечательный преподаватель.",
-      "id": "youxiu"
+      "id": "youxiu",
+      "quizExcludes": [
+        "bang"
+      ]
     },
     {
       "hanzi": "律师",
@@ -370,7 +385,10 @@
       "sentence": "这道题做错了，请___做一遍。",
       "sentencePinyin": "Zhè dào tí zuò cuò le, qǐng chóngxīn zuò yí biàn.",
       "sentenceRu": "Задание сделано неправильно, реши его заново.",
-      "id": "chongxin"
+      "id": "chongxin",
+      "quizExcludes": [
+        "jixu"
+      ]
     }
   ]
 }
