@@ -78,22 +78,30 @@
         {
           "id": "lesson11",
           "title": "Урок 11",
-          "available": false
+          "available": true,
+          "wordCount": 27,
+          "subtitle": "Похоже, я не могу решить эту проблему"
         },
         {
           "id": "lesson12",
           "title": "Урок 12",
-          "available": false
+          "available": true,
+          "wordCount": 27,
+          "subtitle": "В этом сезоне погода быстро меняется"
         },
         {
           "id": "lesson13",
           "title": "Урок 13",
-          "available": false
+          "available": true,
+          "wordCount": 27,
+          "subtitle": "Мои новые соседи из Великобритании"
         },
         {
           "id": "lesson14",
           "title": "Урок 14",
-          "available": false
+          "available": true,
+          "wordCount": 27,
+          "subtitle": "Эту книгу взял кто-то другой"
         },
         {
           "id": "lesson15",
