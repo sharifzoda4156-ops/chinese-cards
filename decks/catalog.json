@@ -1,6 +1,104 @@
 {
   "sections": [
     {
+      "id": "hsk2",
+      "title": "HSK-2",
+      "description": "新HSK教程 2 · 15 уроков",
+      "lessons": [
+        {
+          "id": "hsk2-lesson1",
+          "title": "Урок 1",
+          "subtitle": "Она угостила нас пекинской уткой",
+          "wordCount": 14,
+          "available": true
+        },
+        {
+          "id": "hsk2-lesson2",
+          "title": "Урок 2",
+          "subtitle": "Лучше поехать в Пекинский университет на такси",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson3",
+          "title": "Урок 3",
+          "subtitle": "Я хочу поехать в Сиань",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson4",
+          "title": "Урок 4",
+          "subtitle": "Тебе очень идёт красное",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson5",
+          "title": "Урок 5",
+          "subtitle": "Первый визит к китайским друзьям",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson6",
+          "title": "Урок 6",
+          "subtitle": "Сяосюэ, с днём рождения!",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson7",
+          "title": "Урок 7",
+          "subtitle": "Он очень хорошо играет в баскетбол",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson8",
+          "title": "Урок 8",
+          "subtitle": "Хотя ты забыл, я помню",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson9",
+          "title": "Урок 9",
+          "subtitle": "Пойду куплю чай с молоком",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson10",
+          "title": "Урок 10",
+          "subtitle": "Скоро экзамен",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson11",
+          "title": "Урок 11",
+          "subtitle": "Больше всего люблю китайскую кухню",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson12",
+          "title": "Урок 12",
+          "subtitle": "Здесь гораздо холоднее, чем в Пекине",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson13",
+          "title": "Урок 13",
+          "subtitle": "Мы любим уроки китайского языка",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson14",
+          "title": "Урок 14",
+          "subtitle": "Скучно встречать Новый год одному",
+          "available": false
+        },
+        {
+          "id": "hsk2-lesson15",
+          "title": "Урок 15",
+          "subtitle": "Хочу ещё раз поехать в Китай",
+          "available": false
+        }
+      ]
+    },
+    {
       "id": "hsk3",
       "title": "HSK-3",
       "description": "新HSK教程 3 · 18 уроков",
