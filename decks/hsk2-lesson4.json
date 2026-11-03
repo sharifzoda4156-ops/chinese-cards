@@ -1,0 +1,151 @@
+{
+  "title": "HSK-2 · Урок 4",
+  "subtitle": "你穿红色的很好看 · Тебе очень идёт красное",
+  "source": "新HSK教程 2, урок 4, 生词 № 1–16, печатные страницы 30, 32, 34, 35 (PDF +16); имена собственные исключены",
+  "words": [
+    {
+      "hanzi": "过",
+      "pinyin": "guò",
+      "ru": "частица прошлого опыта",
+      "sentence": "我去___这个商场。",
+      "sentencePinyin": "Wǒ qù guo zhège shāngchǎng.",
+      "sentenceRu": "Я уже бывал в этом торговом центре.",
+      "id": "guo"
+    },
+    {
+      "hanzi": "商场",
+      "pinyin": "shāng chǎng",
+      "ru": "торговый центр",
+      "sentence": "周末我和妈妈去___买衣服。",
+      "sentencePinyin": "Zhōumò wǒ hé māma qù shāngchǎng mǎi yīfu.",
+      "sentenceRu": "В выходные мы с мамой ходим за одеждой в торговый центр.",
+      "id": "shangchang"
+    },
+    {
+      "hanzi": "进去",
+      "pinyin": "jìn qù",
+      "ru": "входить внутрь",
+      "sentence": "门开了，我们___看看吧。",
+      "sentencePinyin": "Mén kāi le, wǒmen jìnqù kànkan ba.",
+      "sentenceRu": "Дверь открыта, давай войдём и посмотрим.",
+      "id": "jinqu"
+    },
+    {
+      "hanzi": "条",
+      "pinyin": "tiáo",
+      "ru": "счётное слово для длинных предметов",
+      "sentence": "我买了一___新裤子。",
+      "sentencePinyin": "Wǒ mǎi le yì tiáo xīn kùzi.",
+      "sentenceRu": "Я купил новые брюки.",
+      "id": "tiao"
+    },
+    {
+      "hanzi": "裤子",
+      "pinyin": "kù zi",
+      "ru": "брюки; штаны",
+      "sentence": "这条___有一点儿长。",
+      "sentencePinyin": "Zhè tiáo kùzi yǒu yì diǎnr cháng.",
+      "sentenceRu": "Эти брюки немного длинные.",
+      "id": "kuzi"
+    },
+    {
+      "hanzi": "白色",
+      "pinyin": "bái sè",
+      "ru": "белый цвет",
+      "sentence": "我想买一件___的衬衫。",
+      "sentencePinyin": "Wǒ xiǎng mǎi yí jiàn báisè de chènshān.",
+      "sentenceRu": "Я хочу купить белую рубашку.",
+      "id": "baise"
+    },
+    {
+      "hanzi": "因为",
+      "pinyin": "yīn wèi",
+      "ru": "потому что",
+      "sentence": "___下雨了，所以我们没出去。",
+      "sentencePinyin": "Yīnwèi xià yǔ le, suǒyǐ wǒmen méi chūqù.",
+      "sentenceRu": "Поскольку пошёл дождь, мы не вышли.",
+      "id": "yinwei"
+    },
+    {
+      "hanzi": "试",
+      "pinyin": "shì",
+      "ru": "пробовать; примерять",
+      "sentence": "买衣服前你可以___一下。",
+      "sentencePinyin": "Mǎi yīfu qián nǐ kěyǐ shì yí xià.",
+      "sentenceRu": "Перед покупкой ты можешь примерить одежду.",
+      "id": "shi"
+    },
+    {
+      "hanzi": "红色",
+      "pinyin": "hóng sè",
+      "ru": "красный цвет",
+      "sentence": "她今天穿了一件___的衣服。",
+      "sentencePinyin": "Tā jīntiān chuān le yí jiàn hóngsè de yīfu.",
+      "sentenceRu": "Сегодня она надела красную одежду.",
+      "id": "hongse"
+    },
+    {
+      "hanzi": "所以",
+      "pinyin": "suǒ yǐ",
+      "ru": "поэтому; так что",
+      "sentence": "我累了，___想回家。",
+      "sentencePinyin": "Wǒ lèi le, suǒyǐ xiǎng huí jiā.",
+      "sentenceRu": "Я устал, поэтому хочу домой.",
+      "id": "suoyi"
+    },
+    {
+      "hanzi": "书包",
+      "pinyin": "shū bāo",
+      "ru": "школьный рюкзак; портфель",
+      "sentence": "这本书在我的___里。",
+      "sentencePinyin": "Zhè běn shū zài wǒ de shūbāo lǐ.",
+      "sentenceRu": "Эта книга лежит в моём рюкзаке.",
+      "id": "shubao"
+    },
+    {
+      "hanzi": "过去",
+      "pinyin": "guò qù",
+      "ru": "проходить туда; идти в ту сторону",
+      "sentence": "那家商店在马路对面，我们___看看。",
+      "sentencePinyin": "Nà jiā shāngdiàn zài mǎlù duìmiàn, wǒmen guòqù kànkan.",
+      "sentenceRu": "Тот магазин на другой стороне улицы, давай подойдём.",
+      "id": "guoqu"
+    },
+    {
+      "hanzi": "绿色",
+      "pinyin": "lǜ sè",
+      "ru": "зелёный цвет",
+      "sentence": "春天树叶是___的。",
+      "sentencePinyin": "Chūntiān shùyè shì lǜsè de.",
+      "sentenceRu": "Весной листья зелёные.",
+      "id": "luse"
+    },
+    {
+      "hanzi": "黑色",
+      "pinyin": "hēi sè",
+      "ru": "чёрный цвет",
+      "sentence": "他喜欢穿___的鞋。",
+      "sentencePinyin": "Tā xǐhuan chuān hēisè de xié.",
+      "sentenceRu": "Он любит носить чёрную обувь.",
+      "id": "heise"
+    },
+    {
+      "hanzi": "更",
+      "pinyin": "gèng",
+      "ru": "ещё; ещё более",
+      "sentence": "今天比昨天___热。",
+      "sentencePinyin": "Jīntiān bǐ zuótiān gèng rè.",
+      "sentenceRu": "Сегодня ещё жарче, чем вчера.",
+      "id": "geng"
+    },
+    {
+      "hanzi": "颜色",
+      "pinyin": "yán sè",
+      "ru": "цвет",
+      "sentence": "你喜欢什么___？",
+      "sentencePinyin": "Nǐ xǐhuan shénme yánsè?",
+      "sentenceRu": "Какой цвет тебе нравится?",
+      "id": "yanse"
+    }
+  ]
+}
