@@ -1,0 +1,232 @@
+{
+  "title": "HSK-3 · Урок 9",
+  "subtitle": "打不好没关系 · Не страшно, если играешь не очень хорошо",
+  "source": "新HSK教程 3, урок 9, 生词 № 1–25, печатные страницы 77, 79, 81, 82; имена собственные не включены",
+  "words": [
+    {
+      "id": "xiaoyuan",
+      "hanzi": "校园",
+      "pinyin": "xiào yuán",
+      "ru": "школьный или университетский кампус",
+      "sentence": "我们学校的___里有很多树。",
+      "sentencePinyin": "Wǒmen xuéxiào de xiàoyuán lǐ yǒu hěn duō shù.",
+      "sentenceRu": "В кампусе нашей школы много деревьев."
+    },
+    {
+      "id": "ka",
+      "hanzi": "卡",
+      "pinyin": "kǎ",
+      "ru": "карточка; карта",
+      "sentence": "进入图书馆时要出示学生___。",
+      "sentencePinyin": "Jìnrù túshūguǎn shí yào chūshì xuéshēngkǎ.",
+      "sentenceRu": "При входе в библиотеку нужно показать студенческий билет."
+    },
+    {
+      "id": "caochang",
+      "hanzi": "操场",
+      "pinyin": "cāo chǎng",
+      "ru": "спортивная площадка; школьный стадион",
+      "sentence": "学生们正在学校___上跑步。",
+      "sentencePinyin": "Xuéshengmen zhèngzài xuéxiào cāochǎng shang pǎobù.",
+      "sentenceRu": "Ученики бегают на школьном стадионе."
+    },
+    {
+      "id": "yundonghui",
+      "hanzi": "运动会",
+      "pinyin": "yùn dòng huì",
+      "ru": "спортивные соревнования",
+      "sentence": "我们学校下周要举行___。",
+      "sentencePinyin": "Wǒmen xuéxiào xià zhōu yào jǔxíng yùndònghuì.",
+      "sentenceRu": "На следующей неделе в нашей школе пройдут спортивные соревнования."
+    },
+    {
+      "id": "nansheng",
+      "hanzi": "男生",
+      "pinyin": "nán shēng",
+      "ru": "ученик или студент мужского пола; парень",
+      "sentence": "班里有十个___和十二个女生。",
+      "sentencePinyin": "Bān lǐ yǒu shí ge nánshēng hé shí'èr ge nǚshēng.",
+      "sentenceRu": "В классе десять парней и двенадцать девушек."
+    },
+    {
+      "id": "lian",
+      "hanzi": "练",
+      "pinyin": "liàn",
+      "ru": "тренировать; упражняться",
+      "sentence": "为了准备比赛，他每天___两个小时网球。",
+      "sentencePinyin": "Wèile zhǔnbèi bǐsài, tā měi tiān liàn liǎng ge xiǎoshí wǎngqiú.",
+      "sentenceRu": "Готовясь к соревнованиям, он тренируется в теннисе по два часа ежедневно."
+    },
+    {
+      "id": "canjia",
+      "hanzi": "参加",
+      "pinyin": "cān jiā",
+      "ru": "участвовать; принимать участие",
+      "sentence": "我想___学校的跑步比赛。",
+      "sentencePinyin": "Wǒ xiǎng cānjiā xuéxiào de pǎobù bǐsài.",
+      "sentenceRu": "Я хочу участвовать в школьных соревнованиях по бегу."
+    },
+    {
+      "id": "wangqiu",
+      "hanzi": "网球",
+      "pinyin": "wǎng qiú",
+      "ru": "теннис",
+      "sentence": "她每个星期天都去打___。",
+      "sentencePinyin": "Tā měi ge xīngqītiān dōu qù dǎ wǎngqiú.",
+      "sentenceRu": "Каждое воскресенье она играет в теннис."
+    },
+    {
+      "id": "bisai",
+      "hanzi": "比赛",
+      "pinyin": "bǐ sài",
+      "ru": "соревнование; матч",
+      "sentence": "明天下午有一场足球___。",
+      "sentencePinyin": "Míngtiān xiàwǔ yǒu yì chǎng zúqiú bǐsài.",
+      "sentenceRu": "Завтра днём состоится футбольный матч."
+    },
+    {
+      "id": "lianxi",
+      "hanzi": "练习",
+      "pinyin": "liàn xí",
+      "ru": "упражняться; упражнение",
+      "sentence": "老师让我们每天___汉语口语。",
+      "sentencePinyin": "Lǎoshī ràng wǒmen měi tiān liànxí Hànyǔ kǒuyǔ.",
+      "sentenceRu": "Учитель велел нам ежедневно практиковать разговорный китайский."
+    },
+    {
+      "id": "haoduo",
+      "hanzi": "好多",
+      "pinyin": "hǎo duō",
+      "ru": "очень много",
+      "sentence": "体育馆里有___人在看篮球比赛。",
+      "sentencePinyin": "Tǐyùguǎn lǐ yǒu hǎoduō rén zài kàn lánqiú bǐsài.",
+      "sentenceRu": "В спортзале очень много зрителей баскетбольного матча."
+    },
+    {
+      "id": "jihu",
+      "hanzi": "几乎",
+      "pinyin": "jī hū",
+      "ru": "почти",
+      "sentence": "他训练得很认真，___每天都来。",
+      "sentencePinyin": "Tā xùnliàn de hěn rènzhēn, jīhū měi tiān dōu lái.",
+      "sentenceRu": "Он усердно тренируется и приходит почти каждый день."
+    },
+    {
+      "id": "zhishi",
+      "hanzi": "只是",
+      "pinyin": "zhǐ shì",
+      "ru": "только; просто",
+      "sentence": "我很喜欢运动，___今天太累了，不想去。",
+      "sentencePinyin": "Wǒ hěn xǐhuan yùndòng, zhǐshì jīntiān tài lèi le, bù xiǎng qù.",
+      "sentenceRu": "Я люблю спорт, просто сегодня слишком устал и не хочу идти."
+    },
+    {
+      "id": "pijiu",
+      "hanzi": "啤酒",
+      "pinyin": "pí jiǔ",
+      "ru": "пиво",
+      "sentence": "这家饭馆提供茶、果汁和___。",
+      "sentencePinyin": "Zhè jiā fànguǎn tígōng chá, guǒzhī hé píjiǔ.",
+      "sentenceRu": "В этом ресторане подают чай, сок и пиво."
+    },
+    {
+      "id": "ba",
+      "hanzi": "吧",
+      "pinyin": "ba",
+      "ru": "частица предложения: предложение или смягчение",
+      "sentence": "我们一起去看比赛___！",
+      "sentencePinyin": "Wǒmen yìqǐ qù kàn bǐsài ba!",
+      "sentenceRu": "Давай вместе пойдём смотреть соревнования!"
+    },
+    {
+      "id": "jinzhang",
+      "hanzi": "紧张",
+      "pinyin": "jǐn zhāng",
+      "ru": "нервничать; напряжённый",
+      "sentence": "第一次参加比赛，我有一点儿___。",
+      "sentencePinyin": "Dì yī cì cānjiā bǐsài, wǒ yǒu yì diǎnr jǐnzhāng.",
+      "sentenceRu": "Я немного нервничаю, потому что участвую впервые."
+    },
+    {
+      "id": "zhuyao",
+      "hanzi": "主要",
+      "pinyin": "zhǔ yào",
+      "ru": "основной; главным образом",
+      "sentence": "今天开会___讨论下个月的运动会。",
+      "sentencePinyin": "Jīntiān kāihuì zhǔyào tǎolùn xià ge yuè de yùndònghuì.",
+      "sentenceRu": "На сегодняшнем собрании главным образом обсуждают соревнования следующего месяца."
+    },
+    {
+      "id": "shoudao",
+      "hanzi": "受到",
+      "pinyin": "shòu dào",
+      "ru": "подвергнуться; получить",
+      "sentence": "我们的球队___了老师的表扬。",
+      "sentencePinyin": "Wǒmen de qiúduì shòudào le lǎoshī de biǎoyáng.",
+      "sentenceRu": "Наша команда получила похвалу учителя."
+    },
+    {
+      "id": "yingxiang",
+      "hanzi": "影响",
+      "pinyin": "yǐng xiǎng",
+      "ru": "влиять; воздействие",
+      "sentence": "昨晚没睡好，会___今天的成绩。",
+      "sentencePinyin": "Zuówǎn méi shuì hǎo, huì yǐngxiǎng jīntiān de chéngjì.",
+      "sentenceRu": "Плохой сон прошлой ночью повлияет на сегодняшний результат."
+    },
+    {
+      "id": "defen",
+      "hanzi": "得分",
+      "pinyin": "dé fēn",
+      "ru": "набирать очки",
+      "sentence": "篮球比赛中，他最后一分钟又___了。",
+      "sentencePinyin": "Lánqiú bǐsài zhōng, tā zuìhòu yì fēnzhōng yòu défēn le.",
+      "sentenceRu": "В последнюю минуту баскетбольного матча он снова набрал очки."
+    },
+    {
+      "id": "tiyu",
+      "hanzi": "体育",
+      "pinyin": "tǐ yù",
+      "ru": "спорт; физкультура",
+      "sentence": "我最喜欢的学校课程是___课。",
+      "sentencePinyin": "Wǒ zuì xǐhuan de xuéxiào kèchéng shì tǐyù kè.",
+      "sentenceRu": "Мой любимый предмет в школе — физкультура."
+    },
+    {
+      "id": "shijie",
+      "hanzi": "世界",
+      "pinyin": "shì jiè",
+      "ru": "мир",
+      "sentence": "他希望将来能去___各地旅行。",
+      "sentencePinyin": "Tā xīwàng jiānglái néng qù shìjiè gè dì lǚxíng.",
+      "sentenceRu": "Он надеется однажды путешествовать по всему миру."
+    },
+    {
+      "id": "yundong",
+      "hanzi": "运动",
+      "pinyin": "yùn dòng",
+      "ru": "заниматься спортом; физические упражнения",
+      "sentence": "为了身体健康，我们应该每天___。",
+      "sentencePinyin": "Wèile shēntǐ jiànkāng, wǒmen yīnggāi měi tiān yùndòng.",
+      "sentenceRu": "Для здоровья стоит каждый день заниматься спортом."
+    },
+    {
+      "id": "dedao",
+      "hanzi": "得到",
+      "pinyin": "dé dào",
+      "ru": "получить; обрести",
+      "sentence": "他努力训练，终于___了第一名。",
+      "sentencePinyin": "Tā nǔlì xùnliàn, zhōngyú dédào le dì yī míng.",
+      "sentenceRu": "Он много тренировался и наконец занял первое место."
+    },
+    {
+      "id": "chengji",
+      "hanzi": "成绩",
+      "pinyin": "chéng jì",
+      "ru": "результат; успехи; оценки",
+      "sentence": "这次考试的___比上次好。",
+      "sentencePinyin": "Zhè cì kǎoshì de chéngjì bǐ shàng cì hǎo.",
+      "sentenceRu": "Результаты этого экзамена лучше предыдущих."
+    }
+  ]
+}
