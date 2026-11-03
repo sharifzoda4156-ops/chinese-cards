@@ -31,9 +31,42 @@ const catalog = JSON.parse(fs.readFileSync(path.join(root, 'decks/catalog.json')
 const hsk3Section = catalog.sections.find(s => s.id === 'hsk3');
 const hsk2Section = catalog.sections.find(s => s.id === 'hsk2');
 const hsk1Section = catalog.sections.find(s => s.id === 'hsk1');
-assert.ok(hsk1Section && hsk2Section && hsk3Section);
-assert.deepEqual(catalog.sections.map(s => s.id), ['hsk1', 'hsk2', 'hsk3']);
+const hsk4aSection = catalog.sections.find(s => s.id === 'hsk4a');
+const hsk4bSection = catalog.sections.find(s => s.id === 'hsk4b');
+assert.ok(hsk1Section && hsk2Section && hsk3Section && hsk4aSection && hsk4bSection);
+assert.deepEqual(catalog.sections.map(s => s.id), ['hsk1', 'hsk2', 'hsk3', 'hsk4a', 'hsk4b']);
+assert.deepEqual(hsk4aSection.lessons.map(l => l.id), Array.from({length:10},(_,i)=>'hsk4a-lesson'+(i+1)));
+assert.deepEqual(hsk4bSection.lessons.map(l => l.id), Array.from({length:10},(_,i)=>'hsk4b-lesson'+(i+11)));
+assert.deepEqual(hsk4aSection.lessons.filter(l => l.available).map(l => l.id), ['hsk4a-lesson1']);
+assert.deepEqual(hsk4bSection.lessons.filter(l => l.available).map(l => l.id), ['hsk4b-lesson11']);
 assert.equal(hsk2Section.lessons.length, 15);
+// A/B volume structure follows the printed contents. Only completed decks are clickable.
+const hsk4Sources = [
+  {section:hsk4aSection,id:'hsk4a-lesson1',count:40,words:'签证 入学 通知 证件 材料 证 任何 食堂 座 申请 奖学金 表现 获得 要是 减轻 经济 压力 加油 随着 课程 专业 本科 硕士 研究生 博士 研究 活动 通过 交流 适应 将来 国际 当 教育 成为 教师 贸易 方面 知识 另'},
+  {section:hsk4bSection,id:'hsk4b-lesson11',count:41,words:'老年 散步 丰富 羡慕 即使 活 继续 网友 无聊 数字 点名 教授 线上 线下 视频 记录 资料 自学 口语 科技 获取 礼貌 打招呼 家长 成功 分数 目的 养成 留 做法 棒 一生 快速 优秀 律师 仍 准时 网页 弹 钢琴 重新'}
+];
+const hsk4Decks = {};
+for (const source of hsk4Sources) {
+  const lesson = source.section.lessons.find(l => l.id === source.id);
+  const data = JSON.parse(fs.readFileSync(path.join(root, 'decks', source.id+'.json')));
+  hsk4Decks[source.id] = data;
+  assert.equal(lesson.wordCount, source.count);
+  assert.equal(data.words.length, source.count);
+  assert.deepEqual(data.words.map(w => w.hanzi), source.words.split(' '), source.id + ': source word order');
+  assert.equal(new Set(data.words.map(w => w.id)).size, source.count, source.id + ': duplicate IDs');
+  const prompts = new Set();
+  for (const w of data.words) {
+    for (const field of ['id','hanzi','pinyin','ru','sentence','sentencePinyin','sentenceRu'])
+      assert.ok(w[field]?.trim(), source.id+'/'+w.id+': missing '+field);
+    assert.match(w.id, /^[a-z0-9_-]+$/);
+    assert.equal(w.sentence.split('___').length, 2);
+    assert.ok(!w.sentencePinyin.includes('___') && !w.sentenceRu.includes('___'));
+    const prompt = w.sentence.replace('___','').replace(/\s/g,'');
+    assert.ok(!prompts.has(prompt), source.id+': ambiguous duplicate quiz prompt');
+    prompts.add(prompt);
+    for (const excluded of w.quizExcludes||[]) assert.ok(data.words.some(x => x.id === excluded && x.id !== w.id));
+  }
+}
 // HSK-1 words are copied in source order from the three 生词 blocks of each lesson.
 // Repeated textbook entries (e.g. 天, 上) remain separate cards with distinct IDs.
 const hsk1Reference = [
@@ -188,10 +221,12 @@ const server = http.createServer((req, res) => {
   try {
     await page.goto(base);
     await page.locator('#btn-start').click(); await visible('sections');
-    assert.equal(await page.locator('#sections button').count(), 3);
+    assert.equal(await page.locator('#sections button').count(), 5);
     assert.equal(await page.locator('#sections button').first().innerText(), 'HSK-1\n新HSK教程 1 · 15 уроков\nДоступно 15 из 15 уроков →');
     assert.equal(await page.locator('#sections button').nth(1).innerText(), 'HSK-2\n新HSK教程 2 · 15 уроков\nДоступно 15 из 15 уроков →');
-    assert.equal(await page.locator('#sections button').last().innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 18 из 18 уроков →');
+    assert.equal(await page.locator('#sections button').nth(2).innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 18 из 18 уроков →');
+    assert.equal(await page.locator('#sections button').nth(3).innerText(), 'HSK-4A\n新HSK教程 4 上 · 10 уроков\nДоступно 1 из 10 уроков →');
+    assert.equal(await page.locator('#sections button').nth(4).innerText(), 'HSK-4B\n新HSK教程 4 下 · 10 уроков\nДоступно 1 из 10 уроков →');
     await page.locator('#sections button').first().click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 15);
     assert.equal(await page.locator('#lessons button:disabled').count(), 0);
@@ -200,7 +235,7 @@ const server = http.createServer((req, res) => {
     assert.equal(await page.locator('#lessons button').count(), 15);
     assert.equal(await page.locator('#lessons button:disabled').count(), 0);
     await page.locator('#btn-sections').click(); await visible('sections');
-    await page.locator('#sections button').last().click(); await visible('lessons');
+    await page.locator('#sections button').nth(2).click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 18);
     assert.equal(await page.locator('#lessons button:disabled').count(), 0);
     await page.screenshot({path:path.join(screenshots,'hsk3-lessons.png')});
@@ -259,7 +294,7 @@ const server = http.createServer((req, res) => {
       const data = decks[lesson.id];
       await page.goto(base);
       await page.locator('#btn-start').click();
-      await page.locator('#sections button').last().click();
+      await page.locator('#sections button').nth(2).click();
       await page.getByRole('button', {name:`${lesson.title} ${lesson.wordCount} слов · карточки и тест`,exact:true}).click();
       await page.locator('#btn-begin').click(); await visible('cards');
       const seen = new Set();
@@ -344,6 +379,56 @@ const server = http.createServer((req, res) => {
       assert.ok((await page.evaluate(() => window.shared)).text.includes(data.title));
     }
 
+    // HSK-4A/B: separate top-level sections, only completed lessons enabled.
+    await page.goto(base); await page.locator('#btn-start').click(); await visible('sections');
+    for (const index of [3,4]) {
+      await page.locator('#sections button').nth(index).click(); await visible('lessons');
+      assert.equal(await page.locator('#lessons button').count(), 10);
+      assert.equal(await page.locator('#lessons button:disabled').count(), 9);
+      assert.ok((await page.locator('#lessons button').first().innerText()).includes('40 слов') === (index === 3));
+      await page.locator('#btn-sections').click(); await visible('sections');
+    }
+    // HSK-4A lesson 1 / HSK-4B lesson 11: cards, audio, quiz, score, share.
+    for (const source of hsk4Sources) {
+      const data = hsk4Decks[source.id];
+      await page.goto(base + '/?deck=' + source.id); await visible('lesson');
+      await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
+      assert.equal(await page.locator('#deck-title').innerText(), data.title);
+      await page.locator('#btn-begin').click(); await visible('cards');
+      const firstHanzi = await page.locator('#front-hanzi').innerText();
+      const firstWord = data.words.find(w => w.hanzi === firstHanzi);
+      assert.ok(firstWord, source.id+': unknown first word');
+      await page.locator('#btn-no').click();
+      assert.equal(await page.locator('#back-ru').innerText(), firstWord.ru);
+      assert.equal((await page.locator('#back-ex-zh').innerText()).replace(/\s/g,''), firstWord.sentence.replace('___',firstWord.hanzi).replace(/\s/g,''));
+      await page.locator('#btn-audio-ex').click();
+      assert.deepEqual(await page.evaluate(() => window.played.slice(-2)), [
+        'audio/' + source.id + '/' + firstWord.id + '.mp3',
+        'audio/' + source.id + '/' + firstWord.id + '_s.mp3'
+      ]);
+      await page.screenshot({path:path.join(screenshots,source.id+'-card.png')});
+      await page.locator('#btn-next').click(); await tick();
+      for (let i=0;i<data.words.length;i++) {
+        await page.locator('#btn-yes').click(); await tick();
+      }
+      await visible('test');
+      for (let i=0;i<data.words.length;i++) {
+        const shown = await page.locator('#q-sentence').innerText();
+        const w = data.words.find(w => shown.replace(/\s/g,'') === w.sentence.replace('___','').replace(/\s/g,''));
+        assert.ok(w, source.id+': unknown quiz prompt '+shown);
+        const options = await page.locator('#options button').evaluateAll(bs => bs.map(b=>b.dataset.id));
+        assert.equal(options.length, 4);
+        assert.equal(new Set(options).size, 4);
+        assert.ok(options.includes(w.id));
+        await page.locator('#options button[data-id="'+w.id+'"]').click();
+        await page.locator('#btn-test-next').click();
+      }
+      await visible('result');
+      assert.equal(await page.locator('#score-num').innerText(), data.words.length+'/'+data.words.length);
+      await page.locator('#btn-share').click();
+      assert.ok((await page.evaluate(() => window.shared)).text.includes(data.title));
+    }
+
     // HSK-1: direct links, all words, both audio routes, all quiz questions and result.
     for (const lesson of hsk1Section.lessons) {
       const data = hsk1Decks[lesson.id];
@@ -396,6 +481,6 @@ const server = http.createServer((req, res) => {
     await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
     assert.equal(await page.locator('#deck-title').innerText(), 'HSK-3 · Урок 1');
     assert.equal(errors.length, 0, errors.join('\n'));
-    console.log('PASS: HSK-1 (15/317), HSK-2 (15/210), HSK-3 (18/482), 1009 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
+    console.log('PASS: HSK-1 (15/317), HSK-2 (15/210), HSK-3 (18/482), HSK-4A (1/40), HSK-4B (1/41), 1090 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
   } finally { await browser.close(); server.close(); }
 })().catch(e => { console.error(e); process.exitCode=1; server.close(); });
