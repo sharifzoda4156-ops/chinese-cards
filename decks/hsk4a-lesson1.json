@@ -1,0 +1,399 @@
+{
+  "title": "HSK-4A · Урок 1",
+  "subtitle": "我们来中国学习了 · Мы приехали в Китай учиться",
+  "source": "《新HSK教程 4 上》, урок 1, четыре блока 生词 №1–40, печатные страницы 2, 4, 6, 8 (PDF 12, 14, 16, 18); имена собственные не включены",
+  "words": [
+    {
+      "hanzi": "签证",
+      "pinyin": "qiān zhèng",
+      "ru": "виза",
+      "sentence": "申请___以前，要先准备材料。",
+      "sentencePinyin": "Shēnqǐng qiānzhèng yǐqián, yào xiān zhǔnbèi cáiliào.",
+      "sentenceRu": "Перед подачей заявления на визу нужно подготовить документы.",
+      "id": "qianzheng"
+    },
+    {
+      "hanzi": "入学",
+      "pinyin": "rù xué",
+      "ru": "поступать в учебное заведение",
+      "sentence": "他九月就要___了。",
+      "sentencePinyin": "Tā jiǔ yuè jiù yào rùxué le.",
+      "sentenceRu": "В сентябре он поступает на учёбу.",
+      "id": "ruxue"
+    },
+    {
+      "hanzi": "通知",
+      "pinyin": "tōng zhī",
+      "ru": "уведомлять; уведомление",
+      "sentence": "学校已经___了所有学生。",
+      "sentencePinyin": "Xuéxiào yǐjīng tōngzhī le suǒyǒu xuésheng.",
+      "sentenceRu": "Школа уже уведомила всех учеников.",
+      "id": "tongzhi"
+    },
+    {
+      "hanzi": "证件",
+      "pinyin": "zhèng jiàn",
+      "ru": "документы, удостоверяющие личность",
+      "sentence": "办理手续时请带好___。",
+      "sentencePinyin": "Bànlǐ shǒuxù shí qǐng dài hǎo zhèngjiàn.",
+      "sentenceRu": "При оформлении возьмите необходимые документы.",
+      "id": "zhengjian",
+      "quizExcludes": [
+        "cailiao"
+      ]
+    },
+    {
+      "hanzi": "材料",
+      "pinyin": "cái liào",
+      "ru": "материалы; документы для подачи",
+      "sentence": "申请学校需要准备哪些___？",
+      "sentencePinyin": "Shēnqǐng xuéxiào xūyào zhǔnbèi nǎxiē cáiliào?",
+      "sentenceRu": "Какие документы нужны для подачи заявления в учебное заведение?",
+      "id": "cailiao",
+      "quizExcludes": [
+        "zhengjian"
+      ]
+    },
+    {
+      "hanzi": "证",
+      "pinyin": "zhèng",
+      "ru": "удостоверение; свидетельство",
+      "sentence": "我终于拿到了学生___。",
+      "sentencePinyin": "Wǒ zhōngyú ná dào le xuéshengzhèng.",
+      "sentenceRu": "Я наконец получил студенческий билет.",
+      "id": "zheng"
+    },
+    {
+      "hanzi": "任何",
+      "pinyin": "rèn hé",
+      "ru": "любой; какой-либо",
+      "sentence": "如果有___问题，可以问老师。",
+      "sentencePinyin": "Rúguǒ yǒu rènhé wèntí, kěyǐ wèn lǎoshī.",
+      "sentenceRu": "Если возникнут любые вопросы, можно спросить преподавателя.",
+      "id": "renhe"
+    },
+    {
+      "hanzi": "食堂",
+      "pinyin": "shí táng",
+      "ru": "столовая",
+      "sentence": "中午我们去学校___吃饭。",
+      "sentencePinyin": "Zhōngwǔ wǒmen qù xuéxiào shítáng chīfàn.",
+      "sentenceRu": "В полдень мы идём обедать в школьную столовую.",
+      "id": "shitang"
+    },
+    {
+      "hanzi": "座",
+      "pinyin": "zuò",
+      "ru": "счётное слово для зданий и городов",
+      "sentence": "北京是一___历史悠久的城市。",
+      "sentencePinyin": "Běijīng shì yí zuò lìshǐ yōujiǔ de chéngshì.",
+      "sentenceRu": "Пекин — город с долгой историей.",
+      "id": "zuo"
+    },
+    {
+      "hanzi": "申请",
+      "pinyin": "shēn qǐng",
+      "ru": "подавать заявление; просить официально",
+      "sentence": "我准备___明年的奖学金。",
+      "sentencePinyin": "Wǒ zhǔnbèi shēnqǐng míngnián de jiǎngxuéjīn.",
+      "sentenceRu": "Я собираюсь подать заявление на стипендию на следующий год.",
+      "id": "shenqing"
+    },
+    {
+      "hanzi": "奖学金",
+      "pinyin": "jiǎng xué jīn",
+      "ru": "стипендия; грант на обучение",
+      "sentence": "她今年获得了一份___。",
+      "sentencePinyin": "Tā jīnnián huòdé le yí fèn jiǎngxuéjīn.",
+      "sentenceRu": "В этом году она получила стипендию.",
+      "id": "jiangxuejin"
+    },
+    {
+      "hanzi": "表现",
+      "pinyin": "biǎo xiàn",
+      "ru": "проявлять себя; выступать; поведение",
+      "sentence": "他在面试中___得很好。",
+      "sentencePinyin": "Tā zài miànshì zhōng biǎoxiàn de hěn hǎo.",
+      "sentenceRu": "Он очень хорошо проявил себя на собеседовании.",
+      "id": "biaoxian"
+    },
+    {
+      "hanzi": "获得",
+      "pinyin": "huò dé",
+      "ru": "получать; добиваться",
+      "sentence": "她努力学习，终于___了奖学金。",
+      "sentencePinyin": "Tā nǔlì xuéxí, zhōngyú huòdé le jiǎngxuéjīn.",
+      "sentenceRu": "Она усердно училась и наконец получила стипендию.",
+      "id": "huode"
+    },
+    {
+      "hanzi": "要是",
+      "pinyin": "yào shi",
+      "ru": "если; предположим, что",
+      "sentence": "___明天下雨，我们就不出去。",
+      "sentencePinyin": "Yàoshi míngtiān xià yǔ, wǒmen jiù bù chūqù.",
+      "sentenceRu": "Если завтра пойдёт дождь, мы не выйдем.",
+      "id": "yaoshi"
+    },
+    {
+      "hanzi": "减轻",
+      "pinyin": "jiǎn qīng",
+      "ru": "облегчать; уменьшать",
+      "sentence": "奖学金可以___家庭的经济压力。",
+      "sentencePinyin": "Jiǎngxuéjīn kěyǐ jiǎnqīng jiātíng de jīngjì yālì.",
+      "sentenceRu": "Стипендия может уменьшить финансовую нагрузку на семью.",
+      "id": "jianqing"
+    },
+    {
+      "hanzi": "经济",
+      "pinyin": "jīng jì",
+      "ru": "экономика; финансовое положение",
+      "sentence": "他对___方面的问题很感兴趣。",
+      "sentencePinyin": "Tā duì jīngjì fāngmiàn de wèntí hěn gǎn xìngqù.",
+      "sentenceRu": "Он интересуется вопросами экономики.",
+      "id": "jingji",
+      "quizExcludes": [
+        "maoyi"
+      ]
+    },
+    {
+      "hanzi": "压力",
+      "pinyin": "yā lì",
+      "ru": "давление; стресс; нагрузка",
+      "sentence": "考试前不要给自己太大___。",
+      "sentencePinyin": "Kǎoshì qián bú yào gěi zìjǐ tài dà yālì.",
+      "sentenceRu": "Перед экзаменом не создавай себе слишком сильный стресс.",
+      "id": "yali"
+    },
+    {
+      "hanzi": "加油",
+      "pinyin": "jiā yóu",
+      "ru": "подбадривать; стараться; вперёд!",
+      "sentence": "比赛快开始了，大家一起喊“___”！",
+      "sentencePinyin": "Bǐsài kuài kāishǐ le, dàjiā yìqǐ hǎn “jiāyóu”!",
+      "sentenceRu": "Соревнование скоро начнётся, все вместе кричат: «Вперёд!».",
+      "id": "jiayou"
+    },
+    {
+      "hanzi": "随着",
+      "pinyin": "suí zhe",
+      "ru": "вместе с; по мере того как",
+      "sentence": "___时间的推移，他慢慢适应了这里。",
+      "sentencePinyin": "Suízhe shíjiān de tuīyí, tā mànmàn shìyìng le zhèlǐ.",
+      "sentenceRu": "Со временем он постепенно привык к этому месту.",
+      "id": "suizhe"
+    },
+    {
+      "hanzi": "课程",
+      "pinyin": "kè chéng",
+      "ru": "учебный курс; программа",
+      "sentence": "这学期我们有五门___。",
+      "sentencePinyin": "Zhè xuéqī wǒmen yǒu wǔ mén kèchéng.",
+      "sentenceRu": "В этом семестре у нас пять учебных курсов.",
+      "id": "kecheng"
+    },
+    {
+      "hanzi": "专业",
+      "pinyin": "zhuān yè",
+      "ru": "специальность; профессиональный",
+      "sentence": "你打算选择什么___？",
+      "sentencePinyin": "Nǐ dǎsuàn xuǎnzé shénme zhuānyè?",
+      "sentenceRu": "Какую специальность ты собираешься выбрать?",
+      "id": "zhuanye"
+    },
+    {
+      "hanzi": "本科",
+      "pinyin": "běn kē",
+      "ru": "бакалавриат; программа высшего образования",
+      "sentence": "她正在读___三年级。",
+      "sentencePinyin": "Tā zhèngzài dú běnkē sān niánjí.",
+      "sentenceRu": "Она учится на третьем курсе бакалавриата.",
+      "id": "benke"
+    },
+    {
+      "hanzi": "硕士",
+      "pinyin": "shuò shì",
+      "ru": "магистр; магистратура",
+      "sentence": "大学毕业后，他想读___。",
+      "sentencePinyin": "Dàxué bìyè hòu, tā xiǎng dú shuòshì.",
+      "sentenceRu": "После окончания университета он хочет поступить в магистратуру.",
+      "id": "shuoshi",
+      "quizExcludes": [
+        "yanjiusheng",
+        "boshi"
+      ]
+    },
+    {
+      "hanzi": "研究生",
+      "pinyin": "yán jiū shēng",
+      "ru": "аспирант; студент магистратуры",
+      "sentence": "他是一名___，正在写论文。",
+      "sentencePinyin": "Tā shì yì míng yánjiūshēng, zhèngzài xiě lùnwén.",
+      "sentenceRu": "Он учится в магистратуре и пишет научную работу.",
+      "id": "yanjiusheng",
+      "quizExcludes": [
+        "shuoshi",
+        "boshi"
+      ]
+    },
+    {
+      "hanzi": "博士",
+      "pinyin": "bó shì",
+      "ru": "доктор наук; докторант",
+      "sentence": "她正在攻读___学位。",
+      "sentencePinyin": "Tā zhèngzài gōngdú bóshì xuéwèi.",
+      "sentenceRu": "Она учится на докторскую степень.",
+      "id": "boshi",
+      "quizExcludes": [
+        "shuoshi",
+        "yanjiusheng"
+      ]
+    },
+    {
+      "hanzi": "研究",
+      "pinyin": "yán jiū",
+      "ru": "исследовать; исследование",
+      "sentence": "教授正在___这个问题。",
+      "sentencePinyin": "Jiàoshòu zhèngzài yánjiū zhège wèntí.",
+      "sentenceRu": "Профессор исследует этот вопрос.",
+      "id": "yanjiu"
+    },
+    {
+      "hanzi": "活动",
+      "pinyin": "huó dòng",
+      "ru": "мероприятие; деятельность",
+      "sentence": "学校周末有很多___。",
+      "sentencePinyin": "Xuéxiào zhōumò yǒu hěn duō huódòng.",
+      "sentenceRu": "По выходным в школе много мероприятий.",
+      "id": "huodong"
+    },
+    {
+      "hanzi": "通过",
+      "pinyin": "tōng guò",
+      "ru": "пройти; посредством; через",
+      "sentence": "他___考试以后就可以毕业。",
+      "sentencePinyin": "Tā tōngguò kǎoshì yǐhòu jiù kěyǐ bìyè.",
+      "sentenceRu": "После успешной сдачи экзамена он сможет выпуститься.",
+      "id": "tongguo"
+    },
+    {
+      "hanzi": "交流",
+      "pinyin": "jiāo liú",
+      "ru": "обмениваться; общаться",
+      "sentence": "同学们经常用中文___。",
+      "sentencePinyin": "Tóngxuémen jīngcháng yòng Zhōngwén jiāoliú.",
+      "sentenceRu": "Ученики часто общаются на китайском.",
+      "id": "jiaoliu"
+    },
+    {
+      "hanzi": "适应",
+      "pinyin": "shì yìng",
+      "ru": "приспосабливаться; адаптироваться",
+      "sentence": "她很快___了中国的生活。",
+      "sentencePinyin": "Tā hěn kuài shìyìng le Zhōngguó de shēnghuó.",
+      "sentenceRu": "Она быстро привыкла к жизни в Китае.",
+      "id": "shiying"
+    },
+    {
+      "hanzi": "将来",
+      "pinyin": "jiāng lái",
+      "ru": "будущее; в будущем",
+      "sentence": "___我想当一名汉语教师。",
+      "sentencePinyin": "Jiānglái wǒ xiǎng dāng yì míng Hànyǔ jiàoshī.",
+      "sentenceRu": "В будущем я хочу стать преподавателем китайского.",
+      "id": "jianglai"
+    },
+    {
+      "hanzi": "国际",
+      "pinyin": "guó jì",
+      "ru": "международный",
+      "sentence": "他希望在一家___公司工作。",
+      "sentencePinyin": "Tā xīwàng zài yì jiā guójì gōngsī gōngzuò.",
+      "sentenceRu": "Он надеется работать в международной компании.",
+      "id": "guoji"
+    },
+    {
+      "hanzi": "当",
+      "pinyin": "dāng",
+      "ru": "работать кем-либо; быть в роли",
+      "sentence": "我希望以后___医生。",
+      "sentencePinyin": "Wǒ xīwàng yǐhòu dāng yīshēng.",
+      "sentenceRu": "Я надеюсь в будущем стать врачом.",
+      "id": "dang",
+      "audioText": "当老师",
+      "audioNote": "Здесь 当 читается dāng — «работать кем-либо»; для озвучки использован контекст 当老师."
+    },
+    {
+      "hanzi": "教育",
+      "pinyin": "jiào yù",
+      "ru": "образование; воспитывать",
+      "sentence": "她对儿童___非常感兴趣。",
+      "sentencePinyin": "Tā duì értóng jiàoyù fēicháng gǎn xìngqù.",
+      "sentenceRu": "Её очень интересует образование детей.",
+      "id": "jiaoyu"
+    },
+    {
+      "hanzi": "成为",
+      "pinyin": "chéng wéi",
+      "ru": "становиться; стать",
+      "sentence": "他努力学习，想___一名工程师。",
+      "sentencePinyin": "Tā nǔlì xuéxí, xiǎng chéngwéi yì míng gōngchéngshī.",
+      "sentenceRu": "Он усердно учится, чтобы стать инженером.",
+      "id": "chengwei"
+    },
+    {
+      "hanzi": "教师",
+      "pinyin": "jiào shī",
+      "ru": "преподаватель; учитель",
+      "sentence": "她是一名汉语___。",
+      "sentencePinyin": "Tā shì yì míng Hànyǔ jiàoshī.",
+      "sentenceRu": "Она преподаватель китайского языка.",
+      "id": "jiaoshi"
+    },
+    {
+      "hanzi": "贸易",
+      "pinyin": "mào yì",
+      "ru": "торговля",
+      "sentence": "他在大学学习国际___。",
+      "sentencePinyin": "Tā zài dàxué xuéxí guójì màoyì.",
+      "sentenceRu": "В университете он изучает международную торговлю.",
+      "id": "maoyi",
+      "quizExcludes": [
+        "jingji"
+      ]
+    },
+    {
+      "hanzi": "方面",
+      "pinyin": "fāng miàn",
+      "ru": "аспект; сторона вопроса",
+      "sentence": "这本书介绍了中国文化的很多___。",
+      "sentencePinyin": "Zhè běn shū jièshào le Zhōngguó wénhuà de hěn duō fāngmiàn.",
+      "sentenceRu": "В книге рассматривается много аспектов китайской культуры.",
+      "id": "fangmian",
+      "quizExcludes": [
+        "zhishi"
+      ]
+    },
+    {
+      "hanzi": "知识",
+      "pinyin": "zhī shi",
+      "ru": "знания",
+      "sentence": "学语言也能增加文化___。",
+      "sentencePinyin": "Xué yǔyán yě néng zēngjiā wénhuà zhīshi.",
+      "sentenceRu": "Изучение языка помогает расширить культурные знания.",
+      "id": "zhishi",
+      "quizExcludes": [
+        "fangmian"
+      ]
+    },
+    {
+      "hanzi": "另",
+      "pinyin": "lìng",
+      "ru": "другой; иной",
+      "sentence": "___一方面，我们也要注意身体健康。",
+      "sentencePinyin": "Lìng yì fāngmiàn, wǒmen yě yào zhùyì shēntǐ jiànkāng.",
+      "sentenceRu": "С другой стороны, нужно также следить за здоровьем.",
+      "id": "ling"
+    }
+  ]
+}

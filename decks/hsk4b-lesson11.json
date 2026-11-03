@@ -1,0 +1,396 @@
+{
+  "title": "HSK-4B · Урок 11",
+  "subtitle": "活到老学到老 · Учиться никогда не поздно",
+  "source": "《新HSK教程 4 下》, урок 11, четыре блока 生词 №1–41, печатные страницы 2, 5, 7, 9 (PDF 6, 9, 11, 13); собственные имена 太极拳 и 孔子 исключены",
+  "words": [
+    {
+      "hanzi": "老年",
+      "pinyin": "lǎo nián",
+      "ru": "пожилой возраст; старость",
+      "sentence": "到了___，他还在学习新知识。",
+      "sentencePinyin": "Dào le lǎonián, tā hái zài xuéxí xīn zhīshi.",
+      "sentenceRu": "Даже в пожилом возрасте он продолжает учиться новому.",
+      "id": "laonian"
+    },
+    {
+      "hanzi": "散步",
+      "pinyin": "sàn bù",
+      "ru": "гулять; прогуливаться",
+      "sentence": "爷爷每天早上去公园___。",
+      "sentencePinyin": "Yéye měi tiān zǎoshang qù gōngyuán sànbù.",
+      "sentenceRu": "Каждое утро дедушка гуляет в парке.",
+      "id": "sanbu"
+    },
+    {
+      "hanzi": "丰富",
+      "pinyin": "fēng fù",
+      "ru": "богатый; разнообразный; обогащать",
+      "sentence": "他的生活非常___，每天都有活动。",
+      "sentencePinyin": "Tā de shēnghuó fēicháng fēngfù, měi tiān dōu yǒu huódòng.",
+      "sentenceRu": "У него очень насыщенная жизнь, каждый день разные занятия.",
+      "id": "fengfu"
+    },
+    {
+      "hanzi": "羡慕",
+      "pinyin": "xiàn mù",
+      "ru": "завидовать; восхищаться",
+      "sentence": "我很___她能说四种语言。",
+      "sentencePinyin": "Wǒ hěn xiànmù tā néng shuō sì zhǒng yǔyán.",
+      "sentenceRu": "Я восхищаюсь тем, что она говорит на четырёх языках.",
+      "id": "xianmu"
+    },
+    {
+      "hanzi": "即使",
+      "pinyin": "jí shǐ",
+      "ru": "даже если; пусть даже",
+      "sentence": "___下雨，我也会去上课。",
+      "sentencePinyin": "Jíshǐ xià yǔ, wǒ yě huì qù shàngkè.",
+      "sentenceRu": "Даже если пойдёт дождь, я всё равно пойду на занятия.",
+      "id": "jishi"
+    },
+    {
+      "hanzi": "活",
+      "pinyin": "huó",
+      "ru": "жить; живой; жизненный",
+      "sentence": "他希望___到一百岁。",
+      "sentencePinyin": "Tā xīwàng huó dào yì bǎi suì.",
+      "sentenceRu": "Он надеется дожить до ста лет.",
+      "id": "huo"
+    },
+    {
+      "hanzi": "继续",
+      "pinyin": "jì xù",
+      "ru": "продолжать",
+      "sentence": "休息十分钟后，我们___学习。",
+      "sentencePinyin": "Xiūxi shí fēnzhōng hòu, wǒmen jìxù xuéxí.",
+      "sentenceRu": "После десятиминутного перерыва мы продолжим учиться.",
+      "id": "jixu",
+      "quizExcludes": [
+        "chongxin"
+      ]
+    },
+    {
+      "hanzi": "网友",
+      "pinyin": "wǎng yǒu",
+      "ru": "друг по интернету; онлайн-знакомый",
+      "sentence": "我和这位___已经认识三年了。",
+      "sentencePinyin": "Wǒ hé zhè wèi wǎngyǒu yǐjīng rènshi sān nián le.",
+      "sentenceRu": "С этим интернет-знакомым мы общаемся уже три года.",
+      "id": "wangyou"
+    },
+    {
+      "hanzi": "无聊",
+      "pinyin": "wú liáo",
+      "ru": "скучный; скучать",
+      "sentence": "今天没有事情做，我觉得很___。",
+      "sentencePinyin": "Jīntiān méiyǒu shìqing zuò, wǒ juéde hěn wúliáo.",
+      "sentenceRu": "Сегодня мне нечем заняться, и мне скучно.",
+      "id": "wuliao"
+    },
+    {
+      "hanzi": "数字",
+      "pinyin": "shù zì",
+      "ru": "число; цифра",
+      "sentence": "请把黑板上的___写下来。",
+      "sentencePinyin": "Qǐng bǎ hēibǎn shang de shùzì xiě xiàlái.",
+      "sentenceRu": "Запишите числа с доски.",
+      "id": "shuzi"
+    },
+    {
+      "hanzi": "点名",
+      "pinyin": "diǎn míng",
+      "ru": "проводить перекличку; вызывать по списку",
+      "sentence": "老师上课前会先___。",
+      "sentencePinyin": "Lǎoshī shàngkè qián huì xiān diǎnmíng.",
+      "sentenceRu": "Перед началом урока преподаватель проводит перекличку.",
+      "id": "dianming"
+    },
+    {
+      "hanzi": "教授",
+      "pinyin": "jiào shòu",
+      "ru": "профессор",
+      "sentence": "这位___正在给研究生上课。",
+      "sentencePinyin": "Zhè wèi jiàoshòu zhèngzài gěi yánjiūshēng shàngkè.",
+      "sentenceRu": "Этот профессор сейчас ведёт занятие у аспирантов.",
+      "id": "jiaoshou"
+    },
+    {
+      "hanzi": "线上",
+      "pinyin": "xiàn shàng",
+      "ru": "онлайн; в интернете",
+      "sentence": "我们今天通过___课程学习。",
+      "sentencePinyin": "Wǒmen jīntiān tōngguò xiànshàng kèchéng xuéxí.",
+      "sentenceRu": "Сегодня мы учимся через онлайн-курс.",
+      "id": "xianshang",
+      "quizExcludes": [
+        "xianxia"
+      ]
+    },
+    {
+      "hanzi": "线下",
+      "pinyin": "xiàn xià",
+      "ru": "офлайн; очно",
+      "sentence": "这个周末我们参加___活动。",
+      "sentencePinyin": "Zhège zhōumò wǒmen cānjiā xiànxià huódòng.",
+      "sentenceRu": "На выходных мы участвуем в очном мероприятии.",
+      "id": "xianxia",
+      "quizExcludes": [
+        "xianshang"
+      ]
+    },
+    {
+      "hanzi": "视频",
+      "pinyin": "shì pín",
+      "ru": "видео; видеозапись",
+      "sentence": "这段___介绍了学习方法。",
+      "sentencePinyin": "Zhè duàn shìpín jièshào le xuéxí fāngfǎ.",
+      "sentenceRu": "В этом видео рассказывается о способах обучения.",
+      "id": "shipin"
+    },
+    {
+      "hanzi": "记录",
+      "pinyin": "jì lù",
+      "ru": "записывать; запись",
+      "sentence": "请把重要的信息___下来。",
+      "sentencePinyin": "Qǐng bǎ zhòngyào de xìnxī jìlù xiàlái.",
+      "sentenceRu": "Запишите важную информацию.",
+      "id": "jilu"
+    },
+    {
+      "hanzi": "资料",
+      "pinyin": "zī liào",
+      "ru": "материалы; сведения",
+      "sentence": "上课前请准备好学习___。",
+      "sentencePinyin": "Shàngkè qián qǐng zhǔnbèi hǎo xuéxí zīliào.",
+      "sentenceRu": "Подготовьте учебные материалы перед занятием.",
+      "id": "ziliao"
+    },
+    {
+      "hanzi": "自学",
+      "pinyin": "zì xué",
+      "ru": "заниматься самостоятельно; самообучение",
+      "sentence": "他每天晚上在家___汉语。",
+      "sentencePinyin": "Tā měi tiān wǎnshang zài jiā zìxué Hànyǔ.",
+      "sentenceRu": "Каждый вечер он самостоятельно учит китайский дома.",
+      "id": "zixue"
+    },
+    {
+      "hanzi": "口语",
+      "pinyin": "kǒu yǔ",
+      "ru": "устная речь; разговорный язык",
+      "sentence": "想提高汉语___，就要多交流。",
+      "sentencePinyin": "Xiǎng tígāo Hànyǔ kǒuyǔ, jiù yào duō jiāoliú.",
+      "sentenceRu": "Чтобы улучшить разговорный китайский, нужно больше общаться.",
+      "id": "kouyu"
+    },
+    {
+      "hanzi": "科技",
+      "pinyin": "kē jì",
+      "ru": "наука и технологии",
+      "sentence": "现代___改变了我们的学习方式。",
+      "sentencePinyin": "Xiàndài kējì gǎibiàn le wǒmen de xuéxí fāngshì.",
+      "sentenceRu": "Современные технологии изменили способы обучения.",
+      "id": "keji"
+    },
+    {
+      "hanzi": "获取",
+      "pinyin": "huò qǔ",
+      "ru": "получать; добывать",
+      "sentence": "我们可以从网上___很多资料。",
+      "sentencePinyin": "Wǒmen kěyǐ cóng wǎngshàng huòqǔ hěn duō zīliào.",
+      "sentenceRu": "В интернете можно получить много материалов.",
+      "id": "huoqu"
+    },
+    {
+      "hanzi": "礼貌",
+      "pinyin": "lǐ mào",
+      "ru": "вежливость; вежливый",
+      "sentence": "和别人说话要有___。",
+      "sentencePinyin": "Hé biérén shuōhuà yào yǒu lǐmào.",
+      "sentenceRu": "При разговоре с другими нужно быть вежливым.",
+      "id": "limao"
+    },
+    {
+      "hanzi": "打招呼",
+      "pinyin": "dǎ zhāo hu",
+      "ru": "здороваться; приветствовать",
+      "sentence": "见到老师时，学生主动___。",
+      "sentencePinyin": "Jiàn dào lǎoshī shí, xuésheng zhǔdòng dǎ zhāohu.",
+      "sentenceRu": "Встретив преподавателя, ученик первым здоровается.",
+      "id": "dazhaohu"
+    },
+    {
+      "hanzi": "家长",
+      "pinyin": "jiā zhǎng",
+      "ru": "родители ученика; законные представители",
+      "sentence": "学校请所有___来开会。",
+      "sentencePinyin": "Xuéxiào qǐng suǒyǒu jiāzhǎng lái kāihuì.",
+      "sentenceRu": "Школа пригласила всех родителей на собрание.",
+      "id": "jiazhang"
+    },
+    {
+      "hanzi": "成功",
+      "pinyin": "chéng gōng",
+      "ru": "успех; успешный; добиться успеха",
+      "sentence": "经过努力，他终于___了。",
+      "sentencePinyin": "Jīngguò nǔlì, tā zhōngyú chénggōng le.",
+      "sentenceRu": "После долгих усилий он наконец добился успеха.",
+      "id": "chenggong"
+    },
+    {
+      "hanzi": "分数",
+      "pinyin": "fēn shù",
+      "ru": "баллы; оценка за экзамен",
+      "sentence": "这次考试我的___提高了。",
+      "sentencePinyin": "Zhè cì kǎoshì wǒ de fēnshù tígāo le.",
+      "sentenceRu": "На этот раз мой результат на экзамене улучшился.",
+      "id": "fenshu"
+    },
+    {
+      "hanzi": "目的",
+      "pinyin": "mù dì",
+      "ru": "цель; назначение",
+      "sentence": "学习语言的___是更好地交流。",
+      "sentencePinyin": "Xuéxí yǔyán de mùdì shì gèng hǎo de jiāoliú.",
+      "sentenceRu": "Цель изучения языка — лучше общаться.",
+      "id": "mudi"
+    },
+    {
+      "hanzi": "养成",
+      "pinyin": "yǎng chéng",
+      "ru": "сформировать; выработать привычку",
+      "sentence": "我们要___每天阅读的习惯。",
+      "sentencePinyin": "Wǒmen yào yǎngchéng měi tiān yuèdú de xíguàn.",
+      "sentenceRu": "Нужно выработать привычку читать каждый день.",
+      "id": "yangcheng"
+    },
+    {
+      "hanzi": "留",
+      "pinyin": "liú",
+      "ru": "оставаться; оставлять; задерживаться",
+      "sentence": "请在这里多___一会儿。",
+      "sentencePinyin": "Qǐng zài zhèlǐ duō liú yíhuìr.",
+      "sentenceRu": "Побудь здесь ещё немного.",
+      "id": "liu"
+    },
+    {
+      "hanzi": "做法",
+      "pinyin": "zuò fǎ",
+      "ru": "способ действий; метод",
+      "sentence": "老师的这种___很有效。",
+      "sentencePinyin": "Lǎoshī de zhè zhǒng zuòfǎ hěn yǒuxiào.",
+      "sentenceRu": "Этот метод преподавателя очень эффективен.",
+      "id": "zuofa"
+    },
+    {
+      "hanzi": "棒",
+      "pinyin": "bàng",
+      "ru": "отличный; замечательный",
+      "sentence": "你今天的表现真___！",
+      "sentencePinyin": "Nǐ jīntiān de biǎoxiàn zhēn bàng!",
+      "sentenceRu": "Сегодня ты прекрасно себя проявил!",
+      "id": "bang",
+      "quizExcludes": [
+        "youxiu"
+      ]
+    },
+    {
+      "hanzi": "一生",
+      "pinyin": "yì shēng",
+      "ru": "вся жизнь",
+      "sentence": "学习是一___的事情。",
+      "sentencePinyin": "Xuéxí shì yìshēng de shìqing.",
+      "sentenceRu": "Учёба — дело всей жизни.",
+      "id": "yisheng"
+    },
+    {
+      "hanzi": "快速",
+      "pinyin": "kuài sù",
+      "ru": "быстрый; стремительный",
+      "sentence": "通过网络，我们可以___找到学习资料。",
+      "sentencePinyin": "Tōngguò wǎngluò, wǒmen kěyǐ kuàisù zhǎodào xuéxí zīliào.",
+      "sentenceRu": "Через интернет мы можем быстро находить учебные материалы.",
+      "id": "kuaisu"
+    },
+    {
+      "hanzi": "优秀",
+      "pinyin": "yōu xiù",
+      "ru": "выдающийся; отличный",
+      "sentence": "她是一位非常___的老师。",
+      "sentencePinyin": "Tā shì yí wèi fēicháng yōuxiù de lǎoshī.",
+      "sentenceRu": "Она замечательный преподаватель.",
+      "id": "youxiu",
+      "quizExcludes": [
+        "bang"
+      ]
+    },
+    {
+      "hanzi": "律师",
+      "pinyin": "lǜ shī",
+      "ru": "адвокат; юрист",
+      "sentence": "他大学毕业后成为了一名___。",
+      "sentencePinyin": "Tā dàxué bìyè hòu chéngwéi le yì míng lǜshī.",
+      "sentenceRu": "После окончания университета он стал юристом.",
+      "id": "lushi"
+    },
+    {
+      "hanzi": "仍",
+      "pinyin": "réng",
+      "ru": "по-прежнему; всё ещё",
+      "sentence": "虽然退休了，他___每天读书。",
+      "sentencePinyin": "Suīrán tuìxiū le, tā réng měi tiān dúshū.",
+      "sentenceRu": "Хотя он вышел на пенсию, он по-прежнему читает каждый день.",
+      "id": "reng"
+    },
+    {
+      "hanzi": "准时",
+      "pinyin": "zhǔn shí",
+      "ru": "пунктуальный; вовремя",
+      "sentence": "老师每天都___到教室。",
+      "sentencePinyin": "Lǎoshī měi tiān dōu zhǔnshí dào jiàoshì.",
+      "sentenceRu": "Преподаватель каждый день приходит в класс вовремя.",
+      "id": "zhunshi"
+    },
+    {
+      "hanzi": "网页",
+      "pinyin": "wǎng yè",
+      "ru": "веб-страница",
+      "sentence": "这个___上有很多学习资料。",
+      "sentencePinyin": "Zhège wǎngyè shang yǒu hěn duō xuéxí zīliào.",
+      "sentenceRu": "На этой веб-странице много учебных материалов.",
+      "id": "wangye"
+    },
+    {
+      "hanzi": "弹",
+      "pinyin": "tán",
+      "ru": "играть на музыкальном инструменте",
+      "sentence": "我妹妹会___钢琴。",
+      "sentencePinyin": "Wǒ mèimei huì tán gāngqín.",
+      "sentenceRu": "Моя младшая сестра умеет играть на пианино.",
+      "id": "tan",
+      "audioText": "弹钢琴",
+      "audioNote": "Здесь 弹 читается tán — «играть на музыкальном инструменте»; для озвучки использован контекст 弹钢琴."
+    },
+    {
+      "hanzi": "钢琴",
+      "pinyin": "gāng qín",
+      "ru": "пианино; фортепиано",
+      "sentence": "她从小就开始学___。",
+      "sentencePinyin": "Tā cóng xiǎo jiù kāishǐ xué gāngqín.",
+      "sentenceRu": "Она учится играть на пианино с детства.",
+      "id": "gangqin"
+    },
+    {
+      "hanzi": "重新",
+      "pinyin": "chóng xīn",
+      "ru": "заново; вновь",
+      "sentence": "这道题做错了，请___做一遍。",
+      "sentencePinyin": "Zhè dào tí zuò cuò le, qǐng chóngxīn zuò yí biàn.",
+      "sentenceRu": "Задание сделано неправильно, реши его заново.",
+      "id": "chongxin",
+      "quizExcludes": [
+        "jixu"
+      ]
+    }
+  ]
+}

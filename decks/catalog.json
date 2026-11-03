@@ -356,6 +356,142 @@
           "wordCount": 28
         }
       ]
+    },
+    {
+      "id": "hsk4a",
+      "title": "HSK-4A",
+      "description": "新HSK教程 4 上 · 10 уроков",
+      "lessons": [
+        {
+          "id": "hsk4a-lesson1",
+          "title": "Урок 1",
+          "subtitle": "Мы приехали в Китай учиться",
+          "wordCount": 40,
+          "available": true
+        },
+        {
+          "id": "hsk4a-lesson2",
+          "title": "Урок 2",
+          "subtitle": "Мы сняли подходящую квартиру",
+          "available": false
+        },
+        {
+          "id": "hsk4a-lesson3",
+          "title": "Урок 3",
+          "subtitle": "Просто отсканируй телефоном",
+          "available": false
+        },
+        {
+          "id": "hsk4a-lesson4",
+          "title": "Урок 4",
+          "subtitle": "Рад, что смог помочь тебе",
+          "available": false
+        },
+        {
+          "id": "hsk4a-lesson5",
+          "title": "Урок 5",
+          "subtitle": "«Не боюсь острого» и «боюсь неострого»",
+          "available": false
+        },
+        {
+          "id": "hsk4a-lesson6",
+          "title": "Урок 6",
+          "subtitle": "Я пойду с тобой к врачу",
+          "available": false
+        },
+        {
+          "id": "hsk4a-lesson7",
+          "title": "Урок 7",
+          "subtitle": "Учиться во время работы",
+          "available": false
+        },
+        {
+          "id": "hsk4a-lesson8",
+          "title": "Урок 8",
+          "subtitle": "Отдыхай, когда пора отдыхать",
+          "available": false
+        },
+        {
+          "id": "hsk4a-lesson9",
+          "title": "Урок 9",
+          "subtitle": "Встретить тебя — как раз вовремя",
+          "available": false
+        },
+        {
+          "id": "hsk4a-lesson10",
+          "title": "Урок 10",
+          "subtitle": "Южане не понимают северного холода",
+          "available": false
+        }
+      ]
+    },
+    {
+      "id": "hsk4b",
+      "title": "HSK-4B",
+      "description": "新HSK教程 4 下 · 10 уроков",
+      "lessons": [
+        {
+          "id": "hsk4b-lesson11",
+          "title": "Урок 11",
+          "subtitle": "Учиться никогда не поздно",
+          "wordCount": 41,
+          "available": true
+        },
+        {
+          "id": "hsk4b-lesson12",
+          "title": "Урок 12",
+          "subtitle": "Счастливая семья",
+          "available": false
+        },
+        {
+          "id": "hsk4b-lesson13",
+          "title": "Урок 13",
+          "subtitle": "Прекрасные дни",
+          "available": false
+        },
+        {
+          "id": "hsk4b-lesson14",
+          "title": "Урок 14",
+          "subtitle": "Покупай только то, что подходит",
+          "available": false
+        },
+        {
+          "id": "hsk4b-lesson15",
+          "title": "Урок 15",
+          "subtitle": "Я сходил на собеседование",
+          "available": false
+        },
+        {
+          "id": "hsk4b-lesson16",
+          "title": "Урок 16",
+          "subtitle": "Планы не поспевают за переменами",
+          "available": false
+        },
+        {
+          "id": "hsk4b-lesson17",
+          "title": "Урок 17",
+          "subtitle": "Спорт делает меня здоровее",
+          "available": false
+        },
+        {
+          "id": "hsk4b-lesson18",
+          "title": "Урок 18",
+          "subtitle": "Технологии меняют жизнь",
+          "available": false
+        },
+        {
+          "id": "hsk4b-lesson19",
+          "title": "Урок 19",
+          "subtitle": "Все они молодцы",
+          "available": false
+        },
+        {
+          "id": "hsk4b-lesson20",
+          "title": "Урок 20",
+          "subtitle": "Всего не увидеть и не прочитать",
+          "available": false
+        }
+      ]
     }
   ]
 }
