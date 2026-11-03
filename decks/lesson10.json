@@ -1,0 +1,259 @@
+{
+  "title": "HSK-3 · Урок 10",
+  "subtitle": "你明天再把书还给我 · Можешь вернуть мне книгу завтра",
+  "source": "新HSK教程 3, урок 10, 生词 № 1–28, печатные страницы 87, 89, 91, 92",
+  "words": [
+    {
+      "id": "shuxue",
+      "hanzi": "数学",
+      "pinyin": "shù xué",
+      "ru": "математика",
+      "sentence": "他很喜欢___，算题算得很快。",
+      "sentencePinyin": "Tā hěn xǐhuan shùxué, suàn tí suàn de hěn kuài.",
+      "sentenceRu": "Он любит математику и быстро решает задачи."
+    },
+    {
+      "id": "renzhen",
+      "hanzi": "认真",
+      "pinyin": "rèn zhēn",
+      "ru": "старательный; серьёзно",
+      "sentence": "上课的时候，大家都___听老师讲。",
+      "sentencePinyin": "Shàngkè de shíhou, dàjiā dōu rènzhēn tīng lǎoshī jiǎng.",
+      "sentenceRu": "На уроке все внимательно слушают учителя."
+    },
+    {
+      "id": "biji",
+      "hanzi": "笔记",
+      "pinyin": "bǐ jì",
+      "ru": "записи; конспект",
+      "sentence": "老师讲课时，我把重点写在___里。",
+      "sentencePinyin": "Lǎoshī jiǎngkè shí, wǒ bǎ zhòngdiǎn xiě zài bǐjì lǐ.",
+      "sentenceRu": "Во время урока я записываю главное в конспект."
+    },
+    {
+      "id": "qingchu",
+      "hanzi": "清楚",
+      "pinyin": "qīng chu",
+      "ru": "ясный; понятно",
+      "sentence": "请说慢一点儿，我没有听___。",
+      "sentencePinyin": "Qǐng shuō màn yì diǎnr, wǒ méiyǒu tīng qīngchu.",
+      "sentenceRu": "Говорите помедленнее, я не расслышал."
+    },
+    {
+      "id": "heiban",
+      "hanzi": "黑板",
+      "pinyin": "hēi bǎn",
+      "ru": "классная доска",
+      "sentence": "老师正在___上写汉字。",
+      "sentencePinyin": "Lǎoshī zhèngzài hēibǎn shang xiě Hànzì.",
+      "sentenceRu": "Учитель пишет иероглифы на доске."
+    },
+    {
+      "id": "ba",
+      "hanzi": "把",
+      "pinyin": "bǎ",
+      "ru": "служебное слово перед объектом действия",
+      "sentence": "请___你的书放在桌子上。",
+      "sentencePinyin": "Qǐng bǎ nǐ de shū fàng zài zhuōzi shang.",
+      "sentenceRu": "Положи, пожалуйста, свою книгу на стол."
+    },
+    {
+      "id": "zuoye",
+      "hanzi": "作业",
+      "pinyin": "zuò yè",
+      "ru": "домашнее задание",
+      "sentence": "我做完___以后才去打球。",
+      "sentencePinyin": "Wǒ zuò wán zuòyè yǐhòu cái qù dǎ qiú.",
+      "sentenceRu": "Я пошёл играть в мяч только после домашнего задания."
+    },
+    {
+      "id": "bian",
+      "hanzi": "遍",
+      "pinyin": "biàn",
+      "ru": "раз; счётное слово для полного повторения",
+      "sentence": "这段录音我听了三___才听懂。",
+      "sentencePinyin": "Zhè duàn lùyīn wǒ tīng le sān biàn cái tīngdǒng.",
+      "sentenceRu": "Я понял эту запись только после трёх прослушиваний."
+    },
+    {
+      "id": "tigao",
+      "hanzi": "提高",
+      "pinyin": "tí gāo",
+      "ru": "повышать; улучшать",
+      "sentence": "多练习可以___汉语水平。",
+      "sentencePinyin": "Duō liànxí kěyǐ tígāo Hànyǔ shuǐpíng.",
+      "sentenceRu": "Частая практика помогает улучшить уровень китайского."
+    },
+    {
+      "id": "lishi",
+      "hanzi": "历史",
+      "pinyin": "lì shǐ",
+      "ru": "история",
+      "sentence": "我很喜欢学习中国___。",
+      "sentencePinyin": "Wǒ hěn xǐhuan xuéxí Zhōngguó lìshǐ.",
+      "sentenceRu": "Мне нравится изучать историю Китая."
+    },
+    {
+      "id": "nan",
+      "hanzi": "难",
+      "pinyin": "nán",
+      "ru": "трудный; сложно",
+      "sentence": "这道题太___了，我不会做。",
+      "sentencePinyin": "Zhè dào tí tài nán le, wǒ bú huì zuò.",
+      "sentenceRu": "Эта задача слишком трудная, я не могу её решить."
+    },
+    {
+      "id": "yaoqiu",
+      "hanzi": "要求",
+      "pinyin": "yāo qiú",
+      "ru": "требовать; требование",
+      "sentence": "老师___我们下周交作业。",
+      "sentencePinyin": "Lǎoshī yāoqiú wǒmen xià zhōu jiāo zuòyè.",
+      "sentenceRu": "Учитель требует сдать домашнюю работу на следующей неделе."
+    },
+    {
+      "id": "cha",
+      "hanzi": "差",
+      "pinyin": "chà",
+      "ru": "плохой; хуже; не хватать",
+      "sentence": "我昨天没睡好，今天精神很___。",
+      "sentencePinyin": "Wǒ zuótiān méi shuì hǎo, jīntiān jīngshén hěn chà.",
+      "sentenceRu": "Вчера я плохо спал и сегодня плохо себя чувствую."
+    },
+    {
+      "id": "fuxi",
+      "hanzi": "复习",
+      "pinyin": "fù xí",
+      "ru": "повторять пройденное",
+      "sentence": "考试前我每天都___生词。",
+      "sentencePinyin": "Kǎoshì qián wǒ měi tiān dōu fùxí shēngcí.",
+      "sentenceRu": "Перед экзаменом я каждый день повторяю новые слова."
+    },
+    {
+      "id": "waiyu",
+      "hanzi": "外语",
+      "pinyin": "wài yǔ",
+      "ru": "иностранный язык",
+      "sentence": "除了中文，她还会说两门___。",
+      "sentencePinyin": "Chúle Zhōngwén, tā hái huì shuō liǎng mén wàiyǔ.",
+      "sentenceRu": "Кроме китайского, она знает ещё два иностранных языка."
+    },
+    {
+      "id": "dangran",
+      "hanzi": "当然",
+      "pinyin": "dāng rán",
+      "ru": "конечно; разумеется",
+      "sentence": "甲：你能帮我吗？乙：___可以！",
+      "sentencePinyin": "Jiǎ: Nǐ néng bāng wǒ ma? Yǐ: Dāngrán kěyǐ!",
+      "sentenceRu": "— Можешь мне помочь? — Конечно!"
+    },
+    {
+      "id": "yudao",
+      "hanzi": "遇到",
+      "pinyin": "yù dào",
+      "ru": "встретить; столкнуться с",
+      "sentence": "学习的时候___问题，可以问老师。",
+      "sentencePinyin": "Xuéxí de shíhou yùdào wèntí, kěyǐ wèn lǎoshī.",
+      "sentenceRu": "Если во время учёбы возникнет вопрос, можно спросить учителя."
+    },
+    {
+      "id": "bangongshi",
+      "hanzi": "办公室",
+      "pinyin": "bàn gōng shì",
+      "ru": "кабинет; офис",
+      "sentence": "班主任现在在教师___里。",
+      "sentencePinyin": "Bānzhǔrèn xiànzài zài jiàoshī bàngōngshì lǐ.",
+      "sentenceRu": "Классный руководитель сейчас в учительской."
+    },
+    {
+      "id": "ye",
+      "hanzi": "页",
+      "pinyin": "yè",
+      "ru": "страница (счётное слово)",
+      "sentence": "请把课本翻到第十___。",
+      "sentencePinyin": "Qǐng bǎ kèběn fān dào dì shí yè.",
+      "sentenceRu": "Откройте учебник на десятой странице."
+    },
+    {
+      "id": "duihua",
+      "hanzi": "对话",
+      "pinyin": "duì huà",
+      "ru": "диалог; разговаривать",
+      "sentence": "今天我们要练习两个人的___。",
+      "sentencePinyin": "Jīntiān wǒmen yào liànxí liǎng ge rén de duìhuà.",
+      "sentenceRu": "Сегодня мы потренируем диалог между двумя людьми."
+    },
+    {
+      "id": "mingbai",
+      "hanzi": "明白",
+      "pinyin": "míng bai",
+      "ru": "понимать; ясно",
+      "sentence": "老师解释以后，我终于___了。",
+      "sentencePinyin": "Lǎoshī jiěshì yǐhòu, wǒ zhōngyú míngbai le.",
+      "sentenceRu": "После объяснения учителя я наконец понял."
+    },
+    {
+      "id": "jiang",
+      "hanzi": "讲",
+      "pinyin": "jiǎng",
+      "ru": "рассказывать; объяснять",
+      "sentence": "请你再___一遍这个故事。",
+      "sentencePinyin": "Qǐng nǐ zài jiǎng yí biàn zhège gùshi.",
+      "sentenceRu": "Расскажи, пожалуйста, эту историю ещё раз."
+    },
+    {
+      "id": "ju",
+      "hanzi": "句",
+      "pinyin": "jù",
+      "ru": "счётное слово для предложений, фраз",
+      "sentence": "老师说了三___话，我都记住了。",
+      "sentencePinyin": "Lǎoshī shuō le sān jù huà, wǒ dōu jìzhù le.",
+      "sentenceRu": "Я запомнил все три фразы учителя."
+    },
+    {
+      "id": "juzi",
+      "hanzi": "句子",
+      "pinyin": "jù zi",
+      "ru": "предложение (грамматическое)",
+      "sentence": "请用这个生词写一个___。",
+      "sentencePinyin": "Qǐng yòng zhège shēngcí xiě yí ge jùzi.",
+      "sentenceRu": "Составь предложение с этим новым словом."
+    },
+    {
+      "id": "nianji",
+      "hanzi": "年级",
+      "pinyin": "nián jí",
+      "ru": "класс или курс обучения",
+      "sentence": "我弟弟在小学三___上学。",
+      "sentencePinyin": "Wǒ dìdi zài xiǎoxué sān niánjí shàngxué.",
+      "sentenceRu": "Мой младший брат учится в третьем классе начальной школы."
+    },
+    {
+      "id": "hounian",
+      "hanzi": "后年",
+      "pinyin": "hòu nián",
+      "ru": "послезавтра в счёте лет; через два года",
+      "sentence": "今年是二〇二六年，___是二〇二八年。",
+      "sentencePinyin": "Jīnnián shì èr líng èr liù nián, hòunián shì èr líng èr bā nián.",
+      "sentenceRu": "Сейчас 2026 год, через два года будет 2028-й."
+    },
+    {
+      "id": "yiban",
+      "hanzi": "一般",
+      "pinyin": "yì bān",
+      "ru": "обычный; обычно; в целом",
+      "sentence": "我___早上七点起床。",
+      "sentencePinyin": "Wǒ yìbān zǎoshang qī diǎn qǐchuáng.",
+      "sentenceRu": "Обычно я встаю в семь утра."
+    },
+    {
+      "id": "nuli",
+      "hanzi": "努力",
+      "pinyin": "nǔ lì",
+      "ru": "стараться; прилагать усилия",
+      "sentence": "只要___学习，汉语就会进步。",
+      "sentencePinyin": "Zhǐyào nǔlì xuéxí, Hànyǔ jiù huì jìnbù.",
+      "sentenceRu": "Если старательно учиться, китайский будет улучшаться."
+    }
+  ]
+}
