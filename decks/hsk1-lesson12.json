@@ -59,7 +59,10 @@
       "ru": "дождь",
       "sentence": "今天的___下得很大。",
       "sentencePinyin": "Jīntiān de yǔ xià de hěn dà.",
-      "sentenceRu": "Сегодня идёт сильный дождь."
+      "sentenceRu": "Сегодня идёт сильный дождь.",
+      "quizExcludes": [
+        "xue"
+      ]
     },
     {
       "id": "youdianr",
@@ -86,7 +89,10 @@
       "ru": "холодный; холодно",
       "sentence": "今天太___了。",
       "sentencePinyin": "Jīntiān tài lěng le.",
-      "sentenceRu": "Сегодня очень холодно."
+      "sentenceRu": "Сегодня очень холодно.",
+      "quizExcludes": [
+        "re"
+      ]
     },
     {
       "id": "xia",
@@ -104,7 +110,10 @@
       "ru": "снег",
       "sentence": "冬天这里有很多___。",
       "sentencePinyin": "Dōngtiān zhèlǐ yǒu hěn duō xuě.",
-      "sentenceRu": "Зимой здесь много снега."
+      "sentenceRu": "Зимой здесь много снега.",
+      "quizExcludes": [
+        "yu"
+      ]
     },
     {
       "id": "lai",
@@ -216,7 +225,10 @@
       "ru": "горячий; тёплый",
       "sentence": "请喝一些___水。",
       "sentencePinyin": "Qǐng hē yìxiē rè shuǐ.",
-      "sentenceRu": "Выпей немного тёплой воды."
+      "sentenceRu": "Выпей немного тёплой воды.",
+      "quizExcludes": [
+        "leng"
+      ]
     },
     {
       "id": "shui",
