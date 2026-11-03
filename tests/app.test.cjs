@@ -420,6 +420,8 @@ const server = http.createServer((req, res) => {
         assert.equal(options.length, 4);
         assert.equal(new Set(options).size, 4);
         assert.ok(options.includes(w.id));
+        for (const excluded of w.quizExcludes || [])
+          assert.ok(!options.includes(excluded), source.id+'/'+w.id+': ambiguous distractor '+excluded);
         await page.locator('#options button[data-id="'+w.id+'"]').click();
         await page.locator('#btn-test-next').click();
       }
