@@ -220,7 +220,8 @@ const server = http.createServer((req, res) => {
     await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
     assert.equal(await page.locator('#deck-title').innerText(), 'HSK-2 · Урок 1');
     await page.locator('#btn-begin').click(); await visible('cards');
-    const hsk2First = hsk2Deck.words.find(w => w.hanzi === (await page.locator('#front-hanzi').innerText()));
+    const hsk2FirstHanzi = await page.locator('#front-hanzi').innerText();
+    const hsk2First = hsk2Deck.words.find(w => w.hanzi === hsk2FirstHanzi);
     assert.ok(hsk2First);
     await page.locator('#btn-no').click();
     assert.equal(await page.locator('#back-ru').innerText(), hsk2First.ru);
