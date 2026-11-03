@@ -1,0 +1,370 @@
+{
+  "title": "HSK-4A · Урок 6",
+  "subtitle": "我陪你一起去看病 · Я пойду с тобой к врачу",
+  "source": "《新HSK教程 4 上》, урок 6, 生词 №1–39 на печатных страницах 60, 62, 64, 66 (PDF 70, 72, 74, 76); без собственных имён 专有名词",
+  "words": [
+    {
+      "hanzi": "咳嗽",
+      "pinyin": "ké sou",
+      "ru": "кашлять; кашель",
+      "sentence": "他感冒了，一直在___。",
+      "sentencePinyin": "Tā gǎnmào le, yìzhí zài késou.",
+      "sentenceRu": "Он простудился и всё время кашляет.",
+      "id": "kesou",
+      "quizExcludes": [
+        "ke"
+      ]
+    },
+    {
+      "hanzi": "咳",
+      "pinyin": "ké",
+      "ru": "кашлять",
+      "sentence": "他一说话就忍不住___。",
+      "sentencePinyin": "Tā yì shuōhuà jiù rěn bu zhù ké.",
+      "sentenceRu": "Как только он начинает говорить, сразу кашляет.",
+      "id": "ke",
+      "quizExcludes": [
+        "kesou"
+      ],
+      "audioText": "咳一下",
+      "audioNote": "咳 здесь читается ké — «кашлять»."
+    },
+    {
+      "hanzi": "厉害",
+      "pinyin": "lì hai",
+      "ru": "сильно; очень; серьёзный",
+      "sentence": "他发烧了，咳得特别___。",
+      "sentencePinyin": "Tā fāshāo le, ké de tèbié lìhai.",
+      "sentenceRu": "У него температура, и он очень сильно кашляет.",
+      "id": "lihai"
+    },
+    {
+      "hanzi": "严重",
+      "pinyin": "yán zhòng",
+      "ru": "серьёзный; тяжёлый",
+      "sentence": "这次感冒比较___，应该看医生。",
+      "sentencePinyin": "Zhè cì gǎnmào bǐjiào yánzhòng, yīnggāi kàn yīshēng.",
+      "sentenceRu": "Эта простуда довольно серьёзная, нужно обратиться к врачу.",
+      "id": "yanzhong"
+    },
+    {
+      "hanzi": "赶快",
+      "pinyin": "gǎn kuài",
+      "ru": "поскорее; немедленно",
+      "sentence": "你发烧了，___去医院吧。",
+      "sentencePinyin": "Nǐ fāshāo le, gǎnkuài qù yīyuàn ba.",
+      "sentenceRu": "У тебя жар, скорее иди в больницу.",
+      "id": "gankuai"
+    },
+    {
+      "hanzi": "陪",
+      "pinyin": "péi",
+      "ru": "сопровождать; составлять компанию",
+      "sentence": "我可以___你一起去看医生。",
+      "sentencePinyin": "Wǒ kěyǐ péi nǐ yìqǐ qù kàn yīshēng.",
+      "sentenceRu": "Я могу пойти с тобой к врачу.",
+      "id": "pei"
+    },
+    {
+      "hanzi": "翻译",
+      "pinyin": "fān yì",
+      "ru": "переводить; переводчик",
+      "sentence": "他帮我把这句话___成了中文。",
+      "sentencePinyin": "Tā bāng wǒ bǎ zhè jù huà fānyì chéng le Zhōngwén.",
+      "sentenceRu": "Он помог перевести эту фразу на китайский.",
+      "id": "fanyi"
+    },
+    {
+      "hanzi": "护士",
+      "pinyin": "hù shi",
+      "ru": "медсестра; медбрат",
+      "sentence": "___让我先填写这张表。",
+      "sentencePinyin": "Hùshi ràng wǒ xiān tiánxiě zhè zhāng biǎo.",
+      "sentenceRu": "Медсестра попросила сначала заполнить эту форму.",
+      "id": "hushi"
+    },
+    {
+      "hanzi": "表",
+      "pinyin": "biǎo",
+      "ru": "бланк; форма; таблица",
+      "sentence": "请把这张___填写完整。",
+      "sentencePinyin": "Qǐng bǎ zhè zhāng biǎo tiánxiě wánzhěng.",
+      "sentenceRu": "Заполните этот бланк полностью.",
+      "id": "biao"
+    },
+    {
+      "hanzi": "性别",
+      "pinyin": "xìng bié",
+      "ru": "пол",
+      "sentence": "这张表上要填写姓名和___。",
+      "sentencePinyin": "Zhè zhāng biǎo shang yào tiánxiě xìngmíng hé xìngbié.",
+      "sentenceRu": "В бланке нужно указать имя и пол.",
+      "id": "xingbie"
+    },
+    {
+      "hanzi": "国籍",
+      "pinyin": "guó jí",
+      "ru": "гражданство; национальная принадлежность",
+      "sentence": "请在表格里写下你的___。",
+      "sentencePinyin": "Qǐng zài biǎogé lǐ xiě xià nǐ de guójí.",
+      "sentenceRu": "Укажите в форме своё гражданство.",
+      "id": "guoji"
+    },
+    {
+      "hanzi": "家庭",
+      "pinyin": "jiā tíng",
+      "ru": "семья; семейный",
+      "sentence": "他的___住在同一个城市。",
+      "sentencePinyin": "Tā de jiātíng zhù zài tóng yí ge chéngshì.",
+      "sentenceRu": "Его семья живёт в одном городе.",
+      "id": "jiating"
+    },
+    {
+      "hanzi": "地址",
+      "pinyin": "dì zhǐ",
+      "ru": "адрес",
+      "sentence": "请在这里写下你的家庭___。",
+      "sentencePinyin": "Qǐng zài zhèlǐ xiě xià nǐ de jiātíng dìzhǐ.",
+      "sentenceRu": "Напишите здесь свой домашний адрес.",
+      "id": "dizhi"
+    },
+    {
+      "hanzi": "挂号",
+      "pinyin": "guà hào",
+      "ru": "регистрироваться на приём к врачу",
+      "sentence": "在医院看病要先___。",
+      "sentencePinyin": "Zài yīyuàn kànbìng yào xiān guàhào.",
+      "sentenceRu": "Прежде чем попасть к врачу, нужно зарегистрироваться.",
+      "id": "guahao"
+    },
+    {
+      "hanzi": "排队",
+      "pinyin": "pái duì",
+      "ru": "стоять в очереди",
+      "sentence": "我们在窗口前___等着挂号。",
+      "sentencePinyin": "Wǒmen zài chuāngkǒu qián páiduì děng zhe guàhào.",
+      "sentenceRu": "Мы стоим в очереди у окошка для регистрации.",
+      "id": "paidui"
+    },
+    {
+      "hanzi": "大厅",
+      "pinyin": "dà tīng",
+      "ru": "вестибюль; главный зал",
+      "sentence": "请先到医院的___等候。",
+      "sentencePinyin": "Qǐng xiān dào yīyuàn de dàtīng děnghòu.",
+      "sentenceRu": "Сначала подождите в холле больницы.",
+      "id": "dating"
+    },
+    {
+      "hanzi": "偶尔",
+      "pinyin": "ǒu ěr",
+      "ru": "изредка; иногда",
+      "sentence": "我平时很少生病，___会感冒。",
+      "sentencePinyin": "Wǒ píngshí hěn shǎo shēngbìng, ǒu'ěr huì gǎnmào.",
+      "sentenceRu": "Обычно я редко болею, лишь иногда простужаюсь.",
+      "id": "ouer"
+    },
+    {
+      "hanzi": "身",
+      "pinyin": "shēn",
+      "ru": "тело; счётное слово для одежды и ощущений",
+      "sentence": "运动以后，他出了一___汗。",
+      "sentencePinyin": "Yùndòng yǐhòu, tā chū le yì shēn hàn.",
+      "sentenceRu": "После тренировки он весь вспотел.",
+      "id": "shen"
+    },
+    {
+      "hanzi": "结果",
+      "pinyin": "jié guǒ",
+      "ru": "результат; итог",
+      "sentence": "检查___出来以后，医生就告诉我了。",
+      "sentencePinyin": "Jiǎnchá jiéguǒ chūlái yǐhòu, yīshēng jiù gàosu wǒ le.",
+      "sentenceRu": "Когда результаты обследования были готовы, врач сообщил мне.",
+      "id": "jieguo"
+    },
+    {
+      "hanzi": "性",
+      "pinyin": "xìng",
+      "ru": "суффикс свойства или качества",
+      "sentence": "这件事有很大的可能___。",
+      "sentencePinyin": "Zhè jiàn shì yǒu hěn dà de kěnéngxìng.",
+      "sentenceRu": "Это вполне возможно.",
+      "id": "xing_quality"
+    },
+    {
+      "hanzi": "体温",
+      "pinyin": "tǐ wēn",
+      "ru": "температура тела",
+      "sentence": "护士给病人量了___。",
+      "sentencePinyin": "Hùshi gěi bìngrén liáng le tǐwēn.",
+      "sentenceRu": "Медсестра измерила пациенту температуру.",
+      "id": "tiwen"
+    },
+    {
+      "hanzi": "降",
+      "pinyin": "jiàng",
+      "ru": "понижаться; снижать",
+      "sentence": "吃药后，体温慢慢___下来了。",
+      "sentencePinyin": "Chī yào hòu, tǐwēn mànmàn jiàng xiàlái le.",
+      "sentenceRu": "После лекарства температура постепенно снизилась.",
+      "id": "jiang"
+    },
+    {
+      "hanzi": "光",
+      "pinyin": "guāng",
+      "ru": "только; лишь",
+      "sentence": "___吃药不休息，身体也不容易好。",
+      "sentencePinyin": "Guāng chī yào bù xiūxi, shēntǐ yě bù róngyì hǎo.",
+      "sentenceRu": "Если только принимать лекарства и не отдыхать, выздороветь будет непросто.",
+      "id": "guang",
+      "audioText": "光吃药",
+      "audioNote": "Здесь 光 означает «только», читается guāng."
+    },
+    {
+      "hanzi": "打针",
+      "pinyin": "dǎ zhēn",
+      "ru": "делать укол; получать инъекцию",
+      "sentence": "医生说病人可能需要___。",
+      "sentencePinyin": "Yīshēng shuō bìngrén kěnéng xūyào dǎzhēn.",
+      "sentenceRu": "Врач сказал, что пациенту, возможно, нужен укол.",
+      "id": "dazhen"
+    },
+    {
+      "hanzi": "有效",
+      "pinyin": "yǒu xiào",
+      "ru": "эффективный; действенный",
+      "sentence": "这个办法对他非常___。",
+      "sentencePinyin": "Zhège bànfǎ duì tā fēicháng yǒuxiào.",
+      "sentenceRu": "Этот метод оказался для него очень эффективным.",
+      "id": "youxiao"
+    },
+    {
+      "hanzi": "按时",
+      "pinyin": "àn shí",
+      "ru": "вовремя; в назначенное время",
+      "sentence": "医生让我每天___吃药。",
+      "sentencePinyin": "Yīshēng ràng wǒ měi tiān ànshí chī yào.",
+      "sentenceRu": "Врач велел мне принимать лекарства вовремя каждый день.",
+      "id": "anshi"
+    },
+    {
+      "hanzi": "汗",
+      "pinyin": "hàn",
+      "ru": "пот",
+      "sentence": "跑步以后，他出了一身___。",
+      "sentencePinyin": "Pǎobù yǐhòu, tā chū le yì shēn hàn.",
+      "sentenceRu": "После пробежки он весь вспотел.",
+      "id": "han"
+    },
+    {
+      "hanzi": "醒",
+      "pinyin": "xǐng",
+      "ru": "просыпаться; пробуждаться",
+      "sentence": "今天早上我六点就___了。",
+      "sentencePinyin": "Jīntiān zǎoshang wǒ liù diǎn jiù xǐng le.",
+      "sentenceRu": "Сегодня я проснулся уже в шесть утра.",
+      "id": "xing_wake"
+    },
+    {
+      "hanzi": "感觉",
+      "pinyin": "gǎn jué",
+      "ru": "чувствовать; ощущение",
+      "sentence": "吃完药以后，我___好多了。",
+      "sentencePinyin": "Chī wán yào yǐhòu, wǒ gǎnjué hǎo duō le.",
+      "sentenceRu": "После лекарства я чувствую себя намного лучше.",
+      "id": "ganjue"
+    },
+    {
+      "hanzi": "低",
+      "pinyin": "dī",
+      "ru": "низкий; невысокий",
+      "sentence": "他的体温比昨天___了。",
+      "sentencePinyin": "Tā de tǐwēn bǐ zuótiān dī le.",
+      "sentenceRu": "Его температура ниже, чем вчера.",
+      "id": "di"
+    },
+    {
+      "hanzi": "难受",
+      "pinyin": "nán shòu",
+      "ru": "плохо себя чувствовать; тяжело",
+      "sentence": "我今天头疼，身体很___。",
+      "sentencePinyin": "Wǒ jīntiān tóuténg, shēntǐ hěn nánshòu.",
+      "sentenceRu": "Сегодня у меня болит голова и я плохо себя чувствую.",
+      "id": "nanshou"
+    },
+    {
+      "hanzi": "通",
+      "pinyin": "tōng",
+      "ru": "понимать; владеть; соединять",
+      "sentence": "这位医生精___英语和中文。",
+      "sentencePinyin": "Zhè wèi yīshēng jīngtōng Yīngyǔ hé Zhōngwén.",
+      "sentenceRu": "Этот врач свободно владеет английским и китайским.",
+      "id": "tong"
+    },
+    {
+      "hanzi": "过程",
+      "pinyin": "guò chéng",
+      "ru": "процесс; ход событий",
+      "sentence": "医生解释了检查的整个___。",
+      "sentencePinyin": "Yīshēng jiěshì le jiǎnchá de zhěnggè guòchéng.",
+      "sentenceRu": "Врач объяснил весь процесс обследования.",
+      "id": "guocheng"
+    },
+    {
+      "hanzi": "部",
+      "pinyin": "bù",
+      "ru": "отдел; подразделение",
+      "sentence": "医院的国际___在二楼。",
+      "sentencePinyin": "Yīyuàn de guójì bù zài èr lóu.",
+      "sentenceRu": "Международное отделение больницы находится на втором этаже.",
+      "id": "bu_department"
+    },
+    {
+      "hanzi": "收费",
+      "pinyin": "shōu fèi",
+      "ru": "взимать плату; оплата услуг",
+      "sentence": "这家医院的国际部___比较高。",
+      "sentencePinyin": "Zhè jiā yīyuàn de guójì bù shōufèi bǐjiào gāo.",
+      "sentenceRu": "В международном отделении этой больницы довольно высокие цены.",
+      "id": "shoufei"
+    },
+    {
+      "hanzi": "情况",
+      "pinyin": "qíng kuàng",
+      "ru": "ситуация; обстоятельства; состояние",
+      "sentence": "医生先了解了病人的___。",
+      "sentencePinyin": "Yīshēng xiān liǎojiě le bìngrén de qíngkuàng.",
+      "sentenceRu": "Сначала врач выяснил состояние пациента.",
+      "id": "qingkuang"
+    },
+    {
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "ru": "чтобы; для того чтобы (после действия)",
+      "sentence": "我记下地址，___找到医院。",
+      "sentencePinyin": "Wǒ jì xià dìzhǐ, hǎo zhǎodào yīyuàn.",
+      "sentenceRu": "Я записал адрес, чтобы найти больницу.",
+      "id": "hao",
+      "audioText": "好找到",
+      "audioNote": "Здесь 好 — целевая конструкция «чтобы», читается hǎo."
+    },
+    {
+      "hanzi": "治疗",
+      "pinyin": "zhì liáo",
+      "ru": "лечить; лечение",
+      "sentence": "医生给病人安排了合适的___。",
+      "sentencePinyin": "Yīshēng gěi bìngrén ānpái le héshì de zhìliáo.",
+      "sentenceRu": "Врач назначил пациенту подходящее лечение.",
+      "id": "zhiliao"
+    },
+    {
+      "hanzi": "步",
+      "pinyin": "bù",
+      "ru": "шаг; этап",
+      "sentence": "请按医生说的一___一步来。",
+      "sentencePinyin": "Qǐng àn yīshēng shuō de yí bù yí bù lái.",
+      "sentenceRu": "Действуйте шаг за шагом, как сказал врач.",
+      "id": "bu_step"
+    }
+  ]
+}
