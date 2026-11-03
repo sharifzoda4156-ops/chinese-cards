@@ -1,0 +1,151 @@
+{
+  "title": "HSK-2 · Урок 2",
+  "subtitle": "还是打车去北大吧 · Лучше поехать в Пекинский университет на такси",
+  "source": "新HSK教程 2, урок 2, 生词 № 1–16, печатные страницы 11, 13, 15, 16 (PDF +16); имена собственные исключены",
+  "words": [
+    {
+      "hanzi": "公交车",
+      "pinyin": "gōng jiāo chē",
+      "ru": "автобус",
+      "sentence": "我每天坐___去学校。",
+      "sentencePinyin": "Wǒ měi tiān zuò gōngjiāochē qù xuéxiào.",
+      "sentenceRu": "Я каждый день езжу в школу на автобусе.",
+      "id": "gongjiaoche"
+    },
+    {
+      "hanzi": "但",
+      "pinyin": "dàn",
+      "ru": "но; однако",
+      "sentence": "我想去，___今天没有时间。",
+      "sentencePinyin": "Wǒ xiǎng qù, dàn jīntiān méiyǒu shíjiān.",
+      "sentenceRu": "Я хочу пойти, но сегодня нет времени.",
+      "id": "dan"
+    },
+    {
+      "hanzi": "车站",
+      "pinyin": "chē zhàn",
+      "ru": "станция; остановка",
+      "sentence": "我在___等公交车。",
+      "sentencePinyin": "Wǒ zài chēzhàn děng gōngjiāochē.",
+      "sentenceRu": "Я жду автобус на остановке.",
+      "id": "chezhan"
+    },
+    {
+      "hanzi": "远",
+      "pinyin": "yuǎn",
+      "ru": "далёкий; далеко",
+      "sentence": "学校离这里很___。",
+      "sentencePinyin": "Xuéxiào lí zhèlǐ hěn yuǎn.",
+      "sentenceRu": "Школа отсюда далеко.",
+      "id": "yuan"
+    },
+    {
+      "hanzi": "打车",
+      "pinyin": "dǎ chē",
+      "ru": "взять такси; ехать на такси",
+      "sentence": "时间不够，我们___吧。",
+      "sentencePinyin": "Shíjiān bú gòu, wǒmen dǎchē ba.",
+      "sentenceRu": "Времени мало, давай возьмём такси.",
+      "id": "dache"
+    },
+    {
+      "hanzi": "还是",
+      "pinyin": "hái shi",
+      "ru": "всё-таки; лучше; или",
+      "sentence": "太晚了，我们___打车吧。",
+      "sentencePinyin": "Tài wǎn le, wǒmen háishi dǎchē ba.",
+      "sentenceRu": "Уже поздно, лучше всё-таки взять такси.",
+      "id": "haishi"
+    },
+    {
+      "hanzi": "啊",
+      "pinyin": "a",
+      "ru": "восклицательная частица",
+      "sentence": "这儿真漂亮___！",
+      "sentencePinyin": "Zhèr zhēn piàoliang a!",
+      "sentenceRu": "Как здесь красиво!",
+      "id": "a"
+    },
+    {
+      "hanzi": "万",
+      "pinyin": "wàn",
+      "ru": "десять тысяч",
+      "sentence": "这个学校有三___名学生。",
+      "sentencePinyin": "Zhège xuéxiào yǒu sān wàn míng xuéshēng.",
+      "sentenceRu": "В этой школе тридцать тысяч учащихся.",
+      "id": "wan"
+    },
+    {
+      "hanzi": "名",
+      "pinyin": "míng",
+      "ru": "имя; счётное слово для людей",
+      "sentence": "我们班来了两___新同学。",
+      "sentencePinyin": "Wǒmen bān lái le liǎng míng xīn tóngxué.",
+      "sentenceRu": "К нам в класс пришли двое новых учеников.",
+      "id": "ming"
+    },
+    {
+      "hanzi": "网上",
+      "pinyin": "wǎng shàng",
+      "ru": "в интернете; онлайн",
+      "sentence": "我在___买了电影票。",
+      "sentencePinyin": "Wǒ zài wǎngshàng mǎi le diànyǐngpiào.",
+      "sentenceRu": "Я купил билеты в кино в интернете.",
+      "id": "wangshang"
+    },
+    {
+      "hanzi": "外国",
+      "pinyin": "wài guó",
+      "ru": "зарубежная страна; заграница",
+      "sentence": "她来自___，正在学汉语。",
+      "sentencePinyin": "Tā láizì wàiguó, zhèngzài xué Hànyǔ.",
+      "sentenceRu": "Она приехала из другой страны и учит китайский.",
+      "id": "waiguo"
+    },
+    {
+      "hanzi": "间",
+      "pinyin": "jiān",
+      "ru": "счётное слово для комнат",
+      "sentence": "我们学校有十___教室。",
+      "sentencePinyin": "Wǒmen xuéxiào yǒu shí jiān jiàoshì.",
+      "sentenceRu": "В нашей школе десять классов.",
+      "id": "jian"
+    },
+    {
+      "hanzi": "教室",
+      "pinyin": "jiào shì",
+      "ru": "классная комната; аудитория",
+      "sentence": "老师正在___里讲课。",
+      "sentencePinyin": "Lǎoshī zhèngzài jiàoshì lǐ jiǎngkè.",
+      "sentenceRu": "Учитель ведёт урок в классе.",
+      "id": "jiaoshi"
+    },
+    {
+      "hanzi": "票",
+      "pinyin": "piào",
+      "ru": "билет",
+      "sentence": "电影___已经卖完了。",
+      "sentencePinyin": "Diànyǐngpiào yǐjīng mài wán le.",
+      "sentenceRu": "Билеты в кино уже распроданы.",
+      "id": "piao"
+    },
+    {
+      "hanzi": "别",
+      "pinyin": "bié",
+      "ru": "не надо; запрещающая частица",
+      "sentence": "___着急，还有时间。",
+      "sentencePinyin": "Bié zhāojí, hái yǒu shíjiān.",
+      "sentenceRu": "Не волнуйся, время ещё есть.",
+      "id": "bie"
+    },
+    {
+      "hanzi": "过来",
+      "pinyin": "guò lái",
+      "ru": "подойти сюда; прийти",
+      "sentence": "老师叫我___看看。",
+      "sentencePinyin": "Lǎoshī jiào wǒ guòlái kànkan.",
+      "sentenceRu": "Учитель позвал меня подойти и посмотреть.",
+      "id": "guolai"
+    }
+  ]
+}
