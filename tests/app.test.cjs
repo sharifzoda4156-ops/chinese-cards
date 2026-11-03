@@ -351,18 +351,22 @@ const server = http.createServer((req, res) => {
       await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
       assert.equal(await page.locator('#deck-title').innerText(), data.title);
       await page.locator('#btn-begin').click(); await visible('cards');
-      // Show the whole deck once and check front, back, full example and both sound URLs.
+      // The app shuffles cards; identify each by both hanzi and translation.
+      const seenIds = new Set();
       for (let i = 0; i < data.words.length; i++) {
-        const w = data.words[i];
-        assert.equal(await page.locator('#front-hanzi').innerText(), w.hanzi, lesson.id + ': card order');
+        const hanzi = await page.locator('#front-hanzi').innerText();
         await page.locator('#btn-no').click();
-        assert.equal(await page.locator('#back-ru').innerText(), w.ru);
+        const translation = await page.locator('#back-ru').innerText();
+        const w = data.words.find(x => x.hanzi === hanzi && x.ru === translation);
+        assert.ok(w, lesson.id + ': unknown card ' + hanzi + ' / ' + translation);
+        seenIds.add(w.id);
         assert.equal((await page.locator('#back-ex-zh').innerText()).replace(/\s/g,''), w.sentence.replace('___',w.hanzi).replace(/\s/g,''));
         await page.locator('#btn-audio-ex').click();
         assert.deepEqual(await page.evaluate(() => window.played.slice(-2)), ['audio/' + lesson.id + '/' + w.id + '.mp3', 'audio/' + lesson.id + '/' + w.id + '_s.mp3']);
         if (i === 0) await page.screenshot({path:path.join(screenshots,lesson.id + '-card.png')});
         await page.locator('#btn-next').click(); await tick();
       }
+      assert.equal(seenIds.size, data.words.length, lesson.id + ': unique shuffled cards');
       // First pass all marked unknown; second pass learned.
       for (let i=0; i<data.words.length; i++) {
         await page.locator('#btn-yes').click(); await tick();
