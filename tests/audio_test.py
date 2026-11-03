@@ -35,7 +35,7 @@ async def check():
         await audio.main()
         expected = []
         total_words = 0
-        for deck_path in sorted((audio.ROOT/'decks').glob('lesson*.json')):
+        for deck_path in sorted(p for p in (audio.ROOT/'decks').glob('*.json') if p.name != 'catalog.json'):
             words = json.loads(deck_path.read_text())['words']
             total_words += len(words)
             for w in words:
