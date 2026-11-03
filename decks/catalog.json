@@ -471,37 +471,43 @@
           "id": "hsk4b-lesson15",
           "title": "Урок 15",
           "subtitle": "Я сходил на собеседование",
-          "available": false
+          "available": true,
+          "wordCount": 37
         },
         {
           "id": "hsk4b-lesson16",
           "title": "Урок 16",
           "subtitle": "Планы не поспевают за переменами",
-          "available": false
+          "available": true,
+          "wordCount": 41
         },
         {
           "id": "hsk4b-lesson17",
           "title": "Урок 17",
           "subtitle": "Спорт делает меня здоровее",
-          "available": false
+          "available": true,
+          "wordCount": 41
         },
         {
           "id": "hsk4b-lesson18",
           "title": "Урок 18",
           "subtitle": "Технологии меняют жизнь",
-          "available": false
+          "available": true,
+          "wordCount": 39
         },
         {
           "id": "hsk4b-lesson19",
           "title": "Урок 19",
           "subtitle": "Все они молодцы",
-          "available": false
+          "available": true,
+          "wordCount": 40
         },
         {
           "id": "hsk4b-lesson20",
           "title": "Урок 20",
           "subtitle": "Всего не увидеть и не прочитать",
-          "available": false
+          "available": true,
+          "wordCount": 41
         }
       ]
     }
