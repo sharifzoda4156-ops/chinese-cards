@@ -55,7 +55,10 @@
       "ru": "воскресенье",
       "sentence": "___我们不上课。",
       "sentencePinyin": "Xīngqīrì wǒmen bú shàngkè.",
-      "sentenceRu": "В воскресенье у нас нет занятий."
+      "sentenceRu": "В воскресенье у нас нет занятий.",
+      "quizExcludes": [
+        "xingqitian"
+      ]
     },
     {
       "id": "xingqitian",
@@ -64,7 +67,10 @@
       "ru": "воскресенье (разговорное)",
       "sentence": "这个___我去看朋友。",
       "sentencePinyin": "Zhège xīngqītiān wǒ qù kàn péngyou.",
-      "sentenceRu": "В это воскресенье я навещу друга."
+      "sentenceRu": "В это воскресенье я навещу друга.",
+      "quizExcludes": [
+        "xingqiri"
+      ]
     },
     {
       "id": "xiuxi",
