@@ -1,0 +1,223 @@
+{
+  "title": "HSK-3 · Урок 15",
+  "subtitle": "我是半个南京人 · Я почти наполовину житель Нанкина",
+  "source": "新HSK教程 3, урок 15, 生词 № 1–24, страницы 134, 136, 138, 139; имя собственное 南京 не включено",
+  "words": [
+    {
+      "id": "lan",
+      "hanzi": "蓝",
+      "pinyin": "lán",
+      "ru": "синий; голубой",
+      "sentence": "晴天的时候，天空特别___。",
+      "sentencePinyin": "Qíngtiān de shíhou, tiānkōng tèbié lán.",
+      "sentenceRu": "В ясный день небо особенно синее."
+    },
+    {
+      "id": "duan",
+      "hanzi": "段",
+      "pinyin": "duàn",
+      "ru": "отрезок; промежуток (времени, расстояния)",
+      "sentence": "这___马路正在修理，汽车不能走。",
+      "sentencePinyin": "Zhè duàn mǎlù zhèngzài xiūlǐ, qìchē bù néng zǒu.",
+      "sentenceRu": "Этот участок дороги ремонтируют, машины не проедут."
+    },
+    {
+      "id": "fujin",
+      "hanzi": "附近",
+      "pinyin": "fù jìn",
+      "ru": "поблизости; рядом",
+      "sentence": "学校___有一家很大的超市。",
+      "sentencePinyin": "Xuéxiào fùjìn yǒu yì jiā hěn dà de chāoshì.",
+      "sentenceRu": "Рядом со школой есть большой супермаркет."
+    },
+    {
+      "id": "malu",
+      "hanzi": "马路",
+      "pinyin": "mǎ lù",
+      "ru": "дорога; проезжая часть",
+      "sentence": "过___时一定要注意红绿灯。",
+      "sentencePinyin": "Guò mǎlù shí yídìng yào zhùyì hónglǜdēng.",
+      "sentenceRu": "Переходя дорогу, смотрите на светофор."
+    },
+    {
+      "id": "pingshi",
+      "hanzi": "平时",
+      "pinyin": "píng shí",
+      "ru": "обычно; в обычное время",
+      "sentence": "我___骑自行车上学，今天下雨才坐车。",
+      "sentencePinyin": "Wǒ píngshí qí zìxíngchē shàngxué, jīntiān xià yǔ cái zuò chē.",
+      "sentenceRu": "Обычно езжу в школу на велосипеде, но сегодня дождь."
+    },
+    {
+      "id": "fangxue",
+      "hanzi": "放学",
+      "pinyin": "fàng xué",
+      "ru": "окончание школьных занятий",
+      "sentence": "孩子们每天四点___，然后回家。",
+      "sentencePinyin": "Háizimen měi tiān sì diǎn fàngxué, ránhòu huí jiā.",
+      "sentenceRu": "У детей уроки заканчиваются в четыре, потом они идут домой."
+    },
+    {
+      "id": "youxi",
+      "hanzi": "游戏",
+      "pinyin": "yóu xì",
+      "ru": "игра",
+      "sentence": "孩子们在公园里玩___，玩得很开心。",
+      "sentencePinyin": "Háizimen zài gōngyuán lǐ wán yóuxì, wán de hěn kāixīn.",
+      "sentenceRu": "Дети с радостью играют в парке."
+    },
+    {
+      "id": "laoren",
+      "hanzi": "老人",
+      "pinyin": "lǎo rén",
+      "ru": "пожилой человек",
+      "sentence": "公交车上，年轻人应该给___让座。",
+      "sentencePinyin": "Gōngjiāochē shang, niánqīngrén yīnggāi gěi lǎorén ràngzuò.",
+      "sentenceRu": "В автобусе молодые люди должны уступать место пожилым."
+    },
+    {
+      "id": "genju",
+      "hanzi": "根据",
+      "pinyin": "gēn jù",
+      "ru": "в соответствии с; опираясь на",
+      "sentence": "___天气预报，明天可能会下雨。",
+      "sentencePinyin": "Gēnjù tiānqì yùbào, míngtiān kěnéng huì xià yǔ.",
+      "sentenceRu": "Согласно прогнозу погоды, завтра возможен дождь."
+    },
+    {
+      "id": "liaojie",
+      "hanzi": "了解",
+      "pinyin": "liǎo jiě",
+      "ru": "понимать; знать о",
+      "sentence": "我想多___中国的历史和文化。",
+      "sentencePinyin": "Wǒ xiǎng duō liǎojiě Zhōngguó de lìshǐ hé wénhuà.",
+      "sentenceRu": "Хочу больше узнать об истории и культуре Китая."
+    },
+    {
+      "id": "keshi",
+      "hanzi": "可是",
+      "pinyin": "kě shì",
+      "ru": "но; однако",
+      "sentence": "我想去爬山，___今天一直下雨。",
+      "sentencePinyin": "Wǒ xiǎng qù páshān, kěshì jīntiān yìzhí xià yǔ.",
+      "sentenceRu": "Я хотел пойти в горы, но весь день идёт дождь."
+    },
+    {
+      "id": "yishang",
+      "hanzi": "以上",
+      "pinyin": "yǐ shàng",
+      "ru": "больше; выше; не менее",
+      "sentence": "这个活动只允许十八岁___的人参加。",
+      "sentencePinyin": "Zhège huódòng zhǐ yǔnxǔ shíbā suì yǐshàng de rén cānjiā.",
+      "sentenceRu": "В мероприятии могут участвовать люди старше 18 лет."
+    },
+    {
+      "id": "youming",
+      "hanzi": "有名",
+      "pinyin": "yǒu míng",
+      "ru": "известный; знаменитый",
+      "sentence": "这家饭馆做的鱼特别___。",
+      "sentencePinyin": "Zhè jiā fànguǎn zuò de yú tèbié yǒumíng.",
+      "sentenceRu": "Этот ресторан знаменит своей рыбой."
+    },
+    {
+      "id": "jingdian",
+      "hanzi": "景点",
+      "pinyin": "jǐng diǎn",
+      "ru": "достопримечательность; туристический объект",
+      "sentence": "我们一天去了三个著名的旅游___。",
+      "sentencePinyin": "Wǒmen yì tiān qù le sān ge zhùmíng de lǚyóu jǐngdiǎn.",
+      "sentenceRu": "За день мы посетили три известные достопримечательности."
+    },
+    {
+      "id": "youke",
+      "hanzi": "游客",
+      "pinyin": "yóu kè",
+      "ru": "турист",
+      "sentence": "假期的时候，这座城市有很多___。",
+      "sentencePinyin": "Jiàqī de shíhou, zhè zuò chéngshì yǒu hěn duō yóukè.",
+      "sentenceRu": "Во время каникул в городе много туристов."
+    },
+    {
+      "id": "waidi",
+      "hanzi": "外地",
+      "pinyin": "wài dì",
+      "ru": "другой город; неместный регион",
+      "sentence": "我的朋友从___来北京看我。",
+      "sentencePinyin": "Wǒ de péngyou cóng wàidì lái Běijīng kàn wǒ.",
+      "sentenceRu": "Мой друг приехал из другого города навестить меня в Пекине."
+    },
+    {
+      "id": "liao",
+      "hanzi": "聊",
+      "pinyin": "liáo",
+      "ru": "беседовать; болтать",
+      "sentence": "吃完晚饭，我们坐在客厅里___了一会儿。",
+      "sentencePinyin": "Chī wán wǎnfàn, wǒmen zuò zài kètīng lǐ liáo le yí huìr.",
+      "sentenceRu": "После ужина мы немного поболтали в гостиной."
+    },
+    {
+      "id": "he",
+      "hanzi": "河",
+      "pinyin": "hé",
+      "ru": "река",
+      "sentence": "这条___穿过城市，河上有很多桥。",
+      "sentencePinyin": "Zhè tiáo hé chuānguò chéngshì, hé shang yǒu hěn duō qiáo.",
+      "sentenceRu": "Эта река течёт через город, на ней много мостов."
+    },
+    {
+      "id": "guanxi",
+      "hanzi": "关系",
+      "pinyin": "guān xi",
+      "ru": "отношение; связь",
+      "sentence": "这件事跟我没有___。",
+      "sentencePinyin": "Zhè jiàn shì gēn wǒ méiyǒu guānxi.",
+      "sentenceRu": "Это дело не имеет ко мне отношения."
+    },
+    {
+      "id": "yang",
+      "hanzi": "养",
+      "pinyin": "yǎng",
+      "ru": "выращивать; содержать животных",
+      "sentence": "我家___了一只小猫和两条鱼。",
+      "sentencePinyin": "Wǒ jiā yǎng le yì zhī xiǎo māo hé liǎng tiáo yú.",
+      "sentenceRu": "У нас дома живут кошка и две рыбки."
+    },
+    {
+      "id": "xibei",
+      "hanzi": "西北",
+      "pinyin": "xī běi",
+      "ru": "северо-запад",
+      "sentence": "这个城市在中国的___方向。",
+      "sentencePinyin": "Zhège chéngshì zài Zhōngguó de xīběi fāngxiàng.",
+      "sentenceRu": "Этот город находится на северо-западе Китая."
+    },
+    {
+      "id": "jingguo",
+      "hanzi": "经过",
+      "pinyin": "jīng guò",
+      "ru": "проходить мимо; через; проходить процесс",
+      "sentence": "每天上学时，我都___那座桥。",
+      "sentencePinyin": "Měi tiān shàngxué shí, wǒ dōu jīngguò nà zuò qiáo.",
+      "sentenceRu": "По дороге в школу я каждый день прохожу мимо того моста."
+    },
+    {
+      "id": "caodi",
+      "hanzi": "草地",
+      "pinyin": "cǎo dì",
+      "ru": "луг; газон; травяная площадка",
+      "sentence": "孩子们坐在公园的___上休息。",
+      "sentencePinyin": "Háizimen zuò zài gōngyuán de cǎodì shang xiūxi.",
+      "sentenceRu": "Дети отдыхают на траве в парке."
+    },
+    {
+      "id": "yujian",
+      "hanzi": "遇见",
+      "pinyin": "yù jiàn",
+      "ru": "случайно встретить",
+      "sentence": "昨天我在超市里___了一位老朋友。",
+      "sentencePinyin": "Zuótiān wǒ zài chāoshì lǐ yùjiàn le yí wèi lǎo péngyou.",
+      "sentenceRu": "Вчера я случайно встретил старого друга в супермаркете."
+    }
+  ]
+}

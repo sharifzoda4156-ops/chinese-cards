@@ -1,0 +1,250 @@
+{
+  "title": "HSK-3 · Урок 17",
+  "subtitle": "我要多向认真的人学习 · Я хочу больше учиться у старательных людей",
+  "source": "新HSK教程 3, урок 17, 生词 № 1–27, страницы 155, 157, 159, 160",
+  "words": [
+    {
+      "id": "xiang",
+      "hanzi": "向",
+      "pinyin": "xiàng",
+      "ru": "к; в направлении",
+      "sentence": "下课以后，我___老师问了一个问题。",
+      "sentencePinyin": "Xiàkè yǐhòu, wǒ xiàng lǎoshī wèn le yí ge wèntí.",
+      "sentenceRu": "После урока я задал учителю вопрос."
+    },
+    {
+      "id": "louti",
+      "hanzi": "楼梯",
+      "pinyin": "lóu tī",
+      "ru": "лестница",
+      "sentence": "电梯坏了，我们只能走___上楼。",
+      "sentencePinyin": "Diàntī huài le, wǒmen zhǐnéng zǒu lóutī shàng lóu.",
+      "sentenceRu": "Лифт сломался, пришлось подниматься по лестнице."
+    },
+    {
+      "id": "haipa",
+      "hanzi": "害怕",
+      "pinyin": "hài pà",
+      "ru": "бояться; испытывать страх",
+      "sentence": "他___一个人走夜路。",
+      "sentencePinyin": "Tā hàipà yí ge rén zǒu yèlù.",
+      "sentenceRu": "Он боится ходить ночью один."
+    },
+    {
+      "id": "shengqi",
+      "hanzi": "生气",
+      "pinyin": "shēng qì",
+      "ru": "сердиться; злиться",
+      "sentence": "别___，他不是故意迟到的。",
+      "sentencePinyin": "Bié shēngqì, tā bú shì gùyì chídào de.",
+      "sentenceRu": "Не сердись, он опоздал не специально."
+    },
+    {
+      "id": "changjian",
+      "hanzi": "常见",
+      "pinyin": "cháng jiàn",
+      "ru": "обычный; часто встречающийся",
+      "sentence": "这种鸟在这里非常___。",
+      "sentencePinyin": "Zhè zhǒng niǎo zài zhèlǐ fēicháng chángjiàn.",
+      "sentenceRu": "Эта птица здесь очень распространена."
+    },
+    {
+      "id": "congming",
+      "hanzi": "聪明",
+      "pinyin": "cōng ming",
+      "ru": "умный; сообразительный",
+      "sentence": "这个孩子很___，学新东西特别快。",
+      "sentencePinyin": "Zhège háizi hěn cōngming, xué xīn dōngxi tèbié kuài.",
+      "sentenceRu": "Этот ребёнок умный, быстро учится новому."
+    },
+    {
+      "id": "cuo",
+      "hanzi": "错",
+      "pinyin": "cuò",
+      "ru": "ошибка; неправильный",
+      "sentence": "对不起，我写___了你的电话号码。",
+      "sentencePinyin": "Duìbuqǐ, wǒ xiě cuò le nǐ de diànhuà hàomǎ.",
+      "sentenceRu": "Извини, я неправильно записал твой номер."
+    },
+    {
+      "id": "renwei",
+      "hanzi": "认为",
+      "pinyin": "rèn wéi",
+      "ru": "считать; полагать",
+      "sentence": "我___学习语言最重要的是多练习。",
+      "sentencePinyin": "Wǒ rènwéi xuéxí yǔyán zuì zhòngyào de shì duō liànxí.",
+      "sentenceRu": "Я считаю, что при изучении языка главное — практика."
+    },
+    {
+      "id": "daochu",
+      "hanzi": "到处",
+      "pinyin": "dào chù",
+      "ru": "повсюду; везде",
+      "sentence": "节日那天，城市里___都是鲜花。",
+      "sentencePinyin": "Jiérì nà tiān, chéngshì lǐ dàochù dōu shì xiānhuā.",
+      "sentenceRu": "В праздник по всему городу были цветы."
+    },
+    {
+      "id": "jixu",
+      "hanzi": "继续",
+      "pinyin": "jì xù",
+      "ru": "продолжать",
+      "sentence": "休息十分钟以后，我们___上课。",
+      "sentencePinyin": "Xiūxi shí fēnzhōng yǐhòu, wǒmen jìxù shàngkè.",
+      "sentenceRu": "После десятиминутного перерыва мы продолжили урок."
+    },
+    {
+      "id": "tongyi",
+      "hanzi": "同意",
+      "pinyin": "tóng yì",
+      "ru": "соглашаться; давать согласие",
+      "sentence": "我想周末去旅行，爸爸已经___了。",
+      "sentencePinyin": "Wǒ xiǎng zhōumò qù lǚxíng, bàba yǐjīng tóngyì le.",
+      "sentenceRu": "Я хочу поехать на выходных, папа уже разрешил."
+    },
+    {
+      "id": "ke",
+      "hanzi": "可",
+      "pinyin": "kě",
+      "ru": "но; однако",
+      "sentence": "我想去动物园，___今天没有时间。",
+      "sentencePinyin": "Wǒ xiǎng qù dòngwùyuán, kě jīntiān méiyǒu shíjiān.",
+      "sentenceRu": "Я хочу в зоопарк, но сегодня нет времени."
+    },
+    {
+      "id": "wuzi",
+      "hanzi": "屋子",
+      "pinyin": "wū zi",
+      "ru": "комната; помещение",
+      "sentence": "这个___很小，只能放下一张床。",
+      "sentencePinyin": "Zhège wūzi hěn xiǎo, zhǐnéng fàng xià yì zhāng chuáng.",
+      "sentenceRu": "Эта комната маленькая, помещается лишь кровать."
+    },
+    {
+      "id": "youguan",
+      "hanzi": "有关",
+      "pinyin": "yǒu guān",
+      "ru": "иметь отношение к; связанный с",
+      "sentence": "我想找一本___电脑的书。",
+      "sentencePinyin": "Wǒ xiǎng zhǎo yì běn yǒuguān diànnǎo de shū.",
+      "sentenceRu": "Я хочу найти книгу о компьютерах."
+    },
+    {
+      "id": "guanji",
+      "hanzi": "关机",
+      "pinyin": "guān jī",
+      "ru": "выключать устройство",
+      "sentence": "考试时必须把手机___。",
+      "sentencePinyin": "Kǎoshì shí bìxū bǎ shǒujī guānjī.",
+      "sentenceRu": "Во время экзамена нужно выключать телефон."
+    },
+    {
+      "id": "qiantian",
+      "hanzi": "前天",
+      "pinyin": "qián tiān",
+      "ru": "позавчера",
+      "sentence": "今天是星期五，___是星期三。",
+      "sentencePinyin": "Jīntiān shì xīngqīwǔ, qiántiān shì xīngqīsān.",
+      "sentenceRu": "Сегодня пятница, позавчера была среда."
+    },
+    {
+      "id": "liuxue",
+      "hanzi": "留学",
+      "pinyin": "liú xué",
+      "ru": "учиться за границей",
+      "sentence": "她明年要去中国___，学习中文。",
+      "sentencePinyin": "Tā míngnián yào qù Zhōngguó liúxué, xuéxí Zhōngwén.",
+      "sentenceRu": "В следующем году она едет учиться в Китай."
+    },
+    {
+      "id": "guojia",
+      "hanzi": "国家",
+      "pinyin": "guó jiā",
+      "ru": "страна; государство",
+      "sentence": "世界上有很多不同的___。",
+      "sentencePinyin": "Shìjiè shang yǒu hěn duō bùtóng de guójiā.",
+      "sentenceRu": "В мире много разных стран."
+    },
+    {
+      "id": "biru",
+      "hanzi": "比如",
+      "pinyin": "bǐ rú",
+      "ru": "например",
+      "sentence": "我喜欢运动，___游泳和打网球。",
+      "sentencePinyin": "Wǒ xǐhuan yùndòng, bǐrú yóuyǒng hé dǎ wǎngqiú.",
+      "sentenceRu": "Мне нравится спорт, например плавание и теннис."
+    },
+    {
+      "id": "cha",
+      "hanzi": "查",
+      "pinyin": "chá",
+      "ru": "проверять; искать в справочнике",
+      "sentence": "不认识这个汉字，就去词典里___一下。",
+      "sentencePinyin": "Bù rènshi zhège Hànzì, jiù qù cídiǎn lǐ chá yí xià.",
+      "sentenceRu": "Если не знаешь иероглиф, посмотри в словаре."
+    },
+    {
+      "id": "youyong",
+      "hanzi": "有用",
+      "pinyin": "yǒu yòng",
+      "ru": "полезный",
+      "sentence": "老师给我的学习建议非常___。",
+      "sentencePinyin": "Lǎoshī gěi wǒ de xuéxí jiànyì fēicháng yǒuyòng.",
+      "sentenceRu": "Советы учителя по учёбе очень полезны."
+    },
+    {
+      "id": "rongyi",
+      "hanzi": "容易",
+      "pinyin": "róng yì",
+      "ru": "лёгкий; легко",
+      "sentence": "这个问题很___，小学生也能回答。",
+      "sentencePinyin": "Zhège wèntí hěn róngyì, xiǎoxuéshēng yě néng huídá.",
+      "sentenceRu": "Этот вопрос лёгкий, даже младший школьник ответит."
+    },
+    {
+      "id": "huida",
+      "hanzi": "回答",
+      "pinyin": "huí dá",
+      "ru": "отвечать; ответ",
+      "sentence": "请认真听问题，再___老师。",
+      "sentencePinyin": "Qǐng rènzhēn tīng wèntí, zài huídá lǎoshī.",
+      "sentenceRu": "Внимательно выслушайте вопрос, потом ответьте учителю."
+    },
+    {
+      "id": "fangxiang",
+      "hanzi": "方向",
+      "pinyin": "fāng xiàng",
+      "ru": "направление",
+      "sentence": "我们走错了___，应该往北走。",
+      "sentencePinyin": "Wǒmen zǒu cuò le fāngxiàng, yīnggāi wǎng běi zǒu.",
+      "sentenceRu": "Мы пошли в неправильном направлении, нужно на север."
+    },
+    {
+      "id": "zhiyou",
+      "hanzi": "只有",
+      "pinyin": "zhǐ yǒu",
+      "ru": "только если; лишь",
+      "sentence": "___认真学习，才能取得好成绩。",
+      "sentencePinyin": "Zhǐyǒu rènzhēn xuéxí, cái néng qǔdé hǎo chéngjì.",
+      "sentenceRu": "Только усердная учёба позволит добиться успеха."
+    },
+    {
+      "id": "zhenzheng",
+      "hanzi": "真正",
+      "pinyin": "zhēn zhèng",
+      "ru": "действительно; по-настоящему",
+      "sentence": "我想知道自己___喜欢什么工作。",
+      "sentencePinyin": "Wǒ xiǎng zhīdào zìjǐ zhēnzhèng xǐhuan shénme gōngzuò.",
+      "sentenceRu": "Хочу понять, какая работа мне действительно нравится."
+    },
+    {
+      "id": "nanti",
+      "hanzi": "难题",
+      "pinyin": "nán tí",
+      "ru": "трудная задача; сложный вопрос",
+      "sentence": "这道数学___太难了，我不会做。",
+      "sentencePinyin": "Zhè dào shùxué nántí tài nán le, wǒ bú huì zuò.",
+      "sentenceRu": "Эта задача по математике слишком сложная."
+    }
+  ]
+}
