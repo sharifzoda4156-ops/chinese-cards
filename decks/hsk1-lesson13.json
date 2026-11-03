@@ -1,0 +1,187 @@
+{
+  "title": "HSK-1 · Урок 13",
+  "subtitle": "请给我一杯茶 · Чашку чая, пожалуйста",
+  "source": "新HSK教程 1, урок 13, 生词 №1–20, печатные страницы 97, 99, 100",
+  "words": [
+    {
+      "id": "keyi",
+      "hanzi": "可以",
+      "pinyin": "kě yǐ",
+      "ru": "можно; мочь",
+      "sentence": "我___问一个问题吗？",
+      "sentencePinyin": "Wǒ kěyǐ wèn yí ge wèntí ma?",
+      "sentenceRu": "Можно задать вопрос?"
+    },
+    {
+      "id": "zai",
+      "hanzi": "再",
+      "pinyin": "zài",
+      "ru": "ещё раз; снова",
+      "sentence": "请___说一遍。",
+      "sentencePinyin": "Qǐng zài shuō yí biàn.",
+      "sentenceRu": "Повторите, пожалуйста, ещё раз."
+    },
+    {
+      "id": "wenti",
+      "hanzi": "问题",
+      "pinyin": "wèn tí",
+      "ru": "вопрос; проблема",
+      "sentence": "我有一个___。",
+      "sentencePinyin": "Wǒ yǒu yí ge wèntí.",
+      "sentenceRu": "У меня есть вопрос."
+    },
+    {
+      "id": "mai",
+      "hanzi": "卖",
+      "pinyin": "mài",
+      "ru": "продавать",
+      "sentence": "这家商店___面包。",
+      "sentencePinyin": "Zhè jiā shāngdiàn mài miànbāo.",
+      "sentenceRu": "В этом магазине продают хлеб."
+    },
+    {
+      "id": "dadianhua",
+      "hanzi": "打电话",
+      "pinyin": "dǎ diàn huà",
+      "ru": "звонить по телефону",
+      "sentence": "下课以后我给妈妈___。",
+      "sentencePinyin": "Xiàkè yǐhòu wǒ gěi māma dǎ diànhuà.",
+      "sentenceRu": "После уроков я позвоню маме."
+    },
+    {
+      "id": "yixia",
+      "hanzi": "一下",
+      "pinyin": "yí xià",
+      "ru": "немного; разок (краткость действия)",
+      "sentence": "你看___这本书。",
+      "sentencePinyin": "Nǐ kàn yíxià zhè běn shū.",
+      "sentenceRu": "Посмотри немного эту книгу."
+    },
+    {
+      "id": "fuwuyuan",
+      "hanzi": "服务员",
+      "pinyin": "fú wù yuán",
+      "ru": "официант; сотрудник обслуживания",
+      "sentence": "这家饭店的___很热情。",
+      "sentencePinyin": "Zhè jiā fàndiàn de fúwùyuán hěn rèqíng.",
+      "sentenceRu": "Официант в этом ресторане очень приветливый."
+    },
+    {
+      "id": "xiaojie",
+      "hanzi": "小姐",
+      "pinyin": "xiǎo jie",
+      "ru": "девушка; мисс (обращение)",
+      "sentence": "___，请给我一杯茶。",
+      "sentencePinyin": "Xiǎojiě, qǐng gěi wǒ yì bēi chá.",
+      "sentenceRu": "Девушка, дайте чашку чая, пожалуйста."
+    },
+    {
+      "id": "qing",
+      "hanzi": "请",
+      "pinyin": "qǐng",
+      "ru": "пожалуйста; просить",
+      "sentence": "___坐！",
+      "sentencePinyin": "Qǐng zuò!",
+      "sentenceRu": "Садитесь, пожалуйста!"
+    },
+    {
+      "id": "zuo",
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "ru": "сидеть; садиться",
+      "sentence": "___在这里吧。",
+      "sentencePinyin": "Zuò zài zhèlǐ ba.",
+      "sentenceRu": "Сядьте здесь."
+    },
+    {
+      "id": "gei",
+      "hanzi": "给",
+      "pinyin": "gěi",
+      "ru": "давать; передавать",
+      "sentence": "请___我一杯水。",
+      "sentencePinyin": "Qǐng gěi wǒ yì bēi shuǐ.",
+      "sentenceRu": "Дайте мне стакан воды."
+    },
+    {
+      "id": "bei",
+      "hanzi": "杯",
+      "pinyin": "bēi",
+      "ru": "счётное слово для стаканов и чашек",
+      "sentence": "我想喝一___茶。",
+      "sentencePinyin": "Wǒ xiǎng hē yì bēi chá.",
+      "sentenceRu": "Хочу выпить чашку чая."
+    },
+    {
+      "id": "yao",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "ru": "хотеть; заказывать",
+      "sentence": "我___一杯牛奶。",
+      "sentencePinyin": "Wǒ yào yì bēi niúnǎi.",
+      "sentenceRu": "Я хочу стакан молока."
+    },
+    {
+      "id": "zaofan",
+      "hanzi": "早饭",
+      "pinyin": "zǎo fàn",
+      "ru": "завтрак",
+      "sentence": "我早上八点吃___。",
+      "sentencePinyin": "Wǒ zǎoshang bā diǎn chī zǎofàn.",
+      "sentenceRu": "Я завтракаю в восемь утра."
+    },
+    {
+      "id": "zhege",
+      "hanzi": "这个",
+      "pinyin": "zhè ge",
+      "ru": "этот",
+      "sentence": "___面包多少钱？",
+      "sentencePinyin": "Zhège miànbāo duōshao qián?",
+      "sentenceRu": "Сколько стоит этот хлеб?"
+    },
+    {
+      "id": "mianbao",
+      "hanzi": "面包",
+      "pinyin": "miàn bāo",
+      "ru": "хлеб; булочка",
+      "sentence": "我早饭吃___和鸡蛋。",
+      "sentencePinyin": "Wǒ zǎofàn chī miànbāo hé jīdàn.",
+      "sentenceRu": "На завтрак я ем хлеб и яйца."
+    },
+    {
+      "id": "jidan",
+      "hanzi": "鸡蛋",
+      "pinyin": "jī dàn",
+      "ru": "куриное яйцо",
+      "sentence": "我要两个___。",
+      "sentencePinyin": "Wǒ yào liǎng ge jīdàn.",
+      "sentenceRu": "Мне нужны два яйца."
+    },
+    {
+      "id": "xiansheng",
+      "hanzi": "先生",
+      "pinyin": "xiān sheng",
+      "ru": "господин; сэр",
+      "sentence": "这位___想喝茶。",
+      "sentencePinyin": "Zhè wèi xiānsheng xiǎng hē chá.",
+      "sentenceRu": "Этот господин хочет чай."
+    },
+    {
+      "id": "yiban",
+      "hanzi": "一半",
+      "pinyin": "yí bàn",
+      "ru": "половина",
+      "sentence": "这个包子我吃了___。",
+      "sentencePinyin": "Zhège bāozi wǒ chī le yíbàn.",
+      "sentenceRu": "Я съел половину этого баоцзы."
+    },
+    {
+      "id": "cha",
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "ru": "чай",
+      "sentence": "请给我一杯热___。",
+      "sentencePinyin": "Qǐng gěi wǒ yì bēi rè chá.",
+      "sentenceRu": "Дайте чашку горячего чая."
+    }
+  ]
+}
