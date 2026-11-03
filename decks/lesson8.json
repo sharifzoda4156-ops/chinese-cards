@@ -1,0 +1,261 @@
+{
+  "title": "HSK-3 · Урок 8",
+  "subtitle": "今天我出院了 · Сегодня меня выписали из больницы",
+  "source": "新HSK教程 3, урок 8, 生词 № 1–28, печатные страницы 68, 70, 71, 73",
+  "words": [
+    {
+      "id": "zuijin",
+      "hanzi": "最近",
+      "pinyin": "zuì jìn",
+      "ru": "в последнее время; недавно",
+      "sentence": "我___每天都去体育馆锻炼。",
+      "sentencePinyin": "Wǒ zuìjìn měi tiān dōu qù tǐyùguǎn duànliàn.",
+      "sentenceRu": "В последнее время я каждый день хожу тренироваться в спортзал."
+    },
+    {
+      "id": "changchang",
+      "hanzi": "常常",
+      "pinyin": "cháng cháng",
+      "ru": "часто",
+      "sentence": "周末我们___一起打羽毛球。",
+      "sentencePinyin": "Zhōumò wǒmen chángcháng yìqǐ dǎ yǔmáoqiú.",
+      "sentenceRu": "По выходным мы часто вместе играем в бадминтон."
+    },
+    {
+      "id": "tiyuguan",
+      "hanzi": "体育馆",
+      "pinyin": "tǐ yù guǎn",
+      "ru": "спортивный зал; спортивный комплекс",
+      "sentence": "今天的篮球比赛在学校___举行。",
+      "sentencePinyin": "Jīntiān de lánqiú bǐsài zài xuéxiào tǐyùguǎn jǔxíng.",
+      "sentenceRu": "Сегодня баскетбольный матч проходит в школьном спортзале."
+    },
+    {
+      "id": "xiguan",
+      "hanzi": "习惯",
+      "pinyin": "xí guàn",
+      "ru": "привыкать; привычка",
+      "sentence": "我已经___每天早起跑步了。",
+      "sentencePinyin": "Wǒ yǐjīng xíguàn měi tiān zǎo qǐ pǎobù le.",
+      "sentenceRu": "Я уже привык каждый день рано вставать и бегать."
+    },
+    {
+      "id": "pang",
+      "hanzi": "胖",
+      "pinyin": "pàng",
+      "ru": "полный; толстый",
+      "sentence": "这只猫吃得太多，越来越___了。",
+      "sentencePinyin": "Zhè zhī māo chī de tài duō, yuè lái yuè pàng le.",
+      "sentenceRu": "Эта кошка слишком много ест и всё толстеет."
+    },
+    {
+      "id": "jiankang",
+      "hanzi": "健康",
+      "pinyin": "jiàn kāng",
+      "ru": "здоровый; здоровье",
+      "sentence": "多吃蔬菜、经常运动，对身体___有好处。",
+      "sentencePinyin": "Duō chī shūcài, jīngcháng yùndòng, duì shēntǐ jiànkāng yǒu hǎochù.",
+      "sentenceRu": "Овощи и регулярные упражнения полезны для здоровья."
+    },
+    {
+      "id": "yihou",
+      "hanzi": "以后",
+      "pinyin": "yǐ hòu",
+      "ru": "после; впоследствии",
+      "sentence": "吃完饭___，我们去公园散步吧。",
+      "sentencePinyin": "Chī wán fàn yǐhòu, wǒmen qù gōngyuán sànbù ba.",
+      "sentenceRu": "После еды давай погуляем в парке."
+    },
+    {
+      "id": "yumaoqiu",
+      "hanzi": "羽毛球",
+      "pinyin": "yǔ máo qiú",
+      "ru": "бадминтон",
+      "sentence": "我和朋友每周六都打___。",
+      "sentencePinyin": "Wǒ hé péngyou měi zhōu liù dōu dǎ yǔmáoqiú.",
+      "sentenceRu": "Мы с другом каждую субботу играем в бадминтон."
+    },
+    {
+      "id": "erduo",
+      "hanzi": "耳朵",
+      "pinyin": "ěr duo",
+      "ru": "ухо; уши",
+      "sentence": "听音乐时不要把声音开得太大，会伤害___。",
+      "sentencePinyin": "Tīng yīnyuè shí bú yào bǎ shēngyīn kāi de tài dà, huì shānghài ěrduo.",
+      "sentenceRu": "Не делай музыку слишком громкой: это вредит ушам."
+    },
+    {
+      "id": "ganmao",
+      "hanzi": "感冒",
+      "pinyin": "gǎn mào",
+      "ru": "простудиться; простуда",
+      "sentence": "外面很冷，穿上外套，别___了。",
+      "sentencePinyin": "Wàimiàn hěn lěng, chuān shàng wàitào, bié gǎnmào le.",
+      "sentenceRu": "На улице холодно, надень куртку, чтобы не простудиться."
+    },
+    {
+      "id": "fashao",
+      "hanzi": "发烧",
+      "pinyin": "fā shāo",
+      "ru": "температурить; иметь жар",
+      "sentence": "他今天体温三十九度，正在___。",
+      "sentencePinyin": "Tā jīntiān tǐwēn sānshíjiǔ dù, zhèngzài fāshāo.",
+      "sentenceRu": "У него сегодня температура 39 градусов, он температурит."
+    },
+    {
+      "id": "di",
+      "hanzi": "低",
+      "pinyin": "dī",
+      "ru": "низкий",
+      "sentence": "今天气温很___，只有零下十度。",
+      "sentencePinyin": "Jīntiān qìwēn hěn dī, zhǐ yǒu língxià shí dù.",
+      "sentenceRu": "Сегодня очень низкая температура: минус десять."
+    },
+    {
+      "id": "guanxin",
+      "hanzi": "关心",
+      "pinyin": "guān xīn",
+      "ru": "заботиться; проявлять участие",
+      "sentence": "妈妈总是很___我的身体健康。",
+      "sentencePinyin": "Māma zǒngshì hěn guānxīn wǒ de shēntǐ jiànkāng.",
+      "sentenceRu": "Мама всегда заботится о моём здоровье."
+    },
+    {
+      "id": "zhuyi",
+      "hanzi": "注意",
+      "pinyin": "zhù yì",
+      "ru": "обращать внимание; быть внимательным",
+      "sentence": "过马路的时候，请___来往的汽车。",
+      "sentencePinyin": "Guò mǎlù de shíhou, qǐng zhùyì láiwǎng de qìchē.",
+      "sentenceRu": "Переходя дорогу, обращайте внимание на машины."
+    },
+    {
+      "id": "turan",
+      "hanzi": "突然",
+      "pinyin": "tū rán",
+      "ru": "вдруг; внезапно",
+      "sentence": "我们正在聊天，天___下起了大雨。",
+      "sentencePinyin": "Wǒmen zhèngzài liáotiān, tiān tūrán xià qǐ le dàyǔ.",
+      "sentenceRu": "Мы разговаривали, и вдруг начался сильный дождь."
+    },
+    {
+      "id": "zhuyuan",
+      "hanzi": "住院",
+      "pinyin": "zhù yuàn",
+      "ru": "лежать в больнице; госпитализироваться",
+      "sentence": "他生病了，需要___几天。",
+      "sentencePinyin": "Tā shēngbìng le, xūyào zhùyuàn jǐ tiān.",
+      "sentenceRu": "Он заболел, ему нужно несколько дней полежать в больнице."
+    },
+    {
+      "id": "danxin",
+      "hanzi": "担心",
+      "pinyin": "dān xīn",
+      "ru": "волноваться; беспокоиться",
+      "sentence": "你别___，医生说他很快就能回家。",
+      "sentencePinyin": "Nǐ bié dānxīn, yīshēng shuō tā hěn kuài jiù néng huí jiā.",
+      "sentenceRu": "Не волнуйся, врач сказал, что он скоро вернётся домой."
+    },
+    {
+      "id": "tui",
+      "hanzi": "腿",
+      "pinyin": "tuǐ",
+      "ru": "нога (от бедра до ступни)",
+      "sentence": "我跑步时摔倒了，右___有点儿疼。",
+      "sentencePinyin": "Wǒ pǎobù shí shuāidǎo le, yòu tuǐ yǒu diǎnr téng.",
+      "sentenceRu": "Я упал во время бега, правая нога немного болит."
+    },
+    {
+      "id": "bingren",
+      "hanzi": "病人",
+      "pinyin": "bìng rén",
+      "ru": "больной; пациент",
+      "sentence": "医生每天上午都会来看___。",
+      "sentencePinyin": "Yīshēng měi tiān shàngwǔ dōu huì lái kàn bìngrén.",
+      "sentenceRu": "Каждое утро врач приходит осматривать пациентов."
+    },
+    {
+      "id": "chabuduo",
+      "hanzi": "差不多",
+      "pinyin": "chà bu duō",
+      "ru": "почти; приблизительно; примерно одинаковый",
+      "sentence": "从家到学校走路___要二十分钟。",
+      "sentencePinyin": "Cóng jiā dào xuéxiào zǒulù chàbuduō yào èrshí fēnzhōng.",
+      "sentenceRu": "От дома до школы пешком примерно двадцать минут."
+    },
+    {
+      "id": "dei",
+      "hanzi": "得",
+      "pinyin": "děi",
+      "ru": "нужно; приходится",
+      "sentence": "明天要考试了，我___早点儿睡觉。",
+      "sentencePinyin": "Míngtiān yào kǎoshì le, wǒ děi zǎo diǎnr shuìjiào.",
+      "sentenceRu": "Завтра экзамен, мне нужно лечь пораньше.",
+      "audioText": "得走",
+      "audioNote": "Здесь 得 читается děi («нужно»). В озвучке — 得走 (děi zǒu)."
+    },
+    {
+      "id": "kaixin",
+      "hanzi": "开心",
+      "pinyin": "kāi xīn",
+      "ru": "радостный; счастливый",
+      "sentence": "听说爸爸今天回家，孩子们都很___。",
+      "sentencePinyin": "Tīngshuō bàba jīntiān huí jiā, háizimen dōu hěn kāixīn.",
+      "sentenceRu": "Дети очень рады, услышав, что папа сегодня вернётся домой."
+    },
+    {
+      "id": "chuyuan",
+      "hanzi": "出院",
+      "pinyin": "chū yuàn",
+      "ru": "выписываться из больницы",
+      "sentence": "医生说我身体好了，明天可以___。",
+      "sentencePinyin": "Yīshēng shuō wǒ shēntǐ hǎo le, míngtiān kěyǐ chūyuàn.",
+      "sentenceRu": "Врач сказал, что я выздоровел и завтра меня могут выписать."
+    },
+    {
+      "id": "kai",
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "ru": "выписывать (лекарство); открывать",
+      "sentence": "医生给我___了三天的药。",
+      "sentencePinyin": "Yīshēng gěi wǒ kāi le sān tiān de yào.",
+      "sentenceRu": "Врач выписал мне лекарство на три дня."
+    },
+    {
+      "id": "zhong",
+      "hanzi": "种",
+      "pinyin": "zhǒng",
+      "ru": "вид; разновидность",
+      "sentence": "这种药有两___，一种是片剂，一种是药水。",
+      "sentencePinyin": "Zhè zhǒng yào yǒu liǎng zhǒng, yì zhǒng shì piànjì, yì zhǒng shì yàoshuǐ.",
+      "sentenceRu": "У этого лекарства два вида: таблетки и жидкая форма."
+    },
+    {
+      "id": "fangfa",
+      "hanzi": "方法",
+      "pinyin": "fāng fǎ",
+      "ru": "способ; метод",
+      "sentence": "学习汉字有很多___，我喜欢每天写十个字。",
+      "sentencePinyin": "Xuéxí Hànzì yǒu hěn duō fāngfǎ, wǒ xǐhuan měi tiān xiě shí ge zì.",
+      "sentenceRu": "Есть много способов изучать иероглифы; я люблю писать по десять в день."
+    },
+    {
+      "id": "qita",
+      "hanzi": "其他",
+      "pinyin": "qí tā",
+      "ru": "другой; остальные",
+      "sentence": "除了苹果，我还买了几种___水果。",
+      "sentencePinyin": "Chúle píngguǒ, wǒ hái mǎi le jǐ zhǒng qítā shuǐguǒ.",
+      "sentenceRu": "Кроме яблок, я купил ещё несколько других фруктов."
+    },
+    {
+      "id": "xinli",
+      "hanzi": "心里",
+      "pinyin": "xīn lǐ",
+      "ru": "в душе; на сердце; внутри",
+      "sentence": "虽然他没说话，但___一直很担心。",
+      "sentencePinyin": "Suīrán tā méi shuōhuà, dàn xīnlǐ yìzhí hěn dānxīn.",
+      "sentenceRu": "Хотя он ничего не говорил, в душе он очень волновался."
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "title": "HSK-3 · Урок 7",
+  "subtitle": "那条裙子比短裤更好看 · Та юбка красивее шорт",
+  "source": "新HSK教程 3, урок 7, 生词 № 1–27, печатные страницы 58, 60, 62, 63",
+  "words": [
+    {
+      "id": "liang",
+      "hanzi": "辆",
+      "pinyin": "liàng",
+      "ru": "счётное слово для транспортных средств",
+      "sentence": "停车场里停着一___红色的汽车。",
+      "sentencePinyin": "Tíngchēchǎng lǐ tíng zhe yí liàng hóngsè de qìchē.",
+      "sentenceRu": "На стоянке припаркована одна красная машина."
+    },
+    {
+      "id": "zixingche",
+      "hanzi": "自行车",
+      "pinyin": "zì xíng chē",
+      "ru": "велосипед",
+      "sentence": "这___是爸爸送给我的生日礼物。",
+      "sentencePinyin": "Zhè zìxíngchē shì bàba sòng gěi wǒ de shēngrì lǐwù.",
+      "sentenceRu": "Этот велосипед мне подарил папа на день рождения."
+    },
+    {
+      "id": "jiu",
+      "hanzi": "旧",
+      "pinyin": "jiù",
+      "ru": "старый; бывший в употреблении",
+      "sentence": "这台电视已经用了十年，很___了。",
+      "sentencePinyin": "Zhè tái diànshì yǐjīng yòng le shí nián, hěn jiù le.",
+      "sentenceRu": "Этим телевизором пользуются уже десять лет, он старый."
+    },
+    {
+      "id": "ai",
+      "hanzi": "矮",
+      "pinyin": "ǎi",
+      "ru": "низкий; невысокий ростом",
+      "sentence": "这棵树很___，孩子也能摸到树叶。",
+      "sentencePinyin": "Zhè kē shù hěn ǎi, háizi yě néng mō dào shùyè.",
+      "sentenceRu": "Это дерево невысокое, даже ребёнок достанет до листьев."
+    },
+    {
+      "id": "shi",
+      "hanzi": "试",
+      "pinyin": "shì",
+      "ru": "пробовать; примерять",
+      "sentence": "买鞋之前最好先___一下。",
+      "sentencePinyin": "Mǎi xié zhīqián zuìhǎo xiān shì yí xià.",
+      "sentenceRu": "Перед покупкой обувь лучше примерить."
+    },
+    {
+      "id": "huangse",
+      "hanzi": "黄色",
+      "pinyin": "huáng sè",
+      "ru": "жёлтый цвет; жёлтый",
+      "sentence": "我喜欢___的花，它们像太阳一样。",
+      "sentencePinyin": "Wǒ xǐhuan huángsè de huā, tāmen xiàng tàiyáng yíyàng.",
+      "sentenceRu": "Мне нравятся жёлтые цветы, они похожи на солнце."
+    },
+    {
+      "id": "duanku",
+      "hanzi": "短裤",
+      "pinyin": "duǎn kù",
+      "ru": "шорты",
+      "sentence": "夏天很热，我常穿___去运动。",
+      "sentencePinyin": "Xiàtiān hěn rè, wǒ cháng chuān duǎnkù qù yùndòng.",
+      "sentenceRu": "Летом жарко, я часто хожу на тренировку в шортах.",
+      "quizExcludes": [
+        "kuzi"
+      ]
+    },
+    {
+      "id": "daxiao",
+      "hanzi": "大小",
+      "pinyin": "dà xiǎo",
+      "ru": "размер; величина",
+      "sentence": "这两双鞋的___不一样。",
+      "sentencePinyin": "Zhè liǎng shuāng xié de dàxiǎo bù yíyàng.",
+      "sentenceRu": "Размер у этих двух пар обуви разный."
+    },
+    {
+      "id": "heshi",
+      "hanzi": "合适",
+      "pinyin": "hé shì",
+      "ru": "подходящий; впору",
+      "sentence": "这件衣服不大不小，非常___。",
+      "sentencePinyin": "Zhè jiàn yīfu bú dà bù xiǎo, fēicháng héshì.",
+      "sentenceRu": "Эта одежда не велика и не мала, сидит отлично."
+    },
+    {
+      "id": "kuzi",
+      "hanzi": "裤子",
+      "pinyin": "kù zi",
+      "ru": "брюки; штаны",
+      "sentence": "这条___太长了，我得换一条。",
+      "sentencePinyin": "Zhè tiáo kùzi tài cháng le, wǒ děi huàn yì tiáo.",
+      "sentenceRu": "Эти брюки слишком длинные, нужно их поменять.",
+      "quizExcludes": [
+        "duanku"
+      ]
+    },
+    {
+      "id": "geng",
+      "hanzi": "更",
+      "pinyin": "gèng",
+      "ru": "ещё более; ещё",
+      "sentence": "今天比昨天___冷了。",
+      "sentencePinyin": "Jīntiān bǐ zuótiān gèng lěng le.",
+      "sentenceRu": "Сегодня стало ещё холоднее, чем вчера."
+    },
+    {
+      "id": "jueding",
+      "hanzi": "决定",
+      "pinyin": "jué dìng",
+      "ru": "решать; решение",
+      "sentence": "比较了价格以后，我___买这辆自行车。",
+      "sentencePinyin": "Bǐjiào le jiàgé yǐhòu, wǒ juédìng mǎi zhè liàng zìxíngchē.",
+      "sentenceRu": "Сравнив цены, я решил купить этот велосипед."
+    },
+    {
+      "id": "xigua",
+      "hanzi": "西瓜",
+      "pinyin": "xī guā",
+      "ru": "арбуз",
+      "sentence": "夏天吃一块冰凉的___真舒服。",
+      "sentencePinyin": "Xiàtiān chī yí kuài bīngliáng de xīguā zhēn shūfu.",
+      "sentenceRu": "Как приятно летом съесть кусочек холодного арбуза!"
+    },
+    {
+      "id": "xinxian",
+      "hanzi": "新鲜",
+      "pinyin": "xīn xiān",
+      "ru": "свежий",
+      "sentence": "这些水果是今天摘的，很___。",
+      "sentencePinyin": "Zhèxiē shuǐguǒ shì jīntiān zhāi de, hěn xīnxiān.",
+      "sentenceRu": "Эти фрукты собрали сегодня, они очень свежие."
+    },
+    {
+      "id": "tian",
+      "hanzi": "甜",
+      "pinyin": "tián",
+      "ru": "сладкий",
+      "sentence": "这个苹果很___，一点儿也不酸。",
+      "sentencePinyin": "Zhège píngguǒ hěn tián, yì diǎnr yě bù suān.",
+      "sentenceRu": "Это яблоко очень сладкое, совсем не кислое."
+    },
+    {
+      "id": "gongjin",
+      "hanzi": "公斤",
+      "pinyin": "gōng jīn",
+      "ru": "килограмм",
+      "sentence": "这袋大米有五___重。",
+      "sentencePinyin": "Zhè dài dàmǐ yǒu wǔ gōngjīn zhòng.",
+      "sentenceRu": "Этот мешок риса весит пять килограммов."
+    },
+    {
+      "id": "bing",
+      "hanzi": "冰",
+      "pinyin": "bīng",
+      "ru": "лёд",
+      "sentence": "饮料里加了几块___，喝起来很凉。",
+      "sentencePinyin": "Yǐnliào lǐ jiā le jǐ kuài bīng, hē qǐlái hěn liáng.",
+      "sentenceRu": "В напиток добавили несколько кубиков льда, он холодный."
+    },
+    {
+      "id": "ji",
+      "hanzi": "极",
+      "pinyin": "jí",
+      "ru": "крайне; очень (после прилагательного)",
+      "sentence": "这家店的服务好___了。",
+      "sentencePinyin": "Zhè jiā diàn de fúwù hǎo jí le.",
+      "sentenceRu": "Обслуживание в этом магазине просто отличное."
+    },
+    {
+      "id": "jin",
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "ru": "цзинь; единица веса 500 г",
+      "sentence": "我买了两___香蕉，也就是一公斤。",
+      "sentencePinyin": "Wǒ mǎi le liǎng jīn xiāngjiāo, yě jiù shì yì gōngjīn.",
+      "sentenceRu": "Я купил два цзиня бананов — это один килограмм."
+    },
+    {
+      "id": "xiangjiao",
+      "hanzi": "香蕉",
+      "pinyin": "xiāng jiāo",
+      "ru": "банан",
+      "sentence": "猴子手里拿着一根___。",
+      "sentencePinyin": "Hóuzi shǒu lǐ ná zhe yì gēn xiāngjiāo.",
+      "sentenceRu": "Обезьяна держит в руке банан."
+    },
+    {
+      "id": "yigong",
+      "hanzi": "一共",
+      "pinyin": "yí gòng",
+      "ru": "всего; в общей сложности",
+      "sentence": "三个人的车票___花了六百元。",
+      "sentencePinyin": "Sān ge rén de chēpiào yígòng huā le liùbǎi yuán.",
+      "sentenceRu": "Билеты для троих в общей сложности обошлись в 600 юаней."
+    },
+    {
+      "id": "mao",
+      "hanzi": "毛",
+      "pinyin": "máo",
+      "ru": "мао; одна десятая юаня",
+      "sentence": "一元等于十___。",
+      "sentencePinyin": "Yì yuán děngyú shí máo.",
+      "sentenceRu": "В одном юане десять мао."
+    },
+    {
+      "id": "jiehun",
+      "hanzi": "结婚",
+      "pinyin": "jié hūn",
+      "ru": "жениться; выходить замуж; вступать в брак",
+      "sentence": "他们准备明年春天___。",
+      "sentencePinyin": "Tāmen zhǔnbèi míngnián chūntiān jiéhūn.",
+      "sentenceRu": "Они собираются пожениться следующей весной."
+    },
+    {
+      "id": "budan",
+      "hanzi": "不但",
+      "pinyin": "bù dàn",
+      "ru": "не только",
+      "sentence": "他___会说汉语，而且会说英语。",
+      "sentencePinyin": "Tā bùdàn huì shuō Hànyǔ, érqiě huì shuō Yīngyǔ.",
+      "sentenceRu": "Он говорит не только по-китайски, но и по-английски."
+    },
+    {
+      "id": "erqie",
+      "hanzi": "而且",
+      "pinyin": "ér qiě",
+      "ru": "к тому же; и ещё; но и",
+      "sentence": "这家店的衣服好看，___不贵。",
+      "sentencePinyin": "Zhè jiā diàn de yīfu hǎokàn, érqiě bú guì.",
+      "sentenceRu": "В этом магазине одежда красивая и к тому же недорогая."
+    },
+    {
+      "id": "sheng",
+      "hanzi": "声",
+      "pinyin": "shēng",
+      "ru": "звук; счётное слово для звуков",
+      "sentence": "我听见门外有人喊了一___。",
+      "sentencePinyin": "Wǒ tīngjiàn mén wài yǒu rén hǎn le yì shēng.",
+      "sentenceRu": "Я услышал, как кто-то крикнул за дверью."
+    },
+    {
+      "id": "kaiji",
+      "hanzi": "开机",
+      "pinyin": "kāi jī",
+      "ru": "включать устройство",
+      "sentence": "电脑没有反应，你先试着重新___。",
+      "sentencePinyin": "Diànnǎo méiyǒu fǎnyìng, nǐ xiān shì zhe chóngxīn kāijī.",
+      "sentenceRu": "Компьютер не отвечает; попробуй сначала включить его заново."
+    }
+  ]
+}
