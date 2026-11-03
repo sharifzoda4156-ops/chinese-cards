@@ -30,9 +30,62 @@ const sourceWords = {
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'decks/catalog.json')));
 const hsk3Section = catalog.sections.find(s => s.id === 'hsk3');
 const hsk2Section = catalog.sections.find(s => s.id === 'hsk2');
-assert.ok(hsk3Section && hsk2Section);
-assert.deepEqual(catalog.sections.map(s => s.id), ['hsk2', 'hsk3']);
+const hsk1Section = catalog.sections.find(s => s.id === 'hsk1');
+assert.ok(hsk1Section && hsk2Section && hsk3Section);
+assert.deepEqual(catalog.sections.map(s => s.id), ['hsk1', 'hsk2', 'hsk3']);
 assert.equal(hsk2Section.lessons.length, 15);
+// HSK-1 words are copied in source order from the three 生词 blocks of each lesson.
+// Repeated textbook entries (e.g. 天, 上) remain separate cards with distinct IDs.
+const hsk1Reference = [
+  '你好 大家 好 学生 们 老师 您 你们 谢谢 不客气 同学 再见',
+  '请问 你 叫 什么 名字 我 不 是 对不起 没关系 没事 很 高兴 认识 也',
+  '人 的 这 谁 女朋友 哪 国 她 喂 姐姐 工作 还 忙 吗 对 太 我们 想',
+  '有 多少 个 哥哥 呢 没有 家 几 口 爸爸 妈妈 妹妹 和 儿子 孩子 女儿 岁 他 今年 多 大',
+  '今天 号 月 日 星期 星期日 星期天 休息 会 做饭 做 面条儿 饺子 一些 菜 下班 新 电脑 真 好看 喜欢 它',
+  '手机 电话 号 明天 去 哪儿 想 超市 买 东西 些 牛奶 吃 晚饭 那边 包子 非常 好吃 米饭 怎么 坐 出租车',
+  '现在 点 早上 上午 分 课 下午 见 吧 电影院 看 电影 事 上课 呢 半 下课 在 家 里 晚上 医院 上班 店 菜 分钟 后',
+  '房间 外 只 小 猫 没 看见 桌子 下 漂亮 在 学校 书店 前 能 到 午饭 饭 大 病人 多 医生 工作',
+  '前边 边 家 那个 外边 椅子 上 本 书 第 学习 做 白天 读书 和 朋友 唱 歌 好听 电视 狗 玩',
+  '杯子 售货员 这边 钱 这些 块 那些 这儿 水果 少 斤 苹果 便宜 商店 衣服 件 元 怎么样 贵 穿 女 男 那儿',
+  '时候 饭店 知道 正在 找 开车 车 在 读 大学 大学生 学 医 弟弟 起来 睡觉 睡 那里 哪里 昨天 问 对 说 要 小朋友',
+  '天气 这里 天 下雨 了 雨 有点儿 觉得 冷 下 雪 来 公司 生病 看病 病 一点儿 药 天 回 再 喝 热 水',
+  '可以 再 问题 卖 打电话 一下 服务员 小姐 请 坐 给 杯 要 早饭 这个 面包 鸡蛋 先生 一半 茶',
+  '上 火车 火车站 开 有些 有的 了 写 都 听见 不要 说话 听 哪些 字 明年 上 中学 小学 中学生 小学生 上学 他们 她们 它们 晚',
+  '爱 哪个 去年 男朋友 几 年 好玩儿 飞机 要 小时 家人 时间 机场 接 住 早 啊'
+];
+assert.equal(hsk1Section.lessons.length, 15);
+assert.deepEqual(hsk1Section.lessons.filter(l => l.available).map(l => l.id), hsk1Reference.map((_,i) => 'hsk1-lesson' + (i+1)));
+const hsk1Decks = {};
+let hsk1CardCount = 0;
+for (let i = 0; i < hsk1Section.lessons.length; i++) {
+  const lesson = hsk1Section.lessons[i];
+  const data = JSON.parse(fs.readFileSync(path.join(root, 'decks', lesson.id + '.json')));
+  hsk1Decks[lesson.id] = data;
+  hsk1CardCount += data.words.length;
+  assert.deepEqual(data.words.map(w => w.hanzi), hsk1Reference[i].split(' '), lesson.id + ': textbook order');
+  assert.equal(data.words.length, lesson.wordCount, lesson.id);
+  const ids = new Set(data.words.map(w => w.id));
+  assert.equal(ids.size, data.words.length, lesson.id + ': unique IDs');
+  for (const w of data.words) {
+    for (const field of ['id','hanzi','pinyin','ru','sentence','sentencePinyin','sentenceRu'])
+      assert.ok(w[field]?.trim(), lesson.id + '/' + w.id + ': missing ' + field);
+    assert.match(w.id, /^[a-z0-9_-]+$/);
+    assert.equal(w.sentence.split('___').length, 2, lesson.id + '/' + w.id + ': exactly one blank');
+    assert.ok(!w.sentencePinyin.includes('___') && !w.sentenceRu.includes('___'));
+    for (const id of w.quizExcludes || []) assert.ok(ids.has(id) && id !== w.id, lesson.id + '/' + w.id + ': invalid exclusion');
+    assert.ok(data.words.filter(x => x.id !== w.id && !(w.quizExcludes || []).includes(x.id)).length >= 3);
+    if (w.audioText) assert.ok(w.audioNote, lesson.id + '/' + w.id + ': audio context requires a note');
+  }
+}
+assert.equal(hsk1CardCount, 317);
+for (const id of ['tian_weather','tian_day']) {
+  const w = hsk1Decks['hsk1-lesson12'].words.find(x => x.id === id);
+  assert.ok(w.quizExcludes.includes(id === 'tian_weather' ? 'tian_day' : 'tian_weather'));
+}
+for (const id of ['tamen_mixed','tamen_women','tamen_objects']) {
+  const w = hsk1Decks['hsk1-lesson14'].words.find(x => x.id === id);
+  assert.equal(w.quizExcludes.length, 2);
+}
 const hsk2Reference = [
   '就 给 让 接 次 旅游 帮忙 不好意思 已经 那 介绍 有时 懂 意思',
   '公交车 但 车站 远 打车 还是 啊 万 名 网上 外国 间 教室 票 别 过来',
@@ -135,10 +188,15 @@ const server = http.createServer((req, res) => {
   try {
     await page.goto(base);
     await page.locator('#btn-start').click(); await visible('sections');
-    assert.equal(await page.locator('#sections button').count(), 2);
-    assert.equal(await page.locator('#sections button').first().innerText(), 'HSK-2\n新HSK教程 2 · 15 уроков\nДоступно 15 из 15 уроков →');
+    assert.equal(await page.locator('#sections button').count(), 3);
+    assert.equal(await page.locator('#sections button').first().innerText(), 'HSK-1\n新HSK教程 1 · 15 уроков\nДоступно 15 из 15 уроков →');
+    assert.equal(await page.locator('#sections button').nth(1).innerText(), 'HSK-2\n新HSK教程 2 · 15 уроков\nДоступно 15 из 15 уроков →');
     assert.equal(await page.locator('#sections button').last().innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 18 из 18 уроков →');
     await page.locator('#sections button').first().click(); await visible('lessons');
+    assert.equal(await page.locator('#lessons button').count(), 15);
+    assert.equal(await page.locator('#lessons button:disabled').count(), 0);
+    await page.locator('#btn-sections').click(); await visible('sections');
+    await page.locator('#sections button').nth(1).click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 15);
     assert.equal(await page.locator('#lessons button:disabled').count(), 0);
     await page.locator('#btn-sections').click(); await visible('sections');
@@ -286,12 +344,54 @@ const server = http.createServer((req, res) => {
       assert.ok((await page.evaluate(() => window.shared)).text.includes(data.title));
     }
 
+    // HSK-1: direct links, all words, both audio routes, all quiz questions and result.
+    for (const lesson of hsk1Section.lessons) {
+      const data = hsk1Decks[lesson.id];
+      await page.goto(base + '/?deck=' + lesson.id); await visible('lesson');
+      await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
+      assert.equal(await page.locator('#deck-title').innerText(), data.title);
+      await page.locator('#btn-begin').click(); await visible('cards');
+      // Show the whole deck once and check front, back, full example and both sound URLs.
+      for (let i = 0; i < data.words.length; i++) {
+        const w = data.words[i];
+        assert.equal(await page.locator('#front-hanzi').innerText(), w.hanzi, lesson.id + ': card order');
+        await page.locator('#btn-no').click();
+        assert.equal(await page.locator('#back-ru').innerText(), w.ru);
+        assert.equal((await page.locator('#back-ex-zh').innerText()).replace(/\s/g,''), w.sentence.replace('___',w.hanzi).replace(/\s/g,''));
+        await page.locator('#btn-audio-ex').click();
+        assert.deepEqual(await page.evaluate(() => window.played.slice(-2)), ['audio/' + lesson.id + '/' + w.id + '.mp3', 'audio/' + lesson.id + '/' + w.id + '_s.mp3']);
+        if (i === 0) await page.screenshot({path:path.join(screenshots,lesson.id + '-card.png')});
+        await page.locator('#btn-next').click(); await tick();
+      }
+      // First pass all marked unknown; second pass learned.
+      for (let i=0; i<data.words.length; i++) {
+        await page.locator('#btn-yes').click(); await tick();
+      }
+      await visible('test');
+      for (let i=0; i<data.words.length; i++) {
+        const shown = await page.locator('#q-sentence').innerText();
+        const w = data.words.find(x => shown.replace(/\s/g,'') === x.sentence.replace('___','').replace(/\s/g,''));
+        assert.ok(w, lesson.id + ': unrecognized question ' + shown);
+        const options = await page.locator('#options button').evaluateAll(bs => bs.map(b => b.dataset.id));
+        assert.equal(options.length, 4);
+        assert.equal(new Set(options).size, 4);
+        assert.ok(options.includes(w.id));
+        for (const excluded of w.quizExcludes || []) assert.ok(!options.includes(excluded), lesson.id + '/' + w.id + ': ambiguous option');
+        await page.locator('#options button[data-id="' + w.id + '"]').click();
+        await page.locator('#btn-test-next').click();
+      }
+      await visible('result');
+      assert.equal(await page.locator('#score-num').innerText(), data.words.length + '/' + data.words.length);
+      await page.locator('#btn-share').click();
+      assert.ok((await page.evaluate(() => window.shared)).text.includes(data.title));
+    }
+
     // Telegram start_param takes priority over browser query.
     await page.addInitScript(() => { window.Telegram={WebApp:{initData:'test',initDataUnsafe:{start_param:'lesson1'},ready(){},expand(){}}}; });
     await page.goto(base+'/?deck=lesson2'); await visible('lesson');
     await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
     assert.equal(await page.locator('#deck-title').innerText(), 'HSK-3 · Урок 1');
     assert.equal(errors.length, 0, errors.join('\n'));
-    console.log('PASS: all 15 HSK-2 lessons (210 cards), 18 HSK-3 lessons (482 cards), sorted levels, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
+    console.log('PASS: HSK-1 (15/317), HSK-2 (15/210), HSK-3 (18/482), 1009 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
   } finally { await browser.close(); server.close(); }
 })().catch(e => { console.error(e); process.exitCode=1; server.close(); });
