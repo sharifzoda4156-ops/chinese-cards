@@ -415,19 +415,22 @@
           "id": "hsk4a-lesson8",
           "title": "Урок 8",
           "subtitle": "Отдыхай, когда пора отдыхать",
-          "available": false
+          "available": true,
+          "wordCount": 38
         },
         {
           "id": "hsk4a-lesson9",
           "title": "Урок 9",
           "subtitle": "Встретить тебя — как раз вовремя",
-          "available": false
+          "available": true,
+          "wordCount": 40
         },
         {
           "id": "hsk4a-lesson10",
           "title": "Урок 10",
           "subtitle": "Южане не понимают северного холода",
-          "available": false
+          "available": true,
+          "wordCount": 41
         }
       ]
     },
