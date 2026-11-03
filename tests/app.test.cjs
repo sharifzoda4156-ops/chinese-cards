@@ -245,37 +245,46 @@ const server = http.createServer((req, res) => {
       assert.ok((await page.evaluate(() => window.shared)).text.includes(data.title));
       await page.locator('#btn-result-lessons').click(); await visible('lessons');
     }
-    // HSK-2: deep link, lesson 1, audio routing, all flashcards and 14 quiz questions.
-    await page.goto(base+'/?deck=hsk2-lesson1'); await visible('lesson');
-    await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
-    assert.equal(await page.locator('#deck-title').innerText(), 'HSK-2 · Урок 1');
-    await page.locator('#btn-begin').click(); await visible('cards');
-    const hsk2FirstHanzi = await page.locator('#front-hanzi').innerText();
-    const hsk2First = hsk2Deck.words.find(w => w.hanzi === hsk2FirstHanzi);
-    assert.ok(hsk2First);
-    await page.locator('#btn-no').click();
-    assert.equal(await page.locator('#back-ru').innerText(), hsk2First.ru);
-    await page.locator('#btn-audio-ex').click();
-    assert.deepEqual(await page.evaluate(() => window.played.slice(-2)), [
-      'audio/hsk2-lesson1/' + hsk2First.id + '.mp3',
-      'audio/hsk2-lesson1/' + hsk2First.id + '_s.mp3'
-    ]);
-    await page.locator('#btn-next').click(); await tick();
-    for (let i = 0; i < hsk2Deck.words.length; i++) {
-      await page.locator('#btn-yes').click(); await tick();
+    // Run complete card and quiz flows for every HSK-2 lesson, including direct links.
+    for (const lesson of hsk2Section.lessons) {
+      const data = hsk2Decks[lesson.id];
+      await page.goto(base + '/?deck=' + lesson.id); await visible('lesson');
+      await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
+      assert.equal(await page.locator('#deck-title').innerText(), data.title);
+      await page.locator('#btn-begin').click(); await visible('cards');
+      const firstHanzi = await page.locator('#front-hanzi').innerText();
+      const firstWord = data.words.find(w => w.hanzi === firstHanzi);
+      assert.ok(firstWord, lesson.id + ': unknown first word');
+      await page.locator('#btn-no').click();
+      assert.equal(await page.locator('#back-ru').innerText(), firstWord.ru);
+      assert.equal((await page.locator('#back-ex-zh').innerText()).replace(/\s/g,''), firstWord.sentence.replace('___',firstWord.hanzi).replace(/\s/g,''));
+      await page.locator('#btn-audio-ex').click();
+      assert.deepEqual(await page.evaluate(() => window.played.slice(-2)), [
+        'audio/' + lesson.id + '/' + firstWord.id + '.mp3',
+        'audio/' + lesson.id + '/' + firstWord.id + '_s.mp3'
+      ]);
+      await page.locator('#btn-next').click(); await tick();
+      for (let i = 0; i < data.words.length; i++) {
+        await page.locator('#btn-yes').click(); await tick();
+      }
+      await visible('test');
+      for (let i = 0; i < data.words.length; i++) {
+        const shown = await page.locator('#q-sentence').innerText();
+        const w = data.words.find(w => shown.replace(/\s/g,'') === w.sentence.replace('___','').replace(/\s/g,''));
+        assert.ok(w, lesson.id + ': unexpected quiz question ' + shown);
+        const options = await page.locator('#options button').evaluateAll(bs => bs.map(b => b.dataset.id));
+        assert.equal(options.length, 4);
+        assert.equal(new Set(options).size, 4);
+        assert.ok(options.includes(w.id));
+        for (const excluded of w.quizExcludes || []) assert.ok(!options.includes(excluded), lesson.id + '/' + w.id + ': ambiguous answer');
+        await page.locator('#options button[data-id="' + w.id + '"]').click();
+        await page.locator('#btn-test-next').click();
+      }
+      await visible('result');
+      assert.equal(await page.locator('#score-num').innerText(), data.words.length + '/' + data.words.length);
+      await page.locator('#btn-share').click();
+      assert.ok((await page.evaluate(() => window.shared)).text.includes(data.title));
     }
-    await visible('test');
-    for (let i = 0; i < hsk2Deck.words.length; i++) {
-      const sentence = await page.locator('#q-sentence').innerText();
-      const w = hsk2Deck.words.find(w => sentence.replace(/\s/g,'') === w.sentence.replace('___','').replace(/\s/g,''));
-      assert.ok(w, 'hsk2: unexpected question ' + sentence);
-      await page.locator('#options button[data-id="' + w.id + '"]').click();
-      await page.locator('#btn-test-next').click();
-    }
-    await visible('result');
-    assert.equal(await page.locator('#score-num').innerText(), '14/14');
-    await page.locator('#btn-share').click();
-    assert.ok((await page.evaluate(() => window.shared)).text.includes('HSK-2 · Урок 1'));
 
     // Telegram start_param takes priority over browser query.
     await page.addInitScript(() => { window.Telegram={WebApp:{initData:'test',initDataUnsafe:{start_param:'lesson1'},ready(){},expand(){}}}; });
@@ -283,6 +292,6 @@ const server = http.createServer((req, res) => {
     await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
     assert.equal(await page.locator('#deck-title').innerText(), 'HSK-3 · Урок 1');
     assert.equal(errors.length, 0, errors.join('\n'));
-    console.log('PASS: HSK-2 above HSK-3, HSK-2 lesson 1 and all 482 HSK-3 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
+    console.log('PASS: all 15 HSK-2 lessons (210 cards), 18 HSK-3 lessons (482 cards), sorted levels, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
   } finally { await browser.close(); server.close(); }
 })().catch(e => { console.error(e); process.exitCode=1; server.close(); });
