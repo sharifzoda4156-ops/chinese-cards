@@ -33,16 +33,46 @@ const hsk2Section = catalog.sections.find(s => s.id === 'hsk2');
 assert.ok(hsk3Section && hsk2Section);
 assert.deepEqual(catalog.sections.map(s => s.id), ['hsk2', 'hsk3']);
 assert.equal(hsk2Section.lessons.length, 15);
-assert.deepEqual(hsk2Section.lessons.filter(l => l.available).map(l => l.id), ['hsk2-lesson1']);
-const hsk2Deck = JSON.parse(fs.readFileSync(path.join(root, 'decks/hsk2-lesson1.json')));
-assert.deepEqual(hsk2Deck.words.map(w => w.hanzi), '就 给 让 接 次 旅游 帮忙 不好意思 已经 那 介绍 有时 懂 意思'.split(' '));
-assert.equal(hsk2Deck.words.length, 14);
-assert.equal(new Set(hsk2Deck.words.map(w => w.id)).size, 14);
-for (const w of hsk2Deck.words) {
-  for (const field of ['id','hanzi','pinyin','ru','sentence','sentencePinyin','sentenceRu']) assert.ok(w[field]?.trim(), 'hsk2/' + w.id + ': missing ' + field);
-  assert.match(w.id, /^[a-z0-9_-]+$/);
-  assert.equal(w.sentence.split('___').length, 2);
+const hsk2Reference = [
+  '就 给 让 接 次 旅游 帮忙 不好意思 已经 那 介绍 有时 懂 意思',
+  '公交车 但 车站 远 打车 还是 啊 万 名 网上 外国 间 教室 票 别 过来',
+  '回来 这么 完 一起 出去 洗 自己 拿 手 为什么 不错 送 回去 每 累',
+  '过 商场 进去 条 裤子 白色 因为 试 红色 所以 书包 过去 绿色 黑色 更 颜色',
+  '快 下来 上来 上去 下面 面 等 一会儿 下去 进来 爷爷 奶奶 礼物 准备 奶茶 走 酒店',
+  '生日 忘 画 画笔 蛋糕 快乐 打开 长 鱼 肉 过 地 床 舒服',
+  '从 往 跑 打 篮球 运动 踢 足球 球 得 跑步 游泳 游 爱好 开始',
+  '手表 左边 左 比 右边 右 记得 爱情片 有意思 点 虽然 但是 花 妻子 丈夫 饭馆',
+  '坏 旁边 男孩儿 这样 个子 那么 高 门口 咖啡 离 近 走路 周',
+  '开学 门 后面 笔 帮 考试 词 本子 错 题 还是 考 快要 笑',
+  '头 疼 经常 动 着 路上 慢 进 药 身体 时 最 药店',
+  '事情 晴 正 外面 阴 从小 地铁 楼 站 小时候 好',
+  '新年 教 花 希望 上面 洗手间 里面 笔 可能 上网 那样 告诉 班',
+  '站 包 过年 没意思 位 前面 房子 小孩儿 女孩儿 姓 眼睛 跳舞',
+  '姓名 出国 门票 高中 出门 路 机场 机票 飞 好像 鸟'
+];
+assert.deepEqual(hsk2Section.lessons.filter(l => l.available).map(l => l.id), hsk2Reference.map((_,i)=>'hsk2-lesson'+(i+1)));
+const hsk2Decks = {};
+let hsk2CardCount = 0;
+for (let i = 0; i < hsk2Section.lessons.length; i++) {
+  const lesson = hsk2Section.lessons[i];
+  const data = JSON.parse(fs.readFileSync(path.join(root, 'decks', lesson.id + '.json')));
+  hsk2Decks[lesson.id] = data;
+  hsk2CardCount += data.words.length;
+  assert.deepEqual(data.words.map(w => w.hanzi), hsk2Reference[i].split(' '), lesson.id + ': source order');
+  assert.equal(data.words.length, lesson.wordCount, lesson.id);
+  const ids = new Set(data.words.map(w => w.id));
+  assert.equal(ids.size, data.words.length, lesson.id + ': unique word IDs');
+  for (const w of data.words) {
+    for (const field of ['id','hanzi','pinyin','ru','sentence','sentencePinyin','sentenceRu']) assert.ok(w[field]?.trim(), lesson.id + '/' + w.id + ': ' + field);
+    assert.match(w.id, /^[a-z0-9_-]+$/);
+    assert.equal(w.sentence.split('___').length, 2, lesson.id + '/' + w.id + ': one blank');
+    assert.ok(!w.sentencePinyin.includes('___') && !w.sentenceRu.includes('___'));
+    if (w.audioText) assert.ok(w.audioNote, lesson.id + '/' + w.id + ': audio note');
+    for (const id of w.quizExcludes || []) assert.ok(ids.has(id) && id !== w.id, lesson.id + '/' + w.id + ': invalid quiz exclusion');
+    assert.ok(data.words.filter(x => x.id !== w.id && !(w.quizExcludes || []).includes(x.id)).length >= 3);
+  }
 }
+assert.equal(hsk2CardCount, 210);
 const available = hsk3Section.lessons.filter(l => l.available);
 assert.equal(hsk3Section.lessons.length, 18);
 assert.deepEqual(available.map(l => l.id), Object.keys(sourceWords));
@@ -106,11 +136,11 @@ const server = http.createServer((req, res) => {
     await page.goto(base);
     await page.locator('#btn-start').click(); await visible('sections');
     assert.equal(await page.locator('#sections button').count(), 2);
-    assert.equal(await page.locator('#sections button').first().innerText(), 'HSK-2\n新HSK教程 2 · 15 уроков\nДоступно 1 из 15 уроков →');
+    assert.equal(await page.locator('#sections button').first().innerText(), 'HSK-2\n新HSK教程 2 · 15 уроков\nДоступно 15 из 15 уроков →');
     assert.equal(await page.locator('#sections button').last().innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 18 из 18 уроков →');
     await page.locator('#sections button').first().click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 15);
-    assert.equal(await page.locator('#lessons button:disabled').count(), 14);
+    assert.equal(await page.locator('#lessons button:disabled').count(), 0);
     await page.locator('#btn-sections').click(); await visible('sections');
     await page.locator('#sections button').last().click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 18);
@@ -215,37 +245,46 @@ const server = http.createServer((req, res) => {
       assert.ok((await page.evaluate(() => window.shared)).text.includes(data.title));
       await page.locator('#btn-result-lessons').click(); await visible('lessons');
     }
-    // HSK-2: deep link, lesson 1, audio routing, all flashcards and 14 quiz questions.
-    await page.goto(base+'/?deck=hsk2-lesson1'); await visible('lesson');
-    await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
-    assert.equal(await page.locator('#deck-title').innerText(), 'HSK-2 · Урок 1');
-    await page.locator('#btn-begin').click(); await visible('cards');
-    const hsk2FirstHanzi = await page.locator('#front-hanzi').innerText();
-    const hsk2First = hsk2Deck.words.find(w => w.hanzi === hsk2FirstHanzi);
-    assert.ok(hsk2First);
-    await page.locator('#btn-no').click();
-    assert.equal(await page.locator('#back-ru').innerText(), hsk2First.ru);
-    await page.locator('#btn-audio-ex').click();
-    assert.deepEqual(await page.evaluate(() => window.played.slice(-2)), [
-      'audio/hsk2-lesson1/' + hsk2First.id + '.mp3',
-      'audio/hsk2-lesson1/' + hsk2First.id + '_s.mp3'
-    ]);
-    await page.locator('#btn-next').click(); await tick();
-    for (let i = 0; i < hsk2Deck.words.length; i++) {
-      await page.locator('#btn-yes').click(); await tick();
+    // Run complete card and quiz flows for every HSK-2 lesson, including direct links.
+    for (const lesson of hsk2Section.lessons) {
+      const data = hsk2Decks[lesson.id];
+      await page.goto(base + '/?deck=' + lesson.id); await visible('lesson');
+      await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
+      assert.equal(await page.locator('#deck-title').innerText(), data.title);
+      await page.locator('#btn-begin').click(); await visible('cards');
+      const firstHanzi = await page.locator('#front-hanzi').innerText();
+      const firstWord = data.words.find(w => w.hanzi === firstHanzi);
+      assert.ok(firstWord, lesson.id + ': unknown first word');
+      await page.locator('#btn-no').click();
+      assert.equal(await page.locator('#back-ru').innerText(), firstWord.ru);
+      assert.equal((await page.locator('#back-ex-zh').innerText()).replace(/\s/g,''), firstWord.sentence.replace('___',firstWord.hanzi).replace(/\s/g,''));
+      await page.locator('#btn-audio-ex').click();
+      assert.deepEqual(await page.evaluate(() => window.played.slice(-2)), [
+        'audio/' + lesson.id + '/' + firstWord.id + '.mp3',
+        'audio/' + lesson.id + '/' + firstWord.id + '_s.mp3'
+      ]);
+      await page.locator('#btn-next').click(); await tick();
+      for (let i = 0; i < data.words.length; i++) {
+        await page.locator('#btn-yes').click(); await tick();
+      }
+      await visible('test');
+      for (let i = 0; i < data.words.length; i++) {
+        const shown = await page.locator('#q-sentence').innerText();
+        const w = data.words.find(w => shown.replace(/\s/g,'') === w.sentence.replace('___','').replace(/\s/g,''));
+        assert.ok(w, lesson.id + ': unexpected quiz question ' + shown);
+        const options = await page.locator('#options button').evaluateAll(bs => bs.map(b => b.dataset.id));
+        assert.equal(options.length, 4);
+        assert.equal(new Set(options).size, 4);
+        assert.ok(options.includes(w.id));
+        for (const excluded of w.quizExcludes || []) assert.ok(!options.includes(excluded), lesson.id + '/' + w.id + ': ambiguous answer');
+        await page.locator('#options button[data-id="' + w.id + '"]').click();
+        await page.locator('#btn-test-next').click();
+      }
+      await visible('result');
+      assert.equal(await page.locator('#score-num').innerText(), data.words.length + '/' + data.words.length);
+      await page.locator('#btn-share').click();
+      assert.ok((await page.evaluate(() => window.shared)).text.includes(data.title));
     }
-    await visible('test');
-    for (let i = 0; i < hsk2Deck.words.length; i++) {
-      const sentence = await page.locator('#q-sentence').innerText();
-      const w = hsk2Deck.words.find(w => sentence.replace(/\s/g,'') === w.sentence.replace('___','').replace(/\s/g,''));
-      assert.ok(w, 'hsk2: unexpected question ' + sentence);
-      await page.locator('#options button[data-id="' + w.id + '"]').click();
-      await page.locator('#btn-test-next').click();
-    }
-    await visible('result');
-    assert.equal(await page.locator('#score-num').innerText(), '14/14');
-    await page.locator('#btn-share').click();
-    assert.ok((await page.evaluate(() => window.shared)).text.includes('HSK-2 · Урок 1'));
 
     // Telegram start_param takes priority over browser query.
     await page.addInitScript(() => { window.Telegram={WebApp:{initData:'test',initDataUnsafe:{start_param:'lesson1'},ready(){},expand(){}}}; });
@@ -253,6 +292,6 @@ const server = http.createServer((req, res) => {
     await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
     assert.equal(await page.locator('#deck-title').innerText(), 'HSK-3 · Урок 1');
     assert.equal(errors.length, 0, errors.join('\n'));
-    console.log('PASS: HSK-2 above HSK-3, HSK-2 lesson 1 and all 482 HSK-3 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
+    console.log('PASS: all 15 HSK-2 lessons (210 cards), 18 HSK-3 lessons (482 cards), sorted levels, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
   } finally { await browser.close(); server.close(); }
 })().catch(e => { console.error(e); process.exitCode=1; server.close(); });

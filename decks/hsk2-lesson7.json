@@ -1,0 +1,144 @@
+{
+  "title": "HSK-2 · Урок 7",
+  "subtitle": "他篮球打得很好 · Он отлично играет в баскетбол",
+  "source": "新HSK教程 2, урок 7, все 15 записей 生词, печатные страницы 57, 59, 61, 62; собственные имена не включены",
+  "words": [
+    {
+      "id": "cong",
+      "hanzi": "从",
+      "pinyin": "cóng",
+      "ru": "из; от (исходная точка)",
+      "sentence": "我___学校走到家。",
+      "sentencePinyin": "Wǒ cóng xuéxiào zǒu dào jiā.",
+      "sentenceRu": "Я иду пешком из школы домой."
+    },
+    {
+      "id": "wang",
+      "hanzi": "往",
+      "pinyin": "wǎng",
+      "ru": "к; по направлению",
+      "sentence": "出门以后___左走。",
+      "sentencePinyin": "Chūmén yǐhòu wǎng zuǒ zǒu.",
+      "sentenceRu": "Выйдя, иди налево."
+    },
+    {
+      "id": "pao",
+      "hanzi": "跑",
+      "pinyin": "pǎo",
+      "ru": "бежать",
+      "sentence": "他每天早上都___五公里。",
+      "sentencePinyin": "Tā měi tiān zǎoshang dōu pǎo wǔ gōnglǐ.",
+      "sentenceRu": "Каждое утро он пробегает пять километров."
+    },
+    {
+      "id": "da",
+      "hanzi": "打",
+      "pinyin": "dǎ",
+      "ru": "играть (в спортивную игру)",
+      "sentence": "我们下午去___篮球吧。",
+      "sentencePinyin": "Wǒmen xiàwǔ qù dǎ lánqiú ba.",
+      "sentenceRu": "Давай днём поиграем в баскетбол."
+    },
+    {
+      "id": "lanqiu",
+      "hanzi": "篮球",
+      "pinyin": "lán qiú",
+      "ru": "баскетбол",
+      "sentence": "弟弟喜欢打___。",
+      "sentencePinyin": "Dìdi xǐhuan dǎ lánqiú.",
+      "sentenceRu": "Младший брат любит играть в баскетбол."
+    },
+    {
+      "id": "yundong",
+      "hanzi": "运动",
+      "pinyin": "yùn dòng",
+      "ru": "спорт; заниматься спортом",
+      "sentence": "每天___对身体很好。",
+      "sentencePinyin": "Měi tiān yùndòng duì shēntǐ hěn hǎo.",
+      "sentenceRu": "Ежедневный спорт полезен для здоровья."
+    },
+    {
+      "id": "ti",
+      "hanzi": "踢",
+      "pinyin": "tī",
+      "ru": "пинать; играть ногой",
+      "sentence": "孩子们在操场上___足球。",
+      "sentencePinyin": "Háizimen zài cāochǎng shang tī zúqiú.",
+      "sentenceRu": "Дети играют в футбол на площадке."
+    },
+    {
+      "id": "zuqiu",
+      "hanzi": "足球",
+      "pinyin": "zú qiú",
+      "ru": "футбол; футбольный мяч",
+      "sentence": "我和朋友周末踢___。",
+      "sentencePinyin": "Wǒ hé péngyou zhōumò tī zúqiú.",
+      "sentenceRu": "На выходных мы с друзьями играем в футбол."
+    },
+    {
+      "id": "qiu",
+      "hanzi": "球",
+      "pinyin": "qiú",
+      "ru": "мяч; шар",
+      "sentence": "请把___传给我。",
+      "sentencePinyin": "Qǐng bǎ qiú chuán gěi wǒ.",
+      "sentenceRu": "Передай мне мяч, пожалуйста."
+    },
+    {
+      "id": "de",
+      "hanzi": "得",
+      "pinyin": "de",
+      "ru": "частица степени после глагола",
+      "sentence": "她游泳游___很快。",
+      "sentencePinyin": "Tā yóuyǒng yóu de hěn kuài.",
+      "sentenceRu": "Она плавает очень быстро.",
+      "audioText": "跑得快",
+      "audioNote": "Здесь 得 читается de (после глагола, перед дополнением степени)."
+    },
+    {
+      "id": "paobu",
+      "hanzi": "跑步",
+      "pinyin": "pǎo bù",
+      "ru": "бегать; бег",
+      "sentence": "我每天早上去公园___。",
+      "sentencePinyin": "Wǒ měi tiān zǎoshang qù gōngyuán pǎobù.",
+      "sentenceRu": "Я каждое утро бегаю в парке."
+    },
+    {
+      "id": "youyong",
+      "hanzi": "游泳",
+      "pinyin": "yóu yǒng",
+      "ru": "плавать",
+      "sentence": "夏天我们常去河里___。",
+      "sentencePinyin": "Xiàtiān wǒmen cháng qù hé lǐ yóuyǒng.",
+      "sentenceRu": "Летом мы часто ходим плавать в реке."
+    },
+    {
+      "id": "you",
+      "hanzi": "游",
+      "pinyin": "yóu",
+      "ru": "плавать",
+      "sentence": "他会___，但游得不快。",
+      "sentencePinyin": "Tā huì yóu, dàn yóu de bú kuài.",
+      "sentenceRu": "Он умеет плавать, но плавает небыстро."
+    },
+    {
+      "id": "aihao",
+      "hanzi": "爱好",
+      "pinyin": "ài hào",
+      "ru": "хобби; увлечение",
+      "sentence": "我的___是画画和运动。",
+      "sentencePinyin": "Wǒ de àihào shì huàhuà hé yùndòng.",
+      "sentenceRu": "Мои увлечения — рисование и спорт."
+    },
+    {
+      "id": "kaishi",
+      "hanzi": "开始",
+      "pinyin": "kāi shǐ",
+      "ru": "начинать; начало",
+      "sentence": "比赛马上要___了。",
+      "sentencePinyin": "Bǐsài mǎshàng yào kāishǐ le.",
+      "sentenceRu": "Соревнование скоро начнётся."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "title": "HSK-2 · Урок 8",
+  "subtitle": "虽然你忘了，但是我记得 · Хотя ты забыл, я помню",
+  "source": "新HSK教程 2, урок 8, 生词, страницы 65, 67, 69, 70; 14 нумерованных записей + самостоятельные формы 左 и 右 (всего 16 карточек)",
+  "words": [
+    {
+      "id": "shoubiao",
+      "hanzi": "手表",
+      "pinyin": "shǒu biǎo",
+      "ru": "наручные часы",
+      "sentence": "爸爸送给我一块___。",
+      "sentencePinyin": "Bàba sòng gěi wǒ yí kuài shǒubiǎo.",
+      "sentenceRu": "Папа подарил мне наручные часы."
+    },
+    {
+      "id": "zuobian",
+      "hanzi": "左边",
+      "pinyin": "zuǒ bian",
+      "ru": "левая сторона; слева",
+      "sentence": "书店在学校的___。",
+      "sentencePinyin": "Shūdiàn zài xuéxiào de zuǒbian.",
+      "sentenceRu": "Книжный магазин слева от школы.",
+      "quizExcludes": [
+        "zuo"
+      ]
+    },
+    {
+      "id": "zuo",
+      "hanzi": "左",
+      "pinyin": "zuǒ",
+      "ru": "левый; налево",
+      "sentence": "走到路口以后往___转。",
+      "sentencePinyin": "Zǒu dào lùkǒu yǐhòu wǎng zuǒ zhuǎn.",
+      "sentenceRu": "На перекрёстке поверни налево.",
+      "quizExcludes": [
+        "zuobian"
+      ]
+    },
+    {
+      "id": "bi",
+      "hanzi": "比",
+      "pinyin": "bǐ",
+      "ru": "чем (для сравнения)",
+      "sentence": "今天___昨天热。",
+      "sentencePinyin": "Jīntiān bǐ zuótiān rè.",
+      "sentenceRu": "Сегодня жарче, чем вчера."
+    },
+    {
+      "id": "youbian",
+      "hanzi": "右边",
+      "pinyin": "yòu bian",
+      "ru": "правая сторона; справа",
+      "sentence": "银行在饭馆的___。",
+      "sentencePinyin": "Yínháng zài fànguǎn de yòubian.",
+      "sentenceRu": "Банк справа от ресторана.",
+      "quizExcludes": [
+        "you"
+      ]
+    },
+    {
+      "id": "you",
+      "hanzi": "右",
+      "pinyin": "yòu",
+      "ru": "правый; направо",
+      "sentence": "下一个路口向___走。",
+      "sentencePinyin": "Xià yí ge lùkǒu xiàng yòu zǒu.",
+      "sentenceRu": "На следующем перекрёстке иди направо.",
+      "quizExcludes": [
+        "youbian"
+      ]
+    },
+    {
+      "id": "jide",
+      "hanzi": "记得",
+      "pinyin": "jì de",
+      "ru": "помнить",
+      "sentence": "我___你的生日是八月二十七日。",
+      "sentencePinyin": "Wǒ jìde nǐ de shēngrì shì bā yuè èrshíqī rì.",
+      "sentenceRu": "Я помню, что твой день рождения 27 августа."
+    },
+    {
+      "id": "aiqingpian",
+      "hanzi": "爱情片",
+      "pinyin": "ài qíng piàn",
+      "ru": "романтический фильм",
+      "sentence": "她特别喜欢看___。",
+      "sentencePinyin": "Tā tèbié xǐhuan kàn àiqíngpiàn.",
+      "sentenceRu": "Она особенно любит смотреть романтические фильмы."
+    },
+    {
+      "id": "youyisi",
+      "hanzi": "有意思",
+      "pinyin": "yǒu yì si",
+      "ru": "интересный; занимательный",
+      "sentence": "这本中文书真___。",
+      "sentencePinyin": "Zhè běn Zhōngwén shū zhēn yǒuyìsi.",
+      "sentenceRu": "Эта книга на китайском очень интересная."
+    },
+    {
+      "id": "dian",
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "ru": "заказывать (еду)",
+      "sentence": "你想___什么菜？",
+      "sentencePinyin": "Nǐ xiǎng diǎn shénme cài?",
+      "sentenceRu": "Какое блюдо хочешь заказать?"
+    },
+    {
+      "id": "suiran",
+      "hanzi": "虽然",
+      "pinyin": "suī rán",
+      "ru": "хотя; несмотря на то что",
+      "sentence": "___外面很冷，我还是想出去。",
+      "sentencePinyin": "Suīrán wàimiàn hěn lěng, wǒ háishi xiǎng chūqù.",
+      "sentenceRu": "Хотя на улице холодно, я всё равно хочу выйти."
+    },
+    {
+      "id": "danshi",
+      "hanzi": "但是",
+      "pinyin": "dàn shì",
+      "ru": "но; однако",
+      "sentence": "我想去，___今天没有时间。",
+      "sentencePinyin": "Wǒ xiǎng qù, dànshì jīntiān méiyǒu shíjiān.",
+      "sentenceRu": "Я хочу пойти, но сегодня нет времени."
+    },
+    {
+      "id": "hua",
+      "hanzi": "花",
+      "pinyin": "huā",
+      "ru": "тратить (деньги, время)",
+      "sentence": "我买这件衣服___了一百元。",
+      "sentencePinyin": "Wǒ mǎi zhè jiàn yīfu huā le yì bǎi yuán.",
+      "sentenceRu": "Я потратил сто юаней на эту одежду."
+    },
+    {
+      "id": "qizi",
+      "hanzi": "妻子",
+      "pinyin": "qī zi",
+      "ru": "жена; супруга",
+      "sentence": "他和___一起去看电影。",
+      "sentencePinyin": "Tā hé qīzi yìqǐ qù kàn diànyǐng.",
+      "sentenceRu": "Он пошёл в кино вместе с женой."
+    },
+    {
+      "id": "zhangfu",
+      "hanzi": "丈夫",
+      "pinyin": "zhàng fu",
+      "ru": "муж; супруг",
+      "sentence": "她的___正在厨房做饭。",
+      "sentencePinyin": "Tā de zhàngfu zhèngzài chúfáng zuò fàn.",
+      "sentenceRu": "Её муж сейчас готовит на кухне."
+    },
+    {
+      "id": "fanguan",
+      "hanzi": "饭馆",
+      "pinyin": "fàn guǎn",
+      "ru": "ресторан; небольшое кафе",
+      "sentence": "这家___的菜很好吃。",
+      "sentencePinyin": "Zhè jiā fànguǎn de cài hěn hǎochī.",
+      "sentenceRu": "В этом ресторане очень вкусно готовят."
+    }
+  ]
+}

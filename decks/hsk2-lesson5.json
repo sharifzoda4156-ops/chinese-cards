@@ -1,0 +1,160 @@
+{
+  "title": "HSK-2 · Урок 5",
+  "subtitle": "第一次去中国朋友家 · Первый визит к китайскому другу",
+  "source": "新HSK教程 2, урок 5, все 17 записей 生词, печатные страницы 38, 40, 42, 43; собственные имена не включены",
+  "words": [
+    {
+      "id": "kuai",
+      "hanzi": "快",
+      "pinyin": "kuài",
+      "ru": "быстро; скорый",
+      "sentence": "时间不早了，我们___走吧！",
+      "sentencePinyin": "Shíjiān bù zǎo le, wǒmen kuài zǒu ba!",
+      "sentenceRu": "Уже поздно, пойдём скорее!"
+    },
+    {
+      "id": "xialai",
+      "hanzi": "下来",
+      "pinyin": "xià lái",
+      "ru": "спуститься сюда",
+      "sentence": "我在楼下等你，你快___。",
+      "sentencePinyin": "Wǒ zài lóu xià děng nǐ, nǐ kuài xiàlai.",
+      "sentenceRu": "Я жду тебя внизу, спускайся скорее."
+    },
+    {
+      "id": "shanglai",
+      "hanzi": "上来",
+      "pinyin": "shàng lái",
+      "ru": "подняться сюда",
+      "sentence": "我们在二楼，你___吧。",
+      "sentencePinyin": "Wǒmen zài èr lóu, nǐ shànglai ba.",
+      "sentenceRu": "Мы на втором этаже, поднимайся к нам."
+    },
+    {
+      "id": "shangqu",
+      "hanzi": "上去",
+      "pinyin": "shàng qù",
+      "ru": "подняться туда",
+      "sentence": "书在楼上，我___拿。",
+      "sentencePinyin": "Shū zài lóu shang, wǒ shàngqù ná.",
+      "sentenceRu": "Книга наверху, я поднимусь за ней."
+    },
+    {
+      "id": "xiamian",
+      "hanzi": "下面",
+      "pinyin": "xià miàn",
+      "ru": "внизу; под",
+      "sentence": "猫在桌子___睡觉。",
+      "sentencePinyin": "Māo zài zhuōzi xiàmiàn shuìjiào.",
+      "sentenceRu": "Кошка спит под столом."
+    },
+    {
+      "id": "mian",
+      "hanzi": "面",
+      "pinyin": "miàn",
+      "ru": "суффикс положения в пространстве",
+      "sentence": "门外___有一个人。",
+      "sentencePinyin": "Mén wàimiàn yǒu yí ge rén.",
+      "sentenceRu": "За дверью стоит человек."
+    },
+    {
+      "id": "deng",
+      "hanzi": "等",
+      "pinyin": "děng",
+      "ru": "ждать",
+      "sentence": "我在门口___你。",
+      "sentencePinyin": "Wǒ zài ménkǒu děng nǐ.",
+      "sentenceRu": "Я жду тебя у двери."
+    },
+    {
+      "id": "yihuir",
+      "hanzi": "一会儿",
+      "pinyin": "yí huìr",
+      "ru": "немного времени; ненадолго",
+      "sentence": "请过___再来，我还没准备好。",
+      "sentencePinyin": "Qǐng guò yíhuìr zài lái, wǒ hái méi zhǔnbèi hǎo.",
+      "sentenceRu": "Приходи немного позже, я ещё не готов."
+    },
+    {
+      "id": "xiaqu",
+      "hanzi": "下去",
+      "pinyin": "xià qù",
+      "ru": "спуститься туда",
+      "sentence": "弟弟在楼下，我___找他。",
+      "sentencePinyin": "Dìdi zài lóu xià, wǒ xiàqù zhǎo tā.",
+      "sentenceRu": "Младший брат внизу, я спущусь к нему."
+    },
+    {
+      "id": "jinlai",
+      "hanzi": "进来",
+      "pinyin": "jìn lái",
+      "ru": "войти сюда",
+      "sentence": "门开着，请___坐。",
+      "sentencePinyin": "Mén kāi zhe, qǐng jìnlái zuò.",
+      "sentenceRu": "Дверь открыта, заходи и садись."
+    },
+    {
+      "id": "yeye",
+      "hanzi": "爷爷",
+      "pinyin": "yé ye",
+      "ru": "дедушка по отцу",
+      "sentence": "我___今年七十岁了。",
+      "sentencePinyin": "Wǒ yéye jīnnián qīshí suì le.",
+      "sentenceRu": "Моему дедушке в этом году семьдесят."
+    },
+    {
+      "id": "nainai",
+      "hanzi": "奶奶",
+      "pinyin": "nǎi nai",
+      "ru": "бабушка по отцу",
+      "sentence": "周末我去看___。",
+      "sentencePinyin": "Zhōumò wǒ qù kàn nǎinai.",
+      "sentenceRu": "На выходных я навещаю бабушку."
+    },
+    {
+      "id": "liwu",
+      "hanzi": "礼物",
+      "pinyin": "lǐ wù",
+      "ru": "подарок",
+      "sentence": "这是送给你的生日___。",
+      "sentencePinyin": "Zhè shì sòng gěi nǐ de shēngrì lǐwù.",
+      "sentenceRu": "Это подарок тебе на день рождения."
+    },
+    {
+      "id": "zhunbei",
+      "hanzi": "准备",
+      "pinyin": "zhǔn bèi",
+      "ru": "готовить; подготавливать",
+      "sentence": "我们正在___晚饭。",
+      "sentencePinyin": "Wǒmen zhèngzài zhǔnbèi wǎnfàn.",
+      "sentenceRu": "Мы готовим ужин."
+    },
+    {
+      "id": "naicha",
+      "hanzi": "奶茶",
+      "pinyin": "nǎi chá",
+      "ru": "чай с молоком; молочный чай",
+      "sentence": "她喜欢喝___。",
+      "sentencePinyin": "Tā xǐhuan hē nǎichá.",
+      "sentenceRu": "Она любит пить чай с молоком."
+    },
+    {
+      "id": "zou",
+      "hanzi": "走",
+      "pinyin": "zǒu",
+      "ru": "идти; уходить",
+      "sentence": "我们吃完饭就___了。",
+      "sentencePinyin": "Wǒmen chī wán fàn jiù zǒu le.",
+      "sentenceRu": "Мы ушли сразу после еды."
+    },
+    {
+      "id": "jiudian",
+      "hanzi": "酒店",
+      "pinyin": "jiǔ diàn",
+      "ru": "гостиница; отель",
+      "sentence": "我住的___离车站很近。",
+      "sentencePinyin": "Wǒ zhù de jiǔdiàn lí chēzhàn hěn jìn.",
+      "sentenceRu": "Мой отель находится близко к вокзалу."
+    }
+  ]
+}

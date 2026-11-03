@@ -1,0 +1,137 @@
+{
+  "title": "HSK-2 · Урок 6",
+  "subtitle": "小雪，生日快乐！ · С днём рождения, Сяосюэ!",
+  "source": "新HSK教程 2, урок 6, все 14 записей 生词, печатные страницы 47, 49, 51, 52; собственные имена не включены",
+  "words": [
+    {
+      "id": "shengri",
+      "hanzi": "生日",
+      "pinyin": "shēng rì",
+      "ru": "день рождения",
+      "sentence": "今天是妈妈的___。",
+      "sentencePinyin": "Jīntiān shì māma de shēngrì.",
+      "sentenceRu": "Сегодня день рождения мамы."
+    },
+    {
+      "id": "wang",
+      "hanzi": "忘",
+      "pinyin": "wàng",
+      "ru": "забывать",
+      "sentence": "我差点儿___了你的名字。",
+      "sentencePinyin": "Wǒ chà diǎnr wàng le nǐ de míngzi.",
+      "sentenceRu": "Я чуть не забыл твоё имя."
+    },
+    {
+      "id": "hua",
+      "hanzi": "画",
+      "pinyin": "huà",
+      "ru": "рисовать; рисунок",
+      "sentence": "妹妹喜欢___小猫。",
+      "sentencePinyin": "Mèimei xǐhuan huà xiǎo māo.",
+      "sentenceRu": "Младшая сестра любит рисовать котят."
+    },
+    {
+      "id": "huabi",
+      "hanzi": "画笔",
+      "pinyin": "huà bǐ",
+      "ru": "кисть; карандаш для рисования",
+      "sentence": "她用彩色___画花。",
+      "sentencePinyin": "Tā yòng cǎisè huàbǐ huà huā.",
+      "sentenceRu": "Она рисует цветы цветными карандашами."
+    },
+    {
+      "id": "dangao",
+      "hanzi": "蛋糕",
+      "pinyin": "dàn gāo",
+      "ru": "торт; пирожное",
+      "sentence": "我们买了一个生日___。",
+      "sentencePinyin": "Wǒmen mǎi le yí ge shēngrì dàngāo.",
+      "sentenceRu": "Мы купили торт ко дню рождения."
+    },
+    {
+      "id": "kuaile",
+      "hanzi": "快乐",
+      "pinyin": "kuài lè",
+      "ru": "радостный; счастливый",
+      "sentence": "祝你生日___！",
+      "sentencePinyin": "Zhù nǐ shēngrì kuàilè!",
+      "sentenceRu": "С днём рождения!"
+    },
+    {
+      "id": "dakai",
+      "hanzi": "打开",
+      "pinyin": "dǎ kāi",
+      "ru": "открывать; включать",
+      "sentence": "请___盒子看看礼物。",
+      "sentencePinyin": "Qǐng dǎkāi hézi kànkan lǐwù.",
+      "sentenceRu": "Открой коробку и посмотри на подарок."
+    },
+    {
+      "id": "chang",
+      "hanzi": "长",
+      "pinyin": "cháng",
+      "ru": "длинный",
+      "sentence": "这条路很___。",
+      "sentencePinyin": "Zhè tiáo lù hěn cháng.",
+      "sentenceRu": "Эта дорога очень длинная.",
+      "audioText": "长面条",
+      "audioNote": "В этом уроке 长 читается cháng («длинный»), для озвучки используется 长面条."
+    },
+    {
+      "id": "yu",
+      "hanzi": "鱼",
+      "pinyin": "yú",
+      "ru": "рыба",
+      "sentence": "爸爸做的___很好吃。",
+      "sentencePinyin": "Bàba zuò de yú hěn hǎochī.",
+      "sentenceRu": "Папа очень вкусно готовит рыбу."
+    },
+    {
+      "id": "rou",
+      "hanzi": "肉",
+      "pinyin": "ròu",
+      "ru": "мясо",
+      "sentence": "这碗面里有很多___。",
+      "sentencePinyin": "Zhè wǎn miàn lǐ yǒu hěn duō ròu.",
+      "sentenceRu": "В этой миске лапши много мяса."
+    },
+    {
+      "id": "guo",
+      "hanzi": "过",
+      "pinyin": "guò",
+      "ru": "проводить (время, праздник)",
+      "sentence": "我们一起___生日吧。",
+      "sentencePinyin": "Wǒmen yìqǐ guò shēngrì ba.",
+      "sentenceRu": "Давай вместе отметим день рождения."
+    },
+    {
+      "id": "de",
+      "hanzi": "地",
+      "pinyin": "de",
+      "ru": "частица образа действия (после наречия)",
+      "sentence": "她高兴___唱了起来。",
+      "sentencePinyin": "Tā gāoxìng de chàng le qǐlái.",
+      "sentenceRu": "Она радостно запела.",
+      "audioText": "高高兴兴地",
+      "audioNote": "Здесь 地 читается de (частица после наречия)."
+    },
+    {
+      "id": "chuang",
+      "hanzi": "床",
+      "pinyin": "chuáng",
+      "ru": "кровать",
+      "sentence": "弟弟已经上___睡觉了。",
+      "sentencePinyin": "Dìdi yǐjīng shàng chuáng shuìjiào le.",
+      "sentenceRu": "Младший брат уже лёг спать."
+    },
+    {
+      "id": "shufu",
+      "hanzi": "舒服",
+      "pinyin": "shū fu",
+      "ru": "удобный; комфортный",
+      "sentence": "这张___的床是新买的。",
+      "sentencePinyin": "Zhè zhāng shūfu de chuáng shì xīn mǎi de.",
+      "sentenceRu": "Эту удобную кровать недавно купили."
+    }
+  ]
+}

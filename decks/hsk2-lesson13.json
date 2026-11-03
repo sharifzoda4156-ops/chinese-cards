@@ -1,0 +1,124 @@
+{
+  "title": "HSK-2 · Урок 13",
+  "subtitle": "我们爱上中文课 · Мы любим уроки китайского языка",
+  "source": "新HSK教程 2, урок 13, 生词 № 1–13, печатные страницы 113, 115, 117, 119",
+  "words": [
+    {
+      "id": "xinnian",
+      "hanzi": "新年",
+      "pinyin": "xīn nián",
+      "ru": "Новый год",
+      "sentence": "大家一起庆祝___。",
+      "sentencePinyin": "Dàjiā yìqǐ qìngzhù xīnnián.",
+      "sentenceRu": "Все вместе отмечают Новый год."
+    },
+    {
+      "id": "jiao",
+      "hanzi": "教",
+      "pinyin": "jiāo",
+      "ru": "учить; преподавать",
+      "sentence": "王老师___我们汉语。",
+      "sentencePinyin": "Wáng lǎoshī jiāo wǒmen Hànyǔ.",
+      "sentenceRu": "Учитель Ван преподаёт нам китайский."
+    },
+    {
+      "id": "hua",
+      "hanzi": "花",
+      "pinyin": "huā",
+      "ru": "цветок; цветы",
+      "sentence": "我买了一束___送给妈妈。",
+      "sentencePinyin": "Wǒ mǎi le yí shù huā sòng gěi māma.",
+      "sentenceRu": "Я купил букет цветов для мамы."
+    },
+    {
+      "id": "xiwang",
+      "hanzi": "希望",
+      "pinyin": "xī wàng",
+      "ru": "надеяться; надежда",
+      "sentence": "我___明年去中国学习。",
+      "sentencePinyin": "Wǒ xīwàng míngnián qù Zhōngguó xuéxí.",
+      "sentenceRu": "Я надеюсь в следующем году поехать учиться в Китай."
+    },
+    {
+      "id": "shangmian",
+      "hanzi": "上面",
+      "pinyin": "shàng mian",
+      "ru": "сверху; на",
+      "sentence": "桌子___有一本词典。",
+      "sentencePinyin": "Zhuōzi shàngmian yǒu yì běn cídiǎn.",
+      "sentenceRu": "На столе лежит словарь."
+    },
+    {
+      "id": "xishoujian",
+      "hanzi": "洗手间",
+      "pinyin": "xǐ shǒu jiān",
+      "ru": "туалет; уборная",
+      "sentence": "请问，___在哪里？",
+      "sentencePinyin": "Qǐngwèn, xǐshǒujiān zài nǎlǐ?",
+      "sentenceRu": "Скажите, пожалуйста, где туалет?"
+    },
+    {
+      "id": "limian",
+      "hanzi": "里面",
+      "pinyin": "lǐ mian",
+      "ru": "внутри",
+      "sentence": "这个盒子___有什么？",
+      "sentencePinyin": "Zhège hézi lǐmian yǒu shénme?",
+      "sentenceRu": "Что внутри этой коробки?"
+    },
+    {
+      "id": "bi",
+      "hanzi": "笔",
+      "pinyin": "bǐ",
+      "ru": "черта в иероглифе; счётное слово для черт",
+      "sentence": "这个字比那个字多一___。",
+      "sentencePinyin": "Zhège zì bǐ nàge zì duō yì bǐ.",
+      "sentenceRu": "В этом иероглифе на одну черту больше, чем в том."
+    },
+    {
+      "id": "keneng",
+      "hanzi": "可能",
+      "pinyin": "kě néng",
+      "ru": "возможно; может быть",
+      "sentence": "他___明天来，也可能后天来。",
+      "sentencePinyin": "Tā kěnéng míngtiān lái, yě kěnéng hòutiān lái.",
+      "sentenceRu": "Возможно, он приедет завтра, а может, послезавтра."
+    },
+    {
+      "id": "shangwang",
+      "hanzi": "上网",
+      "pinyin": "shàng wǎng",
+      "ru": "выходить в интернет",
+      "sentence": "我晚上常常___查资料。",
+      "sentencePinyin": "Wǒ wǎnshang chángcháng shàngwǎng chá zīliào.",
+      "sentenceRu": "По вечерам я часто ищу информацию в интернете."
+    },
+    {
+      "id": "nayang",
+      "hanzi": "那样",
+      "pinyin": "nà yàng",
+      "ru": "так; таким образом",
+      "sentence": "别___说话，会让人难过。",
+      "sentencePinyin": "Bié nàyàng shuōhuà, huì ràng rén nánguò.",
+      "sentenceRu": "Не говори так, это обидно."
+    },
+    {
+      "id": "gaosu",
+      "hanzi": "告诉",
+      "pinyin": "gào su",
+      "ru": "рассказывать; сообщать",
+      "sentence": "请___我你的电话号码。",
+      "sentencePinyin": "Qǐng gàosu wǒ nǐ de diànhuà hàomǎ.",
+      "sentenceRu": "Скажи мне, пожалуйста, свой номер телефона."
+    },
+    {
+      "id": "ban",
+      "hanzi": "班",
+      "pinyin": "bān",
+      "ru": "класс; группа",
+      "sentence": "我们___有二十个学生。",
+      "sentencePinyin": "Wǒmen bān yǒu èrshí ge xuéshēng.",
+      "sentenceRu": "В нашем классе двадцать учеников."
+    }
+  ]
+}

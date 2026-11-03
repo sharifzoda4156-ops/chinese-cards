@@ -1,0 +1,139 @@
+{
+  "title": "HSK-2 · Урок 10",
+  "subtitle": "就要考试了 · Скоро экзамен",
+  "source": "新HSK教程 2, урок 10, 生词, страницы 85, 87, 89, 91; все пронумерованные слова",
+  "words": [
+    {
+      "id": "kaixue",
+      "hanzi": "开学",
+      "pinyin": "kāi xué",
+      "ru": "начало занятий; начинать учебный год",
+      "sentence": "明天___，我要准备书包。",
+      "sentencePinyin": "Míngtiān kāixué, wǒ yào zhǔnbèi shūbāo.",
+      "sentenceRu": "Завтра начинаются занятия, нужно собрать рюкзак."
+    },
+    {
+      "id": "men",
+      "hanzi": "门",
+      "pinyin": "mén",
+      "ru": "дверь",
+      "sentence": "请把___关上。",
+      "sentencePinyin": "Qǐng bǎ mén guān shàng.",
+      "sentenceRu": "Пожалуйста, закрой дверь."
+    },
+    {
+      "id": "houmian",
+      "hanzi": "后面",
+      "pinyin": "hòu mian",
+      "ru": "позади; сзади",
+      "sentence": "学校___有一个公园。",
+      "sentencePinyin": "Xuéxiào hòumian yǒu yí ge gōngyuán.",
+      "sentenceRu": "Позади школы находится парк."
+    },
+    {
+      "id": "bi",
+      "hanzi": "笔",
+      "pinyin": "bǐ",
+      "ru": "ручка; карандаш",
+      "sentence": "我忘了带___，可以借你的吗？",
+      "sentencePinyin": "Wǒ wàng le dài bǐ, kěyǐ jiè nǐ de ma?",
+      "sentenceRu": "Я забыл ручку. Можно одолжить твою?"
+    },
+    {
+      "id": "bang",
+      "hanzi": "帮",
+      "pinyin": "bāng",
+      "ru": "помогать",
+      "sentence": "爸爸___我准备考试。",
+      "sentencePinyin": "Bàba bāng wǒ zhǔnbèi kǎoshì.",
+      "sentenceRu": "Папа помогает мне готовиться к экзамену."
+    },
+    {
+      "id": "kaoshi",
+      "hanzi": "考试",
+      "pinyin": "kǎo shì",
+      "ru": "экзамен; сдавать экзамен",
+      "sentence": "明天有汉语___。",
+      "sentencePinyin": "Míngtiān yǒu Hànyǔ kǎoshì.",
+      "sentenceRu": "Завтра экзамен по китайскому.",
+      "quizExcludes": [
+        "kao"
+      ]
+    },
+    {
+      "id": "ci",
+      "hanzi": "词",
+      "pinyin": "cí",
+      "ru": "слово",
+      "sentence": "老师让我们记住这十个___。",
+      "sentencePinyin": "Lǎoshī ràng wǒmen jìzhù zhè shí ge cí.",
+      "sentenceRu": "Учитель просил запомнить эти десять слов."
+    },
+    {
+      "id": "benzi",
+      "hanzi": "本子",
+      "pinyin": "běn zi",
+      "ru": "тетрадь",
+      "sentence": "请把生词写在___上。",
+      "sentencePinyin": "Qǐng bǎ shēngcí xiě zài běnzi shang.",
+      "sentenceRu": "Запиши новые слова в тетрадь."
+    },
+    {
+      "id": "cuo",
+      "hanzi": "错",
+      "pinyin": "cuò",
+      "ru": "неправильный; ошибочный",
+      "sentence": "这个答案是___的。",
+      "sentencePinyin": "Zhège dá'àn shì cuò de.",
+      "sentenceRu": "Этот ответ неправильный."
+    },
+    {
+      "id": "ti",
+      "hanzi": "题",
+      "pinyin": "tí",
+      "ru": "вопрос; задача",
+      "sentence": "这道数学___我不会做。",
+      "sentencePinyin": "Zhè dào shùxué tí wǒ bú huì zuò.",
+      "sentenceRu": "Я не умею решать эту задачу по математике."
+    },
+    {
+      "id": "haishi",
+      "hanzi": "还是",
+      "pinyin": "hái shi",
+      "ru": "или; либо; всё же",
+      "sentence": "你想喝茶___咖啡？",
+      "sentencePinyin": "Nǐ xiǎng hē chá háishi kāfēi?",
+      "sentenceRu": "Ты хочешь чай или кофе?"
+    },
+    {
+      "id": "kao",
+      "hanzi": "考",
+      "pinyin": "kǎo",
+      "ru": "сдавать экзамен",
+      "sentence": "他明天要___汉语。",
+      "sentencePinyin": "Tā míngtiān yào kǎo Hànyǔ.",
+      "sentenceRu": "Завтра он сдаёт китайский.",
+      "quizExcludes": [
+        "kaoshi"
+      ]
+    },
+    {
+      "id": "kuaiyao",
+      "hanzi": "快要",
+      "pinyin": "kuài yào",
+      "ru": "скоро; вот-вот",
+      "sentence": "火车___开了。",
+      "sentencePinyin": "Huǒchē kuàiyào kāi le.",
+      "sentenceRu": "Поезд вот-вот отправится."
+    },
+    {
+      "id": "xiao",
+      "hanzi": "笑",
+      "pinyin": "xiào",
+      "ru": "улыбаться; смеяться",
+      "sentence": "听了这个故事，大家都___了。",
+      "sentencePinyin": "Tīng le zhège gùshi, dàjiā dōu xiào le.",
+      "sentenceRu": "Услышав рассказ, все засмеялись."
+    }
+  ]
+}
