@@ -28,8 +28,23 @@ const sourceWords = {
   lesson18: '怎样 过节 节 节日 联欢 大概 阿姨 叔叔 收 总 起 见面 矿泉水 刚刚 出发 不久 发生 刚 只要 学期 毕业 出生 过去 懂得 坚持 完成 目标 发展'
 };
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'decks/catalog.json')));
-const available = catalog.sections[0].lessons.filter(l => l.available);
-assert.equal(catalog.sections[0].lessons.length, 18);
+const hsk3Section = catalog.sections.find(s => s.id === 'hsk3');
+const hsk2Section = catalog.sections.find(s => s.id === 'hsk2');
+assert.ok(hsk3Section && hsk2Section);
+assert.deepEqual(catalog.sections.map(s => s.id), ['hsk2', 'hsk3']);
+assert.equal(hsk2Section.lessons.length, 15);
+assert.deepEqual(hsk2Section.lessons.filter(l => l.available).map(l => l.id), ['hsk2-lesson1']);
+const hsk2Deck = JSON.parse(fs.readFileSync(path.join(root, 'decks/hsk2-lesson1.json')));
+assert.deepEqual(hsk2Deck.words.map(w => w.hanzi), '就 给 让 接 次 旅游 帮忙 不好意思 已经 那 介绍 有时 懂 意思'.split(' '));
+assert.equal(hsk2Deck.words.length, 14);
+assert.equal(new Set(hsk2Deck.words.map(w => w.id)).size, 14);
+for (const w of hsk2Deck.words) {
+  for (const field of ['id','hanzi','pinyin','ru','sentence','sentencePinyin','sentenceRu']) assert.ok(w[field]?.trim(), 'hsk2/' + w.id + ': missing ' + field);
+  assert.match(w.id, /^[a-z0-9_-]+$/);
+  assert.equal(w.sentence.split('___').length, 2);
+}
+const available = hsk3Section.lessons.filter(l => l.available);
+assert.equal(hsk3Section.lessons.length, 18);
 assert.deepEqual(available.map(l => l.id), Object.keys(sourceWords));
 const decks = {};
 for (const lesson of available) {
@@ -90,8 +105,14 @@ const server = http.createServer((req, res) => {
   try {
     await page.goto(base);
     await page.locator('#btn-start').click(); await visible('sections');
-    assert.equal(await page.locator('#sections button').innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 18 из 18 уроков →');
-    await page.locator('#sections button').click(); await visible('lessons');
+    assert.equal(await page.locator('#sections button').count(), 2);
+    assert.equal(await page.locator('#sections button').first().innerText(), 'HSK-2\n新HSK教程 2 · 15 уроков\nДоступно 1 из 15 уроков →');
+    assert.equal(await page.locator('#sections button').last().innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 18 из 18 уроков →');
+    await page.locator('#sections button').first().click(); await visible('lessons');
+    assert.equal(await page.locator('#lessons button').count(), 15);
+    assert.equal(await page.locator('#lessons button:disabled').count(), 14);
+    await page.locator('#btn-sections').click(); await visible('sections');
+    await page.locator('#sections button').last().click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 18);
     assert.equal(await page.locator('#lessons button:disabled').count(), 0);
     await page.screenshot({path:path.join(screenshots,'hsk3-lessons.png')});
@@ -150,7 +171,7 @@ const server = http.createServer((req, res) => {
       const data = decks[lesson.id];
       await page.goto(base);
       await page.locator('#btn-start').click();
-      await page.locator('#sections button').click();
+      await page.locator('#sections button').last().click();
       await page.getByRole('button', {name:`${lesson.title} ${lesson.wordCount} слов · карточки и тест`,exact:true}).click();
       await page.locator('#btn-begin').click(); await visible('cards');
       const seen = new Set();
@@ -194,12 +215,43 @@ const server = http.createServer((req, res) => {
       assert.ok((await page.evaluate(() => window.shared)).text.includes(data.title));
       await page.locator('#btn-result-lessons').click(); await visible('lessons');
     }
+    // HSK-2: deep link, lesson 1, audio routing, all flashcards and 14 quiz questions.
+    await page.goto(base+'/?deck=hsk2-lesson1'); await visible('lesson');
+    await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
+    assert.equal(await page.locator('#deck-title').innerText(), 'HSK-2 · Урок 1');
+    await page.locator('#btn-begin').click(); await visible('cards');
+    const hsk2First = hsk2Deck.words.find(w => w.hanzi === (await page.locator('#front-hanzi').innerText()));
+    assert.ok(hsk2First);
+    await page.locator('#btn-no').click();
+    assert.equal(await page.locator('#back-ru').innerText(), hsk2First.ru);
+    await page.locator('#btn-audio-ex').click();
+    assert.deepEqual(await page.evaluate(() => window.played.slice(-2)), [
+      'audio/hsk2-lesson1/' + hsk2First.id + '.mp3',
+      'audio/hsk2-lesson1/' + hsk2First.id + '_s.mp3'
+    ]);
+    await page.locator('#btn-next').click(); await tick();
+    for (let i = 0; i < hsk2Deck.words.length; i++) {
+      await page.locator('#btn-yes').click(); await tick();
+    }
+    await visible('test');
+    for (let i = 0; i < hsk2Deck.words.length; i++) {
+      const sentence = await page.locator('#q-sentence').innerText();
+      const w = hsk2Deck.words.find(w => sentence.replace(/\s/g,'') === w.sentence.replace('___','').replace(/\s/g,''));
+      assert.ok(w, 'hsk2: unexpected question ' + sentence);
+      await page.locator('#options button[data-id="' + w.id + '"]').click();
+      await page.locator('#btn-test-next').click();
+    }
+    await visible('result');
+    assert.equal(await page.locator('#score-num').innerText(), '14/14');
+    await page.locator('#btn-share').click();
+    assert.ok((await page.evaluate(() => window.shared)).text.includes('HSK-2 · Урок 1'));
+
     // Telegram start_param takes priority over browser query.
     await page.addInitScript(() => { window.Telegram={WebApp:{initData:'test',initDataUnsafe:{start_param:'lesson1'},ready(){},expand(){}}}; });
     await page.goto(base+'/?deck=lesson2'); await visible('lesson');
     await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
     assert.equal(await page.locator('#deck-title').innerText(), 'HSK-3 · Урок 1');
     assert.equal(errors.length, 0, errors.join('\n'));
-    console.log('PASS: source vocabulary, 18-lesson catalog, mobile navigation, all 482 cards across lessons 1–18, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
+    console.log('PASS: HSK-2 above HSK-3, HSK-2 lesson 1 and all 482 HSK-3 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
   } finally { await browser.close(); server.close(); }
 })().catch(e => { console.error(e); process.exitCode=1; server.close(); });
