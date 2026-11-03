@@ -1,0 +1,406 @@
+{
+  "title": "HSK-4B · Урок 13",
+  "subtitle": "美好的日子 · Прекрасные дни",
+  "source": "《新HSK教程 4 下》, урок 13, 生词 №1–43, PDF страницы 31, 33, 35, 37 (печатные 27, 29, 31, 33); собственные имена из 专有名词 исключены",
+  "words": [
+    {
+      "hanzi": "熊",
+      "pinyin": "xióng",
+      "ru": "медведь",
+      "sentence": "动物园里有一只黑___。",
+      "sentencePinyin": "Dòngwùyuán lǐ yǒu yì zhī hēi xióng.",
+      "sentenceRu": "В зоопарке есть чёрный медведь.",
+      "id": "xiong"
+    },
+    {
+      "hanzi": "老虎",
+      "pinyin": "lǎo hǔ",
+      "ru": "тигр",
+      "sentence": "孩子们想在动物园看___。",
+      "sentencePinyin": "Háizimen xiǎng zài dòngwùyuán kàn lǎohǔ.",
+      "sentenceRu": "Дети хотят посмотреть на тигра в зоопарке.",
+      "id": "laohu"
+    },
+    {
+      "hanzi": "喊",
+      "pinyin": "hǎn",
+      "ru": "кричать; звать",
+      "sentence": "有人在外面___我的名字。",
+      "sentencePinyin": "Yǒu rén zài wàimiàn hǎn wǒ de míngzi.",
+      "sentenceRu": "Кто-то снаружи громко зовёт меня по имени.",
+      "id": "han"
+    },
+    {
+      "hanzi": "级",
+      "pinyin": "jí",
+      "ru": "уровень; класс; разряд",
+      "sentence": "他今年读大学二年___。",
+      "sentencePinyin": "Tā jīnnián dú dàxué èr niánjí.",
+      "sentenceRu": "В этом году он учится на втором курсе университета.",
+      "id": "ji"
+    },
+    {
+      "hanzi": "树林",
+      "pinyin": "shù lín",
+      "ru": "роща; лесок",
+      "sentence": "我们在___里散步。",
+      "sentencePinyin": "Wǒmen zài shùlín lǐ sànbù.",
+      "sentenceRu": "Мы гуляем в роще.",
+      "id": "shulin"
+    },
+    {
+      "hanzi": "景区",
+      "pinyin": "jǐng qū",
+      "ru": "туристическая зона; живописный район",
+      "sentence": "这个___每天都有很多游客。",
+      "sentencePinyin": "Zhège jǐngqū měi tiān dōu yǒu hěn duō yóukè.",
+      "sentenceRu": "Эту туристическую зону ежедневно посещает множество людей.",
+      "id": "jingqu"
+    },
+    {
+      "hanzi": "区",
+      "pinyin": "qū",
+      "ru": "район; зона",
+      "sentence": "这里是游客休息___。",
+      "sentencePinyin": "Zhèlǐ shì yóukè xiūxi qū.",
+      "sentenceRu": "Здесь зона отдыха для туристов.",
+      "id": "qu"
+    },
+    {
+      "hanzi": "美",
+      "pinyin": "měi",
+      "ru": "красивый; прекрасный",
+      "sentence": "春天的风景真___。",
+      "sentencePinyin": "Chūntiān de fēngjǐng zhēn měi.",
+      "sentenceRu": "Весенние пейзажи очень красивы.",
+      "id": "mei"
+    },
+    {
+      "hanzi": "节假日",
+      "pinyin": "jié jià rì",
+      "ru": "праздники и выходные",
+      "sentence": "___的时候这里人很多。",
+      "sentencePinyin": "Jiéjiàrì de shíhou zhèlǐ rén hěn duō.",
+      "sentenceRu": "В праздники и выходные здесь много людей.",
+      "id": "jiejiari"
+    },
+    {
+      "hanzi": "千万",
+      "pinyin": "qiān wàn",
+      "ru": "ни в коем случае; обязательно (усиление)",
+      "sentence": "出门前___别忘了带手机。",
+      "sentencePinyin": "Chūmén qián qiānwàn bié wàng le dài shǒujī.",
+      "sentenceRu": "Перед выходом обязательно не забудь телефон.",
+      "id": "qianwan"
+    },
+    {
+      "hanzi": "开玩笑",
+      "pinyin": "kāi wán xiào",
+      "ru": "шутить; подшучивать",
+      "sentence": "我只是___，你别生气。",
+      "sentencePinyin": "Wǒ zhǐ shì kāi wánxiào, nǐ bié shēngqì.",
+      "sentenceRu": "Я всего лишь пошутил, не сердись.",
+      "id": "kaiwanxiao"
+    },
+    {
+      "hanzi": "月饼",
+      "pinyin": "yuè bǐng",
+      "ru": "лунный пряник",
+      "sentence": "中秋节的时候我们一起吃___。",
+      "sentencePinyin": "Zhōngqiūjié de shíhou wǒmen yìqǐ chī yuèbǐng.",
+      "sentenceRu": "На Праздник середины осени мы вместе едим лунные пряники.",
+      "id": "yuebing"
+    },
+    {
+      "hanzi": "葡萄",
+      "pinyin": "pú tao",
+      "ru": "виноград",
+      "sentence": "这些___又甜又新鲜。",
+      "sentencePinyin": "Zhèxiē pútao yòu tián yòu xīnxiān.",
+      "sentenceRu": "Этот виноград сладкий и свежий.",
+      "id": "putao"
+    },
+    {
+      "hanzi": "香",
+      "pinyin": "xiāng",
+      "ru": "ароматный; душистый",
+      "sentence": "厨房里做的饭真___。",
+      "sentencePinyin": "Chúfáng lǐ zuò de fàn zhēn xiāng.",
+      "sentenceRu": "Еда, приготовленная на кухне, так вкусно пахнет.",
+      "id": "xiang"
+    },
+    {
+      "hanzi": "街道",
+      "pinyin": "jiē dào",
+      "ru": "улица",
+      "sentence": "晚上这条___非常热闹。",
+      "sentencePinyin": "Wǎnshang zhè tiáo jiēdào fēicháng rènao.",
+      "sentenceRu": "Вечером эта улица очень оживлённая.",
+      "id": "jiedao"
+    },
+    {
+      "hanzi": "剧院",
+      "pinyin": "jù yuàn",
+      "ru": "театр",
+      "sentence": "我们周末去___看演出。",
+      "sentencePinyin": "Wǒmen zhōumò qù jùyuàn kàn yǎnchū.",
+      "sentenceRu": "На выходных мы идём в театр на представление.",
+      "id": "juyuan"
+    },
+    {
+      "hanzi": "演出",
+      "pinyin": "yǎn chū",
+      "ru": "представление; выступать",
+      "sentence": "今晚的___很精彩。",
+      "sentencePinyin": "Jīnwǎn de yǎnchū hěn jīngcǎi.",
+      "sentenceRu": "Сегодняшнее представление замечательное.",
+      "id": "yanchu"
+    },
+    {
+      "hanzi": "赶",
+      "pinyin": "gǎn",
+      "ru": "успевать; спешить",
+      "sentence": "我们得快点儿走，才能___上火车。",
+      "sentencePinyin": "Wǒmen děi kuài diǎnr zǒu, cái néng gǎn shàng huǒchē.",
+      "sentenceRu": "Нам нужно поторопиться, чтобы успеть на поезд.",
+      "id": "gan"
+    },
+    {
+      "hanzi": "巧",
+      "pinyin": "qiǎo",
+      "ru": "удачный; совпавший кстати",
+      "sentence": "真___，我们又见面了！",
+      "sentencePinyin": "Zhēn qiǎo, wǒmen yòu jiànmiàn le!",
+      "sentenceRu": "Какое совпадение, мы снова встретились!",
+      "id": "qiao"
+    },
+    {
+      "hanzi": "之中",
+      "pinyin": "zhī zhōng",
+      "ru": "среди; внутри чего-либо",
+      "sentence": "在这些城市___，我最喜欢北京。",
+      "sentencePinyin": "Zài zhèxiē chéngshì zhīzhōng, wǒ zuì xǐhuan Běijīng.",
+      "sentenceRu": "Из всех этих городов я больше всего люблю Пекин.",
+      "id": "zhizhong"
+    },
+    {
+      "hanzi": "铁路",
+      "pinyin": "tiě lù",
+      "ru": "железная дорога",
+      "sentence": "这条___连接了两个城市。",
+      "sentencePinyin": "Zhè tiáo tiělù liánjiē le liǎng ge chéngshì.",
+      "sentenceRu": "Эта железная дорога соединяет два города.",
+      "id": "tielu"
+    },
+    {
+      "hanzi": "人员",
+      "pinyin": "rén yuán",
+      "ru": "персонал; сотрудники",
+      "sentence": "景区的工作___都很热情。",
+      "sentencePinyin": "Jǐngqū de gōngzuò rényuán dōu hěn rèqíng.",
+      "sentenceRu": "Персонал туристической зоны очень приветлив.",
+      "id": "renyuan"
+    },
+    {
+      "hanzi": "反向",
+      "pinyin": "fǎn xiàng",
+      "ru": "противоположное направление",
+      "sentence": "你走错了，应该朝___走。",
+      "sentencePinyin": "Nǐ zǒu cuò le, yīnggāi cháo fǎnxiàng zǒu.",
+      "sentenceRu": "Ты пошёл не туда, нужно идти в противоположном направлении.",
+      "id": "fanxiang"
+    },
+    {
+      "hanzi": "团圆",
+      "pinyin": "tuán yuán",
+      "ru": "воссоединяться семьёй",
+      "sentence": "过年时全家终于___了。",
+      "sentencePinyin": "Guònián shí quán jiā zhōngyú tuányuán le.",
+      "sentenceRu": "На Новый год вся семья наконец воссоединилась.",
+      "id": "tuanyuan"
+    },
+    {
+      "hanzi": "左右",
+      "pinyin": "zuǒ yòu",
+      "ru": "около; приблизительно",
+      "sentence": "从家到学校要二十分钟___。",
+      "sentencePinyin": "Cóng jiā dào xuéxiào yào èrshí fēnzhōng zuǒyòu.",
+      "sentenceRu": "От дома до школы около двадцати минут.",
+      "id": "zuoyou",
+      "quizExcludes": [
+        "dayue"
+      ]
+    },
+    {
+      "hanzi": "大约",
+      "pinyin": "dà yuē",
+      "ru": "примерно; приблизительно",
+      "sentence": "从这里到机场___三十公里。",
+      "sentencePinyin": "Cóng zhèlǐ dào jīchǎng dàyuē sānshí gōnglǐ.",
+      "sentenceRu": "Отсюда до аэропорта примерно тридцать километров.",
+      "id": "dayue",
+      "quizExcludes": [
+        "zuoyou"
+      ]
+    },
+    {
+      "hanzi": "烤",
+      "pinyin": "kǎo",
+      "ru": "жарить; запекать",
+      "sentence": "爸爸喜欢在周末___鱼。",
+      "sentencePinyin": "Bàba xǐhuan zài zhōumò kǎo yú.",
+      "sentenceRu": "Папа любит запекать рыбу по выходным.",
+      "id": "kao"
+    },
+    {
+      "hanzi": "西红柿",
+      "pinyin": "xī hóng shì",
+      "ru": "помидор; томат",
+      "sentence": "妈妈用___做了一道菜。",
+      "sentencePinyin": "Māma yòng xīhóngshì zuò le yí dào cài.",
+      "sentenceRu": "Мама приготовила блюдо из помидоров.",
+      "id": "xihongshi"
+    },
+    {
+      "hanzi": "出现",
+      "pinyin": "chū xiàn",
+      "ru": "появляться; возникать",
+      "sentence": "月亮慢慢___在天空中。",
+      "sentencePinyin": "Yuèliang mànmàn chūxiàn zài tiānkōng zhōng.",
+      "sentenceRu": "Луна постепенно появилась в небе.",
+      "id": "chuxian"
+    },
+    {
+      "hanzi": "作为",
+      "pinyin": "zuò wéi",
+      "ru": "в качестве; считать кем-либо",
+      "sentence": "___老师，她很关心学生。",
+      "sentencePinyin": "Zuòwéi lǎoshī, tā hěn guānxīn xuésheng.",
+      "sentenceRu": "Как преподаватель она очень заботится об учениках.",
+      "id": "zuowei"
+    },
+    {
+      "hanzi": "传统",
+      "pinyin": "chuán tǒng",
+      "ru": "традиционный; традиция",
+      "sentence": "包饺子是中国的___习俗之一。",
+      "sentencePinyin": "Bāo jiǎozi shì Zhōngguó de chuántǒng xísú zhī yī.",
+      "sentenceRu": "Лепка цзяоцзы — один из традиционных китайских обычаев.",
+      "id": "chuantong"
+    },
+    {
+      "hanzi": "有着",
+      "pinyin": "yǒu zhe",
+      "ru": "обладать; иметь",
+      "sentence": "这座城市___悠久的历史。",
+      "sentencePinyin": "Zhè zuò chéngshì yǒuzhe yōujiǔ de lìshǐ.",
+      "sentenceRu": "У этого города долгая история.",
+      "id": "youzhe"
+    },
+    {
+      "hanzi": "意义",
+      "pinyin": "yì yì",
+      "ru": "значение; смысл",
+      "sentence": "这个节日对家人有特别的___。",
+      "sentencePinyin": "Zhège jiérì duì jiārén yǒu tèbié de yìyì.",
+      "sentenceRu": "Этот праздник имеет особое значение для семьи.",
+      "id": "yiyi"
+    },
+    {
+      "hanzi": "到来",
+      "pinyin": "dào lái",
+      "ru": "приход; наступление",
+      "sentence": "大家都期待春节的___。",
+      "sentencePinyin": "Dàjiā dōu qīdài Chūnjié de dàolái.",
+      "sentenceRu": "Все ждут наступления Праздника весны.",
+      "id": "daolai"
+    },
+    {
+      "hanzi": "美食",
+      "pinyin": "měi shí",
+      "ru": "вкусная еда; деликатесы",
+      "sentence": "这座城市有很多当地___。",
+      "sentencePinyin": "Zhè zuò chéngshì yǒu hěn duō dāngdì měishí.",
+      "sentenceRu": "В этом городе много местных деликатесов.",
+      "id": "meishi"
+    },
+    {
+      "hanzi": "年夜饭",
+      "pinyin": "nián yè fàn",
+      "ru": "новогодний семейный ужин",
+      "sentence": "除夕晚上全家一起吃___。",
+      "sentencePinyin": "Chúxī wǎnshang quán jiā yìqǐ chī niányèfàn.",
+      "sentenceRu": "В канун Нового года семья вместе ужинает.",
+      "id": "nianyefan"
+    },
+    {
+      "hanzi": "回忆",
+      "pinyin": "huí yì",
+      "ru": "вспоминать; воспоминание",
+      "sentence": "这张照片让我___起童年。",
+      "sentencePinyin": "Zhè zhāng zhàopiàn ràng wǒ huíyì qǐ tóngnián.",
+      "sentenceRu": "Эта фотография напомнила мне о детстве.",
+      "id": "huiyi",
+      "quizExcludes": [
+        "jiyi"
+      ]
+    },
+    {
+      "hanzi": "童年",
+      "pinyin": "tóng nián",
+      "ru": "детство",
+      "sentence": "我的___充满了快乐的回忆。",
+      "sentencePinyin": "Wǒ de tóngnián chōngmǎn le kuàilè de huíyì.",
+      "sentenceRu": "Моё детство наполнено счастливыми воспоминаниями.",
+      "id": "tongnian"
+    },
+    {
+      "hanzi": "记忆",
+      "pinyin": "jì yì",
+      "ru": "память; воспоминания",
+      "sentence": "这件事一直留在我的___里。",
+      "sentencePinyin": "Zhè jiàn shì yìzhí liú zài wǒ de jìyì lǐ.",
+      "sentenceRu": "Это событие навсегда осталось в моей памяти.",
+      "id": "jiyi",
+      "quizExcludes": [
+        "huiyi"
+      ]
+    },
+    {
+      "hanzi": "已",
+      "pinyin": "yǐ",
+      "ru": "уже (книжное слово)",
+      "sentence": "他的任务___完成。",
+      "sentencePinyin": "Tā de rènwu yǐ wánchéng.",
+      "sentenceRu": "Он уже выполнил задание.",
+      "id": "yi"
+    },
+    {
+      "hanzi": "中年",
+      "pinyin": "zhōng nián",
+      "ru": "средний возраст",
+      "sentence": "人到了___也可以开始学习。",
+      "sentencePinyin": "Rén dào le zhōngnián yě kěyǐ kāishǐ xuéxí.",
+      "sentenceRu": "Даже в среднем возрасте можно начинать учиться.",
+      "id": "zhongnian"
+    },
+    {
+      "hanzi": "仍然",
+      "pinyin": "réng rán",
+      "ru": "по-прежнему; всё ещё",
+      "sentence": "下雨了，他们___在外面工作。",
+      "sentencePinyin": "Xià yǔ le, tāmen réngrán zài wàimiàn gōngzuò.",
+      "sentenceRu": "Пошёл дождь, а они всё ещё работают на улице.",
+      "id": "rengran"
+    },
+    {
+      "hanzi": "兄弟",
+      "pinyin": "xiōng dì",
+      "ru": "братья",
+      "sentence": "他们是亲___，关系很好。",
+      "sentencePinyin": "Tāmen shì qīn xiōngdì, guānxi hěn hǎo.",
+      "sentenceRu": "Они родные братья и очень близки.",
+      "id": "xiongdi"
+    }
+  ]
+}

@@ -38,7 +38,7 @@ assert.deepEqual(catalog.sections.map(s => s.id), ['hsk1', 'hsk2', 'hsk3', 'hsk4
 assert.deepEqual(hsk4aSection.lessons.map(l => l.id), Array.from({length:10},(_,i)=>'hsk4a-lesson'+(i+1)));
 assert.deepEqual(hsk4bSection.lessons.map(l => l.id), Array.from({length:10},(_,i)=>'hsk4b-lesson'+(i+11)));
 assert.deepEqual(hsk4aSection.lessons.filter(l => l.available).map(l => l.id), Array.from({length:10},(_,i)=>'hsk4a-lesson'+(i+1)));
-assert.deepEqual(hsk4bSection.lessons.filter(l => l.available).map(l => l.id), ['hsk4b-lesson11']);
+assert.deepEqual(hsk4bSection.lessons.filter(l => l.available).map(l => l.id), Array.from({length:4},(_,i)=>'hsk4b-lesson'+(i+11)));
 assert.equal(hsk2Section.lessons.length, 15);
 // A/B volume structure follows the printed contents. Only completed decks are clickable.
 const hsk4Sources = [
@@ -52,7 +52,10 @@ const hsk4Sources = [
   {section:hsk4aSection,id:'hsk4a-lesson8',count:38,words:'紧张 放松 呀 不管 郊区 游玩 主意 外出 戴 帽子 项目 加班 熬夜 否则 失去 值得 暂停 之后 风景 效率 下降 相比 因此 提醒 与 大自然 美丽 景色 首都 市区 眼前 美景 参观 景点 交通 乘坐 十分 实际上'},
   {section:hsk4aSection,id:'hsk4a-lesson9',count:40,words:'祝 巧克力 感动 浪漫 幽默 耐心 吸引 当时 错过 幸运 幸福 尽管 性格 共同 责任 相互 理解 支持 印象 实在 阳光 负责 积极 此 从此 产生 爱情 间 友情 美好 人生 精彩 感情 深 经营 对方 感受 尤其 日子 从来'},
   {section:hsk4aSection,id:'hsk4a-lesson10',count:41,words:'小伙子 气温 零下 度 冻 后悔 就是 温度 差别 厚 寒假 暖和 低于 摄氏度 受不了 举办 各种 植物 公里 气候 而 此外 方言 普通话 较 使用 引起 误会 亲爱 再次 开展 绿色 环保 拒绝 浪费 节约 资源 光 垃圾 分类 日常'},
-  {section:hsk4bSection,id:'hsk4b-lesson11',count:41,words:'老年 散步 丰富 羡慕 即使 活 继续 网友 无聊 数字 点名 教授 线上 线下 视频 记录 资料 自学 口语 科技 获取 礼貌 打招呼 家长 成功 分数 目的 养成 留 做法 棒 一生 快速 优秀 律师 仍 准时 网页 弹 钢琴 重新'}
+  {section:hsk4bSection,id:'hsk4b-lesson11',count:41,words:'老年 散步 丰富 羡慕 即使 活 继续 网友 无聊 数字 点名 教授 线上 线下 视频 记录 资料 自学 口语 科技 获取 礼貌 打招呼 家长 成功 分数 目的 养成 留 做法 棒 一生 快速 优秀 律师 仍 准时 网页 弹 钢琴 重新'},
+  {section:hsk4bSection,id:'hsk4b-lesson12',count:43,words:'毛衣 样子 适合 售货员 质量 强 年底 全 打折 值 估计 期 听力 烦 脱 挂 脾气 伤心 批评 道歉 老家 自 父母 父子 母子 无论 条件 允许 另外 卫生 母亲 待 将 闻 味道 冷静 鼻子 父亲 城 鲜 暖 勇敢 商量'},
+  {section:hsk4bSection,id:'hsk4b-lesson13',count:43,words:'熊 老虎 喊 级 树林 景区 区 美 节假日 千万 开玩笑 月饼 葡萄 香 街道 剧院 演出 赶 巧 之中 铁路 人员 反向 团圆 左右 大约 烤 西红柿 出现 作为 传统 有着 意义 到来 美食 年夜饭 回忆 童年 记忆 已 中年 仍然 兄弟'},
+  {section:hsk4bSection,id:'hsk4b-lesson14',count:41,words:'茶叶 究竟 分为 抱歉 暂时 满 两 超过 盒子 装 各位 顾客 本 假日 低价 促销 广播 减 广告 首先 牌子 降价 样式 价钱 商业 商品 种类 盲盒 缺 许多 表示 加上 态度 友好 使得 者 仔细 对于 不光 外套 袜子'}
 ];
 const hsk4Decks = {};
 for (const source of hsk4Sources) {
@@ -235,7 +238,7 @@ const server = http.createServer((req, res) => {
     assert.equal(await page.locator('#sections button').nth(1).innerText(), 'HSK-2\n新HSK教程 2 · 15 уроков\nДоступно 15 из 15 уроков →');
     assert.equal(await page.locator('#sections button').nth(2).innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 18 из 18 уроков →');
     assert.equal(await page.locator('#sections button').nth(3).innerText(), 'HSK-4A\n新HSK教程 4 上 · 10 уроков\nДоступно 10 из 10 уроков →');
-    assert.equal(await page.locator('#sections button').nth(4).innerText(), 'HSK-4B\n新HSK教程 4 下 · 10 уроков\nДоступно 1 из 10 уроков →');
+    assert.equal(await page.locator('#sections button').nth(4).innerText(), 'HSK-4B\n新HSK教程 4 下 · 10 уроков\nДоступно 4 из 10 уроков →');
     await page.locator('#sections button').first().click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 15);
     assert.equal(await page.locator('#lessons button:disabled').count(), 0);
@@ -393,7 +396,7 @@ const server = http.createServer((req, res) => {
     for (const index of [3,4]) {
       await page.locator('#sections button').nth(index).click(); await visible('lessons');
       assert.equal(await page.locator('#lessons button').count(), 10);
-      assert.equal(await page.locator('#lessons button:disabled').count(), index === 3 ? 0 : 9);
+      assert.equal(await page.locator('#lessons button:disabled').count(), index === 3 ? 0 : 6);
       assert.ok((await page.locator('#lessons button').first().innerText()).includes(index === 3 ? '40 слов' : '41 слов'));
       if (index === 3) {
         assert.ok((await page.locator('#lessons button').nth(1).innerText()).includes('37 слов'));
@@ -405,10 +408,14 @@ const server = http.createServer((req, res) => {
         assert.ok((await page.locator('#lessons button').nth(7).innerText()).includes('38 слов'));
         assert.ok((await page.locator('#lessons button').nth(8).innerText()).includes('40 слов'));
         assert.ok((await page.locator('#lessons button').nth(9).innerText()).includes('41 слов'));
+      } else {
+        assert.ok((await page.locator('#lessons button').nth(1).innerText()).includes('43 слов'));
+        assert.ok((await page.locator('#lessons button').nth(2).innerText()).includes('43 слов'));
+        assert.ok((await page.locator('#lessons button').nth(3).innerText()).includes('41 слов'));
       }
       await page.locator('#btn-sections').click(); await visible('sections');
     }
-    // All ready HSK-4A lessons (1–10) / HSK-4B lesson 11: cards, audio, quiz, score, share.
+    // All ready HSK-4A lessons (1–10) / HSK-4B lessons 11–14: cards, audio, quiz, score, share.
     for (const source of hsk4Sources) {
       const data = hsk4Decks[source.id];
       await page.goto(base + '/?deck=' + source.id); await visible('lesson');
@@ -503,6 +510,6 @@ const server = http.createServer((req, res) => {
     await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
     assert.equal(await page.locator('#deck-title').innerText(), 'HSK-3 · Урок 1');
     assert.equal(errors.length, 0, errors.join('\n'));
-    console.log('PASS: HSK-1 (15/317), HSK-2 (15/210), HSK-3 (18/482), HSK-4A (10/391), HSK-4B (1/41), 1441 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
+    console.log('PASS: HSK-1 (15/317), HSK-2 (15/210), HSK-3 (18/482), HSK-4A (10/391), HSK-4B (4/168), 1568 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
   } finally { await browser.close(); server.close(); }
 })().catch(e => { console.error(e); process.exitCode=1; server.close(); });

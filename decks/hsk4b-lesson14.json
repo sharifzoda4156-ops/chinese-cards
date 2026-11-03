@@ -1,0 +1,395 @@
+{
+  "title": "HSK-4B · Урок 14",
+  "subtitle": "合适才买 · Покупай только то, что подходит",
+  "source": "《新HSK教程 4 下》, урок 14, 生词 №1–41, PDF страницы 43, 46, 47, 49 (печатные 39, 42, 43, 45); имена собственные исключены",
+  "words": [
+    {
+      "hanzi": "茶叶",
+      "pinyin": "chá yè",
+      "ru": "чайные листья; чай",
+      "sentence": "这家店卖各种中国___。",
+      "sentencePinyin": "Zhè jiā diàn mài gèzhǒng Zhōngguó cháyè.",
+      "sentenceRu": "В этом магазине продаются разные виды китайского чая.",
+      "id": "chaye"
+    },
+    {
+      "hanzi": "究竟",
+      "pinyin": "jiū jìng",
+      "ru": "в конце концов; собственно; всё-таки",
+      "sentence": "你___想买哪一种茶？",
+      "sentencePinyin": "Nǐ jiūjìng xiǎng mǎi nǎ yì zhǒng chá?",
+      "sentenceRu": "Так какой чай ты всё-таки хочешь купить?",
+      "id": "jiujing"
+    },
+    {
+      "hanzi": "分为",
+      "pinyin": "fēn wéi",
+      "ru": "делиться на; разделять на",
+      "sentence": "这种茶可以___三类。",
+      "sentencePinyin": "Zhè zhǒng chá kěyǐ fēnwéi sān lèi.",
+      "sentenceRu": "Этот чай можно разделить на три категории.",
+      "id": "fenwei"
+    },
+    {
+      "hanzi": "抱歉",
+      "pinyin": "bào qiàn",
+      "ru": "извините; сожалею",
+      "sentence": "很___，这款茶已经卖完了。",
+      "sentencePinyin": "Hěn bàoqiàn, zhè kuǎn chá yǐjīng mài wán le.",
+      "sentenceRu": "Извините, этот сорт чая уже распродан.",
+      "id": "baoqian"
+    },
+    {
+      "hanzi": "暂时",
+      "pinyin": "zàn shí",
+      "ru": "временно; пока",
+      "sentence": "我___不打算买新衣服。",
+      "sentencePinyin": "Wǒ zànshí bù dǎsuàn mǎi xīn yīfu.",
+      "sentenceRu": "Пока я не собираюсь покупать новую одежду.",
+      "id": "zanshi"
+    },
+    {
+      "hanzi": "满",
+      "pinyin": "mǎn",
+      "ru": "полный; достигать количества",
+      "sentence": "购物___一百元可以打折。",
+      "sentencePinyin": "Gòuwù mǎn yì bǎi yuán kěyǐ dǎzhé.",
+      "sentenceRu": "При покупках на сто юаней предоставляется скидка.",
+      "id": "man"
+    },
+    {
+      "hanzi": "两",
+      "pinyin": "liǎng",
+      "ru": "лян; мера веса около 50 граммов",
+      "sentence": "请给我一___茶叶。",
+      "sentencePinyin": "Qǐng gěi wǒ yì liǎng cháyè.",
+      "sentenceRu": "Дайте мне один лян чайных листьев.",
+      "id": "liang",
+      "audioText": "一两茶叶",
+      "audioNote": "Здесь 两 означает меру веса «лян» (около 50 г), читается liǎng."
+    },
+    {
+      "hanzi": "超过",
+      "pinyin": "chāo guò",
+      "ru": "превышать; превосходить",
+      "sentence": "今天的客人数量___了一百人。",
+      "sentencePinyin": "Jīntiān de kèrén shùliàng chāoguò le yì bǎi rén.",
+      "sentenceRu": "Сегодня число посетителей превысило сто человек.",
+      "id": "chaoguo"
+    },
+    {
+      "hanzi": "盒子",
+      "pinyin": "hé zi",
+      "ru": "коробка",
+      "sentence": "请把礼物放进这个___里。",
+      "sentencePinyin": "Qǐng bǎ lǐwù fàng jìn zhège hézi lǐ.",
+      "sentenceRu": "Положи подарок в эту коробку.",
+      "id": "hezi"
+    },
+    {
+      "hanzi": "装",
+      "pinyin": "zhuāng",
+      "ru": "упаковывать; класть внутрь; устанавливать",
+      "sentence": "请帮我把茶叶___进盒子里。",
+      "sentencePinyin": "Qǐng bāng wǒ bǎ cháyè zhuāng jìn hézi lǐ.",
+      "sentenceRu": "Помоги упаковать чайные листья в коробку.",
+      "id": "zhuang"
+    },
+    {
+      "hanzi": "各位",
+      "pinyin": "gè wèi",
+      "ru": "уважаемые все; каждый из присутствующих",
+      "sentence": "___顾客，欢迎光临！",
+      "sentencePinyin": "Gèwèi gùkè, huānyíng guānglín!",
+      "sentenceRu": "Уважаемые покупатели, добро пожаловать!",
+      "id": "gewei"
+    },
+    {
+      "hanzi": "顾客",
+      "pinyin": "gù kè",
+      "ru": "покупатель; клиент",
+      "sentence": "这家商店的___很多。",
+      "sentencePinyin": "Zhè jiā shāngdiàn de gùkè hěn duō.",
+      "sentenceRu": "В этом магазине много покупателей.",
+      "id": "guke"
+    },
+    {
+      "hanzi": "本",
+      "pinyin": "běn",
+      "ru": "этот; данный; собственный",
+      "sentence": "___店今天推出了新产品。",
+      "sentencePinyin": "Běn diàn jīntiān tuīchū le xīn chǎnpǐn.",
+      "sentenceRu": "Наш магазин сегодня представил новый товар.",
+      "id": "ben",
+      "audioText": "本店",
+      "audioNote": "Здесь 本 значит «этот, наш» в выражении 本店."
+    },
+    {
+      "hanzi": "假日",
+      "pinyin": "jià rì",
+      "ru": "праздничный или выходной день",
+      "sentence": "这个___我们打算出去玩。",
+      "sentencePinyin": "Zhège jiàrì wǒmen dǎsuàn chūqù wán.",
+      "sentenceRu": "В этот выходной мы собираемся на прогулку.",
+      "id": "jiari"
+    },
+    {
+      "hanzi": "低价",
+      "pinyin": "dī jià",
+      "ru": "низкая цена; дешёвый",
+      "sentence": "商店正在___出售冬天的衣服。",
+      "sentencePinyin": "Shāngdiàn zhèngzài dījià chūshòu dōngtiān de yīfu.",
+      "sentenceRu": "Магазин распродаёт зимнюю одежду по низкой цене.",
+      "id": "dijia",
+      "quizExcludes": [
+        "jiangjia"
+      ]
+    },
+    {
+      "hanzi": "促销",
+      "pinyin": "cù xiāo",
+      "ru": "продвигать продажу; акция",
+      "sentence": "这家超市周末正在___。",
+      "sentencePinyin": "Zhè jiā chāoshì zhōumò zhèngzài cùxiāo.",
+      "sentenceRu": "В супермаркете на выходных проводится акция.",
+      "id": "cuxiao",
+      "quizExcludes": [
+        "guanggao"
+      ]
+    },
+    {
+      "hanzi": "广播",
+      "pinyin": "guǎng bō",
+      "ru": "радиовещание; транслировать",
+      "sentence": "商场正在用___介绍活动。",
+      "sentencePinyin": "Shāngchǎng zhèngzài yòng guǎngbō jièshào huódòng.",
+      "sentenceRu": "Торговый центр объявляет об акции по радио.",
+      "id": "guangbo"
+    },
+    {
+      "hanzi": "减",
+      "pinyin": "jiǎn",
+      "ru": "уменьшать; вычитать",
+      "sentence": "买两件衣服可以___二十元。",
+      "sentencePinyin": "Mǎi liǎng jiàn yīfu kěyǐ jiǎn èrshí yuán.",
+      "sentenceRu": "Если купить две вещи, цена уменьшится на двадцать юаней.",
+      "id": "jian"
+    },
+    {
+      "hanzi": "广告",
+      "pinyin": "guǎng gào",
+      "ru": "реклама; объявление",
+      "sentence": "我在网上看到了这家店的___。",
+      "sentencePinyin": "Wǒ zài wǎngshàng kàndào le zhè jiā diàn de guǎnggào.",
+      "sentenceRu": "Я увидел рекламу этого магазина в интернете.",
+      "id": "guanggao",
+      "quizExcludes": [
+        "cuxiao"
+      ]
+    },
+    {
+      "hanzi": "首先",
+      "pinyin": "shǒu xiān",
+      "ru": "во-первых; прежде всего",
+      "sentence": "___请看商品的质量。",
+      "sentencePinyin": "Shǒuxiān qǐng kàn shāngpǐn de zhìliàng.",
+      "sentenceRu": "Сначала проверьте качество товара.",
+      "id": "shouxian"
+    },
+    {
+      "hanzi": "牌子",
+      "pinyin": "pái zi",
+      "ru": "бренд; марка",
+      "sentence": "这个___的鞋子很受欢迎。",
+      "sentencePinyin": "Zhège páizi de xiézi hěn shòu huānyíng.",
+      "sentenceRu": "Обувь этой марки очень популярна.",
+      "id": "paizi"
+    },
+    {
+      "hanzi": "降价",
+      "pinyin": "jiàng jià",
+      "ru": "снижать цену; уценка",
+      "sentence": "这件外套下周可能___。",
+      "sentencePinyin": "Zhè jiàn wàitào xià zhōu kěnéng jiàngjià.",
+      "sentenceRu": "Возможно, на следующей неделе это пальто подешевеет.",
+      "id": "jiangjia",
+      "quizExcludes": [
+        "dijia"
+      ]
+    },
+    {
+      "hanzi": "样式",
+      "pinyin": "yàng shì",
+      "ru": "фасон; стиль; модель",
+      "sentence": "这条裤子的___很新。",
+      "sentencePinyin": "Zhè tiáo kùzi de yàngshì hěn xīn.",
+      "sentenceRu": "У этих брюк современный фасон.",
+      "id": "yangshi"
+    },
+    {
+      "hanzi": "价钱",
+      "pinyin": "jià qián",
+      "ru": "цена; стоимость",
+      "sentence": "这双袜子的___是多少？",
+      "sentencePinyin": "Zhè shuāng wàzi de jiàqián shì duōshao?",
+      "sentenceRu": "Сколько стоят эти носки?",
+      "id": "jiaqian"
+    },
+    {
+      "hanzi": "商业",
+      "pinyin": "shāng yè",
+      "ru": "коммерция; торговля",
+      "sentence": "这座城市的___发展很快。",
+      "sentencePinyin": "Zhè zuò chéngshì de shāngyè fāzhǎn hěn kuài.",
+      "sentenceRu": "Коммерция в этом городе быстро развивается.",
+      "id": "shangye"
+    },
+    {
+      "hanzi": "商品",
+      "pinyin": "shāng pǐn",
+      "ru": "товар; продукция",
+      "sentence": "商店里的___种类很多。",
+      "sentencePinyin": "Shāngdiàn lǐ de shāngpǐn zhǒnglèi hěn duō.",
+      "sentenceRu": "В магазине большой ассортимент товаров.",
+      "id": "shangpin"
+    },
+    {
+      "hanzi": "种类",
+      "pinyin": "zhǒng lèi",
+      "ru": "вид; категория; разновидность",
+      "sentence": "这里的茶叶___很丰富。",
+      "sentencePinyin": "Zhèlǐ de cháyè zhǒnglèi hěn fēngfù.",
+      "sentenceRu": "Здесь представлено много разновидностей чая.",
+      "id": "zhonglei"
+    },
+    {
+      "hanzi": "盲盒",
+      "pinyin": "máng hé",
+      "ru": "слепая коробка; коробка-сюрприз",
+      "sentence": "孩子们喜欢买不知道里面是什么的___。",
+      "sentencePinyin": "Háizimen xǐhuan mǎi bù zhīdào lǐmiàn shì shénme de mánghé.",
+      "sentenceRu": "Детям нравится покупать коробки-сюрпризы.",
+      "id": "manghe"
+    },
+    {
+      "hanzi": "缺",
+      "pinyin": "quē",
+      "ru": "не хватать; недоставать",
+      "sentence": "这个商店现在___售货员。",
+      "sentencePinyin": "Zhège shāngdiàn xiànzài quē shòuhuòyuán.",
+      "sentenceRu": "Сейчас этому магазину не хватает продавцов.",
+      "id": "que"
+    },
+    {
+      "hanzi": "许多",
+      "pinyin": "xǔ duō",
+      "ru": "многие; много",
+      "sentence": "节假日有___人来购物。",
+      "sentencePinyin": "Jiéjiàrì yǒu xǔduō rén lái gòuwù.",
+      "sentenceRu": "В праздники за покупками приходит много людей.",
+      "id": "xuduo"
+    },
+    {
+      "hanzi": "表示",
+      "pinyin": "biǎo shì",
+      "ru": "выражать; показывать; заявлять",
+      "sentence": "顾客___对服务很满意。",
+      "sentencePinyin": "Gùkè biǎoshì duì fúwù hěn mǎnyì.",
+      "sentenceRu": "Покупатель выразил удовлетворение обслуживанием.",
+      "id": "biaoshi"
+    },
+    {
+      "hanzi": "加上",
+      "pinyin": "jiā shàng",
+      "ru": "плюс; в дополнение к",
+      "sentence": "___运费，一共要一百元。",
+      "sentencePinyin": "Jiāshàng yùnfèi, yígòng yào yì bǎi yuán.",
+      "sentenceRu": "С учётом доставки всего сто юаней.",
+      "id": "jiashang"
+    },
+    {
+      "hanzi": "态度",
+      "pinyin": "tài du",
+      "ru": "отношение; манера поведения",
+      "sentence": "售货员的服务___很好。",
+      "sentencePinyin": "Shòuhuòyuán de fúwù tàidu hěn hǎo.",
+      "sentenceRu": "У продавца очень хорошее отношение к клиентам.",
+      "id": "taidu"
+    },
+    {
+      "hanzi": "友好",
+      "pinyin": "yǒu hǎo",
+      "ru": "дружелюбный; доброжелательный",
+      "sentence": "这里的店员都非常___。",
+      "sentencePinyin": "Zhèlǐ de diànyuán dōu fēicháng yǒuhǎo.",
+      "sentenceRu": "Здесь все сотрудники очень дружелюбные.",
+      "id": "youhao"
+    },
+    {
+      "hanzi": "使得",
+      "pinyin": "shǐ de",
+      "ru": "приводить к тому, что; делать так, что",
+      "sentence": "良好的服务___顾客愿意再来。",
+      "sentencePinyin": "Liánghǎo de fúwù shǐde gùkè yuànyì zài lái.",
+      "sentenceRu": "Хорошее обслуживание побуждает клиентов возвращаться.",
+      "id": "shide"
+    },
+    {
+      "hanzi": "者",
+      "pinyin": "zhě",
+      "ru": "суффикс лица, занятого чем-либо (-ист; -ер)",
+      "sentence": "这位记___正在采访店长。",
+      "sentencePinyin": "Zhè wèi jìzhě zhèngzài cǎifǎng diànzhǎng.",
+      "sentenceRu": "Этот журналист берёт интервью у управляющего магазином.",
+      "id": "zhe",
+      "audioText": "记者",
+      "audioNote": "Здесь 者 — суффикс лица, например 记者 (журналист)."
+    },
+    {
+      "hanzi": "仔细",
+      "pinyin": "zǐ xì",
+      "ru": "внимательно; тщательный",
+      "sentence": "买衣服前应该___检查质量。",
+      "sentencePinyin": "Mǎi yīfu qián yīnggāi zǐxì jiǎnchá zhìliàng.",
+      "sentenceRu": "Перед покупкой одежды следует внимательно проверить качество.",
+      "id": "zixi"
+    },
+    {
+      "hanzi": "对于",
+      "pinyin": "duì yú",
+      "ru": "по отношению к; что касается",
+      "sentence": "___价格，我还有一个问题。",
+      "sentencePinyin": "Duìyú jiàgé, wǒ hái yǒu yí ge wèntí.",
+      "sentenceRu": "Что касается цены, у меня остался вопрос.",
+      "id": "duiyu",
+      "quizExcludes": []
+    },
+    {
+      "hanzi": "不光",
+      "pinyin": "bù guāng",
+      "ru": "не только",
+      "sentence": "这家店___卖衣服，还卖鞋。",
+      "sentencePinyin": "Zhè jiā diàn bùguāng mài yīfu, hái mài xié.",
+      "sentenceRu": "Этот магазин продаёт не только одежду, но и обувь.",
+      "id": "buguang"
+    },
+    {
+      "hanzi": "外套",
+      "pinyin": "wài tào",
+      "ru": "куртка; пальто; верхняя одежда",
+      "sentence": "冬天我穿一件厚___。",
+      "sentencePinyin": "Dōngtiān wǒ chuān yí jiàn hòu wàitào.",
+      "sentenceRu": "Зимой я ношу тёплую куртку.",
+      "id": "waitao"
+    },
+    {
+      "hanzi": "袜子",
+      "pinyin": "wà zi",
+      "ru": "носки",
+      "sentence": "我买了两双新___。",
+      "sentencePinyin": "Wǒ mǎi le liǎng shuāng xīn wàzi.",
+      "sentenceRu": "Я купил две пары новых носков.",
+      "id": "wazi"
+    }
+  ]
+}

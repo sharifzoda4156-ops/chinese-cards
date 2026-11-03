@@ -450,19 +450,22 @@
           "id": "hsk4b-lesson12",
           "title": "Урок 12",
           "subtitle": "Счастливая семья",
-          "available": false
+          "available": true,
+          "wordCount": 43
         },
         {
           "id": "hsk4b-lesson13",
           "title": "Урок 13",
           "subtitle": "Прекрасные дни",
-          "available": false
+          "available": true,
+          "wordCount": 43
         },
         {
           "id": "hsk4b-lesson14",
           "title": "Урок 14",
           "subtitle": "Покупай только то, что подходит",
-          "available": false
+          "available": true,
+          "wordCount": 41
         },
         {
           "id": "hsk4b-lesson15",
