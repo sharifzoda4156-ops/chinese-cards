@@ -1,0 +1,394 @@
+{
+  "title": "HSK-4B · Урок 12",
+  "subtitle": "幸福的家庭 · Счастливая семья",
+  "source": "《新HSK教程 4 下》, урок 12, 生词 №1–43, PDF страницы 18, 21, 23, 25 (печатные 14, 17, 19, 21); без 专有名词",
+  "words": [
+    {
+      "hanzi": "毛衣",
+      "pinyin": "máo yī",
+      "ru": "свитер",
+      "sentence": "天气冷了，记得穿___。",
+      "sentencePinyin": "Tiānqì lěng le, jìde chuān máoyī.",
+      "sentenceRu": "Похолодало, не забудь надеть свитер.",
+      "id": "maoyi"
+    },
+    {
+      "hanzi": "样子",
+      "pinyin": "yàng zi",
+      "ru": "вид; внешний облик",
+      "sentence": "这件衣服的___很漂亮。",
+      "sentencePinyin": "Zhè jiàn yīfu de yàngzi hěn piàoliang.",
+      "sentenceRu": "Эта одежда очень красиво выглядит.",
+      "id": "yangzi"
+    },
+    {
+      "hanzi": "适合",
+      "pinyin": "shì hé",
+      "ru": "подходить; соответствовать",
+      "sentence": "这件衣服很___你。",
+      "sentencePinyin": "Zhè jiàn yīfu hěn shìhé nǐ.",
+      "sentenceRu": "Эта одежда тебе очень подходит.",
+      "id": "shihe"
+    },
+    {
+      "hanzi": "售货员",
+      "pinyin": "shòu huò yuán",
+      "ru": "продавец; продавщица",
+      "sentence": "___向我介绍了这件毛衣。",
+      "sentencePinyin": "Shòuhuòyuán xiàng wǒ jièshào le zhè jiàn máoyī.",
+      "sentenceRu": "Продавец показал мне этот свитер.",
+      "id": "shouhuoyuan"
+    },
+    {
+      "hanzi": "质量",
+      "pinyin": "zhì liàng",
+      "ru": "качество",
+      "sentence": "这双鞋的___很好。",
+      "sentencePinyin": "Zhè shuāng xié de zhìliàng hěn hǎo.",
+      "sentenceRu": "У этой пары обуви хорошее качество.",
+      "id": "zhiliang"
+    },
+    {
+      "hanzi": "强",
+      "pinyin": "qiáng",
+      "ru": "сильный; крепкий",
+      "sentence": "他的身体比以前更___了。",
+      "sentencePinyin": "Tā de shēntǐ bǐ yǐqián gèng qiáng le.",
+      "sentenceRu": "Он стал физически крепче, чем раньше.",
+      "id": "qiang"
+    },
+    {
+      "hanzi": "年底",
+      "pinyin": "nián dǐ",
+      "ru": "конец года",
+      "sentence": "我们打算在___回老家。",
+      "sentencePinyin": "Wǒmen dǎsuàn zài niándǐ huí lǎojiā.",
+      "sentenceRu": "Мы собираемся вернуться в родной город в конце года.",
+      "id": "niandi"
+    },
+    {
+      "hanzi": "全",
+      "pinyin": "quán",
+      "ru": "весь; целый; полностью",
+      "sentence": "我们___家人都来了。",
+      "sentencePinyin": "Wǒmen quán jiārén dōu lái le.",
+      "sentenceRu": "Вся наша семья пришла.",
+      "id": "quan"
+    },
+    {
+      "hanzi": "打折",
+      "pinyin": "dǎ zhé",
+      "ru": "продавать со скидкой; делать скидку",
+      "sentence": "商店里的衣服正在___。",
+      "sentencePinyin": "Shāngdiàn lǐ de yīfu zhèngzài dǎzhé.",
+      "sentenceRu": "На одежду в магазине сейчас скидки.",
+      "id": "dazhe"
+    },
+    {
+      "hanzi": "值",
+      "pinyin": "zhí",
+      "ru": "стоить; быть достойным",
+      "sentence": "这块表___多少钱？",
+      "sentencePinyin": "Zhè kuài biǎo zhí duōshao qián?",
+      "sentenceRu": "Сколько стоят эти часы?",
+      "id": "zhi"
+    },
+    {
+      "hanzi": "估计",
+      "pinyin": "gū jì",
+      "ru": "предполагать; прикидывать",
+      "sentence": "我___明天会下雪。",
+      "sentencePinyin": "Wǒ gūjì míngtiān huì xià xuě.",
+      "sentenceRu": "Думаю, завтра будет снег.",
+      "id": "guji"
+    },
+    {
+      "hanzi": "期",
+      "pinyin": "qī",
+      "ru": "период; выпуск; срок",
+      "sentence": "这___课程下个月结束。",
+      "sentencePinyin": "Zhè qī kèchéng xià ge yuè jiéshù.",
+      "sentenceRu": "Этот учебный курс заканчивается в следующем месяце.",
+      "id": "qi"
+    },
+    {
+      "hanzi": "听力",
+      "pinyin": "tīng lì",
+      "ru": "слух; аудирование",
+      "sentence": "多听中文广播可以提高___。",
+      "sentencePinyin": "Duō tīng Zhōngwén guǎngbō kěyǐ tígāo tīnglì.",
+      "sentenceRu": "Прослушивание китайского радио улучшает восприятие речи на слух.",
+      "id": "tingli"
+    },
+    {
+      "hanzi": "烦",
+      "pinyin": "fán",
+      "ru": "раздражаться; надоедать",
+      "sentence": "工作太多了，他觉得很___。",
+      "sentencePinyin": "Gōngzuò tài duō le, tā juéde hěn fán.",
+      "sentenceRu": "Из-за большого объёма работы он раздражён.",
+      "id": "fan"
+    },
+    {
+      "hanzi": "脱",
+      "pinyin": "tuō",
+      "ru": "снимать одежду; снимать",
+      "sentence": "进屋以后请___鞋。",
+      "sentencePinyin": "Jìn wū yǐhòu qǐng tuō xié.",
+      "sentenceRu": "Снимай обувь, когда заходишь в дом.",
+      "id": "tuo"
+    },
+    {
+      "hanzi": "挂",
+      "pinyin": "guà",
+      "ru": "вешать; развешивать",
+      "sentence": "请把外套___在门后。",
+      "sentencePinyin": "Qǐng bǎ wàitào guà zài mén hòu.",
+      "sentenceRu": "Повесь, пожалуйста, пальто за дверью.",
+      "id": "gua"
+    },
+    {
+      "hanzi": "脾气",
+      "pinyin": "pí qi",
+      "ru": "характер; нрав; вспыльчивость",
+      "sentence": "爷爷的___很好，很少生气。",
+      "sentencePinyin": "Yéye de píqi hěn hǎo, hěn shǎo shēngqì.",
+      "sentenceRu": "У дедушки спокойный характер, он редко сердится.",
+      "id": "piqi"
+    },
+    {
+      "hanzi": "伤心",
+      "pinyin": "shāng xīn",
+      "ru": "грустить; расстроенный",
+      "sentence": "听到这个消息，她很___。",
+      "sentencePinyin": "Tīng dào zhège xiāoxi, tā hěn shāngxīn.",
+      "sentenceRu": "Услышав эту новость, она очень расстроилась.",
+      "id": "shangxin"
+    },
+    {
+      "hanzi": "批评",
+      "pinyin": "pī píng",
+      "ru": "критиковать; делать замечание",
+      "sentence": "老师没有___他，而是帮助了他。",
+      "sentencePinyin": "Lǎoshī méiyǒu pīpíng tā, ér shì bāngzhù le tā.",
+      "sentenceRu": "Учитель не стал критиковать его, а помог.",
+      "id": "piping"
+    },
+    {
+      "hanzi": "道歉",
+      "pinyin": "dào qiàn",
+      "ru": "извиняться; приносить извинения",
+      "sentence": "我应该向妈妈___。",
+      "sentencePinyin": "Wǒ yīnggāi xiàng māma dàoqiàn.",
+      "sentenceRu": "Мне следует извиниться перед мамой.",
+      "id": "daoqian"
+    },
+    {
+      "hanzi": "老家",
+      "pinyin": "lǎo jiā",
+      "ru": "родной город; родные места",
+      "sentence": "过年的时候，我回___看父母。",
+      "sentencePinyin": "Guònián de shíhou, wǒ huí lǎojiā kàn fùmǔ.",
+      "sentenceRu": "На Новый год я еду в родные места навестить родителей.",
+      "id": "laojia"
+    },
+    {
+      "hanzi": "自",
+      "pinyin": "zì",
+      "ru": "с; от; начиная с",
+      "sentence": "___去年以来，他一直住在北京。",
+      "sentencePinyin": "Zì qùnián yǐlái, tā yìzhí zhù zài Běijīng.",
+      "sentenceRu": "С прошлого года он живёт в Пекине.",
+      "id": "zi"
+    },
+    {
+      "hanzi": "父母",
+      "pinyin": "fù mǔ",
+      "ru": "родители",
+      "sentence": "我的___都很关心我。",
+      "sentencePinyin": "Wǒ de fùmǔ dōu hěn guānxīn wǒ.",
+      "sentenceRu": "Мои родители очень заботятся обо мне.",
+      "id": "fumu"
+    },
+    {
+      "hanzi": "父子",
+      "pinyin": "fù zǐ",
+      "ru": "отец и сын",
+      "sentence": "这对___经常一起散步。",
+      "sentencePinyin": "Zhè duì fùzǐ jīngcháng yìqǐ sànbù.",
+      "sentenceRu": "Эти отец и сын часто гуляют вместе.",
+      "id": "fuzi"
+    },
+    {
+      "hanzi": "母子",
+      "pinyin": "mǔ zǐ",
+      "ru": "мать и сын",
+      "sentence": "那对___正在公园里玩。",
+      "sentencePinyin": "Nà duì mǔzǐ zhèngzài gōngyuán lǐ wán.",
+      "sentenceRu": "Мать и сын играют в парке.",
+      "id": "muzi"
+    },
+    {
+      "hanzi": "无论",
+      "pinyin": "wú lùn",
+      "ru": "независимо от; что бы ни",
+      "sentence": "___遇到什么困难，他都不放弃。",
+      "sentencePinyin": "Wúlùn yùdào shénme kùnnan, tā dōu bú fàngqì.",
+      "sentenceRu": "Какие бы трудности ни возникли, он не сдаётся.",
+      "id": "wulun"
+    },
+    {
+      "hanzi": "条件",
+      "pinyin": "tiáo jiàn",
+      "ru": "условия; требование",
+      "sentence": "这里的生活___比以前好了。",
+      "sentencePinyin": "Zhèlǐ de shēnghuó tiáojiàn bǐ yǐqián hǎo le.",
+      "sentenceRu": "Условия жизни здесь стали лучше.",
+      "id": "tiaojian"
+    },
+    {
+      "hanzi": "允许",
+      "pinyin": "yǔn xǔ",
+      "ru": "разрешать; позволять",
+      "sentence": "父母___孩子周末出去玩。",
+      "sentencePinyin": "Fùmǔ yǔnxǔ háizi zhōumò chūqù wán.",
+      "sentenceRu": "Родители разрешают ребёнку гулять на выходных.",
+      "id": "yunxu"
+    },
+    {
+      "hanzi": "另外",
+      "pinyin": "lìng wài",
+      "ru": "кроме того; другой",
+      "sentence": "我买了毛衣，___还买了一双鞋。",
+      "sentencePinyin": "Wǒ mǎi le máoyī, lìngwài hái mǎi le yì shuāng xié.",
+      "sentenceRu": "Я купил свитер, а также пару обуви.",
+      "id": "lingwai"
+    },
+    {
+      "hanzi": "卫生",
+      "pinyin": "wèi shēng",
+      "ru": "гигиена; санитария; чистота",
+      "sentence": "饭前洗手是讲___的好习惯。",
+      "sentencePinyin": "Fàn qián xǐ shǒu shì jiǎng wèishēng de hǎo xíguàn.",
+      "sentenceRu": "Мыть руки перед едой — хорошая гигиеническая привычка.",
+      "id": "weisheng"
+    },
+    {
+      "hanzi": "母亲",
+      "pinyin": "mǔ qīn",
+      "ru": "мать (официальнее, чем 妈妈)",
+      "sentence": "我的___是一名教师。",
+      "sentencePinyin": "Wǒ de mǔqīn shì yì míng jiàoshī.",
+      "sentenceRu": "Моя мать — преподаватель.",
+      "id": "muqin"
+    },
+    {
+      "hanzi": "待",
+      "pinyin": "dāi",
+      "ru": "оставаться; находиться где-либо",
+      "sentence": "我想在老家多___几天。",
+      "sentencePinyin": "Wǒ xiǎng zài lǎojiā duō dāi jǐ tiān.",
+      "sentenceRu": "Я хочу побыть в родных местах ещё несколько дней.",
+      "id": "dai"
+    },
+    {
+      "hanzi": "将",
+      "pinyin": "jiāng",
+      "ru": "помещать; вводить объект действия",
+      "sentence": "请___书放在桌子上。",
+      "sentencePinyin": "Qǐng jiāng shū fàng zài zhuōzi shang.",
+      "sentenceRu": "Положи, пожалуйста, книгу на стол.",
+      "id": "jiang"
+    },
+    {
+      "hanzi": "闻",
+      "pinyin": "wén",
+      "ru": "нюхать; чувствовать запах",
+      "sentence": "我___到了饭菜的香味。",
+      "sentencePinyin": "Wǒ wén dào le fàncài de xiāngwèi.",
+      "sentenceRu": "Я почувствовал аромат еды.",
+      "id": "wen"
+    },
+    {
+      "hanzi": "味道",
+      "pinyin": "wèi dao",
+      "ru": "запах; вкус",
+      "sentence": "这道菜的___真不错。",
+      "sentencePinyin": "Zhè dào cài de wèidao zhēn búcuò.",
+      "sentenceRu": "У этого блюда замечательный вкус.",
+      "id": "weidao"
+    },
+    {
+      "hanzi": "冷静",
+      "pinyin": "lěng jìng",
+      "ru": "спокойный; сохранять спокойствие",
+      "sentence": "遇到问题时要保持___。",
+      "sentencePinyin": "Yùdào wèntí shí yào bǎochí lěngjìng.",
+      "sentenceRu": "Когда возникают проблемы, нужно сохранять спокойствие.",
+      "id": "lengjing"
+    },
+    {
+      "hanzi": "鼻子",
+      "pinyin": "bí zi",
+      "ru": "нос",
+      "sentence": "他的___有点儿红。",
+      "sentencePinyin": "Tā de bízi yǒudiǎnr hóng.",
+      "sentenceRu": "У него немного красный нос.",
+      "id": "bizi"
+    },
+    {
+      "hanzi": "父亲",
+      "pinyin": "fù qīn",
+      "ru": "отец (официальнее, чем 爸爸)",
+      "sentence": "我的___在医院工作。",
+      "sentencePinyin": "Wǒ de fùqīn zài yīyuàn gōngzuò.",
+      "sentenceRu": "Мой отец работает в больнице.",
+      "id": "fuqin"
+    },
+    {
+      "hanzi": "城",
+      "pinyin": "chéng",
+      "ru": "город; городская стена",
+      "sentence": "这座古___已经有几百年历史了。",
+      "sentencePinyin": "Zhè zuò gǔchéng yǐjīng yǒu jǐ bǎi nián lìshǐ le.",
+      "sentenceRu": "Этому старинному городу уже несколько сотен лет.",
+      "id": "cheng"
+    },
+    {
+      "hanzi": "鲜",
+      "pinyin": "xiān",
+      "ru": "свежий; вкусный (о пище)",
+      "sentence": "这条鱼非常___。",
+      "sentencePinyin": "Zhè tiáo yú fēicháng xiān.",
+      "sentenceRu": "Эта рыба очень свежая.",
+      "id": "xian"
+    },
+    {
+      "hanzi": "暖",
+      "pinyin": "nuǎn",
+      "ru": "тёплый; согревать",
+      "sentence": "春天来了，天气变___了。",
+      "sentencePinyin": "Chūntiān lái le, tiānqì biàn nuǎn le.",
+      "sentenceRu": "Пришла весна, стало теплее.",
+      "id": "nuan"
+    },
+    {
+      "hanzi": "勇敢",
+      "pinyin": "yǒng gǎn",
+      "ru": "смелый; храбрый",
+      "sentence": "这个孩子非常___。",
+      "sentencePinyin": "Zhège háizi fēicháng yǒnggǎn.",
+      "sentenceRu": "Этот ребёнок очень смелый.",
+      "id": "yonggan"
+    },
+    {
+      "hanzi": "商量",
+      "pinyin": "shāng liang",
+      "ru": "советоваться; обсуждать",
+      "sentence": "我们先和父母___一下。",
+      "sentencePinyin": "Wǒmen xiān hé fùmǔ shāngliang yíxià.",
+      "sentenceRu": "Давай сначала посоветуемся с родителями.",
+      "id": "shangliang"
+    }
+  ]
+}
