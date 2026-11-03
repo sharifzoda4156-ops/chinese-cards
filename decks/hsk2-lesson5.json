@@ -71,9 +71,9 @@
       "hanzi": "一会儿",
       "pinyin": "yí huìr",
       "ru": "немного времени; ненадолго",
-      "sentence": "请___再来，我还没准备好。",
-      "sentencePinyin": "Qǐng yíhuìr zài lái, wǒ hái méi zhǔnbèi hǎo.",
-      "sentenceRu": "Приходи чуть позже, я ещё не готов."
+      "sentence": "请过___再来，我还没准备好。",
+      "sentencePinyin": "Qǐng guò yíhuìr zài lái, wǒ hái méi zhǔnbèi hǎo.",
+      "sentenceRu": "Приходи немного позже, я ещё не готов."
     },
     {
       "id": "xiaqu",
