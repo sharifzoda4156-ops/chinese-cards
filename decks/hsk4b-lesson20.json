@@ -1,0 +1,380 @@
+{
+  "title": "HSK-4B · Урок 20",
+  "subtitle": "看不完也读不完 · Всего не увидеть и не прочитать",
+  "source": "《新HSK教程 4 下》, урок 20, 生词 №1–41, PDF страницы 117, 119, 121, 124 (печатные 113, 115, 117, 120); имена собственные из 专有名词 исключены",
+  "words": [
+    {
+      "hanzi": "堵车",
+      "pinyin": "dǔ chē",
+      "ru": "пробка на дороге; стоять в пробке",
+      "sentence": "今天路上___，我们来晚了。",
+      "sentencePinyin": "Jīntiān lùshang dǔchē, wǒmen lái wǎn le.",
+      "sentenceRu": "Сегодня были пробки, поэтому мы опоздали.",
+      "id": "duche"
+    },
+    {
+      "hanzi": "乘",
+      "pinyin": "chéng",
+      "ru": "садиться на транспорт; ехать",
+      "sentence": "我们准备___火车去旅行。",
+      "sentencePinyin": "Wǒmen zhǔnbèi chéng huǒchē qù lǚxíng.",
+      "sentenceRu": "Мы собираемся путешествовать на поезде.",
+      "id": "cheng"
+    },
+    {
+      "hanzi": "难道",
+      "pinyin": "nán dào",
+      "ru": "неужели; разве (риторический вопрос)",
+      "sentence": "___你不喜欢旅行吗？",
+      "sentencePinyin": "Nándào nǐ bù xǐhuan lǚxíng ma?",
+      "sentenceRu": "Неужели тебе не нравится путешествовать?",
+      "id": "nandao"
+    },
+    {
+      "hanzi": "无",
+      "pinyin": "wú",
+      "ru": "не иметь; без",
+      "sentence": "这个房间___窗户。",
+      "sentencePinyin": "Zhège fángjiān wú chuānghu.",
+      "sentenceRu": "В этой комнате нет окна.",
+      "id": "wu"
+    },
+    {
+      "hanzi": "动车",
+      "pinyin": "dòng chē",
+      "ru": "скоростной поезд",
+      "sentence": "我们坐___去另一个城市。",
+      "sentencePinyin": "Wǒmen zuò dòngchē qù lìng yí ge chéngshì.",
+      "sentenceRu": "Мы едем в другой город на скоростном поезде.",
+      "id": "dongche"
+    },
+    {
+      "hanzi": "车速",
+      "pinyin": "chē sù",
+      "ru": "скорость транспортного средства",
+      "sentence": "下雨天应该降低___。",
+      "sentencePinyin": "Xià yǔ tiān yīnggāi jiàngdī chēsù.",
+      "sentenceRu": "В дождливую погоду нужно снизить скорость.",
+      "id": "chesu"
+    },
+    {
+      "hanzi": "列",
+      "pinyin": "liè",
+      "ru": "счётное слово для поездов",
+      "sentence": "这___火车几点出发？",
+      "sentencePinyin": "Zhè liè huǒchē jǐ diǎn chūfā?",
+      "sentenceRu": "Во сколько отправляется этот поезд?",
+      "id": "lie"
+    },
+    {
+      "hanzi": "晚餐",
+      "pinyin": "wǎn cān",
+      "ru": "ужин",
+      "sentence": "我们晚上七点吃___。",
+      "sentencePinyin": "Wǒmen wǎnshang qī diǎn chī wǎncān.",
+      "sentenceRu": "Мы ужинаем в семь вечера.",
+      "id": "wancan"
+    },
+    {
+      "hanzi": "夜",
+      "pinyin": "yè",
+      "ru": "ночь; ночное время",
+      "sentence": "今晚的___很安静。",
+      "sentencePinyin": "Jīnwǎn de yè hěn ānjìng.",
+      "sentenceRu": "Сегодня очень тихая ночь.",
+      "id": "ye"
+    },
+    {
+      "hanzi": "大巴",
+      "pinyin": "dà bā",
+      "ru": "междугородний автобус",
+      "sentence": "从机场可以坐___到市中心。",
+      "sentencePinyin": "Cóng jīchǎng kěyǐ zuò dàbā dào shì zhōngxīn.",
+      "sentenceRu": "Из аэропорта до центра можно доехать на автобусе.",
+      "id": "daba"
+    },
+    {
+      "hanzi": "安检",
+      "pinyin": "ān jiǎn",
+      "ru": "проверка безопасности",
+      "sentence": "登机前需要通过___。",
+      "sentencePinyin": "Dēngjī qián xūyào tōngguò ānjiǎn.",
+      "sentenceRu": "Перед посадкой нужно пройти досмотр.",
+      "id": "anjian"
+    },
+    {
+      "hanzi": "登机",
+      "pinyin": "dēng jī",
+      "ru": "садиться в самолёт",
+      "sentence": "请提前到登机口准备___。",
+      "sentencePinyin": "Qǐng tíqián dào dēngjīkǒu zhǔnbèi dēngjī.",
+      "sentenceRu": "Заранее подойдите к выходу на посадку.",
+      "id": "dengji"
+    },
+    {
+      "hanzi": "小说",
+      "pinyin": "xiǎo shuō",
+      "ru": "роман; повесть",
+      "sentence": "我在飞机上看了一本___。",
+      "sentencePinyin": "Wǒ zài fēijī shang kàn le yì běn xiǎoshuō.",
+      "sentenceRu": "В самолёте я прочитал роман.",
+      "id": "xiaoshuo"
+    },
+    {
+      "hanzi": "航班",
+      "pinyin": "háng bān",
+      "ru": "авиарейс",
+      "sentence": "我们的___延误了一个小时。",
+      "sentencePinyin": "Wǒmen de hángbān yánwù le yí ge xiǎoshí.",
+      "sentenceRu": "Наш рейс задержали на один час.",
+      "id": "hangban"
+    },
+    {
+      "hanzi": "值机",
+      "pinyin": "zhí jī",
+      "ru": "регистрироваться на рейс",
+      "sentence": "你可以在网上提前___。",
+      "sentencePinyin": "Nǐ kěyǐ zài wǎngshàng tíqián zhíjī.",
+      "sentenceRu": "Можно заранее зарегистрироваться на рейс онлайн.",
+      "id": "zhiji"
+    },
+    {
+      "hanzi": "旅客",
+      "pinyin": "lǚ kè",
+      "ru": "пассажир; путешественник",
+      "sentence": "工作人员请___排队登机。",
+      "sentencePinyin": "Gōngzuò rényuán qǐng lǚkè páiduì dēngjī.",
+      "sentenceRu": "Сотрудник просит пассажиров выстроиться на посадку.",
+      "id": "luke"
+    },
+    {
+      "hanzi": "牌",
+      "pinyin": "pái",
+      "ru": "табличка; карточка; знак",
+      "sentence": "请准备好登机___。",
+      "sentencePinyin": "Qǐng zhǔnbèi hǎo dēngjīpái.",
+      "sentenceRu": "Приготовьте посадочный талон.",
+      "id": "pai"
+    },
+    {
+      "hanzi": "靠",
+      "pinyin": "kào",
+      "ru": "располагаться у; опираться на",
+      "sentence": "我的座位___窗户。",
+      "sentencePinyin": "Wǒ de zuòwèi kào chuānghu.",
+      "sentenceRu": "Моё место у окна.",
+      "id": "kao"
+    },
+    {
+      "hanzi": "窗户",
+      "pinyin": "chuāng hu",
+      "ru": "окно",
+      "sentence": "我喜欢坐在___旁边。",
+      "sentencePinyin": "Wǒ xǐhuan zuò zài chuānghu pángbiān.",
+      "sentenceRu": "Мне нравится сидеть у окна.",
+      "id": "chuanghu"
+    },
+    {
+      "hanzi": "转机",
+      "pinyin": "zhuǎn jī",
+      "ru": "пересадка на самолёт",
+      "sentence": "我们需要在上海___。",
+      "sentencePinyin": "Wǒmen xūyào zài Shànghǎi zhuǎnjī.",
+      "sentenceRu": "Нам нужно сделать пересадку в Шанхае.",
+      "id": "zhuanji"
+    },
+    {
+      "hanzi": "从中",
+      "pinyin": "cóng zhōng",
+      "ru": "из этого; из числа",
+      "sentence": "我们可以___学到很多经验。",
+      "sentencePinyin": "Wǒmen kěyǐ cóngzhōng xué dào hěn duō jīngyàn.",
+      "sentenceRu": "Из этого опыта можно многому научиться.",
+      "id": "congzhong"
+    },
+    {
+      "hanzi": "总结",
+      "pinyin": "zǒng jié",
+      "ru": "подводить итоги; обобщать",
+      "sentence": "旅行结束后我们一起___经验。",
+      "sentencePinyin": "Lǚxíng jiéshù hòu wǒmen yìqǐ zǒngjié jīngyàn.",
+      "sentenceRu": "После поездки мы вместе подводим итоги.",
+      "id": "zongjie"
+    },
+    {
+      "hanzi": "道路",
+      "pinyin": "dào lù",
+      "ru": "дорога; путь",
+      "sentence": "雨天的___很滑。",
+      "sentencePinyin": "Yǔtiān de dàolù hěn huá.",
+      "sentenceRu": "В дождливую погоду дороги скользкие.",
+      "id": "daolu"
+    },
+    {
+      "hanzi": "特点",
+      "pinyin": "tè diǎn",
+      "ru": "особенность; характерная черта",
+      "sentence": "这个城市最大的___是交通方便。",
+      "sentencePinyin": "Zhège chéngshì zuì dà de tèdiǎn shì jiāotōng fāngbiàn.",
+      "sentenceRu": "Главная особенность этого города — удобный транспорт.",
+      "id": "tedian"
+    },
+    {
+      "hanzi": "所有",
+      "pinyin": "suǒ yǒu",
+      "ru": "все; всё",
+      "sentence": "___旅客都已经登机了。",
+      "sentencePinyin": "Suǒyǒu lǚkè dōu yǐjīng dēngjī le.",
+      "sentenceRu": "Все пассажиры уже сели в самолёт.",
+      "id": "suoyou"
+    },
+    {
+      "hanzi": "意见",
+      "pinyin": "yì jiàn",
+      "ru": "мнение; предложение",
+      "sentence": "大家对这个计划有什么___？",
+      "sentencePinyin": "Dàjiā duì zhège jìhuà yǒu shénme yìjiàn?",
+      "sentenceRu": "Что вы думаете об этом плане?",
+      "id": "yijian"
+    },
+    {
+      "hanzi": "细",
+      "pinyin": "xì",
+      "ru": "тонкий; подробный; мелкий",
+      "sentence": "请把旅行计划写得更___一点儿。",
+      "sentencePinyin": "Qǐng bǎ lǚxíng jìhuà xiě de gèng xì yì diǎnr.",
+      "sentenceRu": "Распиши план поездки немного подробнее.",
+      "id": "xi"
+    },
+    {
+      "hanzi": "烦恼",
+      "pinyin": "fán nǎo",
+      "ru": "забота; неприятность; переживание",
+      "sentence": "有问题就说出来，别一个人___。",
+      "sentencePinyin": "Yǒu wèntí jiù shuō chūlái, bié yí ge rén fánnǎo.",
+      "sentenceRu": "Если возникла проблема, расскажи о ней, не переживай один.",
+      "id": "fannao"
+    },
+    {
+      "hanzi": "百分之",
+      "pinyin": "bǎi fēn zhī",
+      "ru": "процент; из ста",
+      "sentence": "这张票便宜了___二十。",
+      "sentencePinyin": "Zhè zhāng piào piányi le bǎifēnzhī èrshí.",
+      "sentenceRu": "Этот билет стал дешевле на двадцать процентов.",
+      "id": "baifenzhi"
+    },
+    {
+      "hanzi": "节省",
+      "pinyin": "jié shěng",
+      "ru": "экономить; сберегать",
+      "sentence": "提前买票可以___不少钱。",
+      "sentencePinyin": "Tíqián mǎi piào kěyǐ jiéshěng bù shǎo qián.",
+      "sentenceRu": "Если купить билет заранее, можно сэкономить деньги.",
+      "id": "jiesheng"
+    },
+    {
+      "hanzi": "当",
+      "pinyin": "dàng",
+      "ru": "считать чем-либо; принимать за",
+      "sentence": "我把省下的钱___作旅行基金。",
+      "sentencePinyin": "Wǒ bǎ shěng xià de qián dàngzuò lǚxíng jījīn.",
+      "sentenceRu": "Я считаю сэкономленные деньги фондом для путешествий.",
+      "id": "dang",
+      "audioText": "当作",
+      "audioNote": "В конструкции 当作 слово 当 читается dàng — «считать за»."
+    },
+    {
+      "hanzi": "红包",
+      "pinyin": "hóng bāo",
+      "ru": "красный конверт с деньгами",
+      "sentence": "过年时孩子们会收到___。",
+      "sentencePinyin": "Guònián shí háizimen huì shōudào hóngbāo.",
+      "sentenceRu": "На Новый год дети получают красные конверты с деньгами.",
+      "id": "hongbao"
+    },
+    {
+      "hanzi": "卷",
+      "pinyin": "juàn",
+      "ru": "том; свиток; часть издания",
+      "sentence": "这套书的第一___已经出版了。",
+      "sentencePinyin": "Zhè tào shū de dì yī juàn yǐjīng chūbǎn le.",
+      "sentenceRu": "Первый том этой серии уже опубликован.",
+      "id": "juan"
+    },
+    {
+      "hanzi": "里",
+      "pinyin": "lǐ",
+      "ru": "ли (китайская мера расстояния)",
+      "sentence": "这个村子离城市有十___。",
+      "sentencePinyin": "Zhège cūnzi lí chéngshì yǒu shí lǐ.",
+      "sentenceRu": "Эта деревня находится в десяти ли от города.",
+      "id": "li",
+      "audioText": "十里",
+      "audioNote": "Здесь 里 означает меру длины lǐ (приблизительно 500 метров), а не предлог «внутри»."
+    },
+    {
+      "hanzi": "要是",
+      "pinyin": "yào shi",
+      "ru": "если; в случае если",
+      "sentence": "___明天下雨，我们就坐地铁。",
+      "sentencePinyin": "Yàoshi míngtiān xià yǔ, wǒmen jiù zuò dìtiě.",
+      "sentenceRu": "Если завтра будет дождь, поедем на метро.",
+      "id": "yaoshi"
+    },
+    {
+      "hanzi": "少数",
+      "pinyin": "shǎo shù",
+      "ru": "меньшинство; небольшая часть",
+      "sentence": "只有___人选择这个方案。",
+      "sentencePinyin": "Zhǐ yǒu shǎoshù rén xuǎnzé zhège fāng'àn.",
+      "sentenceRu": "Лишь немногие выбрали этот вариант.",
+      "id": "shaoshu"
+    },
+    {
+      "hanzi": "民族",
+      "pinyin": "mín zú",
+      "ru": "народность; этническая группа",
+      "sentence": "中国有很多不同的___。",
+      "sentencePinyin": "Zhōngguó yǒu hěn duō bùtóng de mínzú.",
+      "sentenceRu": "В Китае много разных этнических групп.",
+      "id": "minzu"
+    },
+    {
+      "hanzi": "导游",
+      "pinyin": "dǎo yóu",
+      "ru": "гид; экскурсовод",
+      "sentence": "___给我们介绍了当地文化。",
+      "sentencePinyin": "Dǎoyóu gěi wǒmen jièshào le dāngdì wénhuà.",
+      "sentenceRu": "Гид рассказал нам о местной культуре.",
+      "id": "daoyou"
+    },
+    {
+      "hanzi": "解释",
+      "pinyin": "jiě shì",
+      "ru": "объяснять; разъяснять",
+      "sentence": "请___一下这句话的意思。",
+      "sentencePinyin": "Qǐng jiěshì yíxià zhè jù huà de yìsi.",
+      "sentenceRu": "Объясни, пожалуйста, смысл этой фразы.",
+      "id": "jieshi"
+    },
+    {
+      "hanzi": "泼",
+      "pinyin": "pō",
+      "ru": "обливать; разбрызгивать",
+      "sentence": "节日里大家互相___水。",
+      "sentencePinyin": "Jiérì lǐ dàjiā hùxiāng pō shuǐ.",
+      "sentenceRu": "Во время праздника люди обливают друг друга водой.",
+      "id": "po"
+    },
+    {
+      "hanzi": "流利",
+      "pinyin": "liú lì",
+      "ru": "беглый; свободный (о речи)",
+      "sentence": "她的汉语说得很___。",
+      "sentencePinyin": "Tā de Hànyǔ shuō de hěn liúlì.",
+      "sentenceRu": "Она очень свободно говорит по-китайски.",
+      "id": "liuli"
+    }
+  ]
+}

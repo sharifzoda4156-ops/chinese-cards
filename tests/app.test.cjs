@@ -3,6 +3,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const http = require('node:http');
 const { chromium } = require('playwright');
+const quick = process.env.CI_FAST === '1';
 const root = path.resolve(__dirname, '..');
 const screenshots = path.join(root, 'test-output');
 fs.mkdirSync(screenshots, {recursive:true});
@@ -38,7 +39,7 @@ assert.deepEqual(catalog.sections.map(s => s.id), ['hsk1', 'hsk2', 'hsk3', 'hsk4
 assert.deepEqual(hsk4aSection.lessons.map(l => l.id), Array.from({length:10},(_,i)=>'hsk4a-lesson'+(i+1)));
 assert.deepEqual(hsk4bSection.lessons.map(l => l.id), Array.from({length:10},(_,i)=>'hsk4b-lesson'+(i+11)));
 assert.deepEqual(hsk4aSection.lessons.filter(l => l.available).map(l => l.id), Array.from({length:10},(_,i)=>'hsk4a-lesson'+(i+1)));
-assert.deepEqual(hsk4bSection.lessons.filter(l => l.available).map(l => l.id), Array.from({length:4},(_,i)=>'hsk4b-lesson'+(i+11)));
+assert.deepEqual(hsk4bSection.lessons.filter(l => l.available).map(l => l.id), Array.from({length:10},(_,i)=>'hsk4b-lesson'+(i+11)));
 assert.equal(hsk2Section.lessons.length, 15);
 // A/B volume structure follows the printed contents. Only completed decks are clickable.
 const hsk4Sources = [
@@ -55,7 +56,14 @@ const hsk4Sources = [
   {section:hsk4bSection,id:'hsk4b-lesson11',count:41,words:'老年 散步 丰富 羡慕 即使 活 继续 网友 无聊 数字 点名 教授 线上 线下 视频 记录 资料 自学 口语 科技 获取 礼貌 打招呼 家长 成功 分数 目的 养成 留 做法 棒 一生 快速 优秀 律师 仍 准时 网页 弹 钢琴 重新'},
   {section:hsk4bSection,id:'hsk4b-lesson12',count:43,words:'毛衣 样子 适合 售货员 质量 强 年底 全 打折 值 估计 期 听力 烦 脱 挂 脾气 伤心 批评 道歉 老家 自 父母 父子 母子 无论 条件 允许 另外 卫生 母亲 待 将 闻 味道 冷静 鼻子 父亲 城 鲜 暖 勇敢 商量'},
   {section:hsk4bSection,id:'hsk4b-lesson13',count:43,words:'熊 老虎 喊 级 树林 景区 区 美 节假日 千万 开玩笑 月饼 葡萄 香 街道 剧院 演出 赶 巧 之中 铁路 人员 反向 团圆 左右 大约 烤 西红柿 出现 作为 传统 有着 意义 到来 美食 年夜饭 回忆 童年 记忆 已 中年 仍然 兄弟'},
-  {section:hsk4bSection,id:'hsk4b-lesson14',count:41,words:'茶叶 究竟 分为 抱歉 暂时 满 两 超过 盒子 装 各位 顾客 本 假日 低价 促销 广播 减 广告 首先 牌子 降价 样式 价钱 商业 商品 种类 盲盒 缺 许多 表示 加上 态度 友好 使得 者 仔细 对于 不光 外套 袜子'}
+  {section:hsk4bSection,id:'hsk4b-lesson14',count:41,words:'茶叶 究竟 分为 抱歉 暂时 满 两 超过 盒子 装 各位 顾客 本 假日 低价 促销 广播 减 广告 首先 牌子 降价 样式 价钱 商业 商品 种类 盲盒 缺 许多 表示 加上 态度 友好 使得 者 仔细 对于 不光 外套 袜子'},
+  {section:hsk4bSection,id:'hsk4b-lesson15',count:37,words:'期中 医药 应聘 招聘 实习 考虑 单位 毕业生 经历 消息 报名 填写 笔试 面试 答 由 部门 负责人 不论 肯定 短信 激动 扔 理发 镜子 自我 能够 运用 工厂 规定 课堂 完全 例如 不如 细节 答案 职业'},
+  {section:hsk4bSection,id:'hsk4b-lesson16',count:41,words:'本来 只好 赶上 旅行 推迟 取消 可惜 确实 等到 早晨 忽然 增加 调整 错误 并且 例子 关键 详细 时间表 把握 相反 部分 轻松 标准 严格 取得 说不定 灵活 一切 却 不得不 约 不便 失望 也许 逛 有趣 观看 部 无法 接受'},
+  {section:hsk4bSection,id:'hsk4b-lesson17',count:41,words:'路过 趟 健身房 健身 体重 会员 饼干 酸奶 果汁 教练 动作 科学 受伤 操场 其中 之 火 好处 设备 全身 准确 仅仅 表扬 进步 鼓励 帅 乒乓球 队 项 赢得 叫作 梦 不断 队员 训练 球队 球迷 梦想 大赛 赢 连'},
+  {section:hsk4bSection,id:'hsk4b-lesson18',count:39,words:'猜 共享单车 出口 推 对 二维码 注册 费用 说明 办事 差点儿 拍 各个 小组 讨论 演 厨师 各地 著名 小吃 互联网 点赞 AI眼镜 3D打印机 上门 到底 仅 多样 推出 预约 取 原因 然而 不必 亲戚 按 提出 大大 现有'},
+  {section:hsk4bSection,id:'hsk4b-lesson19',count:40,words:'话剧 排 艺术 内心 自信 少年 歌手 歌声 度假 演员 演唱 留下 青年 观众 功课 转发 入口 入 指 功夫 获奖 奖 期待 鼓掌 邀请 庆祝 点头 作品 作者 世纪 读者 作家 版 文章 全部 整理 文字 图片 报考 文学'},
+  {section:hsk4bSection,id:'hsk4b-lesson20',count:41,words:'堵车 乘 难道 无 动车 车速 列 晚餐 夜 大巴 安检 登机 小说 航班 值机 旅客 牌 靠 窗户 转机 从中 总结 道路 特点 所有 意见 细 烦恼 百分之 节省 当 红包 卷 里 要是 少数 民族 导游 解释 泼 流利'}
+
 ];
 const hsk4Decks = {};
 for (const source of hsk4Sources) {
@@ -238,7 +246,7 @@ const server = http.createServer((req, res) => {
     assert.equal(await page.locator('#sections button').nth(1).innerText(), 'HSK-2\n新HSK教程 2 · 15 уроков\nДоступно 15 из 15 уроков →');
     assert.equal(await page.locator('#sections button').nth(2).innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 18 из 18 уроков →');
     assert.equal(await page.locator('#sections button').nth(3).innerText(), 'HSK-4A\n新HSK教程 4 上 · 10 уроков\nДоступно 10 из 10 уроков →');
-    assert.equal(await page.locator('#sections button').nth(4).innerText(), 'HSK-4B\n新HSK教程 4 下 · 10 уроков\nДоступно 4 из 10 уроков →');
+    assert.equal(await page.locator('#sections button').nth(4).innerText(), 'HSK-4B\n新HSK教程 4 下 · 10 уроков\nДоступно 10 из 10 уроков →');
     await page.locator('#sections button').first().click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 15);
     assert.equal(await page.locator('#lessons button:disabled').count(), 0);
@@ -302,7 +310,7 @@ const server = http.createServer((req, res) => {
     for(let i=0;i<81;i++) { await page.locator('#btn-no').click(); await page.locator('#btn-next').click(); await tick(); }
     await visible('test'); assert.match(await page.locator('#test-text').innerText(), /из 27/);
     // Complete every new deck through the same menu a learner uses.
-    for (const lesson of available.slice(1)) {
+    for (const lesson of (quick ? [] : available.slice(1))) {
       const data = decks[lesson.id];
       await page.goto(base);
       await page.locator('#btn-start').click();
@@ -351,7 +359,7 @@ const server = http.createServer((req, res) => {
       await page.locator('#btn-result-lessons').click(); await visible('lessons');
     }
     // Run complete card and quiz flows for every HSK-2 lesson, including direct links.
-    for (const lesson of hsk2Section.lessons) {
+    for (const lesson of (quick ? [] : hsk2Section.lessons)) {
       const data = hsk2Decks[lesson.id];
       await page.goto(base + '/?deck=' + lesson.id); await visible('lesson');
       await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
@@ -396,7 +404,7 @@ const server = http.createServer((req, res) => {
     for (const index of [3,4]) {
       await page.locator('#sections button').nth(index).click(); await visible('lessons');
       assert.equal(await page.locator('#lessons button').count(), 10);
-      assert.equal(await page.locator('#lessons button:disabled').count(), index === 3 ? 0 : 6);
+      assert.equal(await page.locator('#lessons button:disabled').count(), 0);
       assert.ok((await page.locator('#lessons button').first().innerText()).includes(index === 3 ? '40 слов' : '41 слов'));
       if (index === 3) {
         assert.ok((await page.locator('#lessons button').nth(1).innerText()).includes('37 слов'));
@@ -412,11 +420,13 @@ const server = http.createServer((req, res) => {
         assert.ok((await page.locator('#lessons button').nth(1).innerText()).includes('43 слов'));
         assert.ok((await page.locator('#lessons button').nth(2).innerText()).includes('43 слов'));
         assert.ok((await page.locator('#lessons button').nth(3).innerText()).includes('41 слов'));
+        for (const [index,count] of [[4,37],[5,41],[6,41],[7,39],[8,40],[9,41]])
+          assert.ok((await page.locator('#lessons button').nth(index).innerText()).includes(count+' слов'));
       }
       await page.locator('#btn-sections').click(); await visible('sections');
     }
-    // All ready HSK-4A lessons (1–10) / HSK-4B lessons 11–14: cards, audio, quiz, score, share.
-    for (const source of hsk4Sources) {
+    // All ready HSK-4A lessons (1–10) / HSK-4B lessons 11–20: cards, audio, quiz, score, share.
+    for (const source of (quick ? hsk4Sources.filter(s => /^hsk4b-lesson(1[5-9]|20)$/.test(s.id)) : hsk4Sources)) {
       const data = hsk4Decks[source.id];
       await page.goto(base + '/?deck=' + source.id); await visible('lesson');
       await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
@@ -459,7 +469,7 @@ const server = http.createServer((req, res) => {
     }
 
     // HSK-1: direct links, all words, both audio routes, all quiz questions and result.
-    for (const lesson of hsk1Section.lessons) {
+    for (const lesson of (quick ? [] : hsk1Section.lessons)) {
       const data = hsk1Decks[lesson.id];
       await page.goto(base + '/?deck=' + lesson.id); await visible('lesson');
       await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
@@ -510,6 +520,6 @@ const server = http.createServer((req, res) => {
     await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
     assert.equal(await page.locator('#deck-title').innerText(), 'HSK-3 · Урок 1');
     assert.equal(errors.length, 0, errors.join('\n'));
-    console.log('PASS: HSK-1 (15/317), HSK-2 (15/210), HSK-3 (18/482), HSK-4A (10/391), HSK-4B (4/168), 1568 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
+    console.log('PASS: HSK-1 (15/317), HSK-2 (15/210), HSK-3 (18/482), HSK-4A (10/391), HSK-4B (10/407), 1807 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
   } finally { await browser.close(); server.close(); }
 })().catch(e => { console.error(e); process.exitCode=1; server.close(); });

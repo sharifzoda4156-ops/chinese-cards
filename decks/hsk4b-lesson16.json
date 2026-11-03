@@ -1,0 +1,394 @@
+{
+  "title": "HSK-4B · Урок 16",
+  "subtitle": "计划赶不上变化 · Планы не поспевают за переменами",
+  "source": "《新HSK教程 4 下》, урок 16, 生词 №1–41, PDF страницы 67, 70, 71, 74 (печатные 63, 66, 67, 70)",
+  "words": [
+    {
+      "hanzi": "本来",
+      "pinyin": "běn lái",
+      "ru": "изначально; первоначально",
+      "sentence": "我___打算今天出发。",
+      "sentencePinyin": "Wǒ běnlái dǎsuàn jīntiān chūfā.",
+      "sentenceRu": "Первоначально я собирался выехать сегодня.",
+      "id": "benlai"
+    },
+    {
+      "hanzi": "只好",
+      "pinyin": "zhǐ hǎo",
+      "ru": "приходится; ничего не остаётся, кроме",
+      "sentence": "下雨了，我们___待在家里。",
+      "sentencePinyin": "Xià yǔ le, wǒmen zhǐhǎo dāi zài jiā lǐ.",
+      "sentenceRu": "Пошёл дождь, и нам пришлось остаться дома.",
+      "id": "zhihao"
+    },
+    {
+      "hanzi": "赶上",
+      "pinyin": "gǎn shàng",
+      "ru": "успевать; догонять",
+      "sentence": "快走吧，还能___火车。",
+      "sentencePinyin": "Kuài zǒu ba, hái néng gǎnshàng huǒchē.",
+      "sentenceRu": "Поторопись, ещё успеем на поезд.",
+      "id": "ganshang"
+    },
+    {
+      "hanzi": "旅行",
+      "pinyin": "lǚ xíng",
+      "ru": "путешествовать; поездка",
+      "sentence": "我计划暑假去北京___。",
+      "sentencePinyin": "Wǒ jìhuà shǔjià qù Běijīng lǚxíng.",
+      "sentenceRu": "На летних каникулах планирую путешествие в Пекин.",
+      "id": "luxing"
+    },
+    {
+      "hanzi": "推迟",
+      "pinyin": "tuī chí",
+      "ru": "откладывать; переносить на поздний срок",
+      "sentence": "由于下雨，比赛___了。",
+      "sentencePinyin": "Yóuyú xià yǔ, bǐsài tuīchí le.",
+      "sentenceRu": "Из-за дождя соревнование перенесли.",
+      "id": "tuichi",
+      "quizExcludes": [
+        "quxiao"
+      ]
+    },
+    {
+      "hanzi": "取消",
+      "pinyin": "qǔ xiāo",
+      "ru": "отменять",
+      "sentence": "学校决定___明天的活动。",
+      "sentencePinyin": "Xuéxiào juédìng qǔxiāo míngtiān de huódòng.",
+      "sentenceRu": "Школа решила отменить завтрашнее мероприятие.",
+      "id": "quxiao",
+      "quizExcludes": [
+        "tuichi"
+      ]
+    },
+    {
+      "hanzi": "可惜",
+      "pinyin": "kě xī",
+      "ru": "жаль; досадно",
+      "sentence": "这次不能去旅游，真___。",
+      "sentencePinyin": "Zhè cì bù néng qù lǚyóu, zhēn kěxī.",
+      "sentenceRu": "Очень жаль, что в этот раз не получится поехать.",
+      "id": "kexi"
+    },
+    {
+      "hanzi": "确实",
+      "pinyin": "què shí",
+      "ru": "действительно; в самом деле",
+      "sentence": "这道题___有点儿难。",
+      "sentencePinyin": "Zhè dào tí quèshí yǒudiǎnr nán.",
+      "sentenceRu": "Эта задача действительно сложновата.",
+      "id": "queshi"
+    },
+    {
+      "hanzi": "等到",
+      "pinyin": "děng dào",
+      "ru": "дождаться; к тому времени, когда",
+      "sentence": "___考试结束，我们再出去玩。",
+      "sentencePinyin": "Děngdào kǎoshì jiéshù, wǒmen zài chūqù wán.",
+      "sentenceRu": "Когда экзамены закончатся, пойдём развлекаться.",
+      "id": "dengdao"
+    },
+    {
+      "hanzi": "早晨",
+      "pinyin": "zǎo chen",
+      "ru": "раннее утро",
+      "sentence": "今天___天气很冷。",
+      "sentencePinyin": "Jīntiān zǎochen tiānqì hěn lěng.",
+      "sentenceRu": "Сегодня рано утром было холодно.",
+      "id": "zaochen"
+    },
+    {
+      "hanzi": "忽然",
+      "pinyin": "hū rán",
+      "ru": "вдруг; неожиданно",
+      "sentence": "他___想起了一个重要问题。",
+      "sentencePinyin": "Tā hūrán xiǎngqǐ le yí ge zhòngyào wèntí.",
+      "sentenceRu": "Он вдруг вспомнил важный вопрос.",
+      "id": "huran"
+    },
+    {
+      "hanzi": "增加",
+      "pinyin": "zēng jiā",
+      "ru": "увеличивать; добавлять",
+      "sentence": "老师决定___练习题。",
+      "sentencePinyin": "Lǎoshī juédìng zēngjiā liànxítí.",
+      "sentenceRu": "Преподаватель решил добавить упражнения.",
+      "id": "zengjia",
+      "quizExcludes": [
+        "tiaozheng"
+      ]
+    },
+    {
+      "hanzi": "调整",
+      "pinyin": "tiáo zhěng",
+      "ru": "корректировать; перестраивать",
+      "sentence": "我们需要___明天的计划。",
+      "sentencePinyin": "Wǒmen xūyào tiáozhěng míngtiān de jìhuà.",
+      "sentenceRu": "Нам нужно скорректировать завтрашний план.",
+      "id": "tiaozheng",
+      "quizExcludes": [
+        "zengjia"
+      ]
+    },
+    {
+      "hanzi": "错误",
+      "pinyin": "cuò wù",
+      "ru": "ошибка; неправильный",
+      "sentence": "请找出这句话中的___。",
+      "sentencePinyin": "Qǐng zhǎo chū zhè jù huà zhōng de cuòwù.",
+      "sentenceRu": "Найди ошибку в этом предложении.",
+      "id": "cuowu"
+    },
+    {
+      "hanzi": "并且",
+      "pinyin": "bìng qiě",
+      "ru": "и к тому же; причём",
+      "sentence": "他很认真，___做事很细心。",
+      "sentencePinyin": "Tā hěn rènzhēn, bìngqiě zuò shì hěn xìxīn.",
+      "sentenceRu": "Он серьёзен и к тому же очень внимателен.",
+      "id": "bingqie"
+    },
+    {
+      "hanzi": "例子",
+      "pinyin": "lì zi",
+      "ru": "пример",
+      "sentence": "老师给我们举了一个___。",
+      "sentencePinyin": "Lǎoshī gěi wǒmen jǔ le yí ge lìzi.",
+      "sentenceRu": "Преподаватель привёл нам пример.",
+      "id": "lizi"
+    },
+    {
+      "hanzi": "关键",
+      "pinyin": "guān jiàn",
+      "ru": "ключевой; решающий момент",
+      "sentence": "解决问题的___是找到原因。",
+      "sentencePinyin": "Jiějué wèntí de guānjiàn shì zhǎodào yuányīn.",
+      "sentenceRu": "Главное в решении проблемы — найти причину.",
+      "id": "guanjian"
+    },
+    {
+      "hanzi": "详细",
+      "pinyin": "xiáng xì",
+      "ru": "подробный; детальный",
+      "sentence": "请___介绍一下你的计划。",
+      "sentencePinyin": "Qǐng xiángxì jièshào yíxià nǐ de jìhuà.",
+      "sentenceRu": "Расскажи, пожалуйста, подробно о своём плане.",
+      "id": "xiangxi"
+    },
+    {
+      "hanzi": "时间表",
+      "pinyin": "shí jiān biǎo",
+      "ru": "расписание; график",
+      "sentence": "我们按照___完成任务。",
+      "sentencePinyin": "Wǒmen ànzhào shíjiānbiǎo wánchéng rènwu.",
+      "sentenceRu": "Мы выполняем задания по расписанию.",
+      "id": "shijianbiao"
+    },
+    {
+      "hanzi": "把握",
+      "pinyin": "bǎ wò",
+      "ru": "уверенность; быть уверенным",
+      "sentence": "这次考试你有___吗？",
+      "sentencePinyin": "Zhè cì kǎoshì nǐ yǒu bǎwò ma?",
+      "sentenceRu": "Ты уверен, что справишься с экзаменом?",
+      "id": "bawo"
+    },
+    {
+      "hanzi": "相反",
+      "pinyin": "xiāng fǎn",
+      "ru": "напротив; противоположный",
+      "sentence": "我的想法正好___。",
+      "sentencePinyin": "Wǒ de xiǎngfǎ zhènghǎo xiāngfǎn.",
+      "sentenceRu": "У меня прямо противоположное мнение.",
+      "id": "xiangfan"
+    },
+    {
+      "hanzi": "部分",
+      "pinyin": "bù fen",
+      "ru": "часть; раздел",
+      "sentence": "这只是计划的一___。",
+      "sentencePinyin": "Zhè zhǐ shì jìhuà de yí bùfen.",
+      "sentenceRu": "Это только часть плана.",
+      "id": "bufen"
+    },
+    {
+      "hanzi": "轻松",
+      "pinyin": "qīng sōng",
+      "ru": "лёгкий; непринуждённый",
+      "sentence": "周末我想___地休息一下。",
+      "sentencePinyin": "Zhōumò wǒ xiǎng qīngsōng de xiūxi yíxià.",
+      "sentenceRu": "На выходных я хочу спокойно отдохнуть.",
+      "id": "qingsong"
+    },
+    {
+      "hanzi": "标准",
+      "pinyin": "biāo zhǔn",
+      "ru": "стандарт; критерий",
+      "sentence": "这个答案符合老师的___。",
+      "sentencePinyin": "Zhège dá'àn fúhé lǎoshī de biāozhǔn.",
+      "sentenceRu": "Этот ответ соответствует критериям преподавателя.",
+      "id": "biaozhun"
+    },
+    {
+      "hanzi": "严格",
+      "pinyin": "yán gé",
+      "ru": "строгий; строго",
+      "sentence": "老师对我们要求很___。",
+      "sentencePinyin": "Lǎoshī duì wǒmen yāoqiú hěn yángé.",
+      "sentenceRu": "Преподаватель предъявляет к нам строгие требования.",
+      "id": "yange"
+    },
+    {
+      "hanzi": "取得",
+      "pinyin": "qǔ dé",
+      "ru": "получать; добиваться",
+      "sentence": "他努力学习，终于___了进步。",
+      "sentencePinyin": "Tā nǔlì xuéxí, zhōngyú qǔdé le jìnbù.",
+      "sentenceRu": "Он усердно учился и наконец добился прогресса.",
+      "id": "qude"
+    },
+    {
+      "hanzi": "说不定",
+      "pinyin": "shuō bu dìng",
+      "ru": "возможно; кто знает",
+      "sentence": "明天___会下雪。",
+      "sentencePinyin": "Míngtiān shuōbudìng huì xià xuě.",
+      "sentenceRu": "Возможно, завтра пойдёт снег.",
+      "id": "shuobuding",
+      "quizExcludes": [
+        "yexu"
+      ]
+    },
+    {
+      "hanzi": "灵活",
+      "pinyin": "líng huó",
+      "ru": "гибкий; подвижный",
+      "sentence": "遇到变化要___处理。",
+      "sentencePinyin": "Yùdào biànhuà yào línghuó chǔlǐ.",
+      "sentenceRu": "При изменениях нужно действовать гибко.",
+      "id": "linghuo"
+    },
+    {
+      "hanzi": "一切",
+      "pinyin": "yí qiè",
+      "ru": "всё; все обстоятельства",
+      "sentence": "希望___顺利。",
+      "sentencePinyin": "Xīwàng yíqiè shùnlì.",
+      "sentenceRu": "Надеюсь, всё пройдёт гладко.",
+      "id": "yiqie"
+    },
+    {
+      "hanzi": "却",
+      "pinyin": "què",
+      "ru": "однако; но",
+      "sentence": "他准备了很久，___还是紧张。",
+      "sentencePinyin": "Tā zhǔnbèi le hěn jiǔ, què háishi jǐnzhāng.",
+      "sentenceRu": "Он долго готовился, но всё равно волнуется.",
+      "id": "que"
+    },
+    {
+      "hanzi": "不得不",
+      "pinyin": "bù dé bù",
+      "ru": "быть вынужденным; приходиться",
+      "sentence": "时间不够，我们___推迟会议。",
+      "sentencePinyin": "Shíjiān bú gòu, wǒmen bùdébù tuīchí huìyì.",
+      "sentenceRu": "Времени не хватает, нам приходится перенести встречу.",
+      "id": "budebu"
+    },
+    {
+      "hanzi": "约",
+      "pinyin": "yuē",
+      "ru": "договариваться о встрече; приблизительно",
+      "sentence": "我和朋友___好了周日见面。",
+      "sentencePinyin": "Wǒ hé péngyou yuē hǎo le zhōurì jiànmiàn.",
+      "sentenceRu": "Мы договорились встретиться в воскресенье.",
+      "id": "yue"
+    },
+    {
+      "hanzi": "不便",
+      "pinyin": "bú biàn",
+      "ru": "неудобно; быть неподходящим",
+      "sentence": "今天我___出门。",
+      "sentencePinyin": "Jīntiān wǒ búbiàn chūmén.",
+      "sentenceRu": "Сегодня мне неудобно выходить из дома.",
+      "id": "bubian"
+    },
+    {
+      "hanzi": "失望",
+      "pinyin": "shī wàng",
+      "ru": "разочарованный; разочаровываться",
+      "sentence": "听到活动取消，他很___。",
+      "sentencePinyin": "Tīngdào huódòng qǔxiāo, tā hěn shīwàng.",
+      "sentenceRu": "Узнав об отмене мероприятия, он расстроился.",
+      "id": "shiwang"
+    },
+    {
+      "hanzi": "也许",
+      "pinyin": "yě xǔ",
+      "ru": "возможно; может быть",
+      "sentence": "她___明天就回来。",
+      "sentencePinyin": "Tā yěxǔ míngtiān jiù huílái.",
+      "sentenceRu": "Возможно, она вернётся завтра.",
+      "id": "yexu",
+      "quizExcludes": [
+        "shuobuding"
+      ]
+    },
+    {
+      "hanzi": "逛",
+      "pinyin": "guàng",
+      "ru": "гулять; ходить по магазинам",
+      "sentence": "晚饭后我们去公园___一逛。",
+      "sentencePinyin": "Wǎnfàn hòu wǒmen qù gōngyuán guàng yi guàng.",
+      "sentenceRu": "После ужина пойдём прогуляемся в парк.",
+      "id": "guang"
+    },
+    {
+      "hanzi": "有趣",
+      "pinyin": "yǒu qù",
+      "ru": "интересный; забавный",
+      "sentence": "这部电影非常___。",
+      "sentencePinyin": "Zhè bù diànyǐng fēicháng yǒuqù.",
+      "sentenceRu": "Этот фильм очень интересный.",
+      "id": "youqu"
+    },
+    {
+      "hanzi": "观看",
+      "pinyin": "guān kàn",
+      "ru": "смотреть; наблюдать",
+      "sentence": "我们在家___了一部电影。",
+      "sentencePinyin": "Wǒmen zài jiā guānkàn le yí bù diànyǐng.",
+      "sentenceRu": "Мы посмотрели фильм дома.",
+      "id": "guankan"
+    },
+    {
+      "hanzi": "部",
+      "pinyin": "bù",
+      "ru": "счётное слово для фильмов и книг",
+      "sentence": "我昨天看了一___电影。",
+      "sentencePinyin": "Wǒ zuótiān kàn le yí bù diànyǐng.",
+      "sentenceRu": "Вчера я посмотрел один фильм.",
+      "id": "bu"
+    },
+    {
+      "hanzi": "无法",
+      "pinyin": "wú fǎ",
+      "ru": "не мочь; нет возможности",
+      "sentence": "今天太忙，我___参加活动。",
+      "sentencePinyin": "Jīntiān tài máng, wǒ wúfǎ cānjiā huódòng.",
+      "sentenceRu": "Сегодня я слишком занят и не могу участвовать в мероприятии.",
+      "id": "wufa"
+    },
+    {
+      "hanzi": "接受",
+      "pinyin": "jiē shòu",
+      "ru": "принимать; соглашаться",
+      "sentence": "我愿意___你的建议。",
+      "sentencePinyin": "Wǒ yuànyì jiēshòu nǐ de jiànyì.",
+      "sentenceRu": "Я готов принять твоё предложение.",
+      "id": "jieshou"
+    }
+  ]
+}

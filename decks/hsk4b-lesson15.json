@@ -1,0 +1,358 @@
+{
+  "title": "HSK-4B · Урок 15",
+  "subtitle": "我去应聘了 · Я пошёл устраиваться на работу",
+  "source": "《新HSK教程 4 下》, урок 15, 生词 №1–37, PDF страницы 55, 58, 59, 61 (печатные 51, 54, 55, 57)",
+  "words": [
+    {
+      "hanzi": "期中",
+      "pinyin": "qī zhōng",
+      "ru": "середина семестра; промежуточный",
+      "sentence": "我们下周有___考试。",
+      "sentencePinyin": "Wǒmen xià zhōu yǒu qīzhōng kǎoshì.",
+      "sentenceRu": "На следующей неделе у нас промежуточный экзамен.",
+      "id": "qizhong"
+    },
+    {
+      "hanzi": "医药",
+      "pinyin": "yī yào",
+      "ru": "медицина и лекарства",
+      "sentence": "她在一家___公司实习。",
+      "sentencePinyin": "Tā zài yì jiā yīyào gōngsī shíxí.",
+      "sentenceRu": "Она стажируется в фармацевтической компании.",
+      "id": "yiyao"
+    },
+    {
+      "hanzi": "应聘",
+      "pinyin": "yìng pìn",
+      "ru": "подавать заявку на работу",
+      "sentence": "他去这家公司___工程师。",
+      "sentencePinyin": "Tā qù zhè jiā gōngsī yìngpìn gōngchéngshī.",
+      "sentenceRu": "Он устраивается инженером в эту компанию.",
+      "id": "yingpin"
+    },
+    {
+      "hanzi": "招聘",
+      "pinyin": "zhāo pìn",
+      "ru": "набирать сотрудников",
+      "sentence": "那家公司正在___实习生。",
+      "sentencePinyin": "Nà jiā gōngsī zhèngzài zhāopìn shíxíshēng.",
+      "sentenceRu": "Эта компания сейчас набирает стажёров.",
+      "id": "zhaopin"
+    },
+    {
+      "hanzi": "实习",
+      "pinyin": "shí xí",
+      "ru": "проходить стажировку",
+      "sentence": "大学生毕业前要去公司___。",
+      "sentencePinyin": "Dàxuéshēng bìyè qián yào qù gōngsī shíxí.",
+      "sentenceRu": "Перед выпуском студентам нужно пройти стажировку в компании.",
+      "id": "shixi"
+    },
+    {
+      "hanzi": "考虑",
+      "pinyin": "kǎo lǜ",
+      "ru": "обдумывать; учитывать",
+      "sentence": "我需要___一下你的建议。",
+      "sentencePinyin": "Wǒ xūyào kǎolǜ yíxià nǐ de jiànyì.",
+      "sentenceRu": "Мне нужно обдумать твоё предложение.",
+      "id": "kaolu",
+      "quizExcludes": [
+        "kending"
+      ]
+    },
+    {
+      "hanzi": "单位",
+      "pinyin": "dān wèi",
+      "ru": "организация; место работы",
+      "sentence": "这家___正在招聘毕业生。",
+      "sentencePinyin": "Zhè jiā dānwèi zhèngzài zhāopìn bìyèshēng.",
+      "sentenceRu": "Эта организация набирает выпускников.",
+      "id": "danwei"
+    },
+    {
+      "hanzi": "毕业生",
+      "pinyin": "bì yè shēng",
+      "ru": "выпускник",
+      "sentence": "今年有很多___参加招聘会。",
+      "sentencePinyin": "Jīnnián yǒu hěn duō bìyèshēng cānjiā zhāopìnhuì.",
+      "sentenceRu": "В этом году много выпускников участвуют в ярмарке вакансий.",
+      "id": "biyesheng"
+    },
+    {
+      "hanzi": "经历",
+      "pinyin": "jīng lì",
+      "ru": "пережить; опыт",
+      "sentence": "这次___让我学到了很多。",
+      "sentencePinyin": "Zhè cì jīnglì ràng wǒ xué dào le hěn duō.",
+      "sentenceRu": "Этот опыт многому меня научил.",
+      "id": "jingli",
+      "quizExcludes": [
+        "xiaoxi"
+      ]
+    },
+    {
+      "hanzi": "消息",
+      "pinyin": "xiāo xi",
+      "ru": "новость; сообщение",
+      "sentence": "我刚收到一个好___。",
+      "sentencePinyin": "Wǒ gāng shōudào yí ge hǎo xiāoxi.",
+      "sentenceRu": "Я только что получил хорошую новость.",
+      "id": "xiaoxi",
+      "quizExcludes": [
+        "jingli"
+      ]
+    },
+    {
+      "hanzi": "报名",
+      "pinyin": "bào míng",
+      "ru": "записываться; регистрироваться",
+      "sentence": "我已经___参加考试了。",
+      "sentencePinyin": "Wǒ yǐjīng bàomíng cānjiā kǎoshì le.",
+      "sentenceRu": "Я уже зарегистрировался на экзамен.",
+      "id": "baoming"
+    },
+    {
+      "hanzi": "填写",
+      "pinyin": "tián xiě",
+      "ru": "заполнять бланк",
+      "sentence": "请先___这张申请表。",
+      "sentencePinyin": "Qǐng xiān tiánxiě zhè zhāng shēnqǐngbiǎo.",
+      "sentenceRu": "Сначала заполните эту анкету.",
+      "id": "tianxie"
+    },
+    {
+      "hanzi": "笔试",
+      "pinyin": "bǐ shì",
+      "ru": "письменный экзамен",
+      "sentence": "通过___以后才能参加面试。",
+      "sentencePinyin": "Tōngguò bǐshì yǐhòu cái néng cānjiā miànshì.",
+      "sentenceRu": "Только после письменного экзамена можно пройти собеседование.",
+      "id": "bishi",
+      "quizExcludes": [
+        "mianshi"
+      ]
+    },
+    {
+      "hanzi": "面试",
+      "pinyin": "miàn shì",
+      "ru": "собеседование",
+      "sentence": "明天上午我要去___。",
+      "sentencePinyin": "Míngtiān shàngwǔ wǒ yào qù miànshì.",
+      "sentenceRu": "Завтра утром я иду на собеседование.",
+      "id": "mianshi",
+      "quizExcludes": [
+        "bishi"
+      ]
+    },
+    {
+      "hanzi": "答",
+      "pinyin": "dá",
+      "ru": "отвечать",
+      "sentence": "请认真___每一道题。",
+      "sentencePinyin": "Qǐng rènzhēn dá měi yí dào tí.",
+      "sentenceRu": "Отвечай внимательно на каждый вопрос.",
+      "id": "da"
+    },
+    {
+      "hanzi": "由",
+      "pinyin": "yóu",
+      "ru": "кем-либо; посредством; предлог исполнителя",
+      "sentence": "这次会议___经理主持。",
+      "sentencePinyin": "Zhè cì huìyì yóu jīnglǐ zhǔchí.",
+      "sentenceRu": "Это собрание проводит менеджер.",
+      "id": "you"
+    },
+    {
+      "hanzi": "部门",
+      "pinyin": "bù mén",
+      "ru": "отдел; подразделение",
+      "sentence": "我们___有十名员工。",
+      "sentencePinyin": "Wǒmen bùmén yǒu shí míng yuángōng.",
+      "sentenceRu": "В нашем отделе десять сотрудников.",
+      "id": "bumen"
+    },
+    {
+      "hanzi": "负责人",
+      "pinyin": "fù zé rén",
+      "ru": "ответственное лицо; руководитель",
+      "sentence": "请联系这个项目的___。",
+      "sentencePinyin": "Qǐng liánxì zhège xiàngmù de fùzérén.",
+      "sentenceRu": "Свяжитесь с ответственным за этот проект.",
+      "id": "fuzeren"
+    },
+    {
+      "hanzi": "不论",
+      "pinyin": "bú lùn",
+      "ru": "независимо от; независимо от того",
+      "sentence": "___结果如何，我都会继续努力。",
+      "sentencePinyin": "Búlùn jiéguǒ rúhé, wǒ dōu huì jìxù nǔlì.",
+      "sentenceRu": "Каким бы ни был результат, я продолжу стараться.",
+      "id": "bulun"
+    },
+    {
+      "hanzi": "肯定",
+      "pinyin": "kěn dìng",
+      "ru": "несомненно; уверенный",
+      "sentence": "你准备得这么好，___能通过。",
+      "sentencePinyin": "Nǐ zhǔnbèi de zhème hǎo, kěndìng néng tōngguò.",
+      "sentenceRu": "Ты так хорошо подготовился, наверняка сдашь.",
+      "id": "kending",
+      "quizExcludes": [
+        "kaolu"
+      ]
+    },
+    {
+      "hanzi": "短信",
+      "pinyin": "duǎn xìn",
+      "ru": "SMS; текстовое сообщение",
+      "sentence": "公司给我发来一条___。",
+      "sentencePinyin": "Gōngsī gěi wǒ fā lái yì tiáo duǎnxìn.",
+      "sentenceRu": "Компания прислала мне SMS.",
+      "id": "duanxin"
+    },
+    {
+      "hanzi": "激动",
+      "pinyin": "jī dòng",
+      "ru": "взволнованный; волноваться от радости",
+      "sentence": "听到好消息，我非常___。",
+      "sentencePinyin": "Tīngdào hǎo xiāoxi, wǒ fēicháng jīdòng.",
+      "sentenceRu": "Услышав хорошую новость, я очень обрадовался.",
+      "id": "jidong"
+    },
+    {
+      "hanzi": "扔",
+      "pinyin": "rēng",
+      "ru": "бросать; швырять",
+      "sentence": "不要把手机___在床上。",
+      "sentencePinyin": "Bú yào bǎ shǒujī rēng zài chuáng shang.",
+      "sentenceRu": "Не бросай телефон на кровать.",
+      "id": "reng"
+    },
+    {
+      "hanzi": "理发",
+      "pinyin": "lǐ fà",
+      "ru": "стричься; делать причёску",
+      "sentence": "明天我想去___。",
+      "sentencePinyin": "Míngtiān wǒ xiǎng qù lǐfà.",
+      "sentenceRu": "Завтра хочу подстричься.",
+      "id": "lifa"
+    },
+    {
+      "hanzi": "镜子",
+      "pinyin": "jìng zi",
+      "ru": "зеркало",
+      "sentence": "她站在___前整理衣服。",
+      "sentencePinyin": "Tā zhàn zài jìngzi qián zhěnglǐ yīfu.",
+      "sentenceRu": "Она поправляет одежду перед зеркалом.",
+      "id": "jingzi"
+    },
+    {
+      "hanzi": "自我",
+      "pinyin": "zì wǒ",
+      "ru": "сам; собственная личность",
+      "sentence": "面试前我练习了___介绍。",
+      "sentencePinyin": "Miànshì qián wǒ liànxí le zìwǒ jièshào.",
+      "sentenceRu": "Перед собеседованием я тренировался представляться.",
+      "id": "ziwo"
+    },
+    {
+      "hanzi": "能够",
+      "pinyin": "néng gòu",
+      "ru": "мочь; быть в состоянии",
+      "sentence": "我希望___按时完成任务。",
+      "sentencePinyin": "Wǒ xīwàng nénggòu ànshí wánchéng rènwu.",
+      "sentenceRu": "Я надеюсь суметь выполнить задание вовремя.",
+      "id": "nenggou"
+    },
+    {
+      "hanzi": "运用",
+      "pinyin": "yùn yòng",
+      "ru": "применять; использовать на практике",
+      "sentence": "我们要___学过的知识。",
+      "sentencePinyin": "Wǒmen yào yùnyòng xué guo de zhīshi.",
+      "sentenceRu": "Нужно применять полученные знания.",
+      "id": "yunyong"
+    },
+    {
+      "hanzi": "工厂",
+      "pinyin": "gōng chǎng",
+      "ru": "фабрика; завод",
+      "sentence": "他在一家汽车___实习。",
+      "sentencePinyin": "Tā zài yì jiā qìchē gōngchǎng shíxí.",
+      "sentenceRu": "Он стажируется на автомобильном заводе.",
+      "id": "gongchang"
+    },
+    {
+      "hanzi": "规定",
+      "pinyin": "guī dìng",
+      "ru": "правило; предписывать",
+      "sentence": "所有人都要遵守公司___。",
+      "sentencePinyin": "Suǒyǒu rén dōu yào zūnshǒu gōngsī guīdìng.",
+      "sentenceRu": "Все должны соблюдать правила компании.",
+      "id": "guiding"
+    },
+    {
+      "hanzi": "课堂",
+      "pinyin": "kè táng",
+      "ru": "урок; аудитория",
+      "sentence": "老师在___上讲了很多例子。",
+      "sentencePinyin": "Lǎoshī zài kètáng shang jiǎng le hěn duō lìzi.",
+      "sentenceRu": "На занятии преподаватель привёл много примеров.",
+      "id": "ketang"
+    },
+    {
+      "hanzi": "完全",
+      "pinyin": "wán quán",
+      "ru": "полностью; совершенно",
+      "sentence": "我还没有___理解这句话。",
+      "sentencePinyin": "Wǒ hái méiyǒu wánquán lǐjiě zhè jù huà.",
+      "sentenceRu": "Я ещё не полностью понял эту фразу.",
+      "id": "wanquan"
+    },
+    {
+      "hanzi": "例如",
+      "pinyin": "lì rú",
+      "ru": "например",
+      "sentence": "很多工作需要经验，___销售。",
+      "sentencePinyin": "Hěn duō gōngzuò xūyào jīngyàn, lìrú xiāoshòu.",
+      "sentenceRu": "Во многих профессиях нужен опыт, например в продажах.",
+      "id": "liru"
+    },
+    {
+      "hanzi": "不如",
+      "pinyin": "bù rú",
+      "ru": "уступать; не так хорошо, как",
+      "sentence": "我的口语___他的好。",
+      "sentencePinyin": "Wǒ de kǒuyǔ bùrú tā de hǎo.",
+      "sentenceRu": "Моя разговорная речь хуже его.",
+      "id": "buru"
+    },
+    {
+      "hanzi": "细节",
+      "pinyin": "xì jié",
+      "ru": "подробность; деталь",
+      "sentence": "请注意文章中的___。",
+      "sentencePinyin": "Qǐng zhùyì wénzhāng zhōng de xìjié.",
+      "sentenceRu": "Обращайте внимание на детали в тексте.",
+      "id": "xijie"
+    },
+    {
+      "hanzi": "答案",
+      "pinyin": "dá àn",
+      "ru": "ответ; решение",
+      "sentence": "这道题的___是什么？",
+      "sentencePinyin": "Zhè dào tí de dá'àn shì shénme?",
+      "sentenceRu": "Какой ответ на этот вопрос?",
+      "id": "daan"
+    },
+    {
+      "hanzi": "职业",
+      "pinyin": "zhí yè",
+      "ru": "профессия; род занятий",
+      "sentence": "她想选择适合自己的___。",
+      "sentencePinyin": "Tā xiǎng xuǎnzé shìhé zìjǐ de zhíyè.",
+      "sentenceRu": "Она хочет выбрать подходящую профессию.",
+      "id": "zhiye"
+    }
+  ]
+}
