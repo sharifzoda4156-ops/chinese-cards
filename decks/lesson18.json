@@ -1,0 +1,260 @@
+{
+  "title": "HSK-3 · Урок 18",
+  "subtitle": "我学会了包饺子 · Я научился лепить пельмени цзяоцзы",
+  "source": "新HSK教程 3, урок 18, 生词 № 1–28, страницы 164, 166, 168, 170; собственное название 春节 не включено",
+  "words": [
+    {
+      "id": "zenyang",
+      "hanzi": "怎样",
+      "pinyin": "zěn yàng",
+      "ru": "как; каким образом; какой",
+      "sentence": "你们春节是___过的？",
+      "sentencePinyin": "Nǐmen Chūnjié shì zěnyàng guò de?",
+      "sentenceRu": "Как вы отмечаете китайский Новый год?"
+    },
+    {
+      "id": "guojie",
+      "hanzi": "过节",
+      "pinyin": "guò jié",
+      "ru": "отмечать праздник",
+      "sentence": "全家人聚在一起___，真热闹。",
+      "sentencePinyin": "Quán jiā rén jù zài yìqǐ guòjié, zhēn rènào.",
+      "sentenceRu": "Вся семья собралась отмечать праздник."
+    },
+    {
+      "id": "jie",
+      "hanzi": "节",
+      "pinyin": "jié",
+      "ru": "праздник; праздничная дата",
+      "sentence": "这个___我们打算回家看父母。",
+      "sentencePinyin": "Zhège jié wǒmen dǎsuàn huí jiā kàn fùmǔ.",
+      "sentenceRu": "На этот праздник мы собираемся навестить родителей."
+    },
+    {
+      "id": "jieri",
+      "hanzi": "节日",
+      "pinyin": "jié rì",
+      "ru": "праздник; праздничный день",
+      "sentence": "今天是一个重要的传统___。",
+      "sentencePinyin": "Jīntiān shì yí ge zhòngyào de chuántǒng jiérì.",
+      "sentenceRu": "Сегодня важный традиционный праздник."
+    },
+    {
+      "id": "lianhuan",
+      "hanzi": "联欢",
+      "pinyin": "lián huān",
+      "ru": "совместное празднование; устраивать вечер",
+      "sentence": "学校晚上举行___活动，大家一起唱歌。",
+      "sentencePinyin": "Xuéxiào wǎnshang jǔxíng liánhuān huódòng, dàjiā yìqǐ chànggē.",
+      "sentenceRu": "В школе вечером праздник, все вместе поют."
+    },
+    {
+      "id": "dagai",
+      "hanzi": "大概",
+      "pinyin": "dà gài",
+      "ru": "примерно; вероятно",
+      "sentence": "从这里到车站___需要二十分钟。",
+      "sentencePinyin": "Cóng zhèlǐ dào chēzhàn dàgài xūyào èrshí fēnzhōng.",
+      "sentenceRu": "Отсюда до вокзала примерно двадцать минут."
+    },
+    {
+      "id": "ayi",
+      "hanzi": "阿姨",
+      "pinyin": "ā yí",
+      "ru": "тётя; вежливое обращение к взрослой женщине",
+      "sentence": "邻居张___送给我一些水果。",
+      "sentencePinyin": "Línjū Zhāng āyí sòng gěi wǒ yìxiē shuǐguǒ.",
+      "sentenceRu": "Соседка тётя Чжан принесла мне фрукты."
+    },
+    {
+      "id": "shushu",
+      "hanzi": "叔叔",
+      "pinyin": "shū shu",
+      "ru": "дядя; вежливое обращение к мужчине",
+      "sentence": "爸爸的朋友李___今天来我家做客。",
+      "sentencePinyin": "Bàba de péngyou Lǐ shūshu jīntiān lái wǒ jiā zuòkè.",
+      "sentenceRu": "Сегодня к нам придёт дядя Ли, папин друг."
+    },
+    {
+      "id": "shou",
+      "hanzi": "收",
+      "pinyin": "shōu",
+      "ru": "получать; принимать; собирать",
+      "sentence": "请___下这份生日礼物。",
+      "sentencePinyin": "Qǐng shōu xià zhè fèn shēngrì lǐwù.",
+      "sentenceRu": "Прими, пожалуйста, этот подарок на день рождения."
+    },
+    {
+      "id": "zong",
+      "hanzi": "总",
+      "pinyin": "zǒng",
+      "ru": "всегда; всё время",
+      "sentence": "妈妈___是提醒我早点儿睡觉。",
+      "sentencePinyin": "Māma zǒng shì tíxǐng wǒ zǎo diǎnr shuìjiào.",
+      "sentenceRu": "Мама всё время напоминает мне ложиться пораньше.",
+      "quizExcludes": []
+    },
+    {
+      "id": "qi",
+      "hanzi": "起",
+      "pinyin": "qǐ",
+      "ru": "частица после глагола: упомянуть, начать говорить",
+      "sentence": "说___小时候的事情，爷爷笑了。",
+      "sentencePinyin": "Shuō qǐ xiǎoshíhou de shìqing, yéye xiào le.",
+      "sentenceRu": "Когда заговорили о детстве, дедушка улыбнулся."
+    },
+    {
+      "id": "jianmian",
+      "hanzi": "见面",
+      "pinyin": "jiàn miàn",
+      "ru": "встречаться лично; видеться",
+      "sentence": "我们三年没有___了，今天终于又见到了。",
+      "sentencePinyin": "Wǒmen sān nián méiyǒu jiànmiàn le, jīntiān zhōngyú yòu jiàndào le.",
+      "sentenceRu": "Мы не виделись три года и наконец встретились."
+    },
+    {
+      "id": "kuangquanshui",
+      "hanzi": "矿泉水",
+      "pinyin": "kuàng quán shuǐ",
+      "ru": "минеральная вода",
+      "sentence": "我不喝可乐，只想要一瓶___。",
+      "sentencePinyin": "Wǒ bù hē kělè, zhǐ xiǎng yào yì píng kuàngquánshuǐ.",
+      "sentenceRu": "Я не пью колу, хочу бутылку минеральной воды."
+    },
+    {
+      "id": "ganggang",
+      "hanzi": "刚刚",
+      "pinyin": "gāng gāng",
+      "ru": "только что",
+      "sentence": "我___到家，还没来得及换衣服。",
+      "sentencePinyin": "Wǒ gānggāng dào jiā, hái méi lái de jí huàn yīfu.",
+      "sentenceRu": "Я только что пришёл домой и ещё не переоделся."
+    },
+    {
+      "id": "chufa",
+      "hanzi": "出发",
+      "pinyin": "chū fā",
+      "ru": "отправляться; выезжать",
+      "sentence": "明天早上六点，我们从酒店___。",
+      "sentencePinyin": "Míngtiān zǎoshang liù diǎn, wǒmen cóng jiǔdiàn chūfā.",
+      "sentenceRu": "Завтра в шесть утра мы выезжаем из отеля."
+    },
+    {
+      "id": "bujiu",
+      "hanzi": "不久",
+      "pinyin": "bù jiǔ",
+      "ru": "вскоре; скоро",
+      "sentence": "他刚搬到这里，___就认识了很多朋友。",
+      "sentencePinyin": "Tā gāng bān dào zhèlǐ, bùjiǔ jiù rènshi le hěn duō péngyou.",
+      "sentenceRu": "Вскоре после переезда он обзавёлся множеством друзей."
+    },
+    {
+      "id": "fasheng",
+      "hanzi": "发生",
+      "pinyin": "fā shēng",
+      "ru": "происходить; случаться",
+      "sentence": "昨天晚上这里___了一件奇怪的事。",
+      "sentencePinyin": "Zuótiān wǎnshang zhèlǐ fāshēng le yí jiàn qíguài de shì.",
+      "sentenceRu": "Вчера вечером здесь случилось кое-что странное."
+    },
+    {
+      "id": "gang",
+      "hanzi": "刚",
+      "pinyin": "gāng",
+      "ru": "только что; недавно",
+      "sentence": "他___走，你现在去还能追上他。",
+      "sentencePinyin": "Tā gāng zǒu, nǐ xiànzài qù hái néng zhuī shàng tā.",
+      "sentenceRu": "Он только что вышел, ещё можно его догнать."
+    },
+    {
+      "id": "zhiyao",
+      "hanzi": "只要",
+      "pinyin": "zhǐ yào",
+      "ru": "если только; при условии что",
+      "sentence": "___每天坚持练习，就能学好汉语。",
+      "sentencePinyin": "Zhǐyào měi tiān jiānchí liànxí, jiù néng xué hǎo Hànyǔ.",
+      "sentenceRu": "Если заниматься каждый день, можно хорошо выучить китайский."
+    },
+    {
+      "id": "xueqi",
+      "hanzi": "学期",
+      "pinyin": "xué qī",
+      "ru": "учебный семестр",
+      "sentence": "这个___我们要学八个新课文。",
+      "sentencePinyin": "Zhège xuéqī wǒmen yào xué bā ge xīn kèwén.",
+      "sentenceRu": "В этом семестре мы изучим восемь новых текстов."
+    },
+    {
+      "id": "biye",
+      "hanzi": "毕业",
+      "pinyin": "bì yè",
+      "ru": "окончить учебное заведение; выпускаться",
+      "sentence": "大学四年读完后，他明年就要___了。",
+      "sentencePinyin": "Dàxué sì nián dú wán hòu, tā míngnián jiù yào bìyè le.",
+      "sentenceRu": "После четырёх лет университета он выпускается в следующем году."
+    },
+    {
+      "id": "chusheng",
+      "hanzi": "出生",
+      "pinyin": "chū shēng",
+      "ru": "родиться",
+      "sentence": "我妹妹是在北京___的。",
+      "sentencePinyin": "Wǒ mèimei shì zài Běijīng chūshēng de.",
+      "sentenceRu": "Моя младшая сестра родилась в Пекине."
+    },
+    {
+      "id": "guoqu",
+      "hanzi": "过去",
+      "pinyin": "guò qù",
+      "ru": "прошлое; былые времена",
+      "sentence": "我们应该从___的错误中学习。",
+      "sentencePinyin": "Wǒmen yīnggāi cóng guòqù de cuòwù zhōng xuéxí.",
+      "sentenceRu": "Нам следует учиться на ошибках прошлого."
+    },
+    {
+      "id": "dongde",
+      "hanzi": "懂得",
+      "pinyin": "dǒng de",
+      "ru": "понимать; осознавать",
+      "sentence": "长大后，我才___父母有多辛苦。",
+      "sentencePinyin": "Zhǎng dà hòu, wǒ cái dǒngde fùmǔ yǒu duō xīnkǔ.",
+      "sentenceRu": "Лишь повзрослев, я понял, как тяжело родителям."
+    },
+    {
+      "id": "jianchi",
+      "hanzi": "坚持",
+      "pinyin": "jiān chí",
+      "ru": "упорно продолжать; не сдаваться",
+      "sentence": "学语言需要每天___练习。",
+      "sentencePinyin": "Xué yǔyán xūyào měi tiān jiānchí liànxí.",
+      "sentenceRu": "При изучении языка важно настойчиво заниматься ежедневно."
+    },
+    {
+      "id": "wancheng",
+      "hanzi": "完成",
+      "pinyin": "wán chéng",
+      "ru": "выполнить; завершить",
+      "sentence": "我们已经___了老师布置的作业。",
+      "sentencePinyin": "Wǒmen yǐjīng wánchéng le lǎoshī bùzhì de zuòyè.",
+      "sentenceRu": "Мы уже выполнили заданную учителем работу."
+    },
+    {
+      "id": "mubiao",
+      "hanzi": "目标",
+      "pinyin": "mù biāo",
+      "ru": "цель",
+      "sentence": "我的学习___是明年通过汉语考试。",
+      "sentencePinyin": "Wǒ de xuéxí mùbiāo shì míngnián tōngguò Hànyǔ kǎoshì.",
+      "sentenceRu": "Моя учебная цель — сдать экзамен по китайскому в следующем году."
+    },
+    {
+      "id": "fazhan",
+      "hanzi": "发展",
+      "pinyin": "fā zhǎn",
+      "ru": "развиваться; развитие",
+      "sentence": "近年来，这座城市___得很快。",
+      "sentencePinyin": "Jìnnián lái, zhè zuò chéngshì fāzhǎn de hěn kuài.",
+      "sentenceRu": "В последние годы этот город быстро развивается."
+    }
+  ]
+}
