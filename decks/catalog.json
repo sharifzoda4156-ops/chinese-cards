@@ -43,7 +43,9 @@
         {
           "id": "lesson6",
           "title": "Урок 6",
-          "available": false
+          "available": true,
+          "subtitle": "В скоростном поезде можно заказать доставку еды",
+          "wordCount": 26
         },
         {
           "id": "lesson7",
