@@ -1,0 +1,142 @@
+{
+  "title": "HSK-1 · Урок 2",
+  "subtitle": "我叫李文 · Меня зовут Ли Вэнь",
+  "source": "新HSK教程 1 (2026, ISBN 9787521367744), урок 2, 生词 (без 专有名词), печатные страницы 6, 7, 9",
+  "words": [
+    {
+      "id": "qingwen",
+      "hanzi": "请问",
+      "pinyin": "qǐng wèn",
+      "ru": "извините, можно спросить",
+      "sentence": "___，你叫什么名字？",
+      "sentencePinyin": "Qǐngwèn, nǐ jiào shénme míngzi?",
+      "sentenceRu": "Извините, как вас зовут?"
+    },
+    {
+      "id": "ni",
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "ru": "ты; тебя",
+      "sentence": "___是学生吗？",
+      "sentencePinyin": "Nǐ shì xuésheng ma?",
+      "sentenceRu": "Ты ученик?"
+    },
+    {
+      "id": "jiao",
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "ru": "называться; звать",
+      "sentence": "我___小明。",
+      "sentencePinyin": "Wǒ jiào Xiǎomíng.",
+      "sentenceRu": "Меня зовут Сяомин."
+    },
+    {
+      "id": "shenme",
+      "hanzi": "什么",
+      "pinyin": "shén me",
+      "ru": "что; какой",
+      "sentence": "你喝___茶？",
+      "sentencePinyin": "Nǐ hē shénme chá?",
+      "sentenceRu": "Какой чай ты пьёшь?"
+    },
+    {
+      "id": "mingzi",
+      "hanzi": "名字",
+      "pinyin": "míng zi",
+      "ru": "имя",
+      "sentence": "你的___是什么？",
+      "sentencePinyin": "Nǐ de míngzi shì shénme?",
+      "sentenceRu": "Как тебя зовут?"
+    },
+    {
+      "id": "wo",
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "ru": "я; меня",
+      "sentence": "___叫李文。",
+      "sentencePinyin": "Wǒ jiào Lǐ Wén.",
+      "sentenceRu": "Меня зовут Ли Вэнь."
+    },
+    {
+      "id": "bu",
+      "hanzi": "不",
+      "pinyin": "bù",
+      "ru": "не; нет (отрицание)",
+      "sentence": "我___是老师，我是学生。",
+      "sentencePinyin": "Wǒ bú shì lǎoshī, wǒ shì xuésheng.",
+      "sentenceRu": "Я не учитель, а ученик."
+    },
+    {
+      "id": "shi",
+      "hanzi": "是",
+      "pinyin": "shì",
+      "ru": "быть; являться",
+      "sentence": "他___我的朋友。",
+      "sentencePinyin": "Tā shì wǒ de péngyou.",
+      "sentenceRu": "Он мой друг."
+    },
+    {
+      "id": "duibuqi",
+      "hanzi": "对不起",
+      "pinyin": "duì bu qǐ",
+      "ru": "извините; простите",
+      "sentence": "___，我来晚了。",
+      "sentencePinyin": "Duìbuqǐ, wǒ lái wǎn le.",
+      "sentenceRu": "Извини, я опоздал."
+    },
+    {
+      "id": "meiguanxi",
+      "hanzi": "没关系",
+      "pinyin": "méi guān xi",
+      "ru": "ничего страшного; неважно",
+      "sentence": "甲：对不起！乙：___。",
+      "sentencePinyin": "Jiǎ: Duìbuqǐ! Yǐ: Méi guānxi.",
+      "sentenceRu": "— Прости! — Ничего страшного."
+    },
+    {
+      "id": "meishi",
+      "hanzi": "没事",
+      "pinyin": "méi shì",
+      "ru": "всё в порядке; ничего",
+      "sentence": "我没有受伤，___。",
+      "sentencePinyin": "Wǒ méiyǒu shòushāng, méi shì.",
+      "sentenceRu": "Я не пострадал, всё в порядке."
+    },
+    {
+      "id": "hen",
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "ru": "очень; довольно",
+      "sentence": "我___喜欢学汉语。",
+      "sentencePinyin": "Wǒ hěn xǐhuan xué Hànyǔ.",
+      "sentenceRu": "Мне очень нравится учить китайский."
+    },
+    {
+      "id": "gaoxing",
+      "hanzi": "高兴",
+      "pinyin": "gāo xìng",
+      "ru": "радостный; довольный",
+      "sentence": "认识你，我很___。",
+      "sentencePinyin": "Rènshi nǐ, wǒ hěn gāoxìng.",
+      "sentenceRu": "Очень рад знакомству."
+    },
+    {
+      "id": "renshi",
+      "hanzi": "认识",
+      "pinyin": "rèn shi",
+      "ru": "знать; познакомиться",
+      "sentence": "我___这位老师。",
+      "sentencePinyin": "Wǒ rènshi zhè wèi lǎoshī.",
+      "sentenceRu": "Я знаю этого преподавателя."
+    },
+    {
+      "id": "ye",
+      "hanzi": "也",
+      "pinyin": "yě",
+      "ru": "тоже; также",
+      "sentence": "他是学生，我___是学生。",
+      "sentencePinyin": "Tā shì xuésheng, wǒ yě shì xuésheng.",
+      "sentenceRu": "Он ученик, и я тоже ученик."
+    }
+  ]
+}

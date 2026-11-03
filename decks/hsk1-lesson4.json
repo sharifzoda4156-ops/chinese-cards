@@ -1,0 +1,202 @@
+{
+  "title": "HSK-1 · Урок 4",
+  "subtitle": "我有两个孩子 · У меня двое детей",
+  "source": "新HSK教程 1, урок 4, 生词 (без 专有名词), печатные страницы 19, 22, 25",
+  "words": [
+    {
+      "id": "you",
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "ru": "иметь; есть",
+      "sentence": "我___一本汉语书。",
+      "sentencePinyin": "Wǒ yǒu yì běn Hànyǔ shū.",
+      "sentenceRu": "У меня есть учебник китайского."
+    },
+    {
+      "id": "duoshao",
+      "hanzi": "多少",
+      "pinyin": "duō shao",
+      "ru": "сколько; какое количество",
+      "sentence": "你们班有___个学生？",
+      "sentencePinyin": "Nǐmen bān yǒu duōshao ge xuésheng?",
+      "sentenceRu": "Сколько учеников в вашем классе?",
+      "quizExcludes": [
+        "ji"
+      ]
+    },
+    {
+      "id": "ge",
+      "hanzi": "个",
+      "pinyin": "gè",
+      "ru": "универсальное счётное слово",
+      "sentence": "我有两___朋友。",
+      "sentencePinyin": "Wǒ yǒu liǎng ge péngyou.",
+      "sentenceRu": "У меня двое друзей."
+    },
+    {
+      "id": "gege",
+      "hanzi": "哥哥",
+      "pinyin": "gē ge",
+      "ru": "старший брат",
+      "sentence": "我___今年二十岁。",
+      "sentencePinyin": "Wǒ gēge jīnnián èrshí suì.",
+      "sentenceRu": "Моему старшему брату двадцать лет."
+    },
+    {
+      "id": "ne",
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "ru": "вопросительная частица («а ...?»)",
+      "sentence": "我是老师，你___？",
+      "sentencePinyin": "Wǒ shì lǎoshī, nǐ ne?",
+      "sentenceRu": "Я учитель, а ты?"
+    },
+    {
+      "id": "meiyou",
+      "hanzi": "没有",
+      "pinyin": "méi yǒu",
+      "ru": "не иметь; нет",
+      "sentence": "我___哥哥，只有姐姐。",
+      "sentencePinyin": "Wǒ méiyǒu gēge, zhǐ yǒu jiějie.",
+      "sentenceRu": "У меня нет старшего брата, только сестра."
+    },
+    {
+      "id": "jia",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "ru": "семья; дом",
+      "sentence": "我___有四口人。",
+      "sentencePinyin": "Wǒ jiā yǒu sì kǒu rén.",
+      "sentenceRu": "В нашей семье четыре человека."
+    },
+    {
+      "id": "ji",
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "ru": "сколько (обычно небольшое количество)",
+      "sentence": "你有___本书？",
+      "sentencePinyin": "Nǐ yǒu jǐ běn shū?",
+      "sentenceRu": "Сколько у тебя книг?",
+      "quizExcludes": [
+        "duoshao"
+      ]
+    },
+    {
+      "id": "kou",
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "ru": "счётное слово для членов семьи",
+      "sentence": "我家有五___人。",
+      "sentencePinyin": "Wǒ jiā yǒu wǔ kǒu rén.",
+      "sentenceRu": "В моей семье пять человек."
+    },
+    {
+      "id": "baba",
+      "hanzi": "爸爸",
+      "pinyin": "bà ba",
+      "ru": "папа; отец",
+      "sentence": "我___会做饭。",
+      "sentencePinyin": "Wǒ bàba huì zuò fàn.",
+      "sentenceRu": "Мой папа умеет готовить."
+    },
+    {
+      "id": "mama",
+      "hanzi": "妈妈",
+      "pinyin": "mā ma",
+      "ru": "мама; мать",
+      "sentence": "___今天在家休息。",
+      "sentencePinyin": "Māma jīntiān zài jiā xiūxi.",
+      "sentenceRu": "Мама сегодня отдыхает дома."
+    },
+    {
+      "id": "meimei",
+      "hanzi": "妹妹",
+      "pinyin": "mèi mei",
+      "ru": "младшая сестра",
+      "sentence": "我___今年六岁。",
+      "sentencePinyin": "Wǒ mèimei jīnnián liù suì.",
+      "sentenceRu": "Моей младшей сестре шесть лет."
+    },
+    {
+      "id": "he",
+      "hanzi": "和",
+      "pinyin": "hé",
+      "ru": "и; с",
+      "sentence": "爸爸___妈妈都在家。",
+      "sentencePinyin": "Bàba hé māma dōu zài jiā.",
+      "sentenceRu": "Папа и мама оба дома."
+    },
+    {
+      "id": "erzi",
+      "hanzi": "儿子",
+      "pinyin": "ér zi",
+      "ru": "сын",
+      "sentence": "他的___上小学了。",
+      "sentencePinyin": "Tā de érzi shàng xiǎoxué le.",
+      "sentenceRu": "Его сын уже ходит в начальную школу."
+    },
+    {
+      "id": "haizi",
+      "hanzi": "孩子",
+      "pinyin": "hái zi",
+      "ru": "ребёнок; дети",
+      "sentence": "这个___只有三岁。",
+      "sentencePinyin": "Zhège háizi zhǐ yǒu sān suì.",
+      "sentenceRu": "Этому ребёнку всего три года."
+    },
+    {
+      "id": "nuer",
+      "hanzi": "女儿",
+      "pinyin": "nǚ ér",
+      "ru": "дочь",
+      "sentence": "我的___很喜欢画画。",
+      "sentencePinyin": "Wǒ de nǚ'ér hěn xǐhuan huàhuà.",
+      "sentenceRu": "Моя дочь очень любит рисовать."
+    },
+    {
+      "id": "sui",
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "ru": "год жизни (о возрасте)",
+      "sentence": "弟弟今年八___。",
+      "sentencePinyin": "Dìdi jīnnián bā suì.",
+      "sentenceRu": "Младшему брату восемь лет."
+    },
+    {
+      "id": "ta",
+      "hanzi": "他",
+      "pinyin": "tā",
+      "ru": "он; его",
+      "sentence": "___是我的哥哥。",
+      "sentencePinyin": "Tā shì wǒ de gēge.",
+      "sentenceRu": "Он мой старший брат."
+    },
+    {
+      "id": "jinnian",
+      "hanzi": "今年",
+      "pinyin": "jīn nián",
+      "ru": "в этом году",
+      "sentence": "___我十八岁了。",
+      "sentencePinyin": "Jīnnián wǒ shíbā suì le.",
+      "sentenceRu": "В этом году мне исполнилось восемнадцать."
+    },
+    {
+      "id": "duo",
+      "hanzi": "多",
+      "pinyin": "duō",
+      "ru": "много; более (для возраста)",
+      "sentence": "孩子十___岁了。",
+      "sentencePinyin": "Háizi shí duō suì le.",
+      "sentenceRu": "Ребёнку уже больше десяти лет."
+    },
+    {
+      "id": "da",
+      "hanzi": "大",
+      "pinyin": "dà",
+      "ru": "большой; старший",
+      "sentence": "我比妹妹___三岁。",
+      "sentencePinyin": "Wǒ bǐ mèimei dà sān suì.",
+      "sentenceRu": "Я старше младшей сестры на три года."
+    }
+  ]
+}

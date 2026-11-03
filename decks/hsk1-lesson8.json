@@ -1,0 +1,232 @@
+{
+  "title": "HSK-1 · Урок 8",
+  "subtitle": "我爸爸也在医院工作 · Мой папа тоже работает в больнице",
+  "source": "新HSK教程 1, урок 8, 生词, печатные страницы 55, 57, 59",
+  "words": [
+    {
+      "id": "fangjian",
+      "hanzi": "房间",
+      "pinyin": "fáng jiān",
+      "ru": "комната",
+      "sentence": "这间___有一张桌子。",
+      "sentencePinyin": "Zhè jiān fángjiān yǒu yì zhāng zhuōzi.",
+      "sentenceRu": "В этой комнате есть стол."
+    },
+    {
+      "id": "wai",
+      "hanzi": "外",
+      "pinyin": "wài",
+      "ru": "снаружи; вне",
+      "sentence": "门___有一只小猫。",
+      "sentencePinyin": "Mén wài yǒu yì zhī xiǎo māo.",
+      "sentenceRu": "За дверью есть котёнок.",
+      "quizExcludes": [
+        "qian",
+        "xia"
+      ]
+    },
+    {
+      "id": "zhi",
+      "hanzi": "只",
+      "pinyin": "zhī",
+      "ru": "счётное слово для животных",
+      "sentence": "我家有一___猫。",
+      "sentencePinyin": "Wǒ jiā yǒu yì zhī māo.",
+      "sentenceRu": "У меня дома кошка."
+    },
+    {
+      "id": "xiao",
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "ru": "маленький",
+      "sentence": "这只___猫很可爱。",
+      "sentencePinyin": "Zhè zhī xiǎo māo hěn kě'ài.",
+      "sentenceRu": "Этот котёнок очень милый."
+    },
+    {
+      "id": "mao",
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "ru": "кошка; кот",
+      "sentence": "我喜欢这只小___。",
+      "sentencePinyin": "Wǒ xǐhuan zhè zhī xiǎo māo.",
+      "sentenceRu": "Мне нравится этот котёнок."
+    },
+    {
+      "id": "mei",
+      "hanzi": "没",
+      "pinyin": "méi",
+      "ru": "не (прошедшее действие)",
+      "sentence": "我___看见你的手机。",
+      "sentencePinyin": "Wǒ méi kànjiàn nǐ de shǒujī.",
+      "sentenceRu": "Я не видел твой телефон."
+    },
+    {
+      "id": "kanjian",
+      "hanzi": "看见",
+      "pinyin": "kàn jiàn",
+      "ru": "увидеть; заметить",
+      "sentence": "你___我的书了吗？",
+      "sentencePinyin": "Nǐ kànjiàn wǒ de shū le ma?",
+      "sentenceRu": "Ты видел мою книгу?"
+    },
+    {
+      "id": "zhuozi",
+      "hanzi": "桌子",
+      "pinyin": "zhuō zi",
+      "ru": "стол",
+      "sentence": "书在___上。",
+      "sentencePinyin": "Shū zài zhuōzi shang.",
+      "sentenceRu": "Книга лежит на столе."
+    },
+    {
+      "id": "xia",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "ru": "под; внизу",
+      "sentence": "猫在桌子___。",
+      "sentencePinyin": "Māo zài zhuōzi xià.",
+      "sentenceRu": "Кошка под столом.",
+      "quizExcludes": [
+        "wai",
+        "qian"
+      ]
+    },
+    {
+      "id": "piaoliang",
+      "hanzi": "漂亮",
+      "pinyin": "piào liang",
+      "ru": "красивый",
+      "sentence": "这个房间真___。",
+      "sentencePinyin": "Zhège fángjiān zhēn piàoliang.",
+      "sentenceRu": "Эта комната очень красивая."
+    },
+    {
+      "id": "zai",
+      "hanzi": "在",
+      "pinyin": "zài",
+      "ru": "в; на (место действия)",
+      "sentence": "我___学校学习。",
+      "sentencePinyin": "Wǒ zài xuéxiào xuéxí.",
+      "sentenceRu": "Я учусь в школе.",
+      "quizExcludes": [
+        "dao"
+      ]
+    },
+    {
+      "id": "xuexiao",
+      "hanzi": "学校",
+      "pinyin": "xué xiào",
+      "ru": "школа",
+      "sentence": "我的___离家很近。",
+      "sentencePinyin": "Wǒ de xuéxiào lí jiā hěn jìn.",
+      "sentenceRu": "Моя школа недалеко от дома."
+    },
+    {
+      "id": "shudian",
+      "hanzi": "书店",
+      "pinyin": "shū diàn",
+      "ru": "книжный магазин",
+      "sentence": "我在___买汉语书。",
+      "sentencePinyin": "Wǒ zài shūdiàn mǎi Hànyǔ shū.",
+      "sentenceRu": "Я покупаю учебники в книжном магазине."
+    },
+    {
+      "id": "qian",
+      "hanzi": "前",
+      "pinyin": "qián",
+      "ru": "перед; впереди",
+      "sentence": "我们在学校___见面。",
+      "sentencePinyin": "Wǒmen zài xuéxiào qián jiànmiàn.",
+      "sentenceRu": "Встретимся перед школой.",
+      "quizExcludes": [
+        "wai",
+        "xia"
+      ]
+    },
+    {
+      "id": "neng",
+      "hanzi": "能",
+      "pinyin": "néng",
+      "ru": "мочь; иметь возможность",
+      "sentence": "你明天___来吗？",
+      "sentencePinyin": "Nǐ míngtiān néng lái ma?",
+      "sentenceRu": "Сможешь прийти завтра?"
+    },
+    {
+      "id": "dao",
+      "hanzi": "到",
+      "pinyin": "dào",
+      "ru": "прибыть; достигать",
+      "sentence": "我两点___学校。",
+      "sentencePinyin": "Wǒ liǎng diǎn dào xuéxiào.",
+      "sentenceRu": "Я приезжаю в школу в два.",
+      "quizExcludes": [
+        "zai"
+      ]
+    },
+    {
+      "id": "wufan",
+      "hanzi": "午饭",
+      "pinyin": "wǔ fàn",
+      "ru": "обед",
+      "sentence": "我们十二点吃___。",
+      "sentencePinyin": "Wǒmen shí'èr diǎn chī wǔfàn.",
+      "sentenceRu": "Мы обедаем в двенадцать."
+    },
+    {
+      "id": "fan",
+      "hanzi": "饭",
+      "pinyin": "fàn",
+      "ru": "еда; приготовленный рис",
+      "sentence": "你吃___了吗？",
+      "sentencePinyin": "Nǐ chī fàn le ma?",
+      "sentenceRu": "Ты уже поел?"
+    },
+    {
+      "id": "da",
+      "hanzi": "大",
+      "pinyin": "dà",
+      "ru": "большой",
+      "sentence": "这家医院很___。",
+      "sentencePinyin": "Zhè jiā yīyuàn hěn dà.",
+      "sentenceRu": "Эта больница очень большая."
+    },
+    {
+      "id": "bingren",
+      "hanzi": "病人",
+      "pinyin": "bìng rén",
+      "ru": "пациент; больной",
+      "sentence": "医生正在看___。",
+      "sentencePinyin": "Yīshēng zhèngzài kàn bìngrén.",
+      "sentenceRu": "Врач осматривает пациента."
+    },
+    {
+      "id": "duo",
+      "hanzi": "多",
+      "pinyin": "duō",
+      "ru": "много",
+      "sentence": "医院里有很___病人。",
+      "sentencePinyin": "Yīyuàn lǐ yǒu hěn duō bìngrén.",
+      "sentenceRu": "В больнице много пациентов."
+    },
+    {
+      "id": "yisheng",
+      "hanzi": "医生",
+      "pinyin": "yī shēng",
+      "ru": "врач",
+      "sentence": "我爸爸是一名___。",
+      "sentencePinyin": "Wǒ bàba shì yì míng yīshēng.",
+      "sentenceRu": "Мой папа врач."
+    },
+    {
+      "id": "gongzuo",
+      "hanzi": "工作",
+      "pinyin": "gōng zuò",
+      "ru": "работа; работать",
+      "sentence": "她在医院___。",
+      "sentencePinyin": "Tā zài yīyuàn gōngzuò.",
+      "sentenceRu": "Она работает в больнице."
+    }
+  ]
+}

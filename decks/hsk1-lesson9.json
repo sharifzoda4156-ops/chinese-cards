@@ -1,0 +1,211 @@
+{
+  "title": "HSK-1 · Урок 9",
+  "subtitle": "我明天上午在学校学习 · Завтра утром я буду учиться в школе",
+  "source": "新HSK教程 1, урок 9, 生词, печатные страницы 62, 64, 66",
+  "words": [
+    {
+      "id": "qianbian",
+      "hanzi": "前边",
+      "pinyin": "qián bian",
+      "ru": "перед; впереди",
+      "sentence": "电影院在学校___。",
+      "sentencePinyin": "Diànyǐngyuàn zài xuéxiào qiánbian.",
+      "sentenceRu": "Кинотеатр перед школой.",
+      "quizExcludes": [
+        "waibian"
+      ]
+    },
+    {
+      "id": "bian",
+      "hanzi": "边",
+      "pinyin": "biān",
+      "ru": "край; сторона",
+      "sentence": "书在桌子___上。",
+      "sentencePinyin": "Shū zài zhuōzi biān shang.",
+      "sentenceRu": "Книга лежит у края стола."
+    },
+    {
+      "id": "jia",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "ru": "счётное слово для предприятий",
+      "sentence": "学校旁边有一___书店。",
+      "sentencePinyin": "Xuéxiào pángbiān yǒu yì jiā shūdiàn.",
+      "sentenceRu": "Рядом со школой есть книжный магазин."
+    },
+    {
+      "id": "nage",
+      "hanzi": "那个",
+      "pinyin": "nà ge",
+      "ru": "тот; то",
+      "sentence": "___人是我的老师。",
+      "sentencePinyin": "Nà ge rén shì wǒ de lǎoshī.",
+      "sentenceRu": "Тот человек — мой учитель."
+    },
+    {
+      "id": "waibian",
+      "hanzi": "外边",
+      "pinyin": "wài bian",
+      "ru": "снаружи; на улице",
+      "sentence": "___下雨了。",
+      "sentencePinyin": "Wàibian xià yǔ le.",
+      "sentenceRu": "На улице идёт дождь.",
+      "quizExcludes": [
+        "qianbian"
+      ]
+    },
+    {
+      "id": "yizi",
+      "hanzi": "椅子",
+      "pinyin": "yǐ zi",
+      "ru": "стул",
+      "sentence": "这把___是我的。",
+      "sentencePinyin": "Zhè bǎ yǐzi shì wǒ de.",
+      "sentenceRu": "Этот стул мой."
+    },
+    {
+      "id": "shang",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "ru": "на; сверху",
+      "sentence": "书在桌子___。",
+      "sentencePinyin": "Shū zài zhuōzi shang.",
+      "sentenceRu": "Книга на столе."
+    },
+    {
+      "id": "ben",
+      "hanzi": "本",
+      "pinyin": "běn",
+      "ru": "счётное слово для книг",
+      "sentence": "我买了两___中文书。",
+      "sentencePinyin": "Wǒ mǎi le liǎng běn Zhōngwén shū.",
+      "sentenceRu": "Я купил две книги на китайском."
+    },
+    {
+      "id": "shu",
+      "hanzi": "书",
+      "pinyin": "shū",
+      "ru": "книга",
+      "sentence": "这本___很好看。",
+      "sentencePinyin": "Zhè běn shū hěn hǎokàn.",
+      "sentenceRu": "Эта книга интересная."
+    },
+    {
+      "id": "di",
+      "hanzi": "第",
+      "pinyin": "dì",
+      "ru": "приставка порядкового числительного",
+      "sentence": "今天是___一天上课。",
+      "sentencePinyin": "Jīntiān shì dì yī tiān shàngkè.",
+      "sentenceRu": "Сегодня первый день занятий."
+    },
+    {
+      "id": "xuexi",
+      "hanzi": "学习",
+      "pinyin": "xué xí",
+      "ru": "учиться; изучать",
+      "sentence": "我们每天___汉语。",
+      "sentencePinyin": "Wǒmen měi tiān xuéxí Hànyǔ.",
+      "sentenceRu": "Мы каждый день учим китайский."
+    },
+    {
+      "id": "zuo",
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "ru": "делать; заниматься чем-то",
+      "sentence": "你明天想___什么？",
+      "sentencePinyin": "Nǐ míngtiān xiǎng zuò shénme?",
+      "sentenceRu": "Что ты хочешь делать завтра?"
+    },
+    {
+      "id": "baitian",
+      "hanzi": "白天",
+      "pinyin": "bái tiān",
+      "ru": "днём; светлое время суток",
+      "sentence": "我___工作，晚上学习。",
+      "sentencePinyin": "Wǒ báitiān gōngzuò, wǎnshang xuéxí.",
+      "sentenceRu": "Днём я работаю, вечером учусь."
+    },
+    {
+      "id": "dushu",
+      "hanzi": "读书",
+      "pinyin": "dú shū",
+      "ru": "читать книги; учиться",
+      "sentence": "姐姐喜欢在家___。",
+      "sentencePinyin": "Jiějie xǐhuan zài jiā dúshū.",
+      "sentenceRu": "Сестра любит читать дома."
+    },
+    {
+      "id": "he",
+      "hanzi": "和",
+      "pinyin": "hé",
+      "ru": "с; и",
+      "sentence": "我___朋友一起看电影。",
+      "sentencePinyin": "Wǒ hé péngyou yìqǐ kàn diànyǐng.",
+      "sentenceRu": "Мы с другом вместе смотрим кино."
+    },
+    {
+      "id": "pengyou",
+      "hanzi": "朋友",
+      "pinyin": "péng you",
+      "ru": "друг; приятель",
+      "sentence": "这位___是我的同学。",
+      "sentencePinyin": "Zhè wèi péngyou shì wǒ de tóngxué.",
+      "sentenceRu": "Этот друг — мой одноклассник."
+    },
+    {
+      "id": "chang",
+      "hanzi": "唱",
+      "pinyin": "chàng",
+      "ru": "петь",
+      "sentence": "我会___中文歌。",
+      "sentencePinyin": "Wǒ huì chàng Zhōngwén gē.",
+      "sentenceRu": "Я умею петь песни на китайском."
+    },
+    {
+      "id": "ge",
+      "hanzi": "歌",
+      "pinyin": "gē",
+      "ru": "песня",
+      "sentence": "这首___很好听。",
+      "sentencePinyin": "Zhè shǒu gē hěn hǎotīng.",
+      "sentenceRu": "Эта песня очень красивая."
+    },
+    {
+      "id": "haoting",
+      "hanzi": "好听",
+      "pinyin": "hǎo tīng",
+      "ru": "приятный на слух; хорошо звучащий",
+      "sentence": "这首歌真___。",
+      "sentencePinyin": "Zhè shǒu gē zhēn hǎotīng.",
+      "sentenceRu": "Эта песня прекрасно звучит."
+    },
+    {
+      "id": "dianshi",
+      "hanzi": "电视",
+      "pinyin": "diàn shì",
+      "ru": "телевизор; телевидение",
+      "sentence": "爸爸晚上看___。",
+      "sentencePinyin": "Bàba wǎnshang kàn diànshì.",
+      "sentenceRu": "Папа вечером смотрит телевизор."
+    },
+    {
+      "id": "gou",
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "ru": "собака",
+      "sentence": "我家有一只小___。",
+      "sentencePinyin": "Wǒ jiā yǒu yì zhī xiǎo gǒu.",
+      "sentenceRu": "У нас дома маленькая собака."
+    },
+    {
+      "id": "wan",
+      "hanzi": "玩",
+      "pinyin": "wán",
+      "ru": "играть; развлекаться",
+      "sentence": "孩子们在外边___。",
+      "sentencePinyin": "Háizimen zài wàibian wán.",
+      "sentenceRu": "Дети играют на улице."
+    }
+  ]
+}

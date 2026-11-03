@@ -1,0 +1,232 @@
+{
+  "title": "HSK-1 · Урок 10",
+  "subtitle": "这儿的苹果真便宜！ · Здесь яблоки очень дешёвые!",
+  "source": "新HSK教程 1, урок 10, 生词 №1–23, печатные страницы 71, 73, 75",
+  "words": [
+    {
+      "id": "beizi",
+      "hanzi": "杯子",
+      "pinyin": "bēi zi",
+      "ru": "чашка; стакан",
+      "sentence": "这个___里有茶。",
+      "sentencePinyin": "Zhège bēizi lǐ yǒu chá.",
+      "sentenceRu": "В этой чашке чай."
+    },
+    {
+      "id": "shouhuoyuan",
+      "hanzi": "售货员",
+      "pinyin": "shòu huò yuán",
+      "ru": "продавец",
+      "sentence": "这家商店的___很热情。",
+      "sentencePinyin": "Zhè jiā shāngdiàn de shòuhuòyuán hěn rèqíng.",
+      "sentenceRu": "Продавец в этом магазине очень приветливый."
+    },
+    {
+      "id": "zhebian",
+      "hanzi": "这边",
+      "pinyin": "zhè biān",
+      "ru": "здесь; эта сторона",
+      "sentence": "请到___来。",
+      "sentencePinyin": "Qǐng dào zhèbiān lái.",
+      "sentenceRu": "Подойди сюда, пожалуйста."
+    },
+    {
+      "id": "qian",
+      "hanzi": "钱",
+      "pinyin": "qián",
+      "ru": "деньги",
+      "sentence": "我带了五十块___。",
+      "sentencePinyin": "Wǒ dài le wǔshí kuài qián.",
+      "sentenceRu": "Я взял с собой пятьдесят юаней."
+    },
+    {
+      "id": "zhexie",
+      "hanzi": "这些",
+      "pinyin": "zhè xiē",
+      "ru": "эти; вот эти",
+      "sentence": "___苹果很新鲜。",
+      "sentencePinyin": "Zhèxiē píngguǒ hěn xīnxiān.",
+      "sentenceRu": "Эти яблоки очень свежие.",
+      "quizExcludes": [
+        "naxie"
+      ]
+    },
+    {
+      "id": "kuai",
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "ru": "юань (разговорная денежная единица)",
+      "sentence": "这个杯子十___钱。",
+      "sentencePinyin": "Zhège bēizi shí kuài qián.",
+      "sentenceRu": "Эта чашка стоит десять юаней.",
+      "quizExcludes": [
+        "yuan"
+      ]
+    },
+    {
+      "id": "naxie",
+      "hanzi": "那些",
+      "pinyin": "nà xiē",
+      "ru": "те; вон те",
+      "sentence": "___衣服是新来的。",
+      "sentencePinyin": "Nàxiē yīfu shì xīn lái de.",
+      "sentenceRu": "Вон та одежда из новой поставки.",
+      "quizExcludes": [
+        "zhexie"
+      ]
+    },
+    {
+      "id": "zher",
+      "hanzi": "这儿",
+      "pinyin": "zhèr",
+      "ru": "здесь; сюда",
+      "sentence": "___有很多水果。",
+      "sentencePinyin": "Zhèr yǒu hěn duō shuǐguǒ.",
+      "sentenceRu": "Здесь много фруктов.",
+      "quizExcludes": [
+        "nar"
+      ]
+    },
+    {
+      "id": "shuiguo",
+      "hanzi": "水果",
+      "pinyin": "shuǐ guǒ",
+      "ru": "фрукты",
+      "sentence": "我想买一点儿___。",
+      "sentencePinyin": "Wǒ xiǎng mǎi yì diǎnr shuǐguǒ.",
+      "sentenceRu": "Хочу купить немного фруктов."
+    },
+    {
+      "id": "shao",
+      "hanzi": "少",
+      "pinyin": "shǎo",
+      "ru": "мало; немного",
+      "sentence": "我只要一斤，别买太___。",
+      "sentencePinyin": "Wǒ zhǐ yào yì jīn, bié mǎi tài shǎo.",
+      "sentenceRu": "Мне нужен только один цзинь, не покупай слишком мало."
+    },
+    {
+      "id": "jin",
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "ru": "цзинь (500 граммов)",
+      "sentence": "请给我两___苹果。",
+      "sentencePinyin": "Qǐng gěi wǒ liǎng jīn píngguǒ.",
+      "sentenceRu": "Дайте мне килограмм яблок."
+    },
+    {
+      "id": "pingguo",
+      "hanzi": "苹果",
+      "pinyin": "píng guǒ",
+      "ru": "яблоко",
+      "sentence": "这个红___很甜。",
+      "sentencePinyin": "Zhège hóng píngguǒ hěn tián.",
+      "sentenceRu": "Это красное яблоко очень сладкое."
+    },
+    {
+      "id": "pianyi",
+      "hanzi": "便宜",
+      "pinyin": "pián yi",
+      "ru": "дешёвый; недорогой",
+      "sentence": "这里的苹果真___。",
+      "sentencePinyin": "Zhèlǐ de píngguǒ zhēn piányi.",
+      "sentenceRu": "Здесь яблоки очень дешёвые."
+    },
+    {
+      "id": "shangdian",
+      "hanzi": "商店",
+      "pinyin": "shāng diàn",
+      "ru": "магазин",
+      "sentence": "学校旁边有一家___。",
+      "sentencePinyin": "Xuéxiào pángbiān yǒu yì jiā shāngdiàn.",
+      "sentenceRu": "Рядом со школой есть магазин."
+    },
+    {
+      "id": "yifu",
+      "hanzi": "衣服",
+      "pinyin": "yī fu",
+      "ru": "одежда",
+      "sentence": "我想买一件新___。",
+      "sentencePinyin": "Wǒ xiǎng mǎi yí jiàn xīn yīfu.",
+      "sentenceRu": "Хочу купить новую одежду."
+    },
+    {
+      "id": "jian",
+      "hanzi": "件",
+      "pinyin": "jiàn",
+      "ru": "счётное слово для одежды",
+      "sentence": "她买了两___衣服。",
+      "sentencePinyin": "Tā mǎi le liǎng jiàn yīfu.",
+      "sentenceRu": "Она купила две вещи."
+    },
+    {
+      "id": "yuan",
+      "hanzi": "元",
+      "pinyin": "yuán",
+      "ru": "юань (денежная единица)",
+      "sentence": "这本书二十___。",
+      "sentencePinyin": "Zhè běn shū èrshí yuán.",
+      "sentenceRu": "Эта книга стоит двадцать юаней.",
+      "quizExcludes": [
+        "kuai"
+      ]
+    },
+    {
+      "id": "zenmeyang",
+      "hanzi": "怎么样",
+      "pinyin": "zěn me yàng",
+      "ru": "как; каково; что думаешь",
+      "sentence": "这件衣服___？",
+      "sentencePinyin": "Zhè jiàn yīfu zěnmeyàng?",
+      "sentenceRu": "Как тебе эта одежда?"
+    },
+    {
+      "id": "gui",
+      "hanzi": "贵",
+      "pinyin": "guì",
+      "ru": "дорогой (о цене)",
+      "sentence": "这双鞋太___了。",
+      "sentencePinyin": "Zhè shuāng xié tài guì le.",
+      "sentenceRu": "Эти туфли слишком дорогие."
+    },
+    {
+      "id": "chuan",
+      "hanzi": "穿",
+      "pinyin": "chuān",
+      "ru": "надевать; носить одежду",
+      "sentence": "今天很冷，你应该___大衣。",
+      "sentencePinyin": "Jīntiān hěn lěng, nǐ yīnggāi chuān dàyī.",
+      "sentenceRu": "Сегодня холодно, тебе следует надеть пальто."
+    },
+    {
+      "id": "nu",
+      "hanzi": "女",
+      "pinyin": "nǚ",
+      "ru": "женский; женщина",
+      "sentence": "这件衣服在___装区。",
+      "sentencePinyin": "Zhè jiàn yīfu zài nǚzhuāng qū.",
+      "sentenceRu": "Эта одежда в женском отделе."
+    },
+    {
+      "id": "nan",
+      "hanzi": "男",
+      "pinyin": "nán",
+      "ru": "мужской; мужчина",
+      "sentence": "我想买一件___式衬衫。",
+      "sentencePinyin": "Wǒ xiǎng mǎi yí jiàn nánshì chènshān.",
+      "sentenceRu": "Хочу купить мужскую рубашку."
+    },
+    {
+      "id": "nar",
+      "hanzi": "那儿",
+      "pinyin": "nàr",
+      "ru": "там; туда",
+      "sentence": "___的衣服比较便宜。",
+      "sentencePinyin": "Nàr de yīfu bǐjiào piányi.",
+      "sentenceRu": "Там одежда немного дешевле.",
+      "quizExcludes": [
+        "zher"
+      ]
+    }
+  ]
+}

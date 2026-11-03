@@ -1,0 +1,250 @@
+{
+  "title": "HSK-1 · Урок 7",
+  "subtitle": "我晚上六点半下班 · Я заканчиваю работу в 18:30",
+  "source": "新HSK教程 1, урок 7, 生词 №1–27, печатные страницы 46, 49, 51",
+  "words": [
+    {
+      "id": "xianzai",
+      "hanzi": "现在",
+      "pinyin": "xiàn zài",
+      "ru": "сейчас",
+      "sentence": "___是上午九点。",
+      "sentencePinyin": "Xiànzài shì shàngwǔ jiǔ diǎn.",
+      "sentenceRu": "Сейчас девять часов утра."
+    },
+    {
+      "id": "dian",
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "ru": "час (при указании времени)",
+      "sentence": "现在是八___。",
+      "sentencePinyin": "Xiànzài shì bā diǎn.",
+      "sentenceRu": "Сейчас восемь часов."
+    },
+    {
+      "id": "zaoshang",
+      "hanzi": "早上",
+      "pinyin": "zǎo shang",
+      "ru": "утром",
+      "sentence": "我每天___六点起床。",
+      "sentencePinyin": "Wǒ měi tiān zǎoshang liù diǎn qǐchuáng.",
+      "sentenceRu": "Я встаю в шесть утра."
+    },
+    {
+      "id": "shangwu",
+      "hanzi": "上午",
+      "pinyin": "shàng wǔ",
+      "ru": "первая половина дня",
+      "sentence": "我们___十点上课。",
+      "sentencePinyin": "Wǒmen shàngwǔ shí diǎn shàngkè.",
+      "sentenceRu": "Наши занятия начинаются в десять утра."
+    },
+    {
+      "id": "fen",
+      "hanzi": "分",
+      "pinyin": "fēn",
+      "ru": "минута",
+      "sentence": "现在是九点二十___。",
+      "sentencePinyin": "Xiànzài shì jiǔ diǎn èrshí fēn.",
+      "sentenceRu": "Сейчас девять часов двадцать минут."
+    },
+    {
+      "id": "ke",
+      "hanzi": "课",
+      "pinyin": "kè",
+      "ru": "урок; занятие",
+      "sentence": "今天下午有一节汉语___。",
+      "sentencePinyin": "Jīntiān xiàwǔ yǒu yì jié Hànyǔ kè.",
+      "sentenceRu": "Сегодня днём у нас урок китайского."
+    },
+    {
+      "id": "xiawu",
+      "hanzi": "下午",
+      "pinyin": "xià wǔ",
+      "ru": "после полудня",
+      "sentence": "我们___两点见面。",
+      "sentencePinyin": "Wǒmen xiàwǔ liǎng diǎn jiànmiàn.",
+      "sentenceRu": "Встретимся в два часа дня."
+    },
+    {
+      "id": "jian",
+      "hanzi": "见",
+      "pinyin": "jiàn",
+      "ru": "видеть; встречать",
+      "sentence": "明天___！",
+      "sentencePinyin": "Míngtiān jiàn!",
+      "sentenceRu": "До встречи завтра!"
+    },
+    {
+      "id": "ba",
+      "hanzi": "吧",
+      "pinyin": "ba",
+      "ru": "частица предложения, приглашение",
+      "sentence": "我们一起走___！",
+      "sentencePinyin": "Wǒmen yìqǐ zǒu ba!",
+      "sentenceRu": "Давай пойдём вместе!"
+    },
+    {
+      "id": "dianyingyuan",
+      "hanzi": "电影院",
+      "pinyin": "diàn yǐng yuàn",
+      "ru": "кинотеатр",
+      "sentence": "我和朋友去___看电影。",
+      "sentencePinyin": "Wǒ hé péngyou qù diànyǐngyuàn kàn diànyǐng.",
+      "sentenceRu": "Мы с другом идём в кинотеатр."
+    },
+    {
+      "id": "kan",
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "ru": "смотреть; читать",
+      "sentence": "晚上我们一起___电影。",
+      "sentencePinyin": "Wǎnshang wǒmen yìqǐ kàn diànyǐng.",
+      "sentenceRu": "Вечером мы вместе смотрим фильм."
+    },
+    {
+      "id": "dianying",
+      "hanzi": "电影",
+      "pinyin": "diàn yǐng",
+      "ru": "фильм; кино",
+      "sentence": "这部___很好看。",
+      "sentencePinyin": "Zhè bù diànyǐng hěn hǎokàn.",
+      "sentenceRu": "Этот фильм очень интересный."
+    },
+    {
+      "id": "shi",
+      "hanzi": "事",
+      "pinyin": "shì",
+      "ru": "дело; событие",
+      "sentence": "我下午有一点儿___。",
+      "sentencePinyin": "Wǒ xiàwǔ yǒu yì diǎnr shì.",
+      "sentenceRu": "У меня днём есть дело."
+    },
+    {
+      "id": "shangke",
+      "hanzi": "上课",
+      "pinyin": "shàng kè",
+      "ru": "идти на занятия; проводить урок",
+      "sentence": "老师八点开始___。",
+      "sentencePinyin": "Lǎoshī bā diǎn kāishǐ shàngkè.",
+      "sentenceRu": "Учитель начинает урок в восемь."
+    },
+    {
+      "id": "ne",
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "ru": "вопросительная частица «а ...?»",
+      "sentence": "我在学校，你___？",
+      "sentencePinyin": "Wǒ zài xuéxiào, nǐ ne?",
+      "sentenceRu": "Я в школе, а ты?"
+    },
+    {
+      "id": "ban",
+      "hanzi": "半",
+      "pinyin": "bàn",
+      "ru": "половина",
+      "sentence": "现在三点___。",
+      "sentencePinyin": "Xiànzài sān diǎn bàn.",
+      "sentenceRu": "Сейчас половина четвёртого."
+    },
+    {
+      "id": "xiake",
+      "hanzi": "下课",
+      "pinyin": "xià kè",
+      "ru": "заканчиваться (об уроке)",
+      "sentence": "我们十二点___。",
+      "sentencePinyin": "Wǒmen shí'èr diǎn xiàkè.",
+      "sentenceRu": "Наши занятия заканчиваются в двенадцать."
+    },
+    {
+      "id": "zai",
+      "hanzi": "在",
+      "pinyin": "zài",
+      "ru": "находиться; быть в",
+      "sentence": "我___家里。",
+      "sentencePinyin": "Wǒ zài jiā lǐ.",
+      "sentenceRu": "Я дома."
+    },
+    {
+      "id": "jia",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "ru": "дом; семья",
+      "sentence": "我晚上六点回___。",
+      "sentencePinyin": "Wǒ wǎnshang liù diǎn huí jiā.",
+      "sentenceRu": "В шесть вечера я возвращаюсь домой."
+    },
+    {
+      "id": "li",
+      "hanzi": "里",
+      "pinyin": "lǐ",
+      "ru": "внутри",
+      "sentence": "书在书包___。",
+      "sentencePinyin": "Shū zài shūbāo lǐ.",
+      "sentenceRu": "Книга лежит в рюкзаке."
+    },
+    {
+      "id": "wanshang",
+      "hanzi": "晚上",
+      "pinyin": "wǎn shang",
+      "ru": "вечер; вечером",
+      "sentence": "我___七点吃饭。",
+      "sentencePinyin": "Wǒ wǎnshang qī diǎn chīfàn.",
+      "sentenceRu": "Я ужинаю в семь вечера."
+    },
+    {
+      "id": "yiyuan",
+      "hanzi": "医院",
+      "pinyin": "yī yuàn",
+      "ru": "больница",
+      "sentence": "妈妈在___工作。",
+      "sentencePinyin": "Māma zài yīyuàn gōngzuò.",
+      "sentenceRu": "Мама работает в больнице."
+    },
+    {
+      "id": "shangban",
+      "hanzi": "上班",
+      "pinyin": "shàng bān",
+      "ru": "выходить на работу",
+      "sentence": "爸爸八点___。",
+      "sentencePinyin": "Bàba bā diǎn shàngbān.",
+      "sentenceRu": "Папа начинает работать в восемь."
+    },
+    {
+      "id": "dian_shop",
+      "hanzi": "店",
+      "pinyin": "diàn",
+      "ru": "магазин; лавка",
+      "sentence": "这家___卖水果。",
+      "sentencePinyin": "Zhè jiā diàn mài shuǐguǒ.",
+      "sentenceRu": "В этом магазине продают фрукты."
+    },
+    {
+      "id": "cai",
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "ru": "овощи; блюдо",
+      "sentence": "妈妈去商店买___。",
+      "sentencePinyin": "Māma qù shāngdiàn mǎi cài.",
+      "sentenceRu": "Мама идёт в магазин за овощами."
+    },
+    {
+      "id": "fenzhong",
+      "hanzi": "分钟",
+      "pinyin": "fēn zhōng",
+      "ru": "минуты; минута",
+      "sentence": "请等我五___。",
+      "sentencePinyin": "Qǐng děng wǒ wǔ fēnzhōng.",
+      "sentenceRu": "Подожди меня пять минут."
+    },
+    {
+      "id": "hou",
+      "hanzi": "后",
+      "pinyin": "hòu",
+      "ru": "после; позже",
+      "sentence": "下课___我们去吃饭。",
+      "sentencePinyin": "Xiàkè hòu wǒmen qù chīfàn.",
+      "sentenceRu": "После уроков пойдём поедим."
+    }
+  ]
+}

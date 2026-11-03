@@ -1,0 +1,121 @@
+{
+  "title": "HSK-1 · Урок 1",
+  "subtitle": "AI小语，你好！ · Привет, ИИ Сяоюй!",
+  "source": "新HSK教程 1 (2026, ISBN 9787521367744), урок 1, 生词 (без 专有名词), печатные страницы 1, 2, 3",
+  "words": [
+    {
+      "id": "nihao",
+      "hanzi": "你好",
+      "pinyin": "nǐ hǎo",
+      "ru": "здравствуй; привет",
+      "sentence": "见到朋友，我说：“___！”",
+      "sentencePinyin": "Jiàn dào péngyou, wǒ shuō: “Nǐ hǎo!”",
+      "sentenceRu": "Встретив друга, я говорю: «Привет!»"
+    },
+    {
+      "id": "dajia",
+      "hanzi": "大家",
+      "pinyin": "dà jiā",
+      "ru": "все; каждый",
+      "sentence": "老师对全班说：“___好！”",
+      "sentencePinyin": "Lǎoshī duì quán bān shuō: “Dàjiā hǎo!”",
+      "sentenceRu": "Учитель здоровается со всем классом.",
+      "quizExcludes": [
+        "nimen"
+      ]
+    },
+    {
+      "id": "hao",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "ru": "хороший; хорошо",
+      "sentence": "今天的天气很___。",
+      "sentencePinyin": "Jīntiān de tiānqì hěn hǎo.",
+      "sentenceRu": "Сегодня хорошая погода."
+    },
+    {
+      "id": "xuesheng",
+      "hanzi": "学生",
+      "pinyin": "xué sheng",
+      "ru": "ученик; студент",
+      "sentence": "我是汉语___。",
+      "sentencePinyin": "Wǒ shì Hànyǔ xuésheng.",
+      "sentenceRu": "Я изучаю китайский язык."
+    },
+    {
+      "id": "men",
+      "hanzi": "们",
+      "pinyin": "men",
+      "ru": "суффикс множественного числа",
+      "sentence": "同学___，请坐！",
+      "sentencePinyin": "Tóngxuémen, qǐng zuò!",
+      "sentenceRu": "Ученики, садитесь, пожалуйста!"
+    },
+    {
+      "id": "laoshi",
+      "hanzi": "老师",
+      "pinyin": "lǎo shī",
+      "ru": "учитель; преподаватель",
+      "sentence": "王___教我们汉语。",
+      "sentencePinyin": "Wáng lǎoshī jiāo wǒmen Hànyǔ.",
+      "sentenceRu": "Учитель Ван преподаёт нам китайский."
+    },
+    {
+      "id": "nin",
+      "hanzi": "您",
+      "pinyin": "nín",
+      "ru": "Вы (вежливо)",
+      "sentence": "___好，王老师！",
+      "sentencePinyin": "Nín hǎo, Wáng lǎoshī!",
+      "sentenceRu": "Здравствуйте, учитель Ван!"
+    },
+    {
+      "id": "nimen",
+      "hanzi": "你们",
+      "pinyin": "nǐ men",
+      "ru": "вы (множественное число)",
+      "sentence": "___是新学生吗？",
+      "sentencePinyin": "Nǐmen shì xīn xuésheng ma?",
+      "sentenceRu": "Вы новые ученики?",
+      "quizExcludes": [
+        "dajia"
+      ]
+    },
+    {
+      "id": "xiexie",
+      "hanzi": "谢谢",
+      "pinyin": "xiè xie",
+      "ru": "спасибо; благодарить",
+      "sentence": "你帮了我，我说：“___！”",
+      "sentencePinyin": "Nǐ bāng le wǒ, wǒ shuō: “Xièxie!”",
+      "sentenceRu": "Ты помог мне, и я говорю: «Спасибо!»"
+    },
+    {
+      "id": "bukeqi",
+      "hanzi": "不客气",
+      "pinyin": "bú kè qi",
+      "ru": "не за что; пожалуйста",
+      "sentence": "甲：谢谢你！乙：___！",
+      "sentencePinyin": "Jiǎ: Xièxie nǐ! Yǐ: Bú kèqi!",
+      "sentenceRu": "— Спасибо тебе! — Не за что!"
+    },
+    {
+      "id": "tongxue",
+      "hanzi": "同学",
+      "pinyin": "tóng xué",
+      "ru": "одноклассник; однокурсник",
+      "sentence": "这位___叫李文。",
+      "sentencePinyin": "Zhè wèi tóngxué jiào Lǐ Wén.",
+      "sentenceRu": "Этого одноклассника зовут Ли Вэнь."
+    },
+    {
+      "id": "zaijian",
+      "hanzi": "再见",
+      "pinyin": "zài jiàn",
+      "ru": "до свидания",
+      "sentence": "下课了，我对老师说：“___！”",
+      "sentencePinyin": "Xiàkè le, wǒ duì lǎoshī shuō: “Zàijiàn!”",
+      "sentenceRu": "После урока я говорю учителю: «До свидания!»"
+    }
+  ]
+}

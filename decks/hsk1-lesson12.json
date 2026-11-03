@@ -1,0 +1,243 @@
+{
+  "title": "HSK-1 · Урок 12",
+  "subtitle": "昨天下雪了 · Вчера шёл снег",
+  "source": "新HSK教程 1, урок 12, 生词 №1–24, печатные страницы 88, 89, 91; 天 включено в оба учебных значения",
+  "words": [
+    {
+      "id": "tianqi",
+      "hanzi": "天气",
+      "pinyin": "tiān qì",
+      "ru": "погода",
+      "sentence": "今天的___很好。",
+      "sentencePinyin": "Jīntiān de tiānqì hěn hǎo.",
+      "sentenceRu": "Сегодня хорошая погода."
+    },
+    {
+      "id": "zheli",
+      "hanzi": "这里",
+      "pinyin": "zhè lǐ",
+      "ru": "здесь; тут",
+      "sentence": "___冬天很冷。",
+      "sentencePinyin": "Zhèlǐ dōngtiān hěn lěng.",
+      "sentenceRu": "Здесь зимой холодно."
+    },
+    {
+      "id": "tian_weather",
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "ru": "погода; небо (в разговорных выражениях)",
+      "sentence": "外面的___很不好。",
+      "sentencePinyin": "Wàimiàn de tiān hěn bù hǎo.",
+      "sentenceRu": "На улице плохая погода.",
+      "quizExcludes": [
+        "tian_day"
+      ],
+      "audioNote": "В уроке 天 употребляется в значении «погода» (например, 天不好)."
+    },
+    {
+      "id": "xiayu",
+      "hanzi": "下雨",
+      "pinyin": "xià yǔ",
+      "ru": "идёт дождь",
+      "sentence": "外面正在___。",
+      "sentencePinyin": "Wàimiàn zhèngzài xià yǔ.",
+      "sentenceRu": "На улице сейчас идёт дождь."
+    },
+    {
+      "id": "le",
+      "hanzi": "了",
+      "pinyin": "le",
+      "ru": "частица изменения состояния",
+      "sentence": "下雪___，快回家吧。",
+      "sentencePinyin": "Xià xuě le, kuài huí jiā ba.",
+      "sentenceRu": "Пошёл снег, скорее домой!"
+    },
+    {
+      "id": "yu",
+      "hanzi": "雨",
+      "pinyin": "yǔ",
+      "ru": "дождь",
+      "sentence": "今天的___下得很大。",
+      "sentencePinyin": "Jīntiān de yǔ xià de hěn dà.",
+      "sentenceRu": "Сегодня идёт сильный дождь.",
+      "quizExcludes": [
+        "xue"
+      ]
+    },
+    {
+      "id": "youdianr",
+      "hanzi": "有点儿",
+      "pinyin": "yǒu diǎnr",
+      "ru": "немного; слегка (о нежелательном)",
+      "sentence": "今天___冷。",
+      "sentencePinyin": "Jīntiān yǒudiǎnr lěng.",
+      "sentenceRu": "Сегодня немного холодно."
+    },
+    {
+      "id": "juede",
+      "hanzi": "觉得",
+      "pinyin": "jué de",
+      "ru": "считать; чувствовать",
+      "sentence": "我___这里很漂亮。",
+      "sentencePinyin": "Wǒ juéde zhèlǐ hěn piàoliang.",
+      "sentenceRu": "Я считаю, что здесь красиво."
+    },
+    {
+      "id": "leng",
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "ru": "холодный; холодно",
+      "sentence": "今天太___了。",
+      "sentencePinyin": "Jīntiān tài lěng le.",
+      "sentenceRu": "Сегодня очень холодно.",
+      "quizExcludes": [
+        "re"
+      ]
+    },
+    {
+      "id": "xia",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "ru": "идти; выпадать (о снеге и дожде)",
+      "sentence": "昨晚___雪了。",
+      "sentencePinyin": "Zuówǎn xià xuě le.",
+      "sentenceRu": "Вчера вечером выпал снег."
+    },
+    {
+      "id": "xue",
+      "hanzi": "雪",
+      "pinyin": "xuě",
+      "ru": "снег",
+      "sentence": "冬天这里有很多___。",
+      "sentencePinyin": "Dōngtiān zhèlǐ yǒu hěn duō xuě.",
+      "sentenceRu": "Зимой здесь много снега.",
+      "quizExcludes": [
+        "yu"
+      ]
+    },
+    {
+      "id": "lai",
+      "hanzi": "来",
+      "pinyin": "lái",
+      "ru": "приходить; приезжать",
+      "sentence": "明天你能___吗？",
+      "sentencePinyin": "Míngtiān nǐ néng lái ma?",
+      "sentenceRu": "Ты сможешь прийти завтра?"
+    },
+    {
+      "id": "gongsi",
+      "hanzi": "公司",
+      "pinyin": "gōng sī",
+      "ru": "компания; фирма",
+      "sentence": "我爸爸在一家___工作。",
+      "sentencePinyin": "Wǒ bàba zài yì jiā gōngsī gōngzuò.",
+      "sentenceRu": "Мой папа работает в компании."
+    },
+    {
+      "id": "shengbing",
+      "hanzi": "生病",
+      "pinyin": "shēng bìng",
+      "ru": "болеть; заболеть",
+      "sentence": "他___了，今天不上班。",
+      "sentencePinyin": "Tā shēngbìng le, jīntiān bú shàngbān.",
+      "sentenceRu": "Он заболел и сегодня не работает."
+    },
+    {
+      "id": "kanbing",
+      "hanzi": "看病",
+      "pinyin": "kàn bìng",
+      "ru": "обращаться к врачу; лечиться",
+      "sentence": "身体不舒服就去医院___。",
+      "sentencePinyin": "Shēntǐ bù shūfu jiù qù yīyuàn kànbìng.",
+      "sentenceRu": "Если плохо себя чувствуешь, обратись в больницу."
+    },
+    {
+      "id": "bing",
+      "hanzi": "病",
+      "pinyin": "bìng",
+      "ru": "болеть; быть больным",
+      "sentence": "医生，我___了。",
+      "sentencePinyin": "Yīshēng, wǒ bìng le.",
+      "sentenceRu": "Доктор, я заболел."
+    },
+    {
+      "id": "yidianr",
+      "hanzi": "一点儿",
+      "pinyin": "yì diǎnr",
+      "ru": "немного; чуть-чуть",
+      "sentence": "请给我___热水。",
+      "sentencePinyin": "Qǐng gěi wǒ yì diǎnr rè shuǐ.",
+      "sentenceRu": "Дайте мне немного тёплой воды."
+    },
+    {
+      "id": "yao",
+      "hanzi": "药",
+      "pinyin": "yào",
+      "ru": "лекарство",
+      "sentence": "医生给我开了___。",
+      "sentencePinyin": "Yīshēng gěi wǒ kāi le yào.",
+      "sentenceRu": "Врач выписал мне лекарство."
+    },
+    {
+      "id": "tian_day",
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "ru": "день; сутки",
+      "sentence": "我休息了三___。",
+      "sentencePinyin": "Wǒ xiūxi le sān tiān.",
+      "sentenceRu": "Я отдыхал три дня.",
+      "quizExcludes": [
+        "tian_weather"
+      ],
+      "audioNote": "Здесь 天 означает «день» (например, 三天)."
+    },
+    {
+      "id": "hui",
+      "hanzi": "回",
+      "pinyin": "huí",
+      "ru": "возвращаться",
+      "sentence": "下课后我要___家。",
+      "sentencePinyin": "Xiàkè hòu wǒ yào huí jiā.",
+      "sentenceRu": "После занятий я возвращаюсь домой."
+    },
+    {
+      "id": "zai",
+      "hanzi": "再",
+      "pinyin": "zài",
+      "ru": "снова; ещё раз; затем",
+      "sentence": "明天___见吧。",
+      "sentencePinyin": "Míngtiān zài jiàn ba.",
+      "sentenceRu": "Давай увидимся снова завтра."
+    },
+    {
+      "id": "he",
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "ru": "пить",
+      "sentence": "我想___一杯水。",
+      "sentencePinyin": "Wǒ xiǎng hē yì bēi shuǐ.",
+      "sentenceRu": "Я хочу выпить стакан воды."
+    },
+    {
+      "id": "re",
+      "hanzi": "热",
+      "pinyin": "rè",
+      "ru": "горячий; тёплый",
+      "sentence": "请喝一些___水。",
+      "sentencePinyin": "Qǐng hē yìxiē rè shuǐ.",
+      "sentenceRu": "Выпей немного тёплой воды.",
+      "quizExcludes": [
+        "leng"
+      ]
+    },
+    {
+      "id": "shui",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "ru": "вода",
+      "sentence": "我每天都喝很多___。",
+      "sentencePinyin": "Wǒ měi tiān dōu hē hěn duō shuǐ.",
+      "sentenceRu": "Я каждый день пью много воды."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "title": "HSK-1 · Урок 5",
+  "subtitle": "今天我休息 · Сегодня я отдыхаю",
+  "source": "新HSK教程 1, урок 5, 生词 (без 专有名词), печатные страницы 28, 31, 32",
+  "words": [
+    {
+      "id": "jintian",
+      "hanzi": "今天",
+      "pinyin": "jīn tiān",
+      "ru": "сегодня",
+      "sentence": "___是星期三。",
+      "sentencePinyin": "Jīntiān shì xīngqīsān.",
+      "sentenceRu": "Сегодня среда."
+    },
+    {
+      "id": "hao",
+      "hanzi": "号",
+      "pinyin": "hào",
+      "ru": "число месяца; номер",
+      "sentence": "今天是五月十___。",
+      "sentencePinyin": "Jīntiān shì wǔ yuè shí hào.",
+      "sentenceRu": "Сегодня десятое мая."
+    },
+    {
+      "id": "yue",
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "ru": "месяц",
+      "sentence": "我的生日在八___。",
+      "sentencePinyin": "Wǒ de shēngrì zài bā yuè.",
+      "sentenceRu": "Мой день рождения в августе."
+    },
+    {
+      "id": "ri",
+      "hanzi": "日",
+      "pinyin": "rì",
+      "ru": "день; дата (официально)",
+      "sentence": "今天是六月一___。",
+      "sentencePinyin": "Jīntiān shì liù yuè yī rì.",
+      "sentenceRu": "Сегодня первое июня."
+    },
+    {
+      "id": "xingqi",
+      "hanzi": "星期",
+      "pinyin": "xīng qī",
+      "ru": "неделя",
+      "sentence": "一个___有七天。",
+      "sentencePinyin": "Yí ge xīngqī yǒu qī tiān.",
+      "sentenceRu": "В неделе семь дней."
+    },
+    {
+      "id": "xingqiri",
+      "hanzi": "星期日",
+      "pinyin": "xīng qī rì",
+      "ru": "воскресенье",
+      "sentence": "___我们不上课。",
+      "sentencePinyin": "Xīngqīrì wǒmen bú shàngkè.",
+      "sentenceRu": "В воскресенье у нас нет занятий.",
+      "quizExcludes": [
+        "xingqitian"
+      ]
+    },
+    {
+      "id": "xingqitian",
+      "hanzi": "星期天",
+      "pinyin": "xīng qī tiān",
+      "ru": "воскресенье (разговорное)",
+      "sentence": "这个___我去看朋友。",
+      "sentencePinyin": "Zhège xīngqītiān wǒ qù kàn péngyou.",
+      "sentenceRu": "В это воскресенье я навещу друга.",
+      "quizExcludes": [
+        "xingqiri"
+      ]
+    },
+    {
+      "id": "xiuxi",
+      "hanzi": "休息",
+      "pinyin": "xiū xi",
+      "ru": "отдыхать; отдых",
+      "sentence": "工作以后我要___一下。",
+      "sentencePinyin": "Gōngzuò yǐhòu wǒ yào xiūxi yí xià.",
+      "sentenceRu": "После работы я хочу немного отдохнуть."
+    },
+    {
+      "id": "hui",
+      "hanzi": "会",
+      "pinyin": "huì",
+      "ru": "уметь; мочь (приобретённый навык)",
+      "sentence": "我___说一点儿汉语。",
+      "sentencePinyin": "Wǒ huì shuō yì diǎnr Hànyǔ.",
+      "sentenceRu": "Я немного умею говорить по-китайски."
+    },
+    {
+      "id": "zuofan",
+      "hanzi": "做饭",
+      "pinyin": "zuò fàn",
+      "ru": "готовить еду",
+      "sentence": "爸爸喜欢在家___。",
+      "sentencePinyin": "Bàba xǐhuan zài jiā zuòfàn.",
+      "sentenceRu": "Папа любит готовить дома."
+    },
+    {
+      "id": "zuo",
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "ru": "делать; готовить",
+      "sentence": "我们一起___晚饭吧。",
+      "sentencePinyin": "Wǒmen yìqǐ zuò wǎnfàn ba.",
+      "sentenceRu": "Давай вместе приготовим ужин."
+    },
+    {
+      "id": "miantiaor",
+      "hanzi": "面条儿",
+      "pinyin": "miàn tiáor",
+      "ru": "лапша",
+      "sentence": "我想吃一碗___。",
+      "sentencePinyin": "Wǒ xiǎng chī yì wǎn miàntiáor.",
+      "sentenceRu": "Хочу съесть миску лапши."
+    },
+    {
+      "id": "jiaozi",
+      "hanzi": "饺子",
+      "pinyin": "jiǎo zi",
+      "ru": "китайские пельмени; цзяоцзы",
+      "sentence": "我们今天晚上吃___。",
+      "sentencePinyin": "Wǒmen jīntiān wǎnshang chī jiǎozi.",
+      "sentenceRu": "Сегодня вечером мы едим цзяоцзы."
+    },
+    {
+      "id": "yixie",
+      "hanzi": "一些",
+      "pinyin": "yì xiē",
+      "ru": "несколько; немного",
+      "sentence": "请买___水果回来。",
+      "sentencePinyin": "Qǐng mǎi yìxiē shuǐguǒ huílai.",
+      "sentenceRu": "Купи, пожалуйста, немного фруктов."
+    },
+    {
+      "id": "cai",
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "ru": "блюдо; овощи",
+      "sentence": "妈妈做的___很好吃。",
+      "sentencePinyin": "Māma zuò de cài hěn hǎochī.",
+      "sentenceRu": "Мама очень вкусно готовит."
+    },
+    {
+      "id": "xiaban",
+      "hanzi": "下班",
+      "pinyin": "xià bān",
+      "ru": "заканчивать рабочий день",
+      "sentence": "我六点___回家。",
+      "sentencePinyin": "Wǒ liù diǎn xiàbān huí jiā.",
+      "sentenceRu": "Я заканчиваю работу в шесть и иду домой."
+    },
+    {
+      "id": "xin",
+      "hanzi": "新",
+      "pinyin": "xīn",
+      "ru": "новый",
+      "sentence": "这是我买的___电脑。",
+      "sentencePinyin": "Zhè shì wǒ mǎi de xīn diànnǎo.",
+      "sentenceRu": "Это мой новый компьютер."
+    },
+    {
+      "id": "diannao",
+      "hanzi": "电脑",
+      "pinyin": "diàn nǎo",
+      "ru": "компьютер",
+      "sentence": "这台___是新的。",
+      "sentencePinyin": "Zhè tái diànnǎo shì xīn de.",
+      "sentenceRu": "Этот компьютер новый."
+    },
+    {
+      "id": "zhen",
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "ru": "действительно; очень",
+      "sentence": "你做的菜___好吃！",
+      "sentencePinyin": "Nǐ zuò de cài zhēn hǎochī!",
+      "sentenceRu": "Ты действительно вкусно готовишь!"
+    },
+    {
+      "id": "haokan",
+      "hanzi": "好看",
+      "pinyin": "hǎo kàn",
+      "ru": "красивый; хорошо выглядеть",
+      "sentence": "这件衣服很___。",
+      "sentencePinyin": "Zhè jiàn yīfu hěn hǎokàn.",
+      "sentenceRu": "Эта одежда очень красивая."
+    },
+    {
+      "id": "xihuan",
+      "hanzi": "喜欢",
+      "pinyin": "xǐ huan",
+      "ru": "нравиться; любить",
+      "sentence": "我___喝茶。",
+      "sentencePinyin": "Wǒ xǐhuan hē chá.",
+      "sentenceRu": "Я люблю пить чай."
+    },
+    {
+      "id": "ta",
+      "hanzi": "它",
+      "pinyin": "tā",
+      "ru": "оно; он/она о предмете или животном",
+      "sentence": "这是我的小猫，___很可爱。",
+      "sentencePinyin": "Zhè shì wǒ de xiǎo māo, tā hěn kě'ài.",
+      "sentenceRu": "Это мой котёнок, он очень милый."
+    }
+  ]
+}
