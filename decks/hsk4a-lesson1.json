@@ -319,7 +319,9 @@
       "sentence": "我希望以后___医生。",
       "sentencePinyin": "Wǒ xīwàng yǐhòu dāng yīshēng.",
       "sentenceRu": "Я надеюсь в будущем стать врачом.",
-      "id": "dang"
+      "id": "dang",
+      "audioText": "当老师",
+      "audioNote": "Здесь 当 читается dāng — «работать кем-либо»; для озвучки использован контекст 当老师."
     },
     {
       "hanzi": "教育",
