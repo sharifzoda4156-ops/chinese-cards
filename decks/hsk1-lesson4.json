@@ -19,7 +19,10 @@
       "ru": "сколько; какое количество",
       "sentence": "你们班有___个学生？",
       "sentencePinyin": "Nǐmen bān yǒu duōshao ge xuésheng?",
-      "sentenceRu": "Сколько учеников в вашем классе?"
+      "sentenceRu": "Сколько учеников в вашем классе?",
+      "quizExcludes": [
+        "ji"
+      ]
     },
     {
       "id": "ge",
@@ -73,7 +76,10 @@
       "ru": "сколько (обычно небольшое количество)",
       "sentence": "你有___本书？",
       "sentencePinyin": "Nǐ yǒu jǐ běn shū?",
-      "sentenceRu": "Сколько у тебя книг?"
+      "sentenceRu": "Сколько у тебя книг?",
+      "quizExcludes": [
+        "duoshao"
+      ]
     },
     {
       "id": "kou",
