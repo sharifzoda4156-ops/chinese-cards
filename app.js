@@ -142,7 +142,7 @@
   // Не полагаемся на порядок разделов в catalog.json.
   function sortedSections() {
     const level = (group) => {
-      const match = /^hsk(\\d+)$/i.exec(group.id || '');
+      const match = /^hsk([0-9]+)$/i.exec(group.id || '');
       return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER;
     };
     return [...catalog.sections].sort((a, b) => level(a) - level(b));
