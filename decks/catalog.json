@@ -106,22 +106,30 @@
         {
           "id": "lesson15",
           "title": "Урок 15",
-          "available": false
+          "available": true,
+          "subtitle": "Я почти наполовину житель Нанкина",
+          "wordCount": 24
         },
         {
           "id": "lesson16",
           "title": "Урок 16",
-          "available": false
+          "available": true,
+          "subtitle": "Я слышал, что некоторые панды уехали за границу",
+          "wordCount": 26
         },
         {
           "id": "lesson17",
           "title": "Урок 17",
-          "available": false
+          "available": true,
+          "subtitle": "Хочу больше учиться у старательных людей",
+          "wordCount": 27
         },
         {
           "id": "lesson18",
           "title": "Урок 18",
-          "available": false
+          "available": true,
+          "subtitle": "Я научился лепить цзяоцзы",
+          "wordCount": 28
         }
       ]
     }
