@@ -37,7 +37,10 @@
       "sentence": "办理手续时请带好___。",
       "sentencePinyin": "Bànlǐ shǒuxù shí qǐng dài hǎo zhèngjiàn.",
       "sentenceRu": "При оформлении возьмите необходимые документы.",
-      "id": "zhengjian"
+      "id": "zhengjian",
+      "quizExcludes": [
+        "cailiao"
+      ]
     },
     {
       "hanzi": "材料",
@@ -46,7 +49,10 @@
       "sentence": "申请学校需要准备哪些___？",
       "sentencePinyin": "Shēnqǐng xuéxiào xūyào zhǔnbèi nǎxiē cáiliào?",
       "sentenceRu": "Какие документы нужны для подачи заявления в учебное заведение?",
-      "id": "cailiao"
+      "id": "cailiao",
+      "quizExcludes": [
+        "zhengjian"
+      ]
     },
     {
       "hanzi": "证",
@@ -145,7 +151,10 @@
       "sentence": "他对___方面的问题很感兴趣。",
       "sentencePinyin": "Tā duì jīngjì fāngmiàn de wèntí hěn gǎn xìngqù.",
       "sentenceRu": "Он интересуется вопросами экономики.",
-      "id": "jingji"
+      "id": "jingji",
+      "quizExcludes": [
+        "maoyi"
+      ]
     },
     {
       "hanzi": "压力",
@@ -208,7 +217,11 @@
       "sentence": "大学毕业后，他想读___。",
       "sentencePinyin": "Dàxué bìyè hòu, tā xiǎng dú shuòshì.",
       "sentenceRu": "После окончания университета он хочет поступить в магистратуру.",
-      "id": "shuoshi"
+      "id": "shuoshi",
+      "quizExcludes": [
+        "yanjiusheng",
+        "boshi"
+      ]
     },
     {
       "hanzi": "研究生",
@@ -217,7 +230,11 @@
       "sentence": "他是一名___，正在写论文。",
       "sentencePinyin": "Tā shì yì míng yánjiūshēng, zhèngzài xiě lùnwén.",
       "sentenceRu": "Он учится в магистратуре и пишет научную работу.",
-      "id": "yanjiusheng"
+      "id": "yanjiusheng",
+      "quizExcludes": [
+        "shuoshi",
+        "boshi"
+      ]
     },
     {
       "hanzi": "博士",
@@ -226,7 +243,11 @@
       "sentence": "她正在攻读___学位。",
       "sentencePinyin": "Tā zhèngzài gōngdú bóshì xuéwèi.",
       "sentenceRu": "Она учится на докторскую степень.",
-      "id": "boshi"
+      "id": "boshi",
+      "quizExcludes": [
+        "shuoshi",
+        "yanjiusheng"
+      ]
     },
     {
       "hanzi": "研究",
@@ -334,7 +355,10 @@
       "sentence": "他在大学学习国际___。",
       "sentencePinyin": "Tā zài dàxué xuéxí guójì màoyì.",
       "sentenceRu": "В университете он изучает международную торговлю.",
-      "id": "maoyi"
+      "id": "maoyi",
+      "quizExcludes": [
+        "jingji"
+      ]
     },
     {
       "hanzi": "方面",
@@ -343,7 +367,10 @@
       "sentence": "这本书介绍了中国文化的很多___。",
       "sentencePinyin": "Zhè běn shū jièshào le Zhōngguó wénhuà de hěn duō fāngmiàn.",
       "sentenceRu": "В книге рассматривается много аспектов китайской культуры.",
-      "id": "fangmian"
+      "id": "fangmian",
+      "quizExcludes": [
+        "zhishi"
+      ]
     },
     {
       "hanzi": "知识",
@@ -352,7 +379,10 @@
       "sentence": "学语言也能增加文化___。",
       "sentencePinyin": "Xué yǔyán yě néng zēngjiā wénhuà zhīshi.",
       "sentenceRu": "Изучение языка помогает расширить культурные знания.",
-      "id": "zhishi"
+      "id": "zhishi",
+      "quizExcludes": [
+        "fangmian"
+      ]
     },
     {
       "hanzi": "另",
