@@ -1,0 +1,115 @@
+{
+  "title": "HSK-2 · Урок 14",
+  "subtitle": "一个人过年多没意思啊 · Как скучно встречать Новый год одному",
+  "source": "新HSK教程 2, урок 14, 生词 № 1–12, печатные страницы 122, 124, 126, 128; имена собственные исключены",
+  "words": [
+    {
+      "id": "zhan",
+      "hanzi": "站",
+      "pinyin": "zhàn",
+      "ru": "стоять; встать",
+      "sentence": "一个人___在我家门口。",
+      "sentencePinyin": "Yí ge rén zhàn zài wǒ jiā ménkǒu.",
+      "sentenceRu": "Один человек стоит у входа в мой дом."
+    },
+    {
+      "id": "bao",
+      "hanzi": "包",
+      "pinyin": "bāo",
+      "ru": "сумка; пакет; свёрток",
+      "sentence": "我的___里有一本书。",
+      "sentencePinyin": "Wǒ de bāo lǐ yǒu yì běn shū.",
+      "sentenceRu": "В моей сумке лежит книга."
+    },
+    {
+      "id": "guonian",
+      "hanzi": "过年",
+      "pinyin": "guò nián",
+      "ru": "отмечать китайский Новый год",
+      "sentence": "春节我们全家一起___。",
+      "sentencePinyin": "Chūnjié wǒmen quánjiā yìqǐ guònián.",
+      "sentenceRu": "На китайский Новый год мы празднуем всей семьёй."
+    },
+    {
+      "id": "meiyisi",
+      "hanzi": "没意思",
+      "pinyin": "méi yì si",
+      "ru": "скучно; неинтересно",
+      "sentence": "一个人看电影太___了。",
+      "sentencePinyin": "Yí ge rén kàn diànyǐng tài méi yìsi le.",
+      "sentenceRu": "Одному смотреть фильм слишком скучно."
+    },
+    {
+      "id": "wei",
+      "hanzi": "位",
+      "pinyin": "wèi",
+      "ru": "вежливое счётное слово для людей",
+      "sentence": "我们班来了两___新老师。",
+      "sentencePinyin": "Wǒmen bān lái le liǎng wèi xīn lǎoshī.",
+      "sentenceRu": "К нам пришли два новых преподавателя."
+    },
+    {
+      "id": "qianmian",
+      "hanzi": "前面",
+      "pinyin": "qián mian",
+      "ru": "впереди; перед",
+      "sentence": "银行就在商场的___。",
+      "sentencePinyin": "Yínháng jiù zài shāngchǎng de qiánmian.",
+      "sentenceRu": "Банк находится перед торговым центром."
+    },
+    {
+      "id": "fangzi",
+      "hanzi": "房子",
+      "pinyin": "fáng zi",
+      "ru": "дом; квартира; помещение",
+      "sentence": "他们买了一套新___。",
+      "sentencePinyin": "Tāmen mǎi le yí tào xīn fángzi.",
+      "sentenceRu": "Они купили новую квартиру."
+    },
+    {
+      "id": "xiaohair",
+      "hanzi": "小孩儿",
+      "pinyin": "xiǎo háir",
+      "ru": "ребёнок",
+      "sentence": "这个___喜欢画画。",
+      "sentencePinyin": "Zhège xiǎoháir xǐhuan huàhuà.",
+      "sentenceRu": "Этот ребёнок любит рисовать."
+    },
+    {
+      "id": "nuhair",
+      "hanzi": "女孩儿",
+      "pinyin": "nǚ háir",
+      "ru": "девочка",
+      "sentence": "那个___在学汉语。",
+      "sentencePinyin": "Nà ge nǚháir zài xué Hànyǔ.",
+      "sentenceRu": "Та девочка изучает китайский."
+    },
+    {
+      "id": "xing",
+      "hanzi": "姓",
+      "pinyin": "xìng",
+      "ru": "фамилия; носить фамилию",
+      "sentence": "请问，您___什么？",
+      "sentencePinyin": "Qǐngwèn, nín xìng shénme?",
+      "sentenceRu": "Скажите, пожалуйста, ваша фамилия?"
+    },
+    {
+      "id": "yanjing",
+      "hanzi": "眼睛",
+      "pinyin": "yǎn jing",
+      "ru": "глаза",
+      "sentence": "她的___很大。",
+      "sentencePinyin": "Tā de yǎnjing hěn dà.",
+      "sentenceRu": "У неё большие глаза."
+    },
+    {
+      "id": "tiaowu",
+      "hanzi": "跳舞",
+      "pinyin": "tiào wǔ",
+      "ru": "танцевать",
+      "sentence": "她喜欢唱歌，也喜欢___。",
+      "sentencePinyin": "Tā xǐhuan chànggē, yě xǐhuan tiàowǔ.",
+      "sentenceRu": "Она любит петь и танцевать."
+    }
+  ]
+}
