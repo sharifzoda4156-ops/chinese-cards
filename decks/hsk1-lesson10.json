@@ -58,7 +58,10 @@
       "ru": "юань (разговорная денежная единица)",
       "sentence": "这个杯子十___钱。",
       "sentencePinyin": "Zhège bēizi shí kuài qián.",
-      "sentenceRu": "Эта чашка стоит десять юаней."
+      "sentenceRu": "Эта чашка стоит десять юаней.",
+      "quizExcludes": [
+        "yuan"
+      ]
     },
     {
       "id": "naxie",
@@ -79,7 +82,10 @@
       "ru": "здесь; сюда",
       "sentence": "___有很多水果。",
       "sentencePinyin": "Zhèr yǒu hěn duō shuǐguǒ.",
-      "sentenceRu": "Здесь много фруктов."
+      "sentenceRu": "Здесь много фруктов.",
+      "quizExcludes": [
+        "nar"
+      ]
     },
     {
       "id": "shuiguo",
@@ -160,7 +166,10 @@
       "ru": "юань (денежная единица)",
       "sentence": "这本书二十___。",
       "sentencePinyin": "Zhè běn shū èrshí yuán.",
-      "sentenceRu": "Эта книга стоит двадцать юаней."
+      "sentenceRu": "Эта книга стоит двадцать юаней.",
+      "quizExcludes": [
+        "kuai"
+      ]
     },
     {
       "id": "zenmeyang",
@@ -214,7 +223,10 @@
       "ru": "там; туда",
       "sentence": "___的衣服比较便宜。",
       "sentencePinyin": "Nàr de yīfu bǐjiào piányi.",
-      "sentenceRu": "Там одежда немного дешевле."
+      "sentenceRu": "Там одежда немного дешевле.",
+      "quizExcludes": [
+        "zher"
+      ]
     }
   ]
 }
