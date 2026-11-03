@@ -138,10 +138,20 @@
     return null;
   }
 
+  // Уровни показываются по номеру: HSK-1, HSK-2, HSK-3, HSK-4 и т. д.
+  // Не полагаемся на порядок разделов в catalog.json.
+  function sortedSections() {
+    const level = (group) => {
+      const match = /^hsk([0-9]+)$/i.exec(group.id || '');
+      return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER;
+    };
+    return [...catalog.sections].sort((a, b) => level(a) - level(b));
+  }
+
   function renderSections() {
     const box = $('sections');
     box.replaceChildren();
-    catalog.sections.forEach((group) => {
+    sortedSections().forEach((group) => {
       const button = document.createElement('button');
       button.className = 'catalog-item';
       const ready = group.lessons.filter((lesson) => lesson.available).length;
@@ -170,7 +180,7 @@
 
   function returnToLessons() {
     ++deckLoadToken; // ignore a response from a lesson the user has already left
-    openSection(section || catalog.sections[0]);
+    openSection(section || sortedSections()[0]);
   }
 
   async function loadCatalog() {
@@ -183,7 +193,7 @@
       catalog = await res.json();
       renderSections();
       show('start');
-      $('catalog-status').textContent = 'HSK-3 · уроки 1–18';
+      $('catalog-status').textContent = 'Выберите уровень HSK';
       $('btn-start').disabled = false;
       const id = pickDeckId();
       if (id) await loadDeck(id);
