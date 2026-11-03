@@ -1,0 +1,133 @@
+{
+  "title": "HSK-2 · Урок 1",
+  "subtitle": "她请我们吃了北京烤鸭 · Она угостила нас пекинской уткой",
+  "source": "新HSK教程 2, урок 1, 生词 № 1–14, печатные страницы 2, 4, 5, 7 (PDF-страницы 18, 20, 21, 23); имя собственное 北京烤鸭 исключено",
+  "words": [
+    {
+      "id": "jiu",
+      "hanzi": "就",
+      "pinyin": "jiù",
+      "ru": "именно; как раз; прямо",
+      "sentence": "我___在学校门口等你。",
+      "sentencePinyin": "Wǒ jiù zài xuéxiào ménkǒu děng nǐ.",
+      "sentenceRu": "Я буду ждать тебя прямо у входа в школу."
+    },
+    {
+      "id": "gei",
+      "hanzi": "给",
+      "pinyin": "gěi",
+      "ru": "для; кому-либо (указывает получателя действия)",
+      "sentence": "这是我___你买的礼物。",
+      "sentencePinyin": "Zhè shì wǒ gěi nǐ mǎi de lǐwù.",
+      "sentenceRu": "Это подарок, который я купил для тебя."
+    },
+    {
+      "id": "rang",
+      "hanzi": "让",
+      "pinyin": "ràng",
+      "ru": "позволять; разрешать",
+      "sentence": "请___我帮你拿箱子。",
+      "sentencePinyin": "Qǐng ràng wǒ bāng nǐ ná xiāngzi.",
+      "sentenceRu": "Позволь мне помочь тебе нести чемодан."
+    },
+    {
+      "id": "jie",
+      "hanzi": "接",
+      "pinyin": "jiē",
+      "ru": "встречать; забирать кого-либо",
+      "sentence": "爸爸去机场___从上海来的朋友。",
+      "sentencePinyin": "Bàba qù jīchǎng jiē cóng Shànghǎi lái de péngyou.",
+      "sentenceRu": "Папа поехал в аэропорт встречать друга из Шанхая."
+    },
+    {
+      "id": "ci",
+      "hanzi": "次",
+      "pinyin": "cì",
+      "ru": "раз; счётное слово для повторяющихся действий",
+      "sentence": "我去年去了北京两___。",
+      "sentencePinyin": "Wǒ qùnián qù le Běijīng liǎng cì.",
+      "sentenceRu": "В прошлом году я дважды ездил в Пекин."
+    },
+    {
+      "id": "lvyou",
+      "hanzi": "旅游",
+      "pinyin": "lǚ yóu",
+      "ru": "путешествовать; ездить на экскурсию",
+      "sentence": "暑假我们打算去中国___。",
+      "sentencePinyin": "Shǔjià wǒmen dǎsuàn qù Zhōngguó lǚyóu.",
+      "sentenceRu": "На летних каникулах мы собираемся путешествовать по Китаю."
+    },
+    {
+      "id": "bangmang",
+      "hanzi": "帮忙",
+      "pinyin": "bāng máng",
+      "ru": "помогать; оказать помощь",
+      "sentence": "这些书太重了，你能来___吗？",
+      "sentencePinyin": "Zhèxiē shū tài zhòng le, nǐ néng lái bāngmáng ma?",
+      "sentenceRu": "Эти книги слишком тяжёлые. Можешь помочь?"
+    },
+    {
+      "id": "buhaoyisi",
+      "hanzi": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "ru": "неловко; извините",
+      "sentence": "___，我把你的名字写错了。",
+      "sentencePinyin": "Bù hǎoyìsi, wǒ bǎ nǐ de míngzi xiě cuò le.",
+      "sentenceRu": "Извини, я неправильно написал твоё имя."
+    },
+    {
+      "id": "yijing",
+      "hanzi": "已经",
+      "pinyin": "yǐ jīng",
+      "ru": "уже",
+      "sentence": "我___做完作业了。",
+      "sentencePinyin": "Wǒ yǐjīng zuò wán zuòyè le.",
+      "sentenceRu": "Я уже закончил домашнее задание."
+    },
+    {
+      "id": "na",
+      "hanzi": "那",
+      "pinyin": "nà",
+      "ru": "тогда; в таком случае",
+      "sentence": "你今天很忙吗？___我们明天见吧。",
+      "sentencePinyin": "Nǐ jīntiān hěn máng ma? Nà wǒmen míngtiān jiàn ba.",
+      "sentenceRu": "Ты сегодня занят? Тогда увидимся завтра."
+    },
+    {
+      "id": "jieshao",
+      "hanzi": "介绍",
+      "pinyin": "jiè shào",
+      "ru": "представлять; знакомить; рассказывать о чём-либо",
+      "sentence": "请你___一下你的新同学。",
+      "sentencePinyin": "Qǐng nǐ jièshào yí xià nǐ de xīn tóngxué.",
+      "sentenceRu": "Познакомь нас, пожалуйста, с новым одноклассником."
+    },
+    {
+      "id": "youshi",
+      "hanzi": "有时",
+      "pinyin": "yǒu shí",
+      "ru": "иногда",
+      "sentence": "我___坐地铁上班，有时骑自行车。",
+      "sentencePinyin": "Wǒ yǒushí zuò dìtiě shàngbān, yǒushí qí zìxíngchē.",
+      "sentenceRu": "Иногда езжу на работу на метро, иногда на велосипеде."
+    },
+    {
+      "id": "dong",
+      "hanzi": "懂",
+      "pinyin": "dǒng",
+      "ru": "понимать; разбираться",
+      "sentence": "这个句子太难了，我看不___。",
+      "sentencePinyin": "Zhège jùzi tài nán le, wǒ kàn bu dǒng.",
+      "sentenceRu": "Это предложение слишком сложное, я не могу его понять."
+    },
+    {
+      "id": "yisi",
+      "hanzi": "意思",
+      "pinyin": "yì si",
+      "ru": "значение; смысл",
+      "sentence": "这个汉字是什么___？",
+      "sentencePinyin": "Zhège Hànzì shì shénme yìsi?",
+      "sentenceRu": "Что означает этот иероглиф?"
+    }
+  ]
+}
