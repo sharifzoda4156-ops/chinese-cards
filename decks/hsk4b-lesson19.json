@@ -1,0 +1,385 @@
+{
+  "title": "HSK-4B · Урок 19",
+  "subtitle": "他们都很棒 · Они все молодцы",
+  "source": "《新HSK教程 4 下》, урок 19, 生词 №1–40, PDF страницы 104, 107, 108, 110 (печатные 100, 103, 104, 106)",
+  "words": [
+    {
+      "hanzi": "话剧",
+      "pinyin": "huà jù",
+      "ru": "драматический спектакль; пьеса",
+      "sentence": "学校准备演一出___。",
+      "sentencePinyin": "Xuéxiào zhǔnbèi yǎn yì chū huàjù.",
+      "sentenceRu": "Школа готовится поставить пьесу.",
+      "id": "huaju"
+    },
+    {
+      "hanzi": "排",
+      "pinyin": "pái",
+      "ru": "репетировать; разучивать",
+      "sentence": "学生们正在___新话剧。",
+      "sentencePinyin": "Xuéshengmen zhèngzài pái xīn huàjù.",
+      "sentenceRu": "Ученики репетируют новую пьесу.",
+      "id": "pai"
+    },
+    {
+      "hanzi": "艺术",
+      "pinyin": "yì shù",
+      "ru": "искусство",
+      "sentence": "她从小就喜欢___。",
+      "sentencePinyin": "Tā cóng xiǎo jiù xǐhuan yìshù.",
+      "sentenceRu": "Она с детства любит искусство.",
+      "id": "yishu"
+    },
+    {
+      "hanzi": "内心",
+      "pinyin": "nèi xīn",
+      "ru": "внутренний мир; душа",
+      "sentence": "虽然紧张，她___仍然很平静。",
+      "sentencePinyin": "Suīrán jǐnzhāng, tā nèixīn réngrán hěn píngjìng.",
+      "sentenceRu": "Хотя она волновалась, в душе оставалась спокойной.",
+      "id": "neixin"
+    },
+    {
+      "hanzi": "自信",
+      "pinyin": "zì xìn",
+      "ru": "уверенность в себе; уверенный",
+      "sentence": "老师鼓励她更加___。",
+      "sentencePinyin": "Lǎoshī gǔlì tā gèngjiā zìxìn.",
+      "sentenceRu": "Учитель поощряет её быть увереннее.",
+      "id": "zixin"
+    },
+    {
+      "hanzi": "少年",
+      "pinyin": "shào nián",
+      "ru": "подросток; юноша",
+      "sentence": "这个___非常喜欢唱歌。",
+      "sentencePinyin": "Zhège shàonián fēicháng xǐhuan chànggē.",
+      "sentenceRu": "Этот юноша очень любит петь.",
+      "id": "shaonian"
+    },
+    {
+      "hanzi": "歌手",
+      "pinyin": "gē shǒu",
+      "ru": "певец; певица",
+      "sentence": "他的梦想是当一名___。",
+      "sentencePinyin": "Tā de mèngxiǎng shì dāng yì míng gēshǒu.",
+      "sentenceRu": "Он мечтает стать певцом.",
+      "id": "geshou"
+    },
+    {
+      "hanzi": "歌声",
+      "pinyin": "gē shēng",
+      "ru": "голос певца; пение",
+      "sentence": "她的___非常动听。",
+      "sentencePinyin": "Tā de gēshēng fēicháng dòngtīng.",
+      "sentenceRu": "У неё очень красивый певческий голос.",
+      "id": "gesheng"
+    },
+    {
+      "hanzi": "度假",
+      "pinyin": "dù jià",
+      "ru": "проводить отпуск",
+      "sentence": "暑假我想去海边___。",
+      "sentencePinyin": "Shǔjià wǒ xiǎng qù hǎibiān dùjià.",
+      "sentenceRu": "На летних каникулах хочу отдохнуть на море.",
+      "id": "dujia"
+    },
+    {
+      "hanzi": "演员",
+      "pinyin": "yǎn yuán",
+      "ru": "актёр; исполнитель",
+      "sentence": "这位___的表演很精彩。",
+      "sentencePinyin": "Zhè wèi yǎnyuán de biǎoyǎn hěn jīngcǎi.",
+      "sentenceRu": "Этот актёр прекрасно выступает.",
+      "id": "yanyuan",
+      "quizExcludes": [
+        "yanchang"
+      ]
+    },
+    {
+      "hanzi": "演唱",
+      "pinyin": "yǎn chàng",
+      "ru": "исполнять песню; петь на сцене",
+      "sentence": "歌手今晚要___三首歌。",
+      "sentencePinyin": "Gēshǒu jīnwǎn yào yǎnchàng sān shǒu gē.",
+      "sentenceRu": "Сегодня вечером певец исполнит три песни.",
+      "id": "yanchang",
+      "quizExcludes": [
+        "yanyuan"
+      ]
+    },
+    {
+      "hanzi": "留下",
+      "pinyin": "liú xià",
+      "ru": "оставлять после себя; оставаться",
+      "sentence": "这次旅行给我___了美好回忆。",
+      "sentencePinyin": "Zhè cì lǚxíng gěi wǒ liúxià le měihǎo huíyì.",
+      "sentenceRu": "Эта поездка оставила у меня прекрасные воспоминания.",
+      "id": "liuxia"
+    },
+    {
+      "hanzi": "青年",
+      "pinyin": "qīng nián",
+      "ru": "молодой человек; молодёжь",
+      "sentence": "越来越多___喜欢中国文化。",
+      "sentencePinyin": "Yuè lái yuè duō qīngnián xǐhuan Zhōngguó wénhuà.",
+      "sentenceRu": "Всё больше молодых людей интересуются китайской культурой.",
+      "id": "qingnian"
+    },
+    {
+      "hanzi": "观众",
+      "pinyin": "guān zhòng",
+      "ru": "зритель; аудитория",
+      "sentence": "___们为演员鼓掌。",
+      "sentencePinyin": "Guānzhòngmen wèi yǎnyuán gǔzhǎng.",
+      "sentenceRu": "Зрители аплодируют актёрам.",
+      "id": "guanzhong"
+    },
+    {
+      "hanzi": "功课",
+      "pinyin": "gōng kè",
+      "ru": "уроки; домашняя подготовка",
+      "sentence": "演出前必须做好___。",
+      "sentencePinyin": "Yǎnchū qián bìxū zuò hǎo gōngkè.",
+      "sentenceRu": "Перед выступлением нужно тщательно подготовиться.",
+      "id": "gongke"
+    },
+    {
+      "hanzi": "转发",
+      "pinyin": "zhuǎn fā",
+      "ru": "пересылать; делиться публикацией",
+      "sentence": "请把这条消息___给朋友。",
+      "sentencePinyin": "Qǐng bǎ zhè tiáo xiāoxi zhuǎnfā gěi péngyou.",
+      "sentenceRu": "Перешли это сообщение другу.",
+      "id": "zhuanfa"
+    },
+    {
+      "hanzi": "入口",
+      "pinyin": "rù kǒu",
+      "ru": "вход",
+      "sentence": "剧院的___在右边。",
+      "sentencePinyin": "Jùyuàn de rùkǒu zài yòubian.",
+      "sentenceRu": "Вход в театр находится справа.",
+      "id": "rukou"
+    },
+    {
+      "hanzi": "入",
+      "pinyin": "rù",
+      "ru": "входить; вступать",
+      "sentence": "演出开始以后不能___场。",
+      "sentencePinyin": "Yǎnchū kāishǐ yǐhòu bù néng rùchǎng.",
+      "sentenceRu": "После начала спектакля входить в зал нельзя.",
+      "id": "ru"
+    },
+    {
+      "hanzi": "指",
+      "pinyin": "zhǐ",
+      "ru": "указывать; показывать пальцем",
+      "sentence": "老师___着地图介绍城市。",
+      "sentencePinyin": "Lǎoshī zhǐ zhe dìtú jièshào chéngshì.",
+      "sentenceRu": "Учитель показывает на карту и рассказывает о городе.",
+      "id": "zhi"
+    },
+    {
+      "hanzi": "功夫",
+      "pinyin": "gōng fu",
+      "ru": "мастерство; умение; усилия",
+      "sentence": "这个演员的___很深。",
+      "sentencePinyin": "Zhège yǎnyuán de gōngfu hěn shēn.",
+      "sentenceRu": "У этого актёра большое мастерство.",
+      "id": "gongfu"
+    },
+    {
+      "hanzi": "获奖",
+      "pinyin": "huò jiǎng",
+      "ru": "получать награду",
+      "sentence": "这部作品去年___了。",
+      "sentencePinyin": "Zhè bù zuòpǐn qùnián huòjiǎng le.",
+      "sentenceRu": "В прошлом году это произведение получило премию.",
+      "id": "huojiang",
+      "quizExcludes": [
+        "jiang"
+      ]
+    },
+    {
+      "hanzi": "奖",
+      "pinyin": "jiǎng",
+      "ru": "награда; приз",
+      "sentence": "他获得了一个重要的___。",
+      "sentencePinyin": "Tā huòdé le yí ge zhòngyào de jiǎng.",
+      "sentenceRu": "Он получил важную награду.",
+      "id": "jiang",
+      "quizExcludes": [
+        "huojiang"
+      ]
+    },
+    {
+      "hanzi": "期待",
+      "pinyin": "qī dài",
+      "ru": "ожидать с нетерпением",
+      "sentence": "我非常___周末的演出。",
+      "sentencePinyin": "Wǒ fēicháng qīdài zhōumò de yǎnchū.",
+      "sentenceRu": "Я с нетерпением жду выступления в выходные.",
+      "id": "qidai"
+    },
+    {
+      "hanzi": "鼓掌",
+      "pinyin": "gǔ zhǎng",
+      "ru": "хлопать в ладоши; аплодировать",
+      "sentence": "演出结束时大家一起___。",
+      "sentencePinyin": "Yǎnchū jiéshù shí dàjiā yìqǐ gǔzhǎng.",
+      "sentenceRu": "По окончании спектакля все аплодировали.",
+      "id": "guzhang"
+    },
+    {
+      "hanzi": "邀请",
+      "pinyin": "yāo qǐng",
+      "ru": "приглашать",
+      "sentence": "他___我去看话剧。",
+      "sentencePinyin": "Tā yāoqǐng wǒ qù kàn huàjù.",
+      "sentenceRu": "Он пригласил меня на спектакль.",
+      "id": "yaoqing"
+    },
+    {
+      "hanzi": "庆祝",
+      "pinyin": "qìng zhù",
+      "ru": "праздновать; отмечать",
+      "sentence": "大家一起___演出成功。",
+      "sentencePinyin": "Dàjiā yìqǐ qìngzhù yǎnchū chénggōng.",
+      "sentenceRu": "Все вместе отмечают успех представления.",
+      "id": "qingzhu"
+    },
+    {
+      "hanzi": "点头",
+      "pinyin": "diǎn tóu",
+      "ru": "кивать головой",
+      "sentence": "听完我的解释，他笑着___。",
+      "sentencePinyin": "Tīng wán wǒ de jiěshì, tā xiào zhe diǎntóu.",
+      "sentenceRu": "Выслушав объяснение, он улыбнулся и кивнул.",
+      "id": "diantou"
+    },
+    {
+      "hanzi": "作品",
+      "pinyin": "zuò pǐn",
+      "ru": "произведение искусства или литературы",
+      "sentence": "这是她最有名的___。",
+      "sentencePinyin": "Zhè shì tā zuì yǒumíng de zuòpǐn.",
+      "sentenceRu": "Это её самое известное произведение.",
+      "id": "zuopin"
+    },
+    {
+      "hanzi": "作者",
+      "pinyin": "zuò zhě",
+      "ru": "автор",
+      "sentence": "这本书的___是谁？",
+      "sentencePinyin": "Zhè běn shū de zuòzhě shì shéi?",
+      "sentenceRu": "Кто автор этой книги?",
+      "id": "zuozhe",
+      "quizExcludes": [
+        "zuojia"
+      ]
+    },
+    {
+      "hanzi": "世纪",
+      "pinyin": "shì jì",
+      "ru": "век; столетие",
+      "sentence": "这个故事发生在十三___。",
+      "sentencePinyin": "Zhège gùshi fāshēng zài shísān shìjì.",
+      "sentenceRu": "Эта история произошла в тринадцатом веке.",
+      "id": "shiji"
+    },
+    {
+      "hanzi": "读者",
+      "pinyin": "dú zhě",
+      "ru": "читатель",
+      "sentence": "这本书吸引了很多___。",
+      "sentencePinyin": "Zhè běn shū xīyǐn le hěn duō dúzhě.",
+      "sentenceRu": "Эта книга привлекла много читателей.",
+      "id": "duzhe"
+    },
+    {
+      "hanzi": "作家",
+      "pinyin": "zuò jiā",
+      "ru": "писатель",
+      "sentence": "她是一位很受欢迎的___。",
+      "sentencePinyin": "Tā shì yí wèi hěn shòu huānyíng de zuòjiā.",
+      "sentenceRu": "Она популярная писательница.",
+      "id": "zuojia",
+      "quizExcludes": [
+        "zuozhe"
+      ]
+    },
+    {
+      "hanzi": "版",
+      "pinyin": "bǎn",
+      "ru": "издание; версия",
+      "sentence": "这是这本书的最新___。",
+      "sentencePinyin": "Zhè shì zhè běn shū de zuìxīn bǎn.",
+      "sentenceRu": "Это самое новое издание этой книги.",
+      "id": "ban"
+    },
+    {
+      "hanzi": "文章",
+      "pinyin": "wén zhāng",
+      "ru": "статья; сочинение",
+      "sentence": "老师让我们写一篇___。",
+      "sentencePinyin": "Lǎoshī ràng wǒmen xiě yì piān wénzhāng.",
+      "sentenceRu": "Преподаватель попросил написать сочинение.",
+      "id": "wenzhang"
+    },
+    {
+      "hanzi": "全部",
+      "pinyin": "quán bù",
+      "ru": "всё; целиком",
+      "sentence": "我已经读完了___内容。",
+      "sentencePinyin": "Wǒ yǐjīng dú wán le quánbù nèiróng.",
+      "sentenceRu": "Я уже прочитал всё содержание.",
+      "id": "quanbu"
+    },
+    {
+      "hanzi": "整理",
+      "pinyin": "zhěng lǐ",
+      "ru": "сортировать; приводить в порядок",
+      "sentence": "我要把这些照片___一下。",
+      "sentencePinyin": "Wǒ yào bǎ zhèxiē zhàopiàn zhěnglǐ yíxià.",
+      "sentenceRu": "Мне нужно привести фотографии в порядок.",
+      "id": "zhengli"
+    },
+    {
+      "hanzi": "文字",
+      "pinyin": "wén zì",
+      "ru": "письменность; текст",
+      "sentence": "这张图片下面有一些___。",
+      "sentencePinyin": "Zhè zhāng túpiàn xiàmian yǒu yìxiē wénzì.",
+      "sentenceRu": "Под этой картинкой есть текст.",
+      "id": "wenzi"
+    },
+    {
+      "hanzi": "图片",
+      "pinyin": "tú piàn",
+      "ru": "изображение; картинка",
+      "sentence": "这篇文章有很多___。",
+      "sentencePinyin": "Zhè piān wénzhāng yǒu hěn duō túpiàn.",
+      "sentenceRu": "В этой статье много изображений.",
+      "id": "tupian"
+    },
+    {
+      "hanzi": "报考",
+      "pinyin": "bào kǎo",
+      "ru": "подавать заявление на экзамен или поступление",
+      "sentence": "她决定___中文专业的研究生。",
+      "sentencePinyin": "Tā juédìng bàokǎo Zhōngwén zhuānyè de yánjiūshēng.",
+      "sentenceRu": "Она решила поступать в магистратуру по китайскому языку.",
+      "id": "baokao"
+    },
+    {
+      "hanzi": "文学",
+      "pinyin": "wén xué",
+      "ru": "литература",
+      "sentence": "我喜欢研究中国___。",
+      "sentencePinyin": "Wǒ xǐhuan yánjiū Zhōngguó wénxué.",
+      "sentenceRu": "Мне нравится изучать китайскую литературу.",
+      "id": "wenxue"
+    }
+  ]
+}
