@@ -1,0 +1,241 @@
+{
+  "title": "HSK-3 · Урок 16",
+  "subtitle": "我听说有的熊猫出国了 · Я слышал, некоторых панд отправили за границу",
+  "source": "新HSK教程 3, урок 16, 生词 № 1–26, страницы 146, 147, 149, 150",
+  "words": [
+    {
+      "id": "zang",
+      "hanzi": "脏",
+      "pinyin": "zāng",
+      "ru": "грязный",
+      "sentence": "这只小猫在雨里玩了一天，身上很___。",
+      "sentencePinyin": "Zhè zhī xiǎo māo zài yǔ lǐ wán le yì tiān, shēn shang hěn zāng.",
+      "sentenceRu": "Котёнок целый день играл под дождём и испачкался."
+    },
+    {
+      "id": "keai",
+      "hanzi": "可爱",
+      "pinyin": "kě ài",
+      "ru": "милый; очаровательный",
+      "sentence": "这只小熊猫眼睛大大的，真___。",
+      "sentencePinyin": "Zhè zhī xiǎo xióngmāo yǎnjing dàdà de, zhēn kě'ài.",
+      "sentenceRu": "У маленькой панды большие глаза, какая милая!"
+    },
+    {
+      "id": "yihuir",
+      "hanzi": "一会儿",
+      "pinyin": "yí huìr",
+      "ru": "немного времени; некоторое время",
+      "sentence": "你先坐着等___，我马上回来。",
+      "sentencePinyin": "Nǐ xiān zuò zhe děng yíhuìr, wǒ mǎshàng huílai.",
+      "sentenceRu": "Посиди и подожди немного, я скоро вернусь."
+    },
+    {
+      "id": "jiao",
+      "hanzi": "脚",
+      "pinyin": "jiǎo",
+      "ru": "ступня; нога",
+      "sentence": "我走路走得太多，___很疼。",
+      "sentencePinyin": "Wǒ zǒulù zǒu de tài duō, jiǎo hěn téng.",
+      "sentenceRu": "Я слишком много ходил, болят ноги."
+    },
+    {
+      "id": "zhaogu",
+      "hanzi": "照顾",
+      "pinyin": "zhào gù",
+      "ru": "заботиться; ухаживать",
+      "sentence": "妈妈出差时，爸爸在家___孩子。",
+      "sentencePinyin": "Māma chūchāi shí, bàba zài jiā zhàogù háizi.",
+      "sentenceRu": "Пока мама в командировке, папа заботится о детях."
+    },
+    {
+      "id": "haoxiang",
+      "hanzi": "好像",
+      "pinyin": "hǎo xiàng",
+      "ru": "как будто; кажется",
+      "sentence": "那只动物___一只大猫，但不是猫。",
+      "sentencePinyin": "Nà zhī dòngwù hǎoxiàng yì zhī dà māo, dàn bú shì māo.",
+      "sentenceRu": "Это животное похоже на большую кошку, но это не кошка."
+    },
+    {
+      "id": "rende",
+      "hanzi": "认得",
+      "pinyin": "rèn de",
+      "ru": "узнавать; знать в лицо",
+      "sentence": "我___这位老师，去年上过他的课。",
+      "sentencePinyin": "Wǒ rènde zhè wèi lǎoshī, qùnián shàng guo tā de kè.",
+      "sentenceRu": "Я узнаю этого преподавателя, в прошлом году был на его занятиях."
+    },
+    {
+      "id": "zhoumo",
+      "hanzi": "周末",
+      "pinyin": "zhōu mò",
+      "ru": "выходные; конец недели",
+      "sentence": "这个___我们打算去动物园。",
+      "sentencePinyin": "Zhège zhōumò wǒmen dǎsuàn qù dòngwùyuán.",
+      "sentenceRu": "В эти выходные мы собираемся в зоопарк."
+    },
+    {
+      "id": "dongwuyuan",
+      "hanzi": "动物园",
+      "pinyin": "dòng wù yuán",
+      "ru": "зоопарк",
+      "sentence": "孩子们喜欢去___看大熊猫。",
+      "sentencePinyin": "Háizimen xǐhuan qù dòngwùyuán kàn dàxióngmāo.",
+      "sentenceRu": "Дети любят ходить смотреть панд в зоопарк."
+    },
+    {
+      "id": "dongwu",
+      "hanzi": "动物",
+      "pinyin": "dòng wù",
+      "ru": "животное",
+      "sentence": "大熊猫是中国很有名的___。",
+      "sentencePinyin": "Dàxióngmāo shì Zhōngguó hěn yǒumíng de dòngwù.",
+      "sentenceRu": "Большая панда — известное животное Китая."
+    },
+    {
+      "id": "daxiongmao",
+      "hanzi": "大熊猫",
+      "pinyin": "dà xióng māo",
+      "ru": "большая панда",
+      "sentence": "中国的___最喜欢吃竹子。",
+      "sentencePinyin": "Zhōngguó de dàxióngmāo zuì xǐhuan chī zhúzi.",
+      "sentenceRu": "Большая панда из Китая очень любит бамбук."
+    },
+    {
+      "id": "qiguai",
+      "hanzi": "奇怪",
+      "pinyin": "qí guài",
+      "ru": "странный; удивительный",
+      "sentence": "他的声音突然变了，真___。",
+      "sentencePinyin": "Tā de shēngyīn tūrán biàn le, zhēn qíguài.",
+      "sentenceRu": "Его голос неожиданно изменился — странно."
+    },
+    {
+      "id": "qishi",
+      "hanzi": "其实",
+      "pinyin": "qí shí",
+      "ru": "на самом деле",
+      "sentence": "我看起来很累，___只是有点儿饿。",
+      "sentencePinyin": "Wǒ kàn qǐlái hěn lèi, qíshí zhǐshì yǒu diǎnr è.",
+      "sentenceRu": "Кажется, что я устал, но на самом деле просто немного голоден."
+    },
+    {
+      "id": "zhuzi",
+      "hanzi": "竹子",
+      "pinyin": "zhú zi",
+      "ru": "бамбук",
+      "sentence": "熊猫每天要吃很多___。",
+      "sentencePinyin": "Xióngmāo měi tiān yào chī hěn duō zhúzi.",
+      "sentenceRu": "Пандам каждый день нужно много бамбука."
+    },
+    {
+      "id": "guobao",
+      "hanzi": "国宝",
+      "pinyin": "guó bǎo",
+      "ru": "национальное достояние",
+      "sentence": "在中国，大熊猫被称为___。",
+      "sentencePinyin": "Zài Zhōngguó, dàxióngmāo bèi chēngwéi guóbǎo.",
+      "sentenceRu": "В Китае большую панду называют национальным достоянием."
+    },
+    {
+      "id": "quan",
+      "hanzi": "全",
+      "pinyin": "quán",
+      "ru": "весь; целый",
+      "sentence": "___班同学都参加了今天的活动。",
+      "sentencePinyin": "Quán bān tóngxué dōu cānjiā le jīntiān de huódòng.",
+      "sentenceRu": "Весь класс участвовал в сегодняшнем мероприятии."
+    },
+    {
+      "id": "yesheng",
+      "hanzi": "野生",
+      "pinyin": "yě shēng",
+      "ru": "дикий; живущий в природе",
+      "sentence": "森林里还有一些___动物。",
+      "sentencePinyin": "Sēnlín lǐ hái yǒu yìxiē yěshēng dòngwù.",
+      "sentenceRu": "В лесу ещё живут некоторые дикие животные."
+    },
+    {
+      "id": "guanyu",
+      "hanzi": "关于",
+      "pinyin": "guān yú",
+      "ru": "о; относительно",
+      "sentence": "这本书是___中国动物的。",
+      "sentencePinyin": "Zhè běn shū shì guānyú Zhōngguó dòngwù de.",
+      "sentenceRu": "Эта книга о животных Китая."
+    },
+    {
+      "id": "bao",
+      "hanzi": "饱",
+      "pinyin": "bǎo",
+      "ru": "сытый; наевшийся",
+      "sentence": "我刚吃了两碗面，已经很___了。",
+      "sentencePinyin": "Wǒ gāng chī le liǎng wǎn miàn, yǐjīng hěn bǎo le.",
+      "sentenceRu": "Я только что съел две миски лапши и сыт."
+    },
+    {
+      "id": "zhang",
+      "hanzi": "张",
+      "pinyin": "zhāng",
+      "ru": "открывать (рот)",
+      "sentence": "请___开嘴，让医生看一看。",
+      "sentencePinyin": "Qǐng zhāng kāi zuǐ, ràng yīshēng kàn yí kàn.",
+      "sentenceRu": "Откройте рот, пусть врач посмотрит."
+    },
+    {
+      "id": "zui",
+      "hanzi": "嘴",
+      "pinyin": "zuǐ",
+      "ru": "рот",
+      "sentence": "吃饭前不要把手放进___里。",
+      "sentencePinyin": "Chī fàn qián bú yào bǎ shǒu fàng jìn zuǐ lǐ.",
+      "sentenceRu": "Не клади руки в рот перед едой."
+    },
+    {
+      "id": "shenbian",
+      "hanzi": "身边",
+      "pinyin": "shēn biān",
+      "ru": "рядом с собой; возле",
+      "sentence": "小狗喜欢待在主人___。",
+      "sentencePinyin": "Xiǎo gǒu xǐhuan dāi zài zhǔrén shēnbiān.",
+      "sentenceRu": "Собака любит находиться рядом с хозяином."
+    },
+    {
+      "id": "bantian",
+      "hanzi": "半天",
+      "pinyin": "bàn tiān",
+      "ru": "долгое время; полдня",
+      "sentence": "我在公园找了___，才找到朋友。",
+      "sentencePinyin": "Wǒ zài gōngyuán zhǎo le bàntiān, cái zhǎodào péngyou.",
+      "sentenceRu": "Я долго искал друга в парке, прежде чем нашёл."
+    },
+    {
+      "id": "lian",
+      "hanzi": "脸",
+      "pinyin": "liǎn",
+      "ru": "лицо",
+      "sentence": "她洗完___后，就去吃早饭了。",
+      "sentencePinyin": "Tā xǐ wán liǎn hòu, jiù qù chī zǎofàn le.",
+      "sentenceRu": "Умыв лицо, она пошла завтракать."
+    },
+    {
+      "id": "daren",
+      "hanzi": "大人",
+      "pinyin": "dà rén",
+      "ru": "взрослый",
+      "sentence": "这个游戏是给孩子玩的，不是给___玩的。",
+      "sentencePinyin": "Zhège yóuxì shì gěi háizi wán de, bú shì gěi dàrén wán de.",
+      "sentenceRu": "Эта игра для детей, а не для взрослых."
+    },
+    {
+      "id": "xiai",
+      "hanzi": "喜爱",
+      "pinyin": "xǐ ài",
+      "ru": "очень любить; питать симпатию",
+      "sentence": "中国人非常___大熊猫这种动物。",
+      "sentencePinyin": "Zhōngguó rén fēicháng xǐ'ài dàxióngmāo zhè zhǒng dòngwù.",
+      "sentenceRu": "В Китае очень любят больших панд."
+    }
+  ]
+}
