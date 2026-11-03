@@ -1,0 +1,370 @@
+{
+  "title": "HSK-4A · Урок 4",
+  "subtitle": "很高兴能帮到你 · Рад, что смог помочь тебе",
+  "source": "《新HSK教程 4 上》, урок 4, 生词 №1–39, печатные страницы 36, 38, 40, 42 (PDF страницы 46, 48, 50, 52); без 专有名词",
+  "words": [
+    {
+      "hanzi": "啊",
+      "pinyin": "ā",
+      "ru": "ах; ох (междометие)",
+      "sentence": "___，原来你也在这里！",
+      "sentencePinyin": "Ā, yuánlái nǐ yě zài zhèlǐ!",
+      "sentenceRu": "А, так ты тоже здесь!",
+      "id": "a",
+      "audioText": "啊，你好",
+      "audioNote": "У междометия 啊 короткое чтение; дополнительный контекст помогает синтезу."
+    },
+    {
+      "hanzi": "停",
+      "pinyin": "tíng",
+      "ru": "останавливаться; прекращать",
+      "sentence": "地铁快到站了，请等车___稳。",
+      "sentencePinyin": "Dìtiě kuài dào zhàn le, qǐng děng chē tíng wěn.",
+      "sentenceRu": "Метро скоро прибудет, дождитесь полной остановки поезда.",
+      "id": "ting"
+    },
+    {
+      "hanzi": "交",
+      "pinyin": "jiāo",
+      "ru": "платить; сдавать; передавать",
+      "sentence": "他今天去营业厅___电话费。",
+      "sentencePinyin": "Tā jīntiān qù yíngyè tīng jiāo diànhuà fèi.",
+      "sentenceRu": "Сегодня он пошёл в салон связи оплатить телефон.",
+      "id": "jiao",
+      "audioText": "交费",
+      "audioNote": "Здесь 交 читается jiāo — «платить»."
+    },
+    {
+      "hanzi": "费",
+      "pinyin": "fèi",
+      "ru": "плата; расходы; стоимость",
+      "sentence": "每个月的电话___要按时交。",
+      "sentencePinyin": "Měi ge yuè de diànhuà fèi yào ànshí jiāo.",
+      "sentenceRu": "Плату за телефон нужно вносить вовремя каждый месяц.",
+      "id": "fei"
+    },
+    {
+      "hanzi": "信号",
+      "pinyin": "xìn hào",
+      "ru": "сигнал; связь",
+      "sentence": "这里的手机___不太好。",
+      "sentencePinyin": "Zhèlǐ de shǒujī xìnhào bú tài hǎo.",
+      "sentenceRu": "Здесь плохой сигнал мобильной связи.",
+      "id": "xinhao"
+    },
+    {
+      "hanzi": "感谢",
+      "pinyin": "gǎn xiè",
+      "ru": "благодарить; испытывать благодарность",
+      "sentence": "非常___你今天的帮助。",
+      "sentencePinyin": "Fēicháng gǎnxiè nǐ jīntiān de bāngzhù.",
+      "sentenceRu": "Большое спасибо за сегодняшнюю помощь.",
+      "id": "ganxie"
+    },
+    {
+      "hanzi": "联系",
+      "pinyin": "lián xì",
+      "ru": "связываться; контактировать",
+      "sentence": "有问题可以随时___我。",
+      "sentencePinyin": "Yǒu wèntí kěyǐ suíshí liánxì wǒ.",
+      "sentenceRu": "Если возникнут вопросы, можешь связаться со мной в любое время.",
+      "id": "lianxi"
+    },
+    {
+      "hanzi": "方式",
+      "pinyin": "fāng shì",
+      "ru": "способ; форма",
+      "sentence": "乘地铁是方便的出行___。",
+      "sentencePinyin": "Chéng dìtiě shì fāngbiàn de chūxíng fāngshì.",
+      "sentenceRu": "Поездка на метро — удобный способ передвижения.",
+      "id": "fangshi"
+    },
+    {
+      "hanzi": "客气",
+      "pinyin": "kè qi",
+      "ru": "вежливый; церемониться",
+      "sentence": "别___，我们是朋友。",
+      "sentencePinyin": "Bié kèqi, wǒmen shì péngyou.",
+      "sentenceRu": "Не церемонься, мы же друзья.",
+      "id": "keqi"
+    },
+    {
+      "hanzi": "剩",
+      "pinyin": "shèng",
+      "ru": "оставаться; быть остатком",
+      "sentence": "袋子里还___两个苹果。",
+      "sentencePinyin": "Dàizi lǐ hái shèng liǎng ge píngguǒ.",
+      "sentenceRu": "В пакете ещё осталось два яблока.",
+      "id": "sheng_left"
+    },
+    {
+      "hanzi": "提",
+      "pinyin": "tí",
+      "ru": "нести в руке; поднимать",
+      "sentence": "这些袋子太重了，我帮你___吧。",
+      "sentencePinyin": "Zhèxiē dàizi tài zhòng le, wǒ bāng nǐ tí ba.",
+      "sentenceRu": "Эти пакеты слишком тяжёлые, давай я помогу их донести.",
+      "id": "ti",
+      "audioText": "提袋子",
+      "audioNote": "Здесь 提 читается tí — «нести в руке»."
+    },
+    {
+      "hanzi": "袋子",
+      "pinyin": "dài zi",
+      "ru": "сумка; пакет; мешок",
+      "sentence": "这个___里装的是什么？",
+      "sentencePinyin": "Zhège dàizi lǐ zhuāng de shì shénme?",
+      "sentenceRu": "Что лежит в этом пакете?",
+      "id": "daizi"
+    },
+    {
+      "hanzi": "重",
+      "pinyin": "zhòng",
+      "ru": "тяжёлый; весить много",
+      "sentence": "这个箱子太___了，我拿不动。",
+      "sentencePinyin": "Zhège xiāngzi tài zhòng le, wǒ ná bú dòng.",
+      "sentenceRu": "Этот чемодан слишком тяжёлый, я не могу его поднять.",
+      "id": "zhong",
+      "audioText": "很重",
+      "audioNote": "Здесь 重 читается zhòng — «тяжёлый»."
+    },
+    {
+      "hanzi": "算",
+      "pinyin": "suàn",
+      "ru": "считаться; засчитываться; подсчитывать",
+      "sentence": "每天走路也___锻炼身体。",
+      "sentencePinyin": "Měi tiān zǒulù yě suàn duànliàn shēntǐ.",
+      "sentenceRu": "Ежедневная ходьба тоже считается физической нагрузкой.",
+      "id": "suan",
+      "audioText": "算锻炼",
+      "audioNote": "Здесь 算 читается suàn — «считаться»."
+    },
+    {
+      "hanzi": "再说",
+      "pinyin": "zài shuō",
+      "ru": "к тому же; к тому же ещё",
+      "sentence": "今天太晚了，___明天还要上班。",
+      "sentencePinyin": "Jīntiān tài wǎn le, zàishuō míngtiān hái yào shàngbān.",
+      "sentenceRu": "Сегодня уже поздно, к тому же завтра на работу.",
+      "id": "zaishuo"
+    },
+    {
+      "hanzi": "之间",
+      "pinyin": "zhī jiān",
+      "ru": "между; среди",
+      "sentence": "邻居___应该互相帮助。",
+      "sentencePinyin": "Línjū zhījiān yīnggāi hùxiāng bāngzhù.",
+      "sentenceRu": "Соседи должны помогать друг другу.",
+      "id": "zhijian"
+    },
+    {
+      "hanzi": "互相",
+      "pinyin": "hù xiāng",
+      "ru": "взаимно; друг друга",
+      "sentence": "同学们应该___帮助。",
+      "sentencePinyin": "Tóngxuémen yīnggāi hùxiāng bāngzhù.",
+      "sentenceRu": "Одноклассники должны помогать друг другу.",
+      "id": "huxiang"
+    },
+    {
+      "hanzi": "辛苦",
+      "pinyin": "xīn kǔ",
+      "ru": "тяжёлый; трудный; изнурительный",
+      "sentence": "你工作了一整天，真___！",
+      "sentencePinyin": "Nǐ gōngzuò le yì zhěng tiān, zhēn xīnkǔ!",
+      "sentenceRu": "Ты проработал целый день, тебе пришлось нелегко!",
+      "id": "xinku"
+    },
+    {
+      "hanzi": "出行",
+      "pinyin": "chū xíng",
+      "ru": "отправляться в путь; передвигаться",
+      "sentence": "下雨天骑车___不太方便。",
+      "sentencePinyin": "Xià yǔ tiān qí chē chūxíng bú tài fāngbiàn.",
+      "sentenceRu": "В дождливый день ездить на велосипеде не очень удобно.",
+      "id": "chuxing"
+    },
+    {
+      "hanzi": "距离",
+      "pinyin": "jù lí",
+      "ru": "расстояние; отстоять от",
+      "sentence": "学校和我家的___只有两公里。",
+      "sentencePinyin": "Xuéxiào hé wǒ jiā de jùlí zhǐ yǒu liǎng gōnglǐ.",
+      "sentenceRu": "От школы до моего дома всего два километра.",
+      "id": "juli"
+    },
+    {
+      "hanzi": "往往",
+      "pinyin": "wǎng wǎng",
+      "ru": "часто; обычно (в подобных случаях)",
+      "sentence": "天气好的时候，他___骑车上班。",
+      "sentencePinyin": "Tiānqì hǎo de shíhou, tā wǎngwǎng qí chē shàngbān.",
+      "sentenceRu": "В хорошую погоду он часто ездит на работу на велосипеде.",
+      "id": "wangwang"
+    },
+    {
+      "hanzi": "既",
+      "pinyin": "jì",
+      "ru": "и ... и ...; как ... так и ...",
+      "sentence": "骑车___省钱，又能锻炼身体。",
+      "sentencePinyin": "Qí chē jì shěng qián, yòu néng duànliàn shēntǐ.",
+      "sentenceRu": "Езда на велосипеде и экономит деньги, и тренирует тело.",
+      "id": "ji"
+    },
+    {
+      "hanzi": "电动车",
+      "pinyin": "diàn dòng chē",
+      "ru": "электровелосипед; электрический скутер",
+      "sentence": "他最近买了一辆___。",
+      "sentencePinyin": "Tā zuìjìn mǎi le yí liàng diàndòngchē.",
+      "sentenceRu": "Недавно он купил электровелосипед.",
+      "id": "diandongche"
+    },
+    {
+      "hanzi": "速度",
+      "pinyin": "sù dù",
+      "ru": "скорость",
+      "sentence": "这辆电动车的___很快。",
+      "sentencePinyin": "Zhè liàng diàndòngchē de sùdù hěn kuài.",
+      "sentenceRu": "У этого электровелосипеда высокая скорость.",
+      "id": "sudu"
+    },
+    {
+      "hanzi": "充电",
+      "pinyin": "chōng diàn",
+      "ru": "заряжать аккумулятор",
+      "sentence": "晚上我要给手机___。",
+      "sentencePinyin": "Wǎnshang wǒ yào gěi shǒujī chōngdiàn.",
+      "sentenceRu": "Вечером мне нужно зарядить телефон.",
+      "id": "chongdian"
+    },
+    {
+      "hanzi": "流行",
+      "pinyin": "liú xíng",
+      "ru": "быть популярным; модный",
+      "sentence": "这种交通工具越来越___。",
+      "sentencePinyin": "Zhè zhǒng jiāotōng gōngjù yuè lái yuè liúxíng.",
+      "sentenceRu": "Этот вид транспорта становится всё популярнее.",
+      "id": "liuxing"
+    },
+    {
+      "hanzi": "省",
+      "pinyin": "shěng",
+      "ru": "экономить; беречь",
+      "sentence": "坐地铁可以___很多时间。",
+      "sentencePinyin": "Zuò dìtiě kěyǐ shěng hěn duō shíjiān.",
+      "sentenceRu": "Поездка на метро позволяет сэкономить много времени.",
+      "id": "sheng_save",
+      "audioText": "省时间",
+      "audioNote": "Здесь 省 читается shěng — «экономить»."
+    },
+    {
+      "hanzi": "力气",
+      "pinyin": "lì qi",
+      "ru": "физическая сила; усилие",
+      "sentence": "搬这个箱子需要很大的___。",
+      "sentencePinyin": "Bān zhège xiāngzi xūyào hěn dà de lìqi.",
+      "sentenceRu": "Чтобы перенести этот ящик, нужно много сил.",
+      "id": "liqi"
+    },
+    {
+      "hanzi": "乘客",
+      "pinyin": "chéng kè",
+      "ru": "пассажир",
+      "sentence": "车上的___越来越多了。",
+      "sentencePinyin": "Chē shang de chéngkè yuè lái yuè duō le.",
+      "sentenceRu": "Пассажиров в транспорте становится всё больше.",
+      "id": "chengke"
+    },
+    {
+      "hanzi": "购买",
+      "pinyin": "gòu mǎi",
+      "ru": "покупать; приобретать",
+      "sentence": "乘客可以用手机___车票。",
+      "sentencePinyin": "Chéngkè kěyǐ yòng shǒujī gòumǎi chēpiào.",
+      "sentenceRu": "Пассажиры могут покупать билеты через телефон.",
+      "id": "goumai"
+    },
+    {
+      "hanzi": "食物",
+      "pinyin": "shí wù",
+      "ru": "еда; продукты питания",
+      "sentence": "冰箱里还有一些___。",
+      "sentencePinyin": "Bīngxiāng lǐ hái yǒu yìxiē shíwù.",
+      "sentenceRu": "В холодильнике ещё есть немного еды.",
+      "id": "shiwu"
+    },
+    {
+      "hanzi": "免费",
+      "pinyin": "miǎn fèi",
+      "ru": "бесплатный; бесплатно",
+      "sentence": "这个博物馆可以___参观。",
+      "sentencePinyin": "Zhège bówùguǎn kěyǐ miǎnfèi cānguān.",
+      "sentenceRu": "Этот музей можно посетить бесплатно.",
+      "id": "mianfei"
+    },
+    {
+      "hanzi": "早餐",
+      "pinyin": "zǎo cān",
+      "ru": "завтрак",
+      "sentence": "上班前他总是在家吃___。",
+      "sentencePinyin": "Shàngbān qián tā zǒngshì zài jiā chī zǎocān.",
+      "sentenceRu": "Перед работой он всегда завтракает дома.",
+      "id": "zaocan"
+    },
+    {
+      "hanzi": "来得及",
+      "pinyin": "lái de jí",
+      "ru": "успеть; иметь достаточно времени",
+      "sentence": "现在出发还___赶上火车。",
+      "sentencePinyin": "Xiànzài chūfā hái láidejí gǎnshàng huǒchē.",
+      "sentenceRu": "Если выехать сейчас, ещё успеем на поезд.",
+      "id": "laideji"
+    },
+    {
+      "hanzi": "鲜花",
+      "pinyin": "xiān huā",
+      "ru": "живые цветы; свежие цветы",
+      "sentence": "他买了一束___送给妈妈。",
+      "sentencePinyin": "Tā mǎi le yí shù xiānhuā sòng gěi māma.",
+      "sentenceRu": "Он купил букет цветов для мамы.",
+      "id": "xianhua"
+    },
+    {
+      "hanzi": "顺便",
+      "pinyin": "shùn biàn",
+      "ru": "попутно; заодно",
+      "sentence": "下班路上我___去买点菜。",
+      "sentencePinyin": "Xiàbān lùshang wǒ shùnbiàn qù mǎi diǎn cài.",
+      "sentenceRu": "По дороге с работы я заодно куплю овощей.",
+      "id": "shunbian"
+    },
+    {
+      "hanzi": "心情",
+      "pinyin": "xīn qíng",
+      "ru": "настроение; душевное состояние",
+      "sentence": "今天考试通过了，我的___很好。",
+      "sentencePinyin": "Jīntiān kǎoshì tōngguò le, wǒ de xīnqíng hěn hǎo.",
+      "sentenceRu": "Сегодня я сдал экзамен, у меня отличное настроение.",
+      "id": "xinqing"
+    },
+    {
+      "hanzi": "更加",
+      "pinyin": "gèng jiā",
+      "ru": "ещё более; ещё сильнее",
+      "sentence": "有了地铁，出行___方便了。",
+      "sentencePinyin": "Yǒu le dìtiě, chūxíng gèngjiā fāngbiàn le.",
+      "sentenceRu": "С появлением метро передвигаться стало ещё удобнее.",
+      "id": "gengjia"
+    },
+    {
+      "hanzi": "愉快",
+      "pinyin": "yú kuài",
+      "ru": "радостный; приятный",
+      "sentence": "祝你周末___！",
+      "sentencePinyin": "Zhù nǐ zhōumò yúkuài!",
+      "sentenceRu": "Желаю приятных выходных!",
+      "id": "yukuai"
+    }
+  ]
+}
