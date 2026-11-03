@@ -1,6 +1,118 @@
 {
   "sections": [
     {
+      "id": "hsk1",
+      "title": "HSK-1",
+      "description": "新HSK教程 1 · 15 уроков",
+      "lessons": [
+        {
+          "id": "hsk1-lesson1",
+          "title": "Урок 1",
+          "subtitle": "Привет, Сяоюй!",
+          "wordCount": 12,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson2",
+          "title": "Урок 2",
+          "subtitle": "Меня зовут Ли Вэнь",
+          "wordCount": 15,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson3",
+          "title": "Урок 3",
+          "subtitle": "Я китаец",
+          "wordCount": 18,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson4",
+          "title": "Урок 4",
+          "subtitle": "У меня двое детей",
+          "wordCount": 21,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson5",
+          "title": "Урок 5",
+          "subtitle": "Сегодня я отдыхаю",
+          "wordCount": 22,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson6",
+          "title": "Урок 6",
+          "subtitle": "Какой у тебя номер телефона?",
+          "wordCount": 22,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson7",
+          "title": "Урок 7",
+          "subtitle": "Я заканчиваю работу в 18:30",
+          "wordCount": 27,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson8",
+          "title": "Урок 8",
+          "subtitle": "Мой папа тоже работает в больнице",
+          "wordCount": 23,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson9",
+          "title": "Урок 9",
+          "subtitle": "Завтра утром буду учиться в школе",
+          "wordCount": 22,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson10",
+          "title": "Урок 10",
+          "subtitle": "Здесь яблоки очень дешёвые!",
+          "wordCount": 23,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson11",
+          "title": "Урок 11",
+          "subtitle": "Я учусь в университете",
+          "wordCount": 25,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson12",
+          "title": "Урок 12",
+          "subtitle": "Вчера шёл снег",
+          "wordCount": 24,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson13",
+          "title": "Урок 13",
+          "subtitle": "Чашку чая, пожалуйста",
+          "wordCount": 20,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson14",
+          "title": "Урок 14",
+          "subtitle": "Я посмотрел фильм",
+          "wordCount": 26,
+          "available": true
+        },
+        {
+          "id": "hsk1-lesson15",
+          "title": "Урок 15",
+          "subtitle": "Увидимся в аэропорту Дасин!",
+          "wordCount": 17,
+          "available": true
+        }
+      ]
+    },
+    {
       "id": "hsk2",
       "title": "HSK-2",
       "description": "新HSK教程 2 · 15 уроков",
