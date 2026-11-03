@@ -1,0 +1,392 @@
+{
+  "title": "HSK-4A · Урок 10",
+  "subtitle": "南方不懂北方的冷 · Южане не понимают северного холода",
+  "source": "《新HSK教程 4 上》, урок 10, 生词 №1–41, печатные страницы 108, 111, 113, 115 (PDF 118, 121, 123, 125); собственные имена исключены",
+  "words": [
+    {
+      "hanzi": "小伙子",
+      "pinyin": "xiǎo huǒ zi",
+      "ru": "молодой человек; парень",
+      "sentence": "那个___今天第一次来北京。",
+      "sentencePinyin": "Nàge xiǎohuǒzi jīntiān dì yī cì lái Běijīng.",
+      "sentenceRu": "Этот молодой человек сегодня впервые приехал в Пекин.",
+      "id": "xiaohuozi"
+    },
+    {
+      "hanzi": "气温",
+      "pinyin": "qì wēn",
+      "ru": "температура воздуха",
+      "sentence": "今天的___比昨天低很多。",
+      "sentencePinyin": "Jīntiān de qìwēn bǐ zuótiān dī hěn duō.",
+      "sentenceRu": "Сегодня температура воздуха гораздо ниже вчерашней.",
+      "id": "qiwen",
+      "quizExcludes": [
+        "wendu"
+      ]
+    },
+    {
+      "hanzi": "零下",
+      "pinyin": "líng xià",
+      "ru": "ниже нуля",
+      "sentence": "今天晚上可能___十度。",
+      "sentencePinyin": "Jīntiān wǎnshang kěnéng língxià shí dù.",
+      "sentenceRu": "Сегодня вечером может быть минус десять градусов.",
+      "id": "lingxia"
+    },
+    {
+      "hanzi": "度",
+      "pinyin": "dù",
+      "ru": "градус; мера",
+      "sentence": "现在外面只有五___。",
+      "sentencePinyin": "Xiànzài wàimian zhǐ yǒu wǔ dù.",
+      "sentenceRu": "Сейчас на улице всего пять градусов.",
+      "id": "du"
+    },
+    {
+      "hanzi": "冻",
+      "pinyin": "dòng",
+      "ru": "мёрзнуть; замерзать",
+      "sentence": "天气太冷，我的手都快___了。",
+      "sentencePinyin": "Tiānqì tài lěng, wǒ de shǒu dōu kuài dòng le.",
+      "sentenceRu": "Так холодно, что руки почти замёрзли.",
+      "id": "dong"
+    },
+    {
+      "hanzi": "后悔",
+      "pinyin": "hòu huǐ",
+      "ru": "сожалеть; раскаиваться",
+      "sentence": "我没带厚衣服，现在很___。",
+      "sentencePinyin": "Wǒ méi dài hòu yīfu, xiànzài hěn hòuhuǐ.",
+      "sentenceRu": "Я не взял тёплую одежду и теперь жалею.",
+      "id": "houhui"
+    },
+    {
+      "hanzi": "就是",
+      "pinyin": "jiù shì",
+      "ru": "именно; как раз; то есть",
+      "sentence": "这___我想说的事情。",
+      "sentencePinyin": "Zhè jiùshì wǒ xiǎng shuō de shìqing.",
+      "sentenceRu": "Это именно то, что я хотел сказать.",
+      "id": "jiushi"
+    },
+    {
+      "hanzi": "温度",
+      "pinyin": "wēn dù",
+      "ru": "температура",
+      "sentence": "请先看看水的___。",
+      "sentencePinyin": "Qǐng xiān kànkan shuǐ de wēndù.",
+      "sentenceRu": "Сначала проверь температуру воды.",
+      "id": "wendu",
+      "quizExcludes": [
+        "qiwen"
+      ]
+    },
+    {
+      "hanzi": "差别",
+      "pinyin": "chā bié",
+      "ru": "разница; различие",
+      "sentence": "两个城市冬天的天气___很大。",
+      "sentencePinyin": "Liǎng ge chéngshì dōngtiān de tiānqì chābié hěn dà.",
+      "sentenceRu": "Зимой погода в этих двух городах сильно различается.",
+      "id": "chabie"
+    },
+    {
+      "hanzi": "厚",
+      "pinyin": "hòu",
+      "ru": "толстый; плотный",
+      "sentence": "冬天出门要穿___衣服。",
+      "sentencePinyin": "Dōngtiān chūmén yào chuān hòu yīfu.",
+      "sentenceRu": "Зимой на улицу нужно надевать тёплую плотную одежду.",
+      "id": "hou"
+    },
+    {
+      "hanzi": "寒假",
+      "pinyin": "hán jià",
+      "ru": "зимние каникулы",
+      "sentence": "今年___我们打算去哈尔滨。",
+      "sentencePinyin": "Jīnnián hánjià wǒmen dǎsuàn qù Hā'ěrbīn.",
+      "sentenceRu": "На этих зимних каникулах мы собираемся в Харбин.",
+      "id": "hanjia"
+    },
+    {
+      "hanzi": "暖和",
+      "pinyin": "nuǎn huo",
+      "ru": "тёплый; согреваться",
+      "sentence": "房间里开了暖气，很___。",
+      "sentencePinyin": "Fángjiān lǐ kāi le nuǎnqì, hěn nuǎnhuo.",
+      "sentenceRu": "В комнате включили отопление, очень тепло.",
+      "id": "nuanhuo"
+    },
+    {
+      "hanzi": "低于",
+      "pinyin": "dī yú",
+      "ru": "ниже чем; уступать",
+      "sentence": "今天的气温___零度。",
+      "sentencePinyin": "Jīntiān de qìwēn dīyú líng dù.",
+      "sentenceRu": "Сегодня температура воздуха ниже нуля.",
+      "id": "diyu"
+    },
+    {
+      "hanzi": "摄氏度",
+      "pinyin": "shè shì dù",
+      "ru": "градус Цельсия",
+      "sentence": "今天最高气温是二十___。",
+      "sentencePinyin": "Jīntiān zuì gāo qìwēn shì èrshí shèshìdù.",
+      "sentenceRu": "Сегодня максимальная температура — двадцать градусов Цельсия.",
+      "id": "sheshidu"
+    },
+    {
+      "hanzi": "受不了",
+      "pinyin": "shòu bu liǎo",
+      "ru": "не выносить; не выдерживать",
+      "sentence": "这里太热了，我___。",
+      "sentencePinyin": "Zhèlǐ tài rè le, wǒ shòubuliǎo.",
+      "sentenceRu": "Здесь так жарко, что я не могу выдержать.",
+      "id": "shoubuliao"
+    },
+    {
+      "hanzi": "举办",
+      "pinyin": "jǔ bàn",
+      "ru": "проводить; организовывать",
+      "sentence": "学校下个月要___文化活动。",
+      "sentencePinyin": "Xuéxiào xià ge yuè yào jǔbàn wénhuà huódòng.",
+      "sentenceRu": "В следующем месяце школа проведёт культурное мероприятие.",
+      "id": "juban"
+    },
+    {
+      "hanzi": "各种",
+      "pinyin": "gè zhǒng",
+      "ru": "всевозможные; различные",
+      "sentence": "公园里有___花草。",
+      "sentencePinyin": "Gōngyuán lǐ yǒu gèzhǒng huācǎo.",
+      "sentenceRu": "В парке растут самые разные цветы и травы.",
+      "id": "gezhong"
+    },
+    {
+      "hanzi": "植物",
+      "pinyin": "zhí wù",
+      "ru": "растение; растительность",
+      "sentence": "这个公园里有很多___。",
+      "sentencePinyin": "Zhège gōngyuán lǐ yǒu hěn duō zhíwù.",
+      "sentenceRu": "В этом парке много растений.",
+      "id": "zhiwu"
+    },
+    {
+      "hanzi": "公里",
+      "pinyin": "gōng lǐ",
+      "ru": "километр",
+      "sentence": "学校离我家有三___。",
+      "sentencePinyin": "Xuéxiào lí wǒ jiā yǒu sān gōnglǐ.",
+      "sentenceRu": "От школы до моего дома три километра.",
+      "id": "gongli"
+    },
+    {
+      "hanzi": "气候",
+      "pinyin": "qì hòu",
+      "ru": "климат",
+      "sentence": "南方和北方的___很不一样。",
+      "sentencePinyin": "Nánfāng hé běifāng de qìhòu hěn bù yíyàng.",
+      "sentenceRu": "Климат юга и севера сильно отличается.",
+      "id": "qihou"
+    },
+    {
+      "hanzi": "而",
+      "pinyin": "ér",
+      "ru": "а; но; в то время как",
+      "sentence": "我喜欢夏天，___他喜欢冬天。",
+      "sentencePinyin": "Wǒ xǐhuan xiàtiān, ér tā xǐhuan dōngtiān.",
+      "sentenceRu": "Я люблю лето, а он — зиму.",
+      "id": "er"
+    },
+    {
+      "hanzi": "此外",
+      "pinyin": "cǐ wài",
+      "ru": "кроме того; помимо этого",
+      "sentence": "我会中文，___还会一点儿英语。",
+      "sentencePinyin": "Wǒ huì Zhōngwén, cǐwài hái huì yì diǎnr Yīngyǔ.",
+      "sentenceRu": "Я говорю по-китайски и, кроме того, немного по-английски.",
+      "id": "ciwai"
+    },
+    {
+      "hanzi": "方言",
+      "pinyin": "fāng yán",
+      "ru": "диалект; местный говор",
+      "sentence": "他在家里常常说家乡的___。",
+      "sentencePinyin": "Tā zài jiā lǐ chángcháng shuō jiāxiāng de fāngyán.",
+      "sentenceRu": "Дома он часто говорит на диалекте родного края.",
+      "id": "fangyan"
+    },
+    {
+      "hanzi": "普通话",
+      "pinyin": "pǔ tōng huà",
+      "ru": "путунхуа; стандартный китайский",
+      "sentence": "学校要求学生说___。",
+      "sentencePinyin": "Xuéxiào yāoqiú xuésheng shuō Pǔtōnghuà.",
+      "sentenceRu": "Школа требует, чтобы ученики говорили на путунхуа.",
+      "id": "putonghua"
+    },
+    {
+      "hanzi": "较",
+      "pinyin": "jiào",
+      "ru": "сравнительно; довольно",
+      "sentence": "这里冬天___冷。",
+      "sentencePinyin": "Zhèlǐ dōngtiān jiào lěng.",
+      "sentenceRu": "Здесь зимой довольно холодно.",
+      "id": "jiao"
+    },
+    {
+      "hanzi": "使用",
+      "pinyin": "shǐ yòng",
+      "ru": "использовать; пользоваться",
+      "sentence": "请正确___这个软件。",
+      "sentencePinyin": "Qǐng zhèngquè shǐyòng zhège ruǎnjiàn.",
+      "sentenceRu": "Пожалуйста, правильно используй это приложение.",
+      "id": "shiyong"
+    },
+    {
+      "hanzi": "引起",
+      "pinyin": "yǐn qǐ",
+      "ru": "вызывать; становиться причиной",
+      "sentence": "这句话___了大家的注意。",
+      "sentencePinyin": "Zhè jù huà yǐnqǐ le dàjiā de zhùyì.",
+      "sentenceRu": "Эта фраза привлекла всеобщее внимание.",
+      "id": "yinqi"
+    },
+    {
+      "hanzi": "误会",
+      "pinyin": "wù huì",
+      "ru": "недоразумение; неправильно понимать",
+      "sentence": "因为语言不同，大家产生了___。",
+      "sentencePinyin": "Yīnwèi yǔyán bùtóng, dàjiā chǎnshēng le wùhuì.",
+      "sentenceRu": "Из-за различий в языке возникло недоразумение.",
+      "id": "wuhui"
+    },
+    {
+      "hanzi": "亲爱",
+      "pinyin": "qīn ài",
+      "ru": "дорогой; любимый (обращение)",
+      "sentence": "___的同学们，大家好！",
+      "sentencePinyin": "Qīn'ài de tóngxuémen, dàjiā hǎo!",
+      "sentenceRu": "Дорогие ученики, всем привет!",
+      "id": "qinai"
+    },
+    {
+      "hanzi": "再次",
+      "pinyin": "zài cì",
+      "ru": "ещё раз; повторно",
+      "sentence": "谢谢你的帮助，___感谢！",
+      "sentencePinyin": "Xièxie nǐ de bāngzhù, zàicì gǎnxiè!",
+      "sentenceRu": "Спасибо за помощь, ещё раз благодарю!",
+      "id": "zaici"
+    },
+    {
+      "hanzi": "开展",
+      "pinyin": "kāi zhǎn",
+      "ru": "развёртывать; проводить мероприятие",
+      "sentence": "我们下周要___环保活动。",
+      "sentencePinyin": "Wǒmen xià zhōu yào kāizhǎn huánbǎo huódòng.",
+      "sentenceRu": "На следующей неделе мы начнём экологическую акцию.",
+      "id": "kaizhan",
+      "quizExcludes": []
+    },
+    {
+      "hanzi": "绿色",
+      "pinyin": "lǜ sè",
+      "ru": "зелёный; экологичный",
+      "sentence": "我们应该选择___出行方式。",
+      "sentencePinyin": "Wǒmen yīnggāi xuǎnzé lǜsè chūxíng fāngshì.",
+      "sentenceRu": "Нужно выбирать экологичные способы передвижения.",
+      "id": "luse"
+    },
+    {
+      "hanzi": "环保",
+      "pinyin": "huán bǎo",
+      "ru": "охрана окружающей среды; экологичный",
+      "sentence": "学校举办了一个___活动。",
+      "sentencePinyin": "Xuéxiào jǔbàn le yí ge huánbǎo huódòng.",
+      "sentenceRu": "Школа провела природоохранную акцию.",
+      "id": "huanbao",
+      "quizExcludes": []
+    },
+    {
+      "hanzi": "拒绝",
+      "pinyin": "jù jué",
+      "ru": "отказывать; отвергать",
+      "sentence": "我们应该___使用一次性塑料袋。",
+      "sentencePinyin": "Wǒmen yīnggāi jùjué shǐyòng yí cì xìng sùliàodài.",
+      "sentenceRu": "Нужно отказаться от одноразовых пластиковых пакетов.",
+      "id": "jujue"
+    },
+    {
+      "hanzi": "浪费",
+      "pinyin": "làng fèi",
+      "ru": "тратить впустую; расточительство",
+      "sentence": "不要___水和电。",
+      "sentencePinyin": "Bú yào làngfèi shuǐ hé diàn.",
+      "sentenceRu": "Не трать зря воду и электричество.",
+      "id": "langfei",
+      "quizExcludes": [
+        "jieyue"
+      ]
+    },
+    {
+      "hanzi": "节约",
+      "pinyin": "jié yuē",
+      "ru": "экономить; беречь",
+      "sentence": "我们要___用水。",
+      "sentencePinyin": "Wǒmen yào jiéyuē yòng shuǐ.",
+      "sentenceRu": "Нужно экономно использовать воду.",
+      "id": "jieyue",
+      "quizExcludes": [
+        "langfei"
+      ]
+    },
+    {
+      "hanzi": "资源",
+      "pinyin": "zī yuán",
+      "ru": "ресурсы",
+      "sentence": "水是非常重要的自然___。",
+      "sentencePinyin": "Shuǐ shì fēicháng zhòngyào de zìrán zīyuán.",
+      "sentenceRu": "Вода — очень важный природный ресурс.",
+      "id": "ziyuan"
+    },
+    {
+      "hanzi": "光",
+      "pinyin": "guāng",
+      "ru": "полностью; до конца",
+      "sentence": "这些饭都被孩子们吃___了。",
+      "sentencePinyin": "Zhèxiē fàn dōu bèi háizimen chī guāng le.",
+      "sentenceRu": "Дети съели всю еду без остатка.",
+      "id": "guang",
+      "audioText": "吃光",
+      "audioNote": "光 здесь читается guāng и означает «до конца, без остатка» в конструкции 吃光."
+    },
+    {
+      "hanzi": "垃圾",
+      "pinyin": "lā jī",
+      "ru": "мусор; отходы",
+      "sentence": "不要把___扔在地上。",
+      "sentencePinyin": "Bú yào bǎ lājī rēng zài dì shang.",
+      "sentenceRu": "Не бросай мусор на землю.",
+      "id": "laji"
+    },
+    {
+      "hanzi": "分类",
+      "pinyin": "fēn lèi",
+      "ru": "разделять по категориям; сортировать",
+      "sentence": "我们要把垃圾___处理。",
+      "sentencePinyin": "Wǒmen yào bǎ lājī fēnlèi chǔlǐ.",
+      "sentenceRu": "Нужно сортировать мусор перед утилизацией.",
+      "id": "fenlei"
+    },
+    {
+      "hanzi": "日常",
+      "pinyin": "rì cháng",
+      "ru": "повседневный; ежедневный",
+      "sentence": "这些好习惯应该成为___生活的一部分。",
+      "sentencePinyin": "Zhèxiē hǎo xíguàn yīnggāi chéngwéi rìcháng shēnghuó de yí bùfen.",
+      "sentenceRu": "Эти полезные привычки должны стать частью повседневной жизни.",
+      "id": "richang"
+    }
+  ]
+}

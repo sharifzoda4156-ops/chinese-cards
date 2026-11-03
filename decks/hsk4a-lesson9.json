@@ -1,0 +1,388 @@
+{
+  "title": "HSK-4A · Урок 9",
+  "subtitle": "遇见你，刚刚好 · Встретить тебя — как раз вовремя",
+  "source": "《新HSK教程 4 上》, урок 9, 生词 №1–40, печатные страницы 96, 98, 100, 102 (PDF 106, 108, 110, 112); собственные имена исключены",
+  "words": [
+    {
+      "hanzi": "祝",
+      "pinyin": "zhù",
+      "ru": "желать; поздравлять",
+      "sentence": "我___你生日快乐！",
+      "sentencePinyin": "Wǒ zhù nǐ shēngrì kuàilè!",
+      "sentenceRu": "Желаю тебе счастливого дня рождения!",
+      "id": "zhu"
+    },
+    {
+      "hanzi": "巧克力",
+      "pinyin": "qiǎo kè lì",
+      "ru": "шоколад",
+      "sentence": "这盒___是送给你的。",
+      "sentencePinyin": "Zhè hé qiǎokèlì shì sòng gěi nǐ de.",
+      "sentenceRu": "Эта коробка шоколада для тебя.",
+      "id": "qiaokeli"
+    },
+    {
+      "hanzi": "感动",
+      "pinyin": "gǎn dòng",
+      "ru": "растрогать; быть тронутым",
+      "sentence": "朋友的帮助让我非常___。",
+      "sentencePinyin": "Péngyou de bāngzhù ràng wǒ fēicháng gǎndòng.",
+      "sentenceRu": "Помощь друга меня очень тронула.",
+      "id": "gandong"
+    },
+    {
+      "hanzi": "浪漫",
+      "pinyin": "làng màn",
+      "ru": "романтичный",
+      "sentence": "他们在海边度过了一个___的夜晚。",
+      "sentencePinyin": "Tāmen zài hǎibiān dùguò le yí ge làngmàn de yèwǎn.",
+      "sentenceRu": "Они провели романтический вечер у моря.",
+      "id": "langman"
+    },
+    {
+      "hanzi": "幽默",
+      "pinyin": "yōu mò",
+      "ru": "юмористический; с чувством юмора",
+      "sentence": "他的讲话很___，大家都笑了。",
+      "sentencePinyin": "Tā de jiǎnghuà hěn yōumò, dàjiā dōu xiào le.",
+      "sentenceRu": "Он говорит с юмором, все засмеялись.",
+      "id": "youmo"
+    },
+    {
+      "hanzi": "耐心",
+      "pinyin": "nài xīn",
+      "ru": "терпеливый; терпение",
+      "sentence": "教小孩子需要很有___。",
+      "sentencePinyin": "Jiāo xiǎo háizi xūyào hěn yǒu nàixīn.",
+      "sentenceRu": "Чтобы учить детей, нужно много терпения.",
+      "id": "naixin"
+    },
+    {
+      "hanzi": "吸引",
+      "pinyin": "xī yǐn",
+      "ru": "привлекать; притягивать",
+      "sentence": "这个展览___了很多游客。",
+      "sentencePinyin": "Zhège zhǎnlǎn xīyǐn le hěn duō yóukè.",
+      "sentenceRu": "Эта выставка привлекла много посетителей.",
+      "id": "xiyin"
+    },
+    {
+      "hanzi": "当时",
+      "pinyin": "dāng shí",
+      "ru": "в то время; тогда",
+      "sentence": "___我还不认识他。",
+      "sentencePinyin": "Dāngshí wǒ hái bú rènshi tā.",
+      "sentenceRu": "Тогда я его ещё не знал.",
+      "id": "dangshi"
+    },
+    {
+      "hanzi": "错过",
+      "pinyin": "cuò guò",
+      "ru": "пропускать; упускать",
+      "sentence": "我们不能___最后一班车。",
+      "sentencePinyin": "Wǒmen bù néng cuòguò zuìhòu yì bān chē.",
+      "sentenceRu": "Нам нельзя пропустить последний автобус.",
+      "id": "cuoguo"
+    },
+    {
+      "hanzi": "幸运",
+      "pinyin": "xìng yùn",
+      "ru": "удачливый; везение",
+      "sentence": "我很___，遇到了这么好的老师。",
+      "sentencePinyin": "Wǒ hěn xìngyùn, yùdào le zhème hǎo de lǎoshī.",
+      "sentenceRu": "Мне повезло встретить такого хорошего учителя.",
+      "id": "xingyun",
+      "quizExcludes": [
+        "xingfu"
+      ]
+    },
+    {
+      "hanzi": "幸福",
+      "pinyin": "xìng fú",
+      "ru": "счастливый; счастье",
+      "sentence": "一家人能在一起就很___。",
+      "sentencePinyin": "Yì jiā rén néng zài yìqǐ jiù hěn xìngfú.",
+      "sentenceRu": "Когда семья вместе, это уже счастье.",
+      "id": "xingfu",
+      "quizExcludes": [
+        "xingyun"
+      ]
+    },
+    {
+      "hanzi": "尽管",
+      "pinyin": "jǐn guǎn",
+      "ru": "хотя; несмотря на то что",
+      "sentence": "___工作很忙，他还是每天运动。",
+      "sentencePinyin": "Jǐnguǎn gōngzuò hěn máng, tā háishi měi tiān yùndòng.",
+      "sentenceRu": "Хотя он занят на работе, всё равно занимается спортом каждый день.",
+      "id": "jinguan"
+    },
+    {
+      "hanzi": "性格",
+      "pinyin": "xìng gé",
+      "ru": "характер; нрав",
+      "sentence": "她的___很开朗。",
+      "sentencePinyin": "Tā de xìnggé hěn kāilǎng.",
+      "sentenceRu": "У неё открытый характер.",
+      "id": "xingge"
+    },
+    {
+      "hanzi": "共同",
+      "pinyin": "gòng tóng",
+      "ru": "общий; совместный",
+      "sentence": "我们有一个___的目标。",
+      "sentencePinyin": "Wǒmen yǒu yí ge gòngtóng de mùbiāo.",
+      "sentenceRu": "У нас общая цель.",
+      "id": "gongtong"
+    },
+    {
+      "hanzi": "责任",
+      "pinyin": "zé rèn",
+      "ru": "обязанность; ответственность",
+      "sentence": "照顾孩子是父母的___。",
+      "sentencePinyin": "Zhàogù háizi shì fùmǔ de zérèn.",
+      "sentenceRu": "Забота о детях — ответственность родителей.",
+      "id": "zeren"
+    },
+    {
+      "hanzi": "相互",
+      "pinyin": "xiāng hù",
+      "ru": "взаимно; друг друга",
+      "sentence": "好朋友应该___帮助。",
+      "sentencePinyin": "Hǎo péngyou yīnggāi xiānghù bāngzhù.",
+      "sentenceRu": "Хорошие друзья должны помогать друг другу.",
+      "id": "xianghu"
+    },
+    {
+      "hanzi": "理解",
+      "pinyin": "lǐ jiě",
+      "ru": "понимать; понимание",
+      "sentence": "我能___你的想法。",
+      "sentencePinyin": "Wǒ néng lǐjiě nǐ de xiǎngfǎ.",
+      "sentenceRu": "Я могу понять твою точку зрения.",
+      "id": "lijie"
+    },
+    {
+      "hanzi": "支持",
+      "pinyin": "zhī chí",
+      "ru": "поддерживать; поддержка",
+      "sentence": "家人一直___我的决定。",
+      "sentencePinyin": "Jiārén yìzhí zhīchí wǒ de juédìng.",
+      "sentenceRu": "Семья всегда поддерживает моё решение.",
+      "id": "zhichi"
+    },
+    {
+      "hanzi": "印象",
+      "pinyin": "yìn xiàng",
+      "ru": "впечатление",
+      "sentence": "这座城市给我留下了很好的___。",
+      "sentencePinyin": "Zhè zuò chéngshì gěi wǒ liúxià le hěn hǎo de yìnxiàng.",
+      "sentenceRu": "Этот город оставил у меня хорошее впечатление.",
+      "id": "yinxiang"
+    },
+    {
+      "hanzi": "实在",
+      "pinyin": "shí zài",
+      "ru": "честный; действительно",
+      "sentence": "他这个人很___，从不骗人。",
+      "sentencePinyin": "Tā zhège rén hěn shízài, cóng bù piàn rén.",
+      "sentenceRu": "Он очень честный человек и никого не обманывает.",
+      "id": "shizai"
+    },
+    {
+      "hanzi": "阳光",
+      "pinyin": "yáng guāng",
+      "ru": "солнце; солнечный свет",
+      "sentence": "今天的___特别温暖。",
+      "sentencePinyin": "Jīntiān de yángguāng tèbié wēnnuǎn.",
+      "sentenceRu": "Сегодня особенно тёплый солнечный свет.",
+      "id": "yangguang"
+    },
+    {
+      "hanzi": "负责",
+      "pinyin": "fù zé",
+      "ru": "отвечать за; ответственный",
+      "sentence": "她___这个项目的管理。",
+      "sentencePinyin": "Tā fùzé zhège xiàngmù de guǎnlǐ.",
+      "sentenceRu": "Она отвечает за управление этим проектом.",
+      "id": "fuze"
+    },
+    {
+      "hanzi": "积极",
+      "pinyin": "jī jí",
+      "ru": "активный; инициативный",
+      "sentence": "他在工作中一直很___。",
+      "sentencePinyin": "Tā zài gōngzuò zhōng yìzhí hěn jījí.",
+      "sentenceRu": "В работе он всегда очень активен.",
+      "id": "jiji"
+    },
+    {
+      "hanzi": "此",
+      "pinyin": "cǐ",
+      "ru": "этот; данное",
+      "sentence": "从___以后，我们常常见面。",
+      "sentencePinyin": "Cóng cǐ yǐhòu, wǒmen chángcháng jiànmiàn.",
+      "sentenceRu": "После этого мы часто встречались.",
+      "id": "ci"
+    },
+    {
+      "hanzi": "从此",
+      "pinyin": "cóng cǐ",
+      "ru": "с тех пор; отныне",
+      "sentence": "他们___成了好朋友。",
+      "sentencePinyin": "Tāmen cóngcǐ chéng le hǎo péngyou.",
+      "sentenceRu": "С тех пор они стали хорошими друзьями.",
+      "id": "congci"
+    },
+    {
+      "hanzi": "产生",
+      "pinyin": "chǎn shēng",
+      "ru": "появляться; порождать",
+      "sentence": "这件事___了很大的影响。",
+      "sentencePinyin": "Zhè jiàn shì chǎnshēng le hěn dà de yǐngxiǎng.",
+      "sentenceRu": "Это событие оказало большое влияние.",
+      "id": "chansheng",
+      "quizExcludes": []
+    },
+    {
+      "hanzi": "爱情",
+      "pinyin": "ài qíng",
+      "ru": "любовь; романтические отношения",
+      "sentence": "电影讲了一个关于___的故事。",
+      "sentencePinyin": "Diànyǐng jiǎng le yí ge guānyú àiqíng de gùshi.",
+      "sentenceRu": "Фильм рассказывает историю любви.",
+      "id": "aiqing",
+      "quizExcludes": [
+        "youqing",
+        "ganqing"
+      ]
+    },
+    {
+      "hanzi": "间",
+      "pinyin": "jiān",
+      "ru": "между (в сочетаниях); пространство",
+      "sentence": "朋友之___需要互相信任。",
+      "sentencePinyin": "Péngyou zhī jiān xūyào hùxiāng xìnrèn.",
+      "sentenceRu": "Друзьям нужно доверять друг другу.",
+      "id": "jian",
+      "audioText": "之间",
+      "audioNote": "间 здесь читается jiān как в 之间 — «между»."
+    },
+    {
+      "hanzi": "友情",
+      "pinyin": "yǒu qíng",
+      "ru": "дружба; дружеские чувства",
+      "sentence": "多年的___让他们更了解对方。",
+      "sentencePinyin": "Duō nián de yǒuqíng ràng tāmen gèng liǎojiě duìfāng.",
+      "sentenceRu": "Многолетняя дружба помогла им лучше понять друг друга.",
+      "id": "youqing",
+      "quizExcludes": [
+        "aiqing",
+        "ganqing"
+      ]
+    },
+    {
+      "hanzi": "美好",
+      "pinyin": "měi hǎo",
+      "ru": "прекрасный; замечательный",
+      "sentence": "祝你有一个___的周末。",
+      "sentencePinyin": "Zhù nǐ yǒu yí ge měihǎo de zhōumò.",
+      "sentenceRu": "Желаю тебе прекрасных выходных.",
+      "id": "meihao"
+    },
+    {
+      "hanzi": "人生",
+      "pinyin": "rén shēng",
+      "ru": "человеческая жизнь; жизненный путь",
+      "sentence": "每个人都有自己不同的___。",
+      "sentencePinyin": "Měi ge rén dōu yǒu zìjǐ bùtóng de rénshēng.",
+      "sentenceRu": "У каждого свой жизненный путь.",
+      "id": "rensheng"
+    },
+    {
+      "hanzi": "精彩",
+      "pinyin": "jīng cǎi",
+      "ru": "замечательный; впечатляющий",
+      "sentence": "昨天的比赛非常___。",
+      "sentencePinyin": "Zuótiān de bǐsài fēicháng jīngcǎi.",
+      "sentenceRu": "Вчерашний матч был очень захватывающим.",
+      "id": "jingcai"
+    },
+    {
+      "hanzi": "感情",
+      "pinyin": "gǎn qíng",
+      "ru": "чувство; эмоциональные отношения",
+      "sentence": "他们的___越来越深。",
+      "sentencePinyin": "Tāmen de gǎnqíng yuè lái yuè shēn.",
+      "sentenceRu": "Их чувства становятся всё глубже.",
+      "id": "ganqing",
+      "quizExcludes": [
+        "aiqing",
+        "youqing"
+      ]
+    },
+    {
+      "hanzi": "深",
+      "pinyin": "shēn",
+      "ru": "глубокий; глубокий по смыслу",
+      "sentence": "我对这座城市有很___的感情。",
+      "sentencePinyin": "Wǒ duì zhè zuò chéngshì yǒu hěn shēn de gǎnqíng.",
+      "sentenceRu": "У меня глубокие чувства к этому городу.",
+      "id": "shen"
+    },
+    {
+      "hanzi": "经营",
+      "pinyin": "jīng yíng",
+      "ru": "управлять; вести (бизнес, отношения)",
+      "sentence": "他们一起___一家小饭馆。",
+      "sentencePinyin": "Tāmen yìqǐ jīngyíng yì jiā xiǎo fànguǎn.",
+      "sentenceRu": "Они вместе управляют небольшим рестораном.",
+      "id": "jingying"
+    },
+    {
+      "hanzi": "对方",
+      "pinyin": "duì fāng",
+      "ru": "другая сторона; партнёр по общению",
+      "sentence": "说话时要考虑___的感受。",
+      "sentencePinyin": "Shuōhuà shí yào kǎolǜ duìfāng de gǎnshòu.",
+      "sentenceRu": "Во время разговора нужно учитывать чувства собеседника.",
+      "id": "duifang"
+    },
+    {
+      "hanzi": "感受",
+      "pinyin": "gǎn shòu",
+      "ru": "чувствовать; переживание; ощущение",
+      "sentence": "你能说说自己的___吗？",
+      "sentencePinyin": "Nǐ néng shuōshuo zìjǐ de gǎnshòu ma?",
+      "sentenceRu": "Можешь рассказать о своих ощущениях?",
+      "id": "ganshou"
+    },
+    {
+      "hanzi": "尤其",
+      "pinyin": "yóu qí",
+      "ru": "особенно; в особенности",
+      "sentence": "我喜欢运动，___喜欢游泳。",
+      "sentencePinyin": "Wǒ xǐhuan yùndòng, yóuqí xǐhuan yóuyǒng.",
+      "sentenceRu": "Я люблю спорт, особенно плавание.",
+      "id": "youqi"
+    },
+    {
+      "hanzi": "日子",
+      "pinyin": "rì zi",
+      "ru": "дни; жизнь; время",
+      "sentence": "这些___我一直在准备考试。",
+      "sentencePinyin": "Zhèxiē rìzi wǒ yìzhí zài zhǔnbèi kǎoshì.",
+      "sentenceRu": "Все эти дни я готовился к экзамену.",
+      "id": "rizi"
+    },
+    {
+      "hanzi": "从来",
+      "pinyin": "cóng lái",
+      "ru": "всегда; когда-либо (обычно с отрицанием)",
+      "sentence": "他___不说谎。",
+      "sentencePinyin": "Tā cónglái bù shuōhuǎng.",
+      "sentenceRu": "Он никогда не лжёт.",
+      "id": "conglai"
+    }
+  ]
+}

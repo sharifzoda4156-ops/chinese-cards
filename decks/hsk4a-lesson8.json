@@ -1,0 +1,367 @@
+{
+  "title": "HSK-4A · Урок 8",
+  "subtitle": "该放松的时候就放松 · Отдыхай, когда пора отдыхать",
+  "source": "《新HSK教程 4 上》, урок 8, 生词 №1–38, печатные страницы 84, 86, 88, 90 (PDF 94, 96, 98, 100); собственные имена 长城 и 故宫 исключены",
+  "words": [
+    {
+      "hanzi": "紧张",
+      "pinyin": "jǐn zhāng",
+      "ru": "напряжённый; нервничать",
+      "sentence": "考试之前不要太___。",
+      "sentencePinyin": "Kǎoshì zhīqián bú yào tài jǐnzhāng.",
+      "sentenceRu": "Не нервничай слишком сильно перед экзаменом.",
+      "id": "jinzhang"
+    },
+    {
+      "hanzi": "放松",
+      "pinyin": "fàng sōng",
+      "ru": "расслабляться; отдыхать",
+      "sentence": "下班以后，我喜欢听音乐___。",
+      "sentencePinyin": "Xiàbān yǐhòu, wǒ xǐhuan tīng yīnyuè fàngsōng.",
+      "sentenceRu": "После работы я люблю расслабляться под музыку.",
+      "id": "fangsong"
+    },
+    {
+      "hanzi": "呀",
+      "pinyin": "ya",
+      "ru": "же; ах (эмоциональная частица)",
+      "sentence": "你今天来得真早___！",
+      "sentencePinyin": "Nǐ jīntiān lái de zhēn zǎo ya!",
+      "sentenceRu": "Как рано ты сегодня пришёл!",
+      "id": "ya",
+      "audioText": "好呀",
+      "audioNote": "Частица 呀 произносится ya в контексте 好呀."
+    },
+    {
+      "hanzi": "不管",
+      "pinyin": "bù guǎn",
+      "ru": "независимо от; неважно",
+      "sentence": "___天气怎么样，我们都要出发。",
+      "sentencePinyin": "Bùguǎn tiānqì zěnmeyàng, wǒmen dōu yào chūfā.",
+      "sentenceRu": "Какая бы ни была погода, мы всё равно отправимся.",
+      "id": "buguan"
+    },
+    {
+      "hanzi": "郊区",
+      "pinyin": "jiāo qū",
+      "ru": "пригород; окраина города",
+      "sentence": "周末我们去___玩了一天。",
+      "sentencePinyin": "Zhōumò wǒmen qù jiāoqū wán le yì tiān.",
+      "sentenceRu": "В выходной мы провели день в пригороде.",
+      "id": "jiaoqu"
+    },
+    {
+      "hanzi": "游玩",
+      "pinyin": "yóu wán",
+      "ru": "гулять и развлекаться; путешествовать",
+      "sentence": "很多家庭周末到公园___。",
+      "sentencePinyin": "Hěn duō jiātíng zhōumò dào gōngyuán yóuwán.",
+      "sentenceRu": "По выходным семьи гуляют и отдыхают в парке.",
+      "id": "youwan"
+    },
+    {
+      "hanzi": "主意",
+      "pinyin": "zhǔ yi",
+      "ru": "идея; замысел",
+      "sentence": "这个___不错，我们明天就去。",
+      "sentencePinyin": "Zhège zhǔyi búcuò, wǒmen míngtiān jiù qù.",
+      "sentenceRu": "Хорошая идея, давай поедем завтра.",
+      "id": "zhuyi"
+    },
+    {
+      "hanzi": "外出",
+      "pinyin": "wài chū",
+      "ru": "выходить из дома; выезжать",
+      "sentence": "今天下雨了，我不想___。",
+      "sentencePinyin": "Jīntiān xià yǔ le, wǒ bù xiǎng wàichū.",
+      "sentenceRu": "Сегодня идёт дождь, я не хочу выходить.",
+      "id": "waichu"
+    },
+    {
+      "hanzi": "戴",
+      "pinyin": "dài",
+      "ru": "надевать; носить аксессуары",
+      "sentence": "太阳很大，记得___帽子。",
+      "sentencePinyin": "Tàiyáng hěn dà, jìde dài màozi.",
+      "sentenceRu": "Солнце яркое, не забудь надеть шляпу.",
+      "id": "dai"
+    },
+    {
+      "hanzi": "帽子",
+      "pinyin": "mào zi",
+      "ru": "шапка; шляпа",
+      "sentence": "天气冷了，出门记得戴___。",
+      "sentencePinyin": "Tiānqì lěng le, chūmén jìde dài màozi.",
+      "sentenceRu": "Похолодало, не забудь надеть шапку.",
+      "id": "maozi"
+    },
+    {
+      "hanzi": "项目",
+      "pinyin": "xiàng mù",
+      "ru": "проект; пункт программы",
+      "sentence": "公司今年有三个新___。",
+      "sentencePinyin": "Gōngsī jīnnián yǒu sān ge xīn xiàngmù.",
+      "sentenceRu": "В этом году у компании три новых проекта.",
+      "id": "xiangmu"
+    },
+    {
+      "hanzi": "加班",
+      "pinyin": "jiā bān",
+      "ru": "работать сверхурочно",
+      "sentence": "他今天晚上还要___。",
+      "sentencePinyin": "Tā jīntiān wǎnshang hái yào jiābān.",
+      "sentenceRu": "Сегодня вечером ему придётся работать сверхурочно.",
+      "id": "jiaban"
+    },
+    {
+      "hanzi": "熬夜",
+      "pinyin": "áo yè",
+      "ru": "не спать допоздна; засиживаться",
+      "sentence": "总是___对身体不好。",
+      "sentencePinyin": "Zǒng shì áoyè duì shēntǐ bù hǎo.",
+      "sentenceRu": "Постоянно засиживаться допоздна вредно.",
+      "id": "aoye"
+    },
+    {
+      "hanzi": "否则",
+      "pinyin": "fǒu zé",
+      "ru": "иначе; в противном случае",
+      "sentence": "早点儿休息，___明天会很累。",
+      "sentencePinyin": "Zǎo diǎnr xiūxi, fǒuzé míngtiān huì hěn lèi.",
+      "sentenceRu": "Отдохни пораньше, иначе завтра устанешь.",
+      "id": "fouze"
+    },
+    {
+      "hanzi": "失去",
+      "pinyin": "shī qù",
+      "ru": "терять; утрачивать",
+      "sentence": "我不想___这个机会。",
+      "sentencePinyin": "Wǒ bù xiǎng shīqù zhège jīhuì.",
+      "sentenceRu": "Я не хочу упустить эту возможность.",
+      "id": "shiqu_lose"
+    },
+    {
+      "hanzi": "值得",
+      "pinyin": "zhí dé",
+      "ru": "стоить чего-либо; заслуживать",
+      "sentence": "这本书很___一读。",
+      "sentencePinyin": "Zhè běn shū hěn zhíde yì dú.",
+      "sentenceRu": "Эту книгу определённо стоит прочитать.",
+      "id": "zhide"
+    },
+    {
+      "hanzi": "暂停",
+      "pinyin": "zàn tíng",
+      "ru": "временно приостанавливать",
+      "sentence": "我们先___工作十分钟。",
+      "sentencePinyin": "Wǒmen xiān zàntíng gōngzuò shí fēnzhōng.",
+      "sentenceRu": "Давай прервём работу на десять минут.",
+      "id": "zanting"
+    },
+    {
+      "hanzi": "之后",
+      "pinyin": "zhī hòu",
+      "ru": "после; после этого",
+      "sentence": "吃饭___我们去散步吧。",
+      "sentencePinyin": "Chīfàn zhīhòu wǒmen qù sànbù ba.",
+      "sentenceRu": "После еды давай прогуляемся.",
+      "id": "zhihou"
+    },
+    {
+      "hanzi": "风景",
+      "pinyin": "fēng jǐng",
+      "ru": "пейзаж; природный вид",
+      "sentence": "这里的山水___很美。",
+      "sentencePinyin": "Zhèlǐ de shānshuǐ fēngjǐng hěn měi.",
+      "sentenceRu": "Здесь очень красивые горные пейзажи.",
+      "id": "fengjing",
+      "quizExcludes": [
+        "jingse",
+        "meijing"
+      ]
+    },
+    {
+      "hanzi": "效率",
+      "pinyin": "xiào lǜ",
+      "ru": "эффективность; производительность",
+      "sentence": "休息好了，工作___会更高。",
+      "sentencePinyin": "Xiūxi hǎo le, gōngzuò xiàolǜ huì gèng gāo.",
+      "sentenceRu": "После хорошего отдыха производительность выше.",
+      "id": "xiaolu"
+    },
+    {
+      "hanzi": "下降",
+      "pinyin": "xià jiàng",
+      "ru": "снижаться; падать",
+      "sentence": "今年销售额___了。",
+      "sentencePinyin": "Jīnnián xiāoshòu'é xiàjiàng le.",
+      "sentenceRu": "В этом году объём продаж снизился.",
+      "id": "xiajiang"
+    },
+    {
+      "hanzi": "相比",
+      "pinyin": "xiāng bǐ",
+      "ru": "сравнивать; по сравнению с",
+      "sentence": "跟去年___，今年我更健康了。",
+      "sentencePinyin": "Gēn qùnián xiāngbǐ, jīnnián wǒ gèng jiànkāng le.",
+      "sentenceRu": "По сравнению с прошлым годом я стал здоровее.",
+      "id": "xiangbi"
+    },
+    {
+      "hanzi": "因此",
+      "pinyin": "yīn cǐ",
+      "ru": "поэтому; вследствие этого",
+      "sentence": "今天堵车，___我来晚了。",
+      "sentencePinyin": "Jīntiān dǔchē, yīncǐ wǒ lái wǎn le.",
+      "sentenceRu": "Сегодня была пробка, поэтому я опоздал.",
+      "id": "yinci"
+    },
+    {
+      "hanzi": "提醒",
+      "pinyin": "tí xǐng",
+      "ru": "напоминать; предупреждать",
+      "sentence": "请___我明天带护照。",
+      "sentencePinyin": "Qǐng tíxǐng wǒ míngtiān dài hùzhào.",
+      "sentenceRu": "Напомни мне завтра взять паспорт.",
+      "id": "tixing"
+    },
+    {
+      "hanzi": "与",
+      "pinyin": "yǔ",
+      "ru": "с; и; вместе с",
+      "sentence": "我___朋友一起爬山。",
+      "sentencePinyin": "Wǒ yǔ péngyou yìqǐ páshān.",
+      "sentenceRu": "Я поднимаюсь в горы с друзьями.",
+      "id": "yu"
+    },
+    {
+      "hanzi": "大自然",
+      "pinyin": "dà zì rán",
+      "ru": "природа; естественный мир",
+      "sentence": "孩子们应该多接触___。",
+      "sentencePinyin": "Háizimen yīnggāi duō jiēchù dàzìrán.",
+      "sentenceRu": "Детям стоит чаще бывать на природе.",
+      "id": "daziran"
+    },
+    {
+      "hanzi": "美丽",
+      "pinyin": "měi lì",
+      "ru": "красивый; прекрасный",
+      "sentence": "春天的校园非常___。",
+      "sentencePinyin": "Chūntiān de xiàoyuán fēicháng měilì.",
+      "sentenceRu": "Весной кампус очень красивый.",
+      "id": "meili",
+      "quizExcludes": [
+        "meijing"
+      ]
+    },
+    {
+      "hanzi": "景色",
+      "pinyin": "jǐng sè",
+      "ru": "вид; пейзаж",
+      "sentence": "从窗户可以看到外面的___。",
+      "sentencePinyin": "Cóng chuānghu kěyǐ kàndào wàimian de jǐngsè.",
+      "sentenceRu": "Из окна виден пейзаж.",
+      "id": "jingse",
+      "quizExcludes": [
+        "fengjing",
+        "meijing"
+      ]
+    },
+    {
+      "hanzi": "首都",
+      "pinyin": "shǒu dū",
+      "ru": "столица",
+      "sentence": "北京是中国的___。",
+      "sentencePinyin": "Běijīng shì Zhōngguó de shǒudū.",
+      "sentenceRu": "Пекин — столица Китая.",
+      "id": "shoudu"
+    },
+    {
+      "hanzi": "市区",
+      "pinyin": "shì qū",
+      "ru": "городской центр; городская часть",
+      "sentence": "我们住在___，坐地铁很方便。",
+      "sentencePinyin": "Wǒmen zhù zài shìqū, zuò dìtiě hěn fāngbiàn.",
+      "sentenceRu": "Мы живём в городе, и метро очень удобно.",
+      "id": "shiqu_city"
+    },
+    {
+      "hanzi": "眼前",
+      "pinyin": "yǎn qián",
+      "ru": "перед глазами; прямо перед собой",
+      "sentence": "美丽的景色出现在我___。",
+      "sentencePinyin": "Měilì de jǐngsè chūxiàn zài wǒ yǎnqián.",
+      "sentenceRu": "Красивый вид появился перед моими глазами.",
+      "id": "yanqian"
+    },
+    {
+      "hanzi": "美景",
+      "pinyin": "měi jǐng",
+      "ru": "красивый пейзаж; великолепный вид",
+      "sentence": "游客们停下来欣赏___。",
+      "sentencePinyin": "Yóukèmen tíng xiàlái xīnshǎng měijǐng.",
+      "sentenceRu": "Туристы остановились полюбоваться видом.",
+      "id": "meijing",
+      "quizExcludes": [
+        "fengjing",
+        "jingse",
+        "meili"
+      ]
+    },
+    {
+      "hanzi": "参观",
+      "pinyin": "cān guān",
+      "ru": "осматривать; посещать с экскурсией",
+      "sentence": "明天我们要___博物馆。",
+      "sentencePinyin": "Míngtiān wǒmen yào cānguān bówùguǎn.",
+      "sentenceRu": "Завтра мы посетим музей.",
+      "id": "canguan"
+    },
+    {
+      "hanzi": "景点",
+      "pinyin": "jǐng diǎn",
+      "ru": "туристическая достопримечательность",
+      "sentence": "这个城市有很多著名的___。",
+      "sentencePinyin": "Zhège chéngshì yǒu hěn duō zhùmíng de jǐngdiǎn.",
+      "sentenceRu": "В городе много знаменитых достопримечательностей.",
+      "id": "jingdian"
+    },
+    {
+      "hanzi": "交通",
+      "pinyin": "jiāo tōng",
+      "ru": "транспорт; дорожное движение",
+      "sentence": "这里的公共___很方便。",
+      "sentencePinyin": "Zhèlǐ de gōnggòng jiāotōng hěn fāngbiàn.",
+      "sentenceRu": "Здесь удобный общественный транспорт.",
+      "id": "jiaotong"
+    },
+    {
+      "hanzi": "乘坐",
+      "pinyin": "chéng zuò",
+      "ru": "ехать на транспорте; пользоваться",
+      "sentence": "去郊区可以___公共汽车。",
+      "sentencePinyin": "Qù jiāoqū kěyǐ chéngzuò gōnggòng qìchē.",
+      "sentenceRu": "В пригород можно поехать на автобусе.",
+      "id": "chengzuo"
+    },
+    {
+      "hanzi": "十分",
+      "pinyin": "shí fēn",
+      "ru": "очень; чрезвычайно",
+      "sentence": "我对这次旅行___满意。",
+      "sentencePinyin": "Wǒ duì zhè cì lǚxíng shífēn mǎnyì.",
+      "sentenceRu": "Я очень доволен этой поездкой.",
+      "id": "shifen"
+    },
+    {
+      "hanzi": "实际上",
+      "pinyin": "shí jì shàng",
+      "ru": "на самом деле; фактически",
+      "sentence": "看起来很远，___走十分钟就到了。",
+      "sentencePinyin": "Kàn qǐlái hěn yuǎn, shíjìshàng zǒu shí fēnzhōng jiù dào le.",
+      "sentenceRu": "Кажется далеко, но на самом деле идти десять минут.",
+      "id": "shijishang"
+    }
+  ]
+}
