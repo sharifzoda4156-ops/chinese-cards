@@ -46,7 +46,10 @@
       "sentence": "由于下雨，比赛___了。",
       "sentencePinyin": "Yóuyú xià yǔ, bǐsài tuīchí le.",
       "sentenceRu": "Из-за дождя соревнование перенесли.",
-      "id": "tuichi"
+      "id": "tuichi",
+      "quizExcludes": [
+        "quxiao"
+      ]
     },
     {
       "hanzi": "取消",
@@ -57,7 +60,7 @@
       "sentenceRu": "Школа решила отменить завтрашнее мероприятие.",
       "id": "quxiao",
       "quizExcludes": [
-        "tuischi"
+        "tuichi"
       ]
     },
     {
@@ -112,7 +115,10 @@
       "sentence": "老师决定___练习题。",
       "sentencePinyin": "Lǎoshī juédìng zēngjiā liànxítí.",
       "sentenceRu": "Преподаватель решил добавить упражнения.",
-      "id": "zengjia"
+      "id": "zengjia",
+      "quizExcludes": [
+        "tiaozheng"
+      ]
     },
     {
       "hanzi": "调整",
@@ -123,7 +129,7 @@
       "sentenceRu": "Нам нужно скорректировать завтрашний план.",
       "id": "tiaozheng",
       "quizExcludes": [
-        "zhengjia"
+        "zengjia"
       ]
     },
     {
