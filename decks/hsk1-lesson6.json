@@ -1,0 +1,205 @@
+{
+  "title": "HSK-1 · Урок 6",
+  "subtitle": "你的手机号是多少？ · Какой у тебя номер телефона?",
+  "source": "新HSK教程 1, урок 6, 生词 (без 专有名词), печатные страницы 36, 38, 40",
+  "words": [
+    {
+      "id": "shouji",
+      "hanzi": "手机",
+      "pinyin": "shǒu jī",
+      "ru": "мобильный телефон",
+      "sentence": "我的___在桌子上。",
+      "sentencePinyin": "Wǒ de shǒujī zài zhuōzi shang.",
+      "sentenceRu": "Мой телефон лежит на столе."
+    },
+    {
+      "id": "dianhua",
+      "hanzi": "电话",
+      "pinyin": "diàn huà",
+      "ru": "телефон; телефонный звонок",
+      "sentence": "妈妈在打___。",
+      "sentencePinyin": "Māma zài dǎ diànhuà.",
+      "sentenceRu": "Мама разговаривает по телефону."
+    },
+    {
+      "id": "hao",
+      "hanzi": "号",
+      "pinyin": "hào",
+      "ru": "номер",
+      "sentence": "你的电话___是多少？",
+      "sentencePinyin": "Nǐ de diànhuà hào shì duōshao?",
+      "sentenceRu": "Какой у тебя номер телефона?"
+    },
+    {
+      "id": "mingtian",
+      "hanzi": "明天",
+      "pinyin": "míng tiān",
+      "ru": "завтра",
+      "sentence": "___我去学校。",
+      "sentencePinyin": "Míngtiān wǒ qù xuéxiào.",
+      "sentenceRu": "Завтра я пойду в школу."
+    },
+    {
+      "id": "qu",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "ru": "идти; ехать (от говорящего)",
+      "sentence": "我想___北京旅游。",
+      "sentencePinyin": "Wǒ xiǎng qù Běijīng lǚyóu.",
+      "sentenceRu": "Хочу поехать в Пекин."
+    },
+    {
+      "id": "nar",
+      "hanzi": "哪儿",
+      "pinyin": "nǎr",
+      "ru": "где; куда",
+      "sentence": "你要去___？",
+      "sentencePinyin": "Nǐ yào qù nǎr?",
+      "sentenceRu": "Куда ты собираешься?"
+    },
+    {
+      "id": "xiang",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "ru": "хотеть; думать",
+      "sentence": "我___买些牛奶。",
+      "sentencePinyin": "Wǒ xiǎng mǎi xiē niúnǎi.",
+      "sentenceRu": "Я хочу купить молока."
+    },
+    {
+      "id": "chaoshi",
+      "hanzi": "超市",
+      "pinyin": "chāo shì",
+      "ru": "супермаркет",
+      "sentence": "我在___买水果。",
+      "sentencePinyin": "Wǒ zài chāoshì mǎi shuǐguǒ.",
+      "sentenceRu": "Я покупаю фрукты в супермаркете."
+    },
+    {
+      "id": "mai",
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "ru": "покупать",
+      "sentence": "我们去___东西吧。",
+      "sentencePinyin": "Wǒmen qù mǎi dōngxi ba.",
+      "sentenceRu": "Давай пойдём за покупками."
+    },
+    {
+      "id": "dongxi",
+      "hanzi": "东西",
+      "pinyin": "dōng xi",
+      "ru": "вещь; вещи; предметы",
+      "sentence": "我买了一些___。",
+      "sentencePinyin": "Wǒ mǎi le yìxiē dōngxi.",
+      "sentenceRu": "Я купил кое-какие вещи."
+    },
+    {
+      "id": "xie",
+      "hanzi": "些",
+      "pinyin": "xiē",
+      "ru": "немного; несколько (в сочетаниях)",
+      "sentence": "请给我一___水。",
+      "sentencePinyin": "Qǐng gěi wǒ yì xiē shuǐ.",
+      "sentenceRu": "Дайте мне немного воды, пожалуйста."
+    },
+    {
+      "id": "niunai",
+      "hanzi": "牛奶",
+      "pinyin": "niú nǎi",
+      "ru": "молоко",
+      "sentence": "我早上喝一杯___。",
+      "sentencePinyin": "Wǒ zǎoshang hē yì bēi niúnǎi.",
+      "sentenceRu": "Утром я пью стакан молока."
+    },
+    {
+      "id": "chi",
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "ru": "есть; кушать",
+      "sentence": "你想___什么？",
+      "sentencePinyin": "Nǐ xiǎng chī shénme?",
+      "sentenceRu": "Что ты хочешь съесть?"
+    },
+    {
+      "id": "wanfan",
+      "hanzi": "晚饭",
+      "pinyin": "wǎn fàn",
+      "ru": "ужин",
+      "sentence": "我们七点___。",
+      "sentencePinyin": "Wǒmen qī diǎn chī wǎnfàn.",
+      "sentenceRu": "Мы ужинаем в семь."
+    },
+    {
+      "id": "nabian",
+      "hanzi": "那边",
+      "pinyin": "nà biān",
+      "ru": "там; в той стороне",
+      "sentence": "___有一家好饭馆。",
+      "sentencePinyin": "Nàbiān yǒu yì jiā hǎo fànguǎn.",
+      "sentenceRu": "Там есть хороший ресторан."
+    },
+    {
+      "id": "baozi",
+      "hanzi": "包子",
+      "pinyin": "bāo zi",
+      "ru": "баоцзы; паровая булочка с начинкой",
+      "sentence": "我想吃两个___。",
+      "sentencePinyin": "Wǒ xiǎng chī liǎng ge bāozi.",
+      "sentenceRu": "Хочу съесть два баоцзы."
+    },
+    {
+      "id": "feichang",
+      "hanzi": "非常",
+      "pinyin": "fēi cháng",
+      "ru": "очень; чрезвычайно",
+      "sentence": "这些包子___好吃。",
+      "sentencePinyin": "Zhèxiē bāozi fēicháng hǎochī.",
+      "sentenceRu": "Эти баоцзы очень вкусные."
+    },
+    {
+      "id": "haochi",
+      "hanzi": "好吃",
+      "pinyin": "hǎo chī",
+      "ru": "вкусный",
+      "sentence": "妈妈做的饭很___。",
+      "sentencePinyin": "Māma zuò de fàn hěn hǎochī.",
+      "sentenceRu": "Мама очень вкусно готовит."
+    },
+    {
+      "id": "mifan",
+      "hanzi": "米饭",
+      "pinyin": "mǐ fàn",
+      "ru": "варёный рис",
+      "sentence": "我想吃一碗___。",
+      "sentencePinyin": "Wǒ xiǎng chī yì wǎn mǐfàn.",
+      "sentenceRu": "Хочу миску риса."
+    },
+    {
+      "id": "zenme",
+      "hanzi": "怎么",
+      "pinyin": "zěn me",
+      "ru": "как; каким образом",
+      "sentence": "我们___去机场？",
+      "sentencePinyin": "Wǒmen zěnme qù jīchǎng?",
+      "sentenceRu": "Как нам добраться до аэропорта?"
+    },
+    {
+      "id": "zuo",
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "ru": "садиться; ехать транспортом",
+      "sentence": "我们___出租车去吧。",
+      "sentencePinyin": "Wǒmen zuò chūzūchē qù ba.",
+      "sentenceRu": "Давай поедем на такси."
+    },
+    {
+      "id": "chuzuche",
+      "hanzi": "出租车",
+      "pinyin": "chū zū chē",
+      "ru": "такси",
+      "sentence": "去医院可以打___。",
+      "sentencePinyin": "Qù yīyuàn kěyǐ dǎ chūzūchē.",
+      "sentenceRu": "До больницы можно доехать на такси."
+    }
+  ]
+}
