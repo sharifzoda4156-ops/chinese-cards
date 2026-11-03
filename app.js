@@ -138,14 +138,19 @@
     return null;
   }
 
-  // Уровни показываются по номеру: HSK-1, HSK-2, HSK-3, HSK-4 и т. д.
-  // Не полагаемся на порядок разделов в catalog.json.
+  // Числовой порядок уровней с подуровнями: HSK-1, HSK-2, HSK-3, HSK-4A, HSK-4B, HSK-5.
+  // Сортировка не зависит от порядка записей в catalog.json.
   function sortedSections() {
     const level = (group) => {
-      const match = /^hsk([0-9]+)$/i.exec(group.id || '');
-      return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER;
+      const match = /^hsk([0-9]+)([a-z]?)$/i.exec(group.id || '');
+      if (!match) return [Number.MAX_SAFE_INTEGER, ''];
+      return [Number(match[1]), match[2].toLowerCase()];
     };
-    return [...catalog.sections].sort((a, b) => level(a) - level(b));
+    return [...catalog.sections].sort((a, b) => {
+      const [aLevel, aPart] = level(a);
+      const [bLevel, bPart] = level(b);
+      return aLevel - bLevel || aPart.localeCompare(bPart);
+    });
   }
 
   function renderSections() {
