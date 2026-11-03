@@ -50,22 +50,30 @@
         {
           "id": "lesson7",
           "title": "Урок 7",
-          "available": false
+          "available": true,
+          "subtitle": "Эта юбка красивее шорт",
+          "wordCount": 27
         },
         {
           "id": "lesson8",
           "title": "Урок 8",
-          "available": false
+          "available": true,
+          "subtitle": "Сегодня меня выписали из больницы",
+          "wordCount": 28
         },
         {
           "id": "lesson9",
           "title": "Урок 9",
-          "available": false
+          "available": true,
+          "subtitle": "Не страшно, если плохо играешь",
+          "wordCount": 25
         },
         {
           "id": "lesson10",
           "title": "Урок 10",
-          "available": false
+          "available": true,
+          "subtitle": "Можешь вернуть книгу завтра",
+          "wordCount": 28
         },
         {
           "id": "lesson11",
