@@ -1,0 +1,370 @@
+{
+  "title": "HSK-4B · Урок 18",
+  "subtitle": "科技改变生活 · Технологии меняют жизнь",
+  "source": "《新HSK教程 4 下》, урок 18, 生词 №1–39, PDF страницы 91, 94, 96, 98 (печатные 87, 90, 92, 94)",
+  "words": [
+    {
+      "hanzi": "猜",
+      "pinyin": "cāi",
+      "ru": "угадывать; предполагать",
+      "sentence": "你能___出我买了什么吗？",
+      "sentencePinyin": "Nǐ néng cāi chū wǒ mǎi le shénme ma?",
+      "sentenceRu": "Можешь угадать, что я купил?",
+      "id": "cai"
+    },
+    {
+      "hanzi": "共享单车",
+      "pinyin": "gòng xiǎng dān chē",
+      "ru": "велосипед совместного пользования",
+      "sentence": "我每天骑___去学校。",
+      "sentencePinyin": "Wǒ měi tiān qí gòngxiǎng dānchē qù xuéxiào.",
+      "sentenceRu": "Каждый день я езжу в школу на прокатном велосипеде.",
+      "id": "gongxiangdanche"
+    },
+    {
+      "hanzi": "出口",
+      "pinyin": "chū kǒu",
+      "ru": "выход",
+      "sentence": "从地铁站的这个___出去。",
+      "sentencePinyin": "Cóng dìtiězhàn de zhège chūkǒu chūqù.",
+      "sentenceRu": "Выйди через этот выход со станции метро.",
+      "id": "chukou"
+    },
+    {
+      "hanzi": "推",
+      "pinyin": "tuī",
+      "ru": "толкать; подталкивать",
+      "sentence": "请帮我___一下这辆自行车。",
+      "sentencePinyin": "Qǐng bāng wǒ tuī yíxià zhè liàng zìxíngchē.",
+      "sentenceRu": "Помоги немного подтолкнуть велосипед.",
+      "id": "tui"
+    },
+    {
+      "hanzi": "对",
+      "pinyin": "duì",
+      "ru": "направлять на; напротив",
+      "sentence": "请___着二维码扫一扫。",
+      "sentencePinyin": "Qǐng duì zhe èrwéimǎ sǎo yi sǎo.",
+      "sentenceRu": "Наведи на QR-код и отсканируй его.",
+      "id": "dui"
+    },
+    {
+      "hanzi": "二维码",
+      "pinyin": "èr wéi mǎ",
+      "ru": "QR-код",
+      "sentence": "打开手机扫描___。",
+      "sentencePinyin": "Dǎkāi shǒujī sǎomiáo èrwéimǎ.",
+      "sentenceRu": "Открой телефон и отсканируй QR-код.",
+      "id": "erweima"
+    },
+    {
+      "hanzi": "注册",
+      "pinyin": "zhù cè",
+      "ru": "регистрироваться",
+      "sentence": "使用这个应用前需要___。",
+      "sentencePinyin": "Shǐyòng zhège yìngyòng qián xūyào zhùcè.",
+      "sentenceRu": "Перед использованием приложения нужно зарегистрироваться.",
+      "id": "zhuce"
+    },
+    {
+      "hanzi": "费用",
+      "pinyin": "fèi yòng",
+      "ru": "расходы; плата",
+      "sentence": "这个服务的___是多少？",
+      "sentencePinyin": "Zhège fúwù de fèiyòng shì duōshao?",
+      "sentenceRu": "Сколько стоит эта услуга?",
+      "id": "feiyong"
+    },
+    {
+      "hanzi": "说明",
+      "pinyin": "shuō míng",
+      "ru": "объяснять; инструкция",
+      "sentence": "软件里有详细的使用___。",
+      "sentencePinyin": "Ruǎnjiàn lǐ yǒu xiángxì de shǐyòng shuōmíng.",
+      "sentenceRu": "В приложении есть подробная инструкция.",
+      "id": "shuoming"
+    },
+    {
+      "hanzi": "办事",
+      "pinyin": "bàn shì",
+      "ru": "решать дела; заниматься вопросами",
+      "sentence": "我今天去银行___。",
+      "sentencePinyin": "Wǒ jīntiān qù yínháng bànshì.",
+      "sentenceRu": "Сегодня я иду в банк по делам.",
+      "id": "banshi"
+    },
+    {
+      "hanzi": "差点儿",
+      "pinyin": "chà diǎnr",
+      "ru": "чуть не; почти",
+      "sentence": "我___错过了末班车。",
+      "sentencePinyin": "Wǒ chàdiǎnr cuòguò le mòbānchē.",
+      "sentenceRu": "Я чуть не пропустил последний автобус.",
+      "id": "chadianr"
+    },
+    {
+      "hanzi": "拍",
+      "pinyin": "pāi",
+      "ru": "снимать на видео; фотографировать",
+      "sentence": "我们一起___一段短视频吧。",
+      "sentencePinyin": "Wǒmen yìqǐ pāi yí duàn duǎn shìpín ba.",
+      "sentenceRu": "Давай вместе снимем короткое видео.",
+      "id": "pai"
+    },
+    {
+      "hanzi": "各个",
+      "pinyin": "gè gè",
+      "ru": "каждый; всевозможные",
+      "sentence": "___小组都准备了节目。",
+      "sentencePinyin": "Gègè xiǎozǔ dōu zhǔnbèi le jiémù.",
+      "sentenceRu": "Каждая группа подготовила выступление.",
+      "id": "gege"
+    },
+    {
+      "hanzi": "小组",
+      "pinyin": "xiǎo zǔ",
+      "ru": "небольшая группа",
+      "sentence": "我们___有五个人。",
+      "sentencePinyin": "Wǒmen xiǎozǔ yǒu wǔ ge rén.",
+      "sentenceRu": "В нашей группе пять человек.",
+      "id": "xiaozu"
+    },
+    {
+      "hanzi": "讨论",
+      "pinyin": "tǎo lùn",
+      "ru": "обсуждать; дискуссия",
+      "sentence": "我们正在___新技术的作用。",
+      "sentencePinyin": "Wǒmen zhèngzài tǎolùn xīn jìshù de zuòyòng.",
+      "sentenceRu": "Мы обсуждаем роль новых технологий.",
+      "id": "taolun"
+    },
+    {
+      "hanzi": "演",
+      "pinyin": "yǎn",
+      "ru": "играть роль; выступать",
+      "sentence": "这个短视频里我___一名厨师。",
+      "sentencePinyin": "Zhège duǎn shìpín lǐ wǒ yǎn yì míng chúshī.",
+      "sentenceRu": "В этом коротком видео я играю повара.",
+      "id": "yan"
+    },
+    {
+      "hanzi": "厨师",
+      "pinyin": "chú shī",
+      "ru": "повар",
+      "sentence": "这位___会做很多中国菜。",
+      "sentencePinyin": "Zhè wèi chúshī huì zuò hěn duō Zhōngguó cài.",
+      "sentenceRu": "Этот повар умеет готовить много китайских блюд.",
+      "id": "chushi"
+    },
+    {
+      "hanzi": "各地",
+      "pinyin": "gè dì",
+      "ru": "разные места; повсюду",
+      "sentence": "中国___都有特色小吃。",
+      "sentencePinyin": "Zhōngguó gèdì dōu yǒu tèsè xiǎochī.",
+      "sentenceRu": "В разных частях Китая есть свои закуски.",
+      "id": "gedi"
+    },
+    {
+      "hanzi": "著名",
+      "pinyin": "zhù míng",
+      "ru": "известный; знаменитый",
+      "sentence": "这是一家___的餐厅。",
+      "sentencePinyin": "Zhè shì yì jiā zhùmíng de cāntīng.",
+      "sentenceRu": "Это известный ресторан.",
+      "id": "zhuming"
+    },
+    {
+      "hanzi": "小吃",
+      "pinyin": "xiǎo chī",
+      "ru": "закуска; уличная еда",
+      "sentence": "我很喜欢当地的___。",
+      "sentencePinyin": "Wǒ hěn xǐhuan dāngdì de xiǎochī.",
+      "sentenceRu": "Мне очень нравятся местные закуски.",
+      "id": "xiaochi"
+    },
+    {
+      "hanzi": "互联网",
+      "pinyin": "hù lián wǎng",
+      "ru": "интернет",
+      "sentence": "___改变了我们的生活。",
+      "sentencePinyin": "Hùliánwǎng gǎibiàn le wǒmen de shēnghuó.",
+      "sentenceRu": "Интернет изменил нашу жизнь.",
+      "id": "hulianwang"
+    },
+    {
+      "hanzi": "点赞",
+      "pinyin": "diǎn zàn",
+      "ru": "ставить лайк; одобрять",
+      "sentence": "大家看完视频都来___。",
+      "sentencePinyin": "Dàjiā kàn wán shìpín dōu lái diǎnzàn.",
+      "sentenceRu": "Все посмотрели видео и поставили лайки.",
+      "id": "dianzan"
+    },
+    {
+      "hanzi": "AI眼镜",
+      "pinyin": "AI yǎn jìng",
+      "ru": "очки с искусственным интеллектом",
+      "sentence": "他戴着一副___翻译菜单。",
+      "sentencePinyin": "Tā dài zhe yí fù AI yǎnjìng fānyì càidān.",
+      "sentenceRu": "Он переводит меню с помощью умных AI-очков.",
+      "id": "aiyanjing"
+    },
+    {
+      "hanzi": "3D打印机",
+      "pinyin": "3D dǎ yìn jī",
+      "ru": "3D-принтер",
+      "sentence": "这台___能制作模型。",
+      "sentencePinyin": "Zhè tái 3D dǎyìnjī néng zhìzuò móxíng.",
+      "sentenceRu": "Этот 3D-принтер может изготавливать модели.",
+      "id": "3ddayinji"
+    },
+    {
+      "hanzi": "上门",
+      "pinyin": "shàng mén",
+      "ru": "приходить к клиенту домой",
+      "sentence": "这家公司提供___维修服务。",
+      "sentencePinyin": "Zhè jiā gōngsī tígōng shàngmén wéixiū fúwù.",
+      "sentenceRu": "Компания предлагает ремонт с выездом на дом.",
+      "id": "shangmen"
+    },
+    {
+      "hanzi": "到底",
+      "pinyin": "dào dǐ",
+      "ru": "всё-таки; в конце концов (вопрос)",
+      "sentence": "这项技术___有什么用？",
+      "sentencePinyin": "Zhè xiàng jìshù dàodǐ yǒu shénme yòng?",
+      "sentenceRu": "Для чего всё-таки нужна эта технология?",
+      "id": "daodi"
+    },
+    {
+      "hanzi": "仅",
+      "pinyin": "jǐn",
+      "ru": "только; лишь",
+      "sentence": "这个服务___需要五分钟。",
+      "sentencePinyin": "Zhège fúwù jǐn xūyào wǔ fēnzhōng.",
+      "sentenceRu": "Эта услуга занимает всего пять минут.",
+      "id": "jin",
+      "quizExcludes": [
+        "bubi"
+      ]
+    },
+    {
+      "hanzi": "多样",
+      "pinyin": "duō yàng",
+      "ru": "разнообразный",
+      "sentence": "现在的服务方式越来越___。",
+      "sentencePinyin": "Xiànzài de fúwù fāngshì yuè lái yuè duōyàng.",
+      "sentenceRu": "Способы обслуживания становятся разнообразнее.",
+      "id": "duoyang"
+    },
+    {
+      "hanzi": "推出",
+      "pinyin": "tuī chū",
+      "ru": "представлять; выпускать на рынок",
+      "sentence": "公司下周要___新产品。",
+      "sentencePinyin": "Gōngsī xià zhōu yào tuīchū xīn chǎnpǐn.",
+      "sentenceRu": "На следующей неделе компания выпустит новый продукт.",
+      "id": "tuichu",
+      "quizExcludes": [
+        "tichu"
+      ]
+    },
+    {
+      "hanzi": "预约",
+      "pinyin": "yù yuē",
+      "ru": "записываться заранее; бронировать",
+      "sentence": "看医生之前需要___。",
+      "sentencePinyin": "Kàn yīshēng zhīqián xūyào yùyuē.",
+      "sentenceRu": "Перед посещением врача нужно записаться.",
+      "id": "yuyue"
+    },
+    {
+      "hanzi": "取",
+      "pinyin": "qǔ",
+      "ru": "брать; забирать",
+      "sentence": "请到窗口___你的票。",
+      "sentencePinyin": "Qǐng dào chuāngkǒu qǔ nǐ de piào.",
+      "sentenceRu": "Забери свой билет в окошке.",
+      "id": "qu"
+    },
+    {
+      "hanzi": "原因",
+      "pinyin": "yuán yīn",
+      "ru": "причина",
+      "sentence": "你知道迟到的___吗？",
+      "sentencePinyin": "Nǐ zhīdào chídào de yuányīn ma?",
+      "sentenceRu": "Ты знаешь причину опоздания?",
+      "id": "yuanyin"
+    },
+    {
+      "hanzi": "然而",
+      "pinyin": "rán ér",
+      "ru": "однако; тем не менее",
+      "sentence": "技术发展很快，___也有新问题。",
+      "sentencePinyin": "Jìshù fāzhǎn hěn kuài, rán'ér yě yǒu xīn wèntí.",
+      "sentenceRu": "Технологии быстро развиваются, однако появляются и проблемы.",
+      "id": "raner"
+    },
+    {
+      "hanzi": "不必",
+      "pinyin": "bú bì",
+      "ru": "не нужно; нет необходимости",
+      "sentence": "你___亲自来，可以网上办理。",
+      "sentencePinyin": "Nǐ búbì qīnzì lái, kěyǐ wǎngshàng bànlǐ.",
+      "sentenceRu": "Тебе не обязательно приходить лично, всё можно оформить онлайн.",
+      "id": "bubi",
+      "quizExcludes": [
+        "jin"
+      ]
+    },
+    {
+      "hanzi": "亲戚",
+      "pinyin": "qīn qi",
+      "ru": "родственники",
+      "sentence": "春节我们要去看望___。",
+      "sentencePinyin": "Chūnjié wǒmen yào qù kànwàng qīnqi.",
+      "sentenceRu": "На Праздник весны мы навещаем родственников.",
+      "id": "qinqi"
+    },
+    {
+      "hanzi": "按",
+      "pinyin": "àn",
+      "ru": "нажимать; согласно",
+      "sentence": "请___一下这个按钮。",
+      "sentencePinyin": "Qǐng àn yíxià zhège ànniǔ.",
+      "sentenceRu": "Нажми, пожалуйста, эту кнопку.",
+      "id": "an"
+    },
+    {
+      "hanzi": "提出",
+      "pinyin": "tí chū",
+      "ru": "выдвигать; предлагать",
+      "sentence": "他在会议上___了一个新想法。",
+      "sentencePinyin": "Tā zài huìyì shang tíchū le yí ge xīn xiǎngfǎ.",
+      "sentenceRu": "Он предложил новую идею на собрании.",
+      "id": "tichu",
+      "quizExcludes": [
+        "tuichu"
+      ]
+    },
+    {
+      "hanzi": "大大",
+      "pinyin": "dà dà",
+      "ru": "значительно; сильно",
+      "sentence": "这种技术___提高了效率。",
+      "sentencePinyin": "Zhè zhǒng jìshù dàdà tígāo le xiàolǜ.",
+      "sentenceRu": "Эта технология значительно повысила эффективность.",
+      "id": "dada"
+    },
+    {
+      "hanzi": "现有",
+      "pinyin": "xiàn yǒu",
+      "ru": "существующий; имеющийся",
+      "sentence": "我们要利用___的设备。",
+      "sentencePinyin": "Wǒmen yào lìyòng xiànyǒu de shèbèi.",
+      "sentenceRu": "Нужно использовать имеющееся оборудование.",
+      "id": "xianyou"
+    }
+  ]
+}
