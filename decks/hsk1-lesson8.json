@@ -19,7 +19,11 @@
       "ru": "снаружи; вне",
       "sentence": "门___有一只小猫。",
       "sentencePinyin": "Mén wài yǒu yì zhī xiǎo māo.",
-      "sentenceRu": "За дверью есть котёнок."
+      "sentenceRu": "За дверью есть котёнок.",
+      "quizExcludes": [
+        "qian",
+        "xia"
+      ]
     },
     {
       "id": "zhi",
@@ -82,7 +86,11 @@
       "ru": "под; внизу",
       "sentence": "猫在桌子___。",
       "sentencePinyin": "Māo zài zhuōzi xià.",
-      "sentenceRu": "Кошка под столом."
+      "sentenceRu": "Кошка под столом.",
+      "quizExcludes": [
+        "wai",
+        "qian"
+      ]
     },
     {
       "id": "piaoliang",
@@ -100,7 +108,10 @@
       "ru": "в; на (место действия)",
       "sentence": "我___学校学习。",
       "sentencePinyin": "Wǒ zài xuéxiào xuéxí.",
-      "sentenceRu": "Я учусь в школе."
+      "sentenceRu": "Я учусь в школе.",
+      "quizExcludes": [
+        "dao"
+      ]
     },
     {
       "id": "xuexiao",
@@ -127,7 +138,11 @@
       "ru": "перед; впереди",
       "sentence": "我们在学校___见面。",
       "sentencePinyin": "Wǒmen zài xuéxiào qián jiànmiàn.",
-      "sentenceRu": "Встретимся перед школой."
+      "sentenceRu": "Встретимся перед школой.",
+      "quizExcludes": [
+        "wai",
+        "xia"
+      ]
     },
     {
       "id": "neng",
@@ -145,7 +160,10 @@
       "ru": "прибыть; достигать",
       "sentence": "我两点___学校。",
       "sentencePinyin": "Wǒ liǎng diǎn dào xuéxiào.",
-      "sentenceRu": "Я приезжаю в школу в два."
+      "sentenceRu": "Я приезжаю в школу в два.",
+      "quizExcludes": [
+        "zai"
+      ]
     },
     {
       "id": "wufan",
