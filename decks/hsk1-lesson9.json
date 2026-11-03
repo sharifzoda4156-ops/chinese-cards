@@ -10,7 +10,10 @@
       "ru": "перед; впереди",
       "sentence": "电影院在学校___。",
       "sentencePinyin": "Diànyǐngyuàn zài xuéxiào qiánbian.",
-      "sentenceRu": "Кинотеатр перед школой."
+      "sentenceRu": "Кинотеатр перед школой.",
+      "quizExcludes": [
+        "waibian"
+      ]
     },
     {
       "id": "bian",
@@ -46,7 +49,10 @@
       "ru": "снаружи; на улице",
       "sentence": "___下雨了。",
       "sentencePinyin": "Wàibian xià yǔ le.",
-      "sentenceRu": "На улице идёт дождь."
+      "sentenceRu": "На улице идёт дождь.",
+      "quizExcludes": [
+        "qianbian"
+      ]
     },
     {
       "id": "yizi",
