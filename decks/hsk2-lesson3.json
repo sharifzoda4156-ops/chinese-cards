@@ -1,0 +1,142 @@
+{
+  "title": "HSK-2 · Урок 3",
+  "subtitle": "我想去西安旅游 · Я хочу поехать в Сиань",
+  "source": "新HSK教程 2, урок 3, 生词 № 1–15, печатные страницы 20, 22, 24, 25 (PDF +16); имена собственные исключены",
+  "words": [
+    {
+      "hanzi": "回来",
+      "pinyin": "huí lái",
+      "ru": "возвращаться сюда",
+      "sentence": "爸爸明天___。",
+      "sentencePinyin": "Bàba míngtiān huílái.",
+      "sentenceRu": "Папа вернётся завтра.",
+      "id": "huilai"
+    },
+    {
+      "hanzi": "这么",
+      "pinyin": "zhè me",
+      "ru": "так; настолько",
+      "sentence": "这道题怎么___难？",
+      "sentencePinyin": "Zhè dào tí zěnme zhème nán?",
+      "sentenceRu": "Почему эта задача такая сложная?",
+      "id": "zheme"
+    },
+    {
+      "hanzi": "完",
+      "pinyin": "wán",
+      "ru": "заканчивать; завершать",
+      "sentence": "我做___作业再出去。",
+      "sentencePinyin": "Wǒ zuò wán zuòyè zài chūqù.",
+      "sentenceRu": "Я выйду после того, как сделаю домашнее задание.",
+      "id": "wan"
+    },
+    {
+      "hanzi": "一起",
+      "pinyin": "yì qǐ",
+      "ru": "вместе",
+      "sentence": "我们___去看电影。",
+      "sentencePinyin": "Wǒmen yìqǐ qù kàn diànyǐng.",
+      "sentenceRu": "Мы вместе идём в кино.",
+      "id": "yiqi"
+    },
+    {
+      "hanzi": "出去",
+      "pinyin": "chū qù",
+      "ru": "выходить наружу",
+      "sentence": "外面天气好，___走走吧。",
+      "sentencePinyin": "Wàimiàn tiānqì hǎo, chūqù zǒuzou ba.",
+      "sentenceRu": "На улице хорошая погода, пойдём погуляем.",
+      "id": "chuqu"
+    },
+    {
+      "hanzi": "洗",
+      "pinyin": "xǐ",
+      "ru": "мыть; стирать",
+      "sentence": "吃饭前要___手。",
+      "sentencePinyin": "Chīfàn qián yào xǐ shǒu.",
+      "sentenceRu": "Перед едой нужно мыть руки.",
+      "id": "xi"
+    },
+    {
+      "hanzi": "自己",
+      "pinyin": "zì jǐ",
+      "ru": "сам; самостоятельно",
+      "sentence": "这些作业请你___做。",
+      "sentencePinyin": "Zhèxiē zuòyè qǐng nǐ zìjǐ zuò.",
+      "sentenceRu": "Сделай это домашнее задание самостоятельно.",
+      "id": "ziji"
+    },
+    {
+      "hanzi": "拿",
+      "pinyin": "ná",
+      "ru": "брать; держать",
+      "sentence": "请___一下我的书。",
+      "sentencePinyin": "Qǐng ná yí xià wǒ de shū.",
+      "sentenceRu": "Возьми, пожалуйста, мою книгу.",
+      "id": "na"
+    },
+    {
+      "hanzi": "手",
+      "pinyin": "shǒu",
+      "ru": "кисть руки; рука",
+      "sentence": "吃饭前先洗___。",
+      "sentencePinyin": "Chīfàn qián xiān xǐ shǒu.",
+      "sentenceRu": "Перед едой помой руки.",
+      "id": "shou"
+    },
+    {
+      "hanzi": "为什么",
+      "pinyin": "wèi shén me",
+      "ru": "почему",
+      "sentence": "你___想去西安？",
+      "sentencePinyin": "Nǐ wèishénme xiǎng qù Xī'ān?",
+      "sentenceRu": "Почему ты хочешь поехать в Сиань?",
+      "id": "weishenme"
+    },
+    {
+      "hanzi": "不错",
+      "pinyin": "bú cuò",
+      "ru": "неплохой; вполне хороший",
+      "sentence": "这家饭馆的菜真___。",
+      "sentencePinyin": "Zhè jiā fànguǎn de cài zhēn búcuò.",
+      "sentenceRu": "В этом ресторане готовят очень неплохо.",
+      "id": "bucuo"
+    },
+    {
+      "hanzi": "送",
+      "pinyin": "sòng",
+      "ru": "отвозить; провожать; дарить",
+      "sentence": "爸爸开车___我上学。",
+      "sentencePinyin": "Bàba kāichē sòng wǒ shàngxué.",
+      "sentenceRu": "Папа отвозит меня на занятия.",
+      "id": "song"
+    },
+    {
+      "hanzi": "回去",
+      "pinyin": "huí qù",
+      "ru": "возвращаться туда; уходить обратно",
+      "sentence": "时间不早了，我们___吧。",
+      "sentencePinyin": "Shíjiān bù zǎo le, wǒmen huíqù ba.",
+      "sentenceRu": "Уже поздно, давай возвращаться.",
+      "id": "huiqu"
+    },
+    {
+      "hanzi": "每",
+      "pinyin": "měi",
+      "ru": "каждый",
+      "sentence": "我___天都学习汉语。",
+      "sentencePinyin": "Wǒ měi tiān dōu xuéxí Hànyǔ.",
+      "sentenceRu": "Я каждый день учу китайский.",
+      "id": "mei"
+    },
+    {
+      "hanzi": "累",
+      "pinyin": "lèi",
+      "ru": "усталый; уставать",
+      "sentence": "工作了一天，我很___。",
+      "sentencePinyin": "Gōngzuò le yì tiān, wǒ hěn lèi.",
+      "sentenceRu": "Я целый день работал и очень устал.",
+      "id": "lei"
+    }
+  ]
+}
