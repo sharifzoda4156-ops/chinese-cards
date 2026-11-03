@@ -1,0 +1,267 @@
+{
+  "title": "HSK-1 · Урок 14",
+  "subtitle": "我看了一个电影 · Я посмотрел фильм",
+  "source": "新HSK教程 1, урок 14, 生词 №1–26, печатные страницы 105, 107, 109; два учебных значения 上 включены отдельно",
+  "words": [
+    {
+      "id": "shang_board",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "ru": "садиться на транспорт; подниматься",
+      "sentence": "我们现在___火车。",
+      "sentencePinyin": "Wǒmen xiànzài shàng huǒchē.",
+      "sentenceRu": "Мы сейчас садимся на поезд.",
+      "quizExcludes": [
+        "shang_startschool"
+      ],
+      "audioNote": "上火车 — «садиться на поезд»"
+    },
+    {
+      "id": "huoche",
+      "hanzi": "火车",
+      "pinyin": "huǒ chē",
+      "ru": "поезд",
+      "sentence": "我们坐___去北京。",
+      "sentencePinyin": "Wǒmen zuò huǒchē qù Běijīng.",
+      "sentenceRu": "Мы едем в Пекин на поезде."
+    },
+    {
+      "id": "huochezhan",
+      "hanzi": "火车站",
+      "pinyin": "huǒ chē zhàn",
+      "ru": "железнодорожный вокзал",
+      "sentence": "我们在___见面。",
+      "sentencePinyin": "Wǒmen zài huǒchēzhàn jiànmiàn.",
+      "sentenceRu": "Мы встречаемся на железнодорожном вокзале."
+    },
+    {
+      "id": "kai",
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "ru": "отправляться (о транспорте)",
+      "sentence": "火车下午三点___。",
+      "sentencePinyin": "Huǒchē xiàwǔ sān diǎn kāi.",
+      "sentenceRu": "Поезд отправляется в три часа дня."
+    },
+    {
+      "id": "youxie",
+      "hanzi": "有些",
+      "pinyin": "yǒu xiē",
+      "ru": "некоторые; часть",
+      "sentence": "___同学已经上车了。",
+      "sentencePinyin": "Yǒuxiē tóngxué yǐjīng shàng chē le.",
+      "sentenceRu": "Некоторые ученики уже сели в поезд.",
+      "quizExcludes": [
+        "youde"
+      ]
+    },
+    {
+      "id": "youde",
+      "hanzi": "有的",
+      "pinyin": "yǒu de",
+      "ru": "некоторые из них; кто-то",
+      "sentence": "学生___在看书，有的在写字。",
+      "sentencePinyin": "Xuésheng yǒude zài kàn shū, yǒude zài xiě zì.",
+      "sentenceRu": "Часть учеников читает, другие пишут.",
+      "quizExcludes": [
+        "youxie"
+      ]
+    },
+    {
+      "id": "le",
+      "hanzi": "了",
+      "pinyin": "le",
+      "ru": "частица завершения действия",
+      "sentence": "我买___两张车票。",
+      "sentencePinyin": "Wǒ mǎi le liǎng zhāng chēpiào.",
+      "sentenceRu": "Я купил два билета."
+    },
+    {
+      "id": "xie",
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "ru": "писать",
+      "sentence": "我会___汉字。",
+      "sentencePinyin": "Wǒ huì xiě Hànzì.",
+      "sentenceRu": "Я умею писать китайские иероглифы."
+    },
+    {
+      "id": "dou",
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "ru": "все; оба",
+      "sentence": "我们___是学生。",
+      "sentencePinyin": "Wǒmen dōu shì xuésheng.",
+      "sentenceRu": "Мы все ученики."
+    },
+    {
+      "id": "tingjian",
+      "hanzi": "听见",
+      "pinyin": "tīng jiàn",
+      "ru": "услышать; расслышать",
+      "sentence": "我___了老师的话。",
+      "sentencePinyin": "Wǒ tīngjiàn le lǎoshī de huà.",
+      "sentenceRu": "Я услышал слова учителя."
+    },
+    {
+      "id": "buyao",
+      "hanzi": "不要",
+      "pinyin": "bú yào",
+      "ru": "не надо; не следует",
+      "sentence": "上课的时候___说话。",
+      "sentencePinyin": "Shàngkè de shíhou búyào shuōhuà.",
+      "sentenceRu": "Во время урока не разговаривай."
+    },
+    {
+      "id": "shuohua",
+      "hanzi": "说话",
+      "pinyin": "shuō huà",
+      "ru": "говорить; разговаривать",
+      "sentence": "请小声___。",
+      "sentencePinyin": "Qǐng xiǎo shēng shuōhuà.",
+      "sentenceRu": "Говори, пожалуйста, тихо."
+    },
+    {
+      "id": "ting",
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "ru": "слушать; слышать",
+      "sentence": "请认真___老师说话。",
+      "sentencePinyin": "Qǐng rènzhēn tīng lǎoshī shuōhuà.",
+      "sentenceRu": "Слушай внимательно учителя."
+    },
+    {
+      "id": "naxie",
+      "hanzi": "哪些",
+      "pinyin": "nǎ xiē",
+      "ru": "какие (из нескольких)",
+      "sentence": "你会写___汉字？",
+      "sentencePinyin": "Nǐ huì xiě nǎxiē Hànzì?",
+      "sentenceRu": "Какие иероглифы ты умеешь писать?"
+    },
+    {
+      "id": "zi",
+      "hanzi": "字",
+      "pinyin": "zì",
+      "ru": "иероглиф; письменный знак",
+      "sentence": "这个汉___很难写。",
+      "sentencePinyin": "Zhège Hànzì hěn nán xiě.",
+      "sentenceRu": "Этот иероглиф трудно писать."
+    },
+    {
+      "id": "mingnian",
+      "hanzi": "明年",
+      "pinyin": "míng nián",
+      "ru": "в следующем году",
+      "sentence": "___我就要上大学了。",
+      "sentencePinyin": "Míngnián wǒ jiù yào shàng dàxué le.",
+      "sentenceRu": "В следующем году я поступлю в университет."
+    },
+    {
+      "id": "shang_startschool",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "ru": "начинать учёбу; поступать",
+      "sentence": "弟弟明年___小学。",
+      "sentencePinyin": "Dìdi míngnián shàng xiǎoxué.",
+      "sentenceRu": "Младший брат в следующем году пойдёт в начальную школу.",
+      "quizExcludes": [
+        "shang_board"
+      ],
+      "audioNote": "上小学 — «поступать в начальную школу»"
+    },
+    {
+      "id": "zhongxue",
+      "hanzi": "中学",
+      "pinyin": "zhōng xué",
+      "ru": "средняя школа",
+      "sentence": "我姐姐在___学习。",
+      "sentencePinyin": "Wǒ jiějie zài zhōngxué xuéxí.",
+      "sentenceRu": "Моя сестра учится в средней школе."
+    },
+    {
+      "id": "xiaoxue",
+      "hanzi": "小学",
+      "pinyin": "xiǎo xué",
+      "ru": "начальная школа",
+      "sentence": "小明今年开始上___。",
+      "sentencePinyin": "Xiǎomíng jīnnián kāishǐ shàng xiǎoxué.",
+      "sentenceRu": "В этом году Сяомин пошёл в начальную школу."
+    },
+    {
+      "id": "zhongxuesheng",
+      "hanzi": "中学生",
+      "pinyin": "zhōng xué shēng",
+      "ru": "ученик средней школы",
+      "sentence": "姐姐是一名___。",
+      "sentencePinyin": "Jiějie shì yì míng zhōngxuéshēng.",
+      "sentenceRu": "Моя сестра — ученица средней школы."
+    },
+    {
+      "id": "xiaoxuesheng",
+      "hanzi": "小学生",
+      "pinyin": "xiǎo xué shēng",
+      "ru": "ученик начальной школы",
+      "sentence": "弟弟只有七岁，是___。",
+      "sentencePinyin": "Dìdi zhǐ yǒu qī suì, shì xiǎoxuéshēng.",
+      "sentenceRu": "Младшему брату семь лет, он учится в начальной школе."
+    },
+    {
+      "id": "shangxue",
+      "hanzi": "上学",
+      "pinyin": "shàng xué",
+      "ru": "ходить в школу; начинать обучение",
+      "sentence": "孩子们每天八点___。",
+      "sentencePinyin": "Háizimen měi tiān bā diǎn shàngxué.",
+      "sentenceRu": "Дети каждый день идут в школу в восемь."
+    },
+    {
+      "id": "tamen_mixed",
+      "hanzi": "他们",
+      "pinyin": "tā men",
+      "ru": "они (мужчины или смешанная группа)",
+      "sentence": "哥哥和弟弟都喜欢运动，___每天跑步。",
+      "sentencePinyin": "Gēge hé dìdi dōu xǐhuan yùndòng, tāmen měi tiān pǎobù.",
+      "sentenceRu": "Старший и младший братья любят спорт, они каждый день бегают.",
+      "quizExcludes": [
+        "tamen_women",
+        "tamen_objects"
+      ]
+    },
+    {
+      "id": "tamen_women",
+      "hanzi": "她们",
+      "pinyin": "tā men",
+      "ru": "они (женщины)",
+      "sentence": "姐姐和妈妈都喜欢唱歌，___晚上一起唱。",
+      "sentencePinyin": "Jiějie hé māma dōu xǐhuan chànggē, tāmen wǎnshang yìqǐ chàng.",
+      "sentenceRu": "Сестра и мама любят петь, по вечерам они поют вместе.",
+      "quizExcludes": [
+        "tamen_mixed",
+        "tamen_objects"
+      ]
+    },
+    {
+      "id": "tamen_objects",
+      "hanzi": "它们",
+      "pinyin": "tā men",
+      "ru": "они (животные или предметы)",
+      "sentence": "我有两只猫，___都很可爱。",
+      "sentencePinyin": "Wǒ yǒu liǎng zhī māo, tāmen dōu hěn kě'ài.",
+      "sentenceRu": "У меня две кошки, обе очень милые.",
+      "quizExcludes": [
+        "tamen_mixed",
+        "tamen_women"
+      ]
+    },
+    {
+      "id": "wan",
+      "hanzi": "晚",
+      "pinyin": "wǎn",
+      "ru": "поздний; поздно",
+      "sentence": "太___了，该睡觉了。",
+      "sentencePinyin": "Tài wǎn le, gāi shuìjiào le.",
+      "sentenceRu": "Уже слишком поздно, пора спать."
+    }
+  ]
+}
