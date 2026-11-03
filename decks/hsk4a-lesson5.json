@@ -1,0 +1,353 @@
+{
+  "title": "HSK-4A · Урок 5",
+  "subtitle": "“不怕辣”和“怕不辣” · «Не боюсь острого» и «боюсь неострого»",
+  "source": "《新HSK教程 4 上》, урок 5, 生词 №1–38 на печатных страницах 49, 51, 52, 54 (PDF 59, 61, 62, 64); собственные имена 专有名词 не включены",
+  "words": [
+    {
+      "hanzi": "至少",
+      "pinyin": "zhì shǎo",
+      "ru": "по меньшей мере; как минимум",
+      "sentence": "每天应该___喝六杯水。",
+      "sentencePinyin": "Měi tiān yīnggāi zhìshǎo hē liù bēi shuǐ.",
+      "sentenceRu": "Каждый день нужно выпивать как минимум шесть стаканов воды.",
+      "id": "zhishao"
+    },
+    {
+      "hanzi": "中餐",
+      "pinyin": "zhōng cān",
+      "ru": "китайская кухня; китайская еда",
+      "sentence": "这家饭馆主要提供___。",
+      "sentencePinyin": "Zhè jiā fànguǎn zhǔyào tígōng zhōngcān.",
+      "sentenceRu": "В этом ресторане в основном подают китайские блюда.",
+      "id": "zhongcan"
+    },
+    {
+      "hanzi": "专门",
+      "pinyin": "zhuān mén",
+      "ru": "специально; специализированный",
+      "sentence": "我___来向你学习做中国菜。",
+      "sentencePinyin": "Wǒ zhuānmén lái xiàng nǐ xuéxí zuò Zhōngguó cài.",
+      "sentenceRu": "Я специально пришёл научиться у тебя готовить китайскую еду.",
+      "id": "zhuanmen"
+    },
+    {
+      "hanzi": "煮",
+      "pinyin": "zhǔ",
+      "ru": "варить; кипятить",
+      "sentence": "妈妈正在厨房里___面条。",
+      "sentencePinyin": "Māma zhèngzài chúfáng lǐ zhǔ miàntiáo.",
+      "sentenceRu": "Мама варит лапшу на кухне.",
+      "id": "zhu"
+    },
+    {
+      "hanzi": "油",
+      "pinyin": "yóu",
+      "ru": "масло; жир",
+      "sentence": "做这道菜不用放太多___。",
+      "sentencePinyin": "Zuò zhè dào cài bú yòng fàng tài duō yóu.",
+      "sentenceRu": "При приготовлении этого блюда не нужно добавлять слишком много масла.",
+      "id": "you"
+    },
+    {
+      "hanzi": "道",
+      "pinyin": "dào",
+      "ru": "счётное слово для блюд; этапов",
+      "sentence": "桌上有四___好吃的菜。",
+      "sentencePinyin": "Zhuō shang yǒu sì dào hǎochī de cài.",
+      "sentenceRu": "На столе четыре вкусных блюда.",
+      "id": "dao_dish"
+    },
+    {
+      "hanzi": "熟",
+      "pinyin": "shú",
+      "ru": "готовый; сваренный;熟ый",
+      "sentence": "鸡肉已经___了，可以吃了。",
+      "sentencePinyin": "Jīròu yǐjīng shú le, kěyǐ chī le.",
+      "sentenceRu": "Курица уже приготовилась, можно есть.",
+      "id": "shu",
+      "audioText": "煮熟",
+      "audioNote": "熟 здесь произносится shú — «готовый, сваренный»."
+    },
+    {
+      "hanzi": "倒",
+      "pinyin": "dào",
+      "ru": "наливать; выливать",
+      "sentence": "请把水___进杯子里。",
+      "sentencePinyin": "Qǐng bǎ shuǐ dào jìn bēizi lǐ.",
+      "sentenceRu": "Налей, пожалуйста, воду в стакан.",
+      "id": "dao_pour"
+    },
+    {
+      "hanzi": "辣椒",
+      "pinyin": "là jiāo",
+      "ru": "перец чили",
+      "sentence": "这道菜里放了很多___。",
+      "sentencePinyin": "Zhè dào cài lǐ fàng le hěn duō làjiāo.",
+      "sentenceRu": "В это блюдо добавили много перца чили.",
+      "id": "lajiao"
+    },
+    {
+      "hanzi": "辣",
+      "pinyin": "là",
+      "ru": "острый на вкус",
+      "sentence": "这碗面太___了，我吃不了。",
+      "sentencePinyin": "Zhè wǎn miàn tài là le, wǒ chī bù liǎo.",
+      "sentenceRu": "Эта лапша слишком острая, я не могу её съесть.",
+      "id": "la"
+    },
+    {
+      "hanzi": "敢",
+      "pinyin": "gǎn",
+      "ru": "осмеливаться; решаться",
+      "sentence": "我不___吃这么辣的菜。",
+      "sentencePinyin": "Wǒ bù gǎn chī zhème là de cài.",
+      "sentenceRu": "Я не решаюсь есть такое острое блюдо.",
+      "id": "gan"
+    },
+    {
+      "hanzi": "肚子",
+      "pinyin": "dù zi",
+      "ru": "живот",
+      "sentence": "吃得太多，我的___有点儿疼。",
+      "sentencePinyin": "Chī de tài duō, wǒ de dùzi yǒudiǎnr téng.",
+      "sentenceRu": "Я слишком много съел, и у меня немного болит живот.",
+      "id": "duzi"
+    },
+    {
+      "hanzi": "相同",
+      "pinyin": "xiāng tóng",
+      "ru": "одинаковый; совпадающий",
+      "sentence": "我们两个有___的爱好。",
+      "sentencePinyin": "Wǒmen liǎng ge yǒu xiāngtóng de àihào.",
+      "sentenceRu": "У нас с ним одинаковые увлечения.",
+      "id": "xiangtong"
+    },
+    {
+      "hanzi": "顺序",
+      "pinyin": "shùn xù",
+      "ru": "порядок; последовательность",
+      "sentence": "请按照正确的___坐下。",
+      "sentencePinyin": "Qǐng ànzhào zhèngquè de shùnxù zuòxià.",
+      "sentenceRu": "Сядьте, пожалуйста, в правильном порядке.",
+      "id": "shunxu"
+    },
+    {
+      "hanzi": "够",
+      "pinyin": "gòu",
+      "ru": "хватать; достаточно",
+      "sentence": "这些菜___我们四个人吃了。",
+      "sentencePinyin": "Zhèxiē cài gòu wǒmen sì ge rén chī le.",
+      "sentenceRu": "Этих блюд хватит на четверых.",
+      "id": "gou"
+    },
+    {
+      "hanzi": "不够",
+      "pinyin": "bú gòu",
+      "ru": "недостаточно; не хватать",
+      "sentence": "时间___，我们得快一点儿。",
+      "sentencePinyin": "Shíjiān búgòu, wǒmen děi kuài yìdiǎnr.",
+      "sentenceRu": "Времени не хватает, нужно поторопиться.",
+      "id": "bugou"
+    },
+    {
+      "hanzi": "达到",
+      "pinyin": "dá dào",
+      "ru": "достигать; доводить до",
+      "sentence": "他终于___了自己的目标。",
+      "sentencePinyin": "Tā zhōngyú dádào le zìjǐ de mùbiāo.",
+      "sentenceRu": "Он наконец достиг своей цели.",
+      "id": "dadao"
+    },
+    {
+      "hanzi": "聚",
+      "pinyin": "jù",
+      "ru": "собираться; встречаться",
+      "sentence": "周末我们___在一起吃顿饭吧。",
+      "sentencePinyin": "Zhōumò wǒmen jù zài yìqǐ chī dùn fàn ba.",
+      "sentenceRu": "Давай на выходных соберёмся и поедим вместе.",
+      "id": "ju"
+    },
+    {
+      "hanzi": "午餐",
+      "pinyin": "wǔ cān",
+      "ru": "обед; дневная трапеза",
+      "sentence": "我们中午在学校吃___。",
+      "sentencePinyin": "Wǒmen zhōngwǔ zài xuéxiào chī wǔcān.",
+      "sentenceRu": "Мы обедаем в школе.",
+      "id": "wucan"
+    },
+    {
+      "hanzi": "咸",
+      "pinyin": "xián",
+      "ru": "солёный",
+      "sentence": "这碗汤有点儿___。",
+      "sentencePinyin": "Zhè wǎn tāng yǒudiǎnr xián.",
+      "sentenceRu": "Этот суп немного солёный.",
+      "id": "xian"
+    },
+    {
+      "hanzi": "凉",
+      "pinyin": "liáng",
+      "ru": "прохладный; холодный",
+      "sentence": "汤已经___了，先热一下吧。",
+      "sentencePinyin": "Tāng yǐjīng liáng le, xiān rè yíxià ba.",
+      "sentenceRu": "Суп уже остыл, давай сначала подогреем.",
+      "id": "liang"
+    },
+    {
+      "hanzi": "酸",
+      "pinyin": "suān",
+      "ru": "кислый",
+      "sentence": "这个苹果太___了。",
+      "sentencePinyin": "Zhège píngguǒ tài suān le.",
+      "sentenceRu": "Это яблоко слишком кислое.",
+      "id": "suan"
+    },
+    {
+      "hanzi": "汤",
+      "pinyin": "tāng",
+      "ru": "суп; бульон",
+      "sentence": "妈妈今天做了一锅鸡___。",
+      "sentencePinyin": "Māma jīntiān zuò le yì guō jī tāng.",
+      "sentenceRu": "Сегодня мама приготовила кастрюлю куриного супа.",
+      "id": "tang"
+    },
+    {
+      "hanzi": "各",
+      "pinyin": "gè",
+      "ru": "каждый; всякий; по отдельности",
+      "sentence": "大家___点一道自己喜欢的菜。",
+      "sentencePinyin": "Dàjiā gè diǎn yí dào zìjǐ xǐhuan de cài.",
+      "sentenceRu": "Пусть каждый закажет блюдо, которое ему нравится.",
+      "id": "ge"
+    },
+    {
+      "hanzi": "付",
+      "pinyin": "fù",
+      "ru": "платить; оплачивать",
+      "sentence": "今天我来___钱吧。",
+      "sentencePinyin": "Jīntiān wǒ lái fù qián ba.",
+      "sentenceRu": "Сегодня я заплачу.",
+      "id": "fu"
+    },
+    {
+      "hanzi": "聚餐",
+      "pinyin": "jù cān",
+      "ru": "совместно обедать; застолье",
+      "sentence": "我们周五晚上准备一起___。",
+      "sentencePinyin": "Wǒmen zhōuwǔ wǎnshang zhǔnbèi yìqǐ jùcān.",
+      "sentenceRu": "В пятницу вечером мы собираемся поужинать вместе.",
+      "id": "jucan"
+    },
+    {
+      "hanzi": "随意",
+      "pinyin": "suí yì",
+      "ru": "как угодно; по желанию",
+      "sentence": "大家可以___选择自己喜欢的座位。",
+      "sentencePinyin": "Dàjiā kěyǐ suíyì xuǎnzé zìjǐ xǐhuan de zuòwèi.",
+      "sentenceRu": "Каждый может выбрать любое понравившееся место.",
+      "id": "suiyi"
+    },
+    {
+      "hanzi": "正式",
+      "pinyin": "zhèng shì",
+      "ru": "официальный; формальный",
+      "sentence": "这是一次比较___的聚餐。",
+      "sentencePinyin": "Zhè shì yí cì bǐjiào zhèngshì de jùcān.",
+      "sentenceRu": "Это довольно официальное застолье.",
+      "id": "zhengshi"
+    },
+    {
+      "hanzi": "普通",
+      "pinyin": "pǔ tōng",
+      "ru": "обычный; простой",
+      "sentence": "今天只是一次___的朋友聚会。",
+      "sentencePinyin": "Jīntiān zhǐ shì yí cì pǔtōng de péngyou jùhuì.",
+      "sentenceRu": "Сегодня у нас просто обычная встреча друзей.",
+      "id": "putong"
+    },
+    {
+      "hanzi": "重视",
+      "pinyin": "zhòng shì",
+      "ru": "уделять большое значение",
+      "sentence": "中国人很___对客人的尊重。",
+      "sentencePinyin": "Zhōngguó rén hěn zhòngshì duì kèrén de zūnzhòng.",
+      "sentenceRu": "В Китае большое значение придают уважению к гостям.",
+      "id": "zhongshi",
+      "audioText": "很重视",
+      "audioNote": "重 в 重视 читается zhòng, как в слове zhòngshì."
+    },
+    {
+      "hanzi": "座位",
+      "pinyin": "zuò wèi",
+      "ru": "сиденье; место для сидения",
+      "sentence": "这张桌子还有两个空___。",
+      "sentencePinyin": "Zhè zhāng zhuōzi hái yǒu liǎng ge kōng zuòwèi.",
+      "sentenceRu": "За этим столом есть ещё два свободных места.",
+      "id": "zuowei"
+    },
+    {
+      "hanzi": "安排",
+      "pinyin": "ān pái",
+      "ru": "устраивать; располагать; планировать",
+      "sentence": "主人已经___好了客人的座位。",
+      "sentencePinyin": "Zhǔrén yǐjīng ānpái hǎo le kèrén de zuòwèi.",
+      "sentenceRu": "Хозяин уже распределил места для гостей.",
+      "id": "anpai"
+    },
+    {
+      "hanzi": "按照",
+      "pinyin": "àn zhào",
+      "ru": "в соответствии с; согласно",
+      "sentence": "请___老师的要求完成作业。",
+      "sentencePinyin": "Qǐng ànzhào lǎoshī de yāoqiú wánchéng zuòyè.",
+      "sentenceRu": "Выполни домашнее задание согласно требованиям учителя.",
+      "id": "anzhao"
+    },
+    {
+      "hanzi": "年龄",
+      "pinyin": "nián líng",
+      "ru": "возраст",
+      "sentence": "老师问了大家的___。",
+      "sentencePinyin": "Lǎoshī wèn le dàjiā de niánlíng.",
+      "sentenceRu": "Учитель спросил возраст всех учеников.",
+      "id": "nianling"
+    },
+    {
+      "hanzi": "面对",
+      "pinyin": "miàn duì",
+      "ru": "стоять лицом к; сталкиваться",
+      "sentence": "他坐在___门的位置上。",
+      "sentencePinyin": "Tā zuò zài miànduì mén de wèizhi shang.",
+      "sentenceRu": "Он сидит на месте напротив двери.",
+      "id": "miandui"
+    },
+    {
+      "hanzi": "主人",
+      "pinyin": "zhǔ rén",
+      "ru": "хозяин; принимающая сторона",
+      "sentence": "聚餐时___先请客人坐下。",
+      "sentencePinyin": "Jùcān shí zhǔrén xiān qǐng kèrén zuòxià.",
+      "sentenceRu": "Во время застолья хозяин сначала приглашает гостей сесть.",
+      "id": "zhuren"
+    },
+    {
+      "hanzi": "等",
+      "pinyin": "děng",
+      "ru": "ждать до; пока",
+      "sentence": "___客人都到了，我们再开饭。",
+      "sentencePinyin": "Děng kèrén dōu dào le, wǒmen zài kāifàn.",
+      "sentenceRu": "Подождём, пока все гости придут, а затем начнём есть.",
+      "id": "deng"
+    },
+    {
+      "hanzi": "尊重",
+      "pinyin": "zūn zhòng",
+      "ru": "уважать; уважение",
+      "sentence": "我们应该___老人的意见。",
+      "sentencePinyin": "Wǒmen yīnggāi zūnzhòng lǎorén de yìjiàn.",
+      "sentenceRu": "Нужно уважать мнение пожилых людей.",
+      "id": "zunzhong"
+    }
+  ]
+}

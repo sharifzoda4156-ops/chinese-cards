@@ -394,19 +394,22 @@
           "id": "hsk4a-lesson5",
           "title": "Урок 5",
           "subtitle": "«Не боюсь острого» и «боюсь неострого»",
-          "available": false
+          "available": true,
+          "wordCount": 38
         },
         {
           "id": "hsk4a-lesson6",
           "title": "Урок 6",
           "subtitle": "Я пойду с тобой к врачу",
-          "available": false
+          "available": true,
+          "wordCount": 39
         },
         {
           "id": "hsk4a-lesson7",
           "title": "Урок 7",
           "subtitle": "Учиться во время работы",
-          "available": false
+          "available": true,
+          "wordCount": 39
         },
         {
           "id": "hsk4a-lesson8",

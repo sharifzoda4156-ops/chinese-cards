@@ -1,0 +1,376 @@
+{
+  "title": "HSK-4A · Урок 7",
+  "subtitle": "一边工作一边学习 · Учиться во время работы",
+  "source": "《新HSK教程 4 上》, урок 7, 生词 №1–39 на печатных страницах 72, 74, 76, 78 (PDF 82, 84, 86, 88); имена собственные 专有名词 исключены",
+  "words": [
+    {
+      "hanzi": "打扰",
+      "pinyin": "dǎ rǎo",
+      "ru": "беспокоить; мешать",
+      "sentence": "不好意思，___你一下。",
+      "sentencePinyin": "Bù hǎoyìsi, dǎrǎo nǐ yíxià.",
+      "sentenceRu": "Извините, что беспокою вас.",
+      "id": "darao"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shì chǎng",
+      "ru": "рынок; рынок сбыта",
+      "sentence": "我们正在研究中国___。",
+      "sentencePinyin": "Wǒmen zhèngzài yánjiū Zhōngguó shìchǎng.",
+      "sentenceRu": "Мы изучаем китайский рынок.",
+      "id": "shichang"
+    },
+    {
+      "hanzi": "调查",
+      "pinyin": "diào chá",
+      "ru": "изучать; проводить опрос; исследование",
+      "sentence": "公司准备___客户的需要。",
+      "sentencePinyin": "Gōngsī zhǔnbèi diàochá kèhù de xūyào.",
+      "sentenceRu": "Компания собирается изучить потребности клиентов.",
+      "id": "diaocha",
+      "quizExcludes": [
+        "caifang"
+      ]
+    },
+    {
+      "hanzi": "计划",
+      "pinyin": "jì huà",
+      "ru": "план; планировать",
+      "sentence": "我们的工作___已经写好了。",
+      "sentencePinyin": "Wǒmen de gōngzuò jìhuà yǐjīng xiě hǎo le.",
+      "sentenceRu": "Наш рабочий план уже готов.",
+      "id": "jihua"
+    },
+    {
+      "hanzi": "内容",
+      "pinyin": "nèi róng",
+      "ru": "содержание; материал",
+      "sentence": "这份报告的___很清楚。",
+      "sentencePinyin": "Zhè fèn bàogào de nèiróng hěn qīngchu.",
+      "sentenceRu": "Содержание этого отчёта очень понятное.",
+      "id": "neirong"
+    },
+    {
+      "hanzi": "改",
+      "pinyin": "gǎi",
+      "ru": "менять; исправлять",
+      "sentence": "这份计划还需要___几个地方。",
+      "sentencePinyin": "Zhè fèn jìhuà hái xūyào gǎi jǐ ge dìfang.",
+      "sentenceRu": "В этот план ещё нужно внести несколько исправлений.",
+      "id": "gai"
+    },
+    {
+      "hanzi": "细心",
+      "pinyin": "xì xīn",
+      "ru": "внимательный; тщательный",
+      "sentence": "做调查的时候一定要___。",
+      "sentencePinyin": "Zuò diàochá de shíhou yídìng yào xìxīn.",
+      "sentenceRu": "При проведении исследования нужно быть внимательным.",
+      "id": "xixin"
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kè hù",
+      "ru": "клиент; заказчик",
+      "sentence": "我们的___大多住在上海。",
+      "sentencePinyin": "Wǒmen de kèhù dàduō zhù zài Shànghǎi.",
+      "sentenceRu": "Большинство наших клиентов живут в Шанхае.",
+      "id": "kehu"
+    },
+    {
+      "hanzi": "真正",
+      "pinyin": "zhēn zhèng",
+      "ru": "настоящий; действительно",
+      "sentence": "我们要了解顾客___的想法。",
+      "sentencePinyin": "Wǒmen yào liǎojiě gùkè zhēnzhèng de xiǎngfǎ.",
+      "sentenceRu": "Нужно понять истинное мнение покупателей.",
+      "id": "zhenzheng"
+    },
+    {
+      "hanzi": "想法",
+      "pinyin": "xiǎng fǎ",
+      "ru": "мысль; идея; мнение",
+      "sentence": "每个客户都有不同的___。",
+      "sentencePinyin": "Měi ge kèhù dōu yǒu bùtóng de xiǎngfǎ.",
+      "sentenceRu": "У каждого клиента своё мнение.",
+      "id": "xiangfa",
+      "quizExcludes": [
+        "kanfa"
+      ]
+    },
+    {
+      "hanzi": "任务",
+      "pinyin": "rèn wu",
+      "ru": "задание; задача",
+      "sentence": "经理给我们安排了新的___。",
+      "sentencePinyin": "Jīnglǐ gěi wǒmen ānpái le xīn de rènwu.",
+      "sentenceRu": "Менеджер поручил нам новое задание.",
+      "id": "renwu"
+    },
+    {
+      "hanzi": "及时",
+      "pinyin": "jí shí",
+      "ru": "своевременно; вовремя",
+      "sentence": "有问题要___告诉经理。",
+      "sentencePinyin": "Yǒu wèntí yào jíshí gàosu jīnglǐ.",
+      "sentenceRu": "О проблемах нужно своевременно сообщать менеджеру.",
+      "id": "jishi"
+    },
+    {
+      "hanzi": "出差",
+      "pinyin": "chū chāi",
+      "ru": "отправляться в командировку",
+      "sentence": "下周我要去上海___。",
+      "sentencePinyin": "Xià zhōu wǒ yào qù Shànghǎi chūchāi.",
+      "sentenceRu": "На следующей неделе я еду в командировку в Шанхай.",
+      "id": "chuchai"
+    },
+    {
+      "hanzi": "经验",
+      "pinyin": "jīng yàn",
+      "ru": "опыт; практические знания",
+      "sentence": "他有丰富的工作___。",
+      "sentencePinyin": "Tā yǒu fēngfù de gōngzuò jīngyàn.",
+      "sentenceRu": "У него большой опыт работы.",
+      "id": "jingyan"
+    },
+    {
+      "hanzi": "采访",
+      "pinyin": "cǎi fǎng",
+      "ru": "брать интервью; интервьюировать",
+      "sentence": "记者正在___一位顾客。",
+      "sentencePinyin": "Jìzhě zhèngzài cǎifǎng yí wèi gùkè.",
+      "sentenceRu": "Журналист берёт интервью у покупателя.",
+      "id": "caifang",
+      "quizExcludes": [
+        "diaocha"
+      ]
+    },
+    {
+      "hanzi": "产品",
+      "pinyin": "chǎn pǐn",
+      "ru": "продукт; товар",
+      "sentence": "公司正在介绍新的___。",
+      "sentencePinyin": "Gōngsī zhèngzài jièshào xīn de chǎnpǐn.",
+      "sentenceRu": "Компания представляет новый продукт.",
+      "id": "chanpin"
+    },
+    {
+      "hanzi": "看法",
+      "pinyin": "kàn fǎ",
+      "ru": "взгляд; мнение; точка зрения",
+      "sentence": "你对这个新产品有什么___？",
+      "sentencePinyin": "Nǐ duì zhège xīn chǎnpǐn yǒu shénme kànfǎ?",
+      "sentenceRu": "Что ты думаешь об этом новом продукте?",
+      "id": "kanfa",
+      "quizExcludes": [
+        "xiangfa"
+      ]
+    },
+    {
+      "hanzi": "提前",
+      "pinyin": "tí qián",
+      "ru": "заранее; досрочно",
+      "sentence": "出差前要___准备好问题。",
+      "sentencePinyin": "Chūchāi qián yào tíqián zhǔnbèi hǎo wèntí.",
+      "sentenceRu": "Перед командировкой нужно заранее подготовить вопросы.",
+      "id": "tiqian"
+    },
+    {
+      "hanzi": "便于",
+      "pinyin": "biàn yú",
+      "ru": "быть удобным для; облегчать",
+      "sentence": "把问题写下来，___采访客户。",
+      "sentencePinyin": "Bǎ wèntí xiě xiàlái, biànyú cǎifǎng kèhù.",
+      "sentenceRu": "Запиши вопросы, чтобы было удобнее брать интервью у клиентов.",
+      "id": "bianyu"
+    },
+    {
+      "hanzi": "既然",
+      "pinyin": "jì rán",
+      "ru": "раз уж; поскольку",
+      "sentence": "___已经决定了，我们就开始吧。",
+      "sentencePinyin": "Jìrán yǐjīng juédìng le, wǒmen jiù kāishǐ ba.",
+      "sentenceRu": "Раз уж решение принято, давайте начинать.",
+      "id": "jiran"
+    },
+    {
+      "hanzi": "谈",
+      "pinyin": "tán",
+      "ru": "обсуждать; разговаривать",
+      "sentence": "我们明天再___这个问题。",
+      "sentencePinyin": "Wǒmen míngtiān zài tán zhège wèntí.",
+      "sentenceRu": "Давай завтра ещё обсудим этот вопрос.",
+      "id": "tan"
+    },
+    {
+      "hanzi": "笔",
+      "pinyin": "bǐ",
+      "ru": "счётное слово для сделок и денежных сумм",
+      "sentence": "公司最近做成了一___大生意。",
+      "sentencePinyin": "Gōngsī zuìjìn zuòchéng le yì bǐ dà shēngyi.",
+      "sentenceRu": "Компания недавно заключила крупную сделку.",
+      "id": "bi"
+    },
+    {
+      "hanzi": "生意",
+      "pinyin": "shēng yi",
+      "ru": "бизнес; коммерческая сделка",
+      "sentence": "这家公司的___越来越好。",
+      "sentencePinyin": "Zhè jiā gōngsī de shēngyi yuè lái yuè hǎo.",
+      "sentenceRu": "Дела этой компании идут всё лучше.",
+      "id": "shengyi"
+    },
+    {
+      "hanzi": "困难",
+      "pinyin": "kùn nan",
+      "ru": "трудность; трудный",
+      "sentence": "工作中遇到___时要想办法解决。",
+      "sentencePinyin": "Gōngzuò zhōng yùdào kùnnan shí yào xiǎng bànfǎ jiějué.",
+      "sentenceRu": "Если в работе возникают трудности, нужно искать решение.",
+      "id": "kunnan"
+    },
+    {
+      "hanzi": "优点",
+      "pinyin": "yōu diǎn",
+      "ru": "достоинство; преимущество",
+      "sentence": "这种产品的最大___是价格低。",
+      "sentencePinyin": "Zhè zhǒng chǎnpǐn de zuì dà yōudiǎn shì jiàgé dī.",
+      "sentenceRu": "Главное преимущество этого товара — низкая цена.",
+      "id": "youdian",
+      "quizExcludes": [
+        "quedian"
+      ]
+    },
+    {
+      "hanzi": "缺点",
+      "pinyin": "quē diǎn",
+      "ru": "недостаток; слабое место",
+      "sentence": "这个计划还有一些___。",
+      "sentencePinyin": "Zhège jìhuà hái yǒu yìxiē quēdiǎn.",
+      "sentenceRu": "У этого плана ещё есть недостатки.",
+      "id": "quedian",
+      "quizExcludes": [
+        "youdian"
+      ]
+    },
+    {
+      "hanzi": "实际",
+      "pinyin": "shí jì",
+      "ru": "фактический; реальный",
+      "sentence": "___情况和我们想的不一样。",
+      "sentencePinyin": "Shíjì qíngkuàng hé wǒmen xiǎng de bù yíyàng.",
+      "sentenceRu": "Реальная ситуация отличается от наших ожиданий.",
+      "id": "shiji"
+    },
+    {
+      "hanzi": "效果",
+      "pinyin": "xiào guǒ",
+      "ru": "результат; эффект",
+      "sentence": "新的办法取得了很好的___。",
+      "sentencePinyin": "Xīn de bànfǎ qǔdé le hěn hǎo de xiàoguǒ.",
+      "sentenceRu": "Новый метод дал очень хороший результат.",
+      "id": "xiaoguo"
+    },
+    {
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "ru": "аспект; пункт",
+      "sentence": "这个问题有几个重要的___。",
+      "sentencePinyin": "Zhège wèntí yǒu jǐ ge zhòngyào de diǎn.",
+      "sentenceRu": "В этом вопросе есть несколько важных моментов.",
+      "id": "dian"
+    },
+    {
+      "hanzi": "一下",
+      "pinyin": "yí xià",
+      "ru": "немного; разок; краткое действие",
+      "sentence": "请你介绍___这个产品。",
+      "sentencePinyin": "Qǐng nǐ jièshào yíxià zhège chǎnpǐn.",
+      "sentenceRu": "Расскажи, пожалуйста, немного об этом продукте.",
+      "id": "yixia"
+    },
+    {
+      "hanzi": "份",
+      "pinyin": "fèn",
+      "ru": "экземпляр; порция; счётное слово для документов",
+      "sentence": "请把这___计划书交给经理。",
+      "sentencePinyin": "Qǐng bǎ zhè fèn jìhuàshū jiāo gěi jīnglǐ.",
+      "sentenceRu": "Передайте, пожалуйста, этот экземпляр плана менеджеру.",
+      "id": "fen"
+    },
+    {
+      "hanzi": "积累",
+      "pinyin": "jī lěi",
+      "ru": "накапливать; собирать",
+      "sentence": "年轻人应该不断___工作经验。",
+      "sentencePinyin": "Niánqīng rén yīnggāi búduàn jīlěi gōngzuò jīngyàn.",
+      "sentenceRu": "Молодым людям следует постоянно накапливать опыт работы.",
+      "id": "jilei"
+    },
+    {
+      "hanzi": "使",
+      "pinyin": "shǐ",
+      "ru": "делать так, что; заставлять; приводить к",
+      "sentence": "这次学习___我进步了很多。",
+      "sentencePinyin": "Zhè cì xuéxí shǐ wǒ jìnbù le hěn duō.",
+      "sentenceRu": "Эта учёба помогла мне сильно продвинуться.",
+      "id": "shi"
+    },
+    {
+      "hanzi": "进入",
+      "pinyin": "jìn rù",
+      "ru": "входить; вступать",
+      "sentence": "大学毕业以后，他___了一家大公司。",
+      "sentencePinyin": "Dàxué bìyè yǐhòu, tā jìnrù le yì jiā dà gōngsī.",
+      "sentenceRu": "После университета он устроился в крупную компанию.",
+      "id": "jinru"
+    },
+    {
+      "hanzi": "社会",
+      "pinyin": "shè huì",
+      "ru": "общество; социум",
+      "sentence": "大学毕业后，我们就要进入___。",
+      "sentencePinyin": "Dàxué bìyè hòu, wǒmen jiù yào jìnrù shèhuì.",
+      "sentenceRu": "После университета нам предстоит войти во взрослую общественную жизнь.",
+      "id": "shehui"
+    },
+    {
+      "hanzi": "管理",
+      "pinyin": "guǎn lǐ",
+      "ru": "управлять; менеджмент",
+      "sentence": "经理负责___整个团队。",
+      "sentencePinyin": "Jīnglǐ fùzé guǎnlǐ zhěnggè tuánduì.",
+      "sentenceRu": "Менеджер отвечает за управление всей командой.",
+      "id": "guanli"
+    },
+    {
+      "hanzi": "基础",
+      "pinyin": "jī chǔ",
+      "ru": "основа; фундамент",
+      "sentence": "学好汉语需要打好___。",
+      "sentencePinyin": "Xué hǎo Hànyǔ xūyào dǎ hǎo jīchǔ.",
+      "sentenceRu": "Чтобы хорошо выучить китайский, нужно заложить прочную основу.",
+      "id": "jichu"
+    },
+    {
+      "hanzi": "能力",
+      "pinyin": "néng lì",
+      "ru": "способность; умение; компетенция",
+      "sentence": "他有很强的沟通___。",
+      "sentencePinyin": "Tā yǒu hěn qiáng de gōutōng nénglì.",
+      "sentenceRu": "У него очень хорошие коммуникативные навыки.",
+      "id": "nengli"
+    },
+    {
+      "hanzi": "今后",
+      "pinyin": "jīn hòu",
+      "ru": "в дальнейшем; впредь",
+      "sentence": "___我会更加努力地学习。",
+      "sentencePinyin": "Jīnhòu wǒ huì gèngjiā nǔlì de xuéxí.",
+      "sentenceRu": "В дальнейшем я буду учиться ещё усерднее.",
+      "id": "jinhou"
+    }
+  ]
+}
