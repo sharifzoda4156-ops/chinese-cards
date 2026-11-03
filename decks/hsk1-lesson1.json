@@ -19,7 +19,10 @@
       "ru": "все; каждый",
       "sentence": "老师对全班说：“___好！”",
       "sentencePinyin": "Lǎoshī duì quán bān shuō: “Dàjiā hǎo!”",
-      "sentenceRu": "Учитель здоровается со всем классом."
+      "sentenceRu": "Учитель здоровается со всем классом.",
+      "quizExcludes": [
+        "nimen"
+      ]
     },
     {
       "id": "hao",
@@ -73,7 +76,10 @@
       "ru": "вы (множественное число)",
       "sentence": "___是新学生吗？",
       "sentencePinyin": "Nǐmen shì xīn xuésheng ma?",
-      "sentenceRu": "Вы новые ученики?"
+      "sentenceRu": "Вы новые ученики?",
+      "quizExcludes": [
+        "dajia"
+      ]
     },
     {
       "id": "xiexie",
