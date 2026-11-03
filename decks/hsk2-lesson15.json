@@ -1,0 +1,106 @@
+{
+  "title": "HSK-2 · Урок 15",
+  "subtitle": "我想再去一次中国 · Хочу ещё раз поехать в Китай",
+  "source": "新HSK教程 2, урок 15, 生词 № 1–11, печатные страницы 131, 133, 135, 137; имена собственные исключены",
+  "words": [
+    {
+      "id": "xingming",
+      "hanzi": "姓名",
+      "pinyin": "xìng míng",
+      "ru": "имя и фамилия",
+      "sentence": "请在这里写下你的___。",
+      "sentencePinyin": "Qǐng zài zhèlǐ xiě xià nǐ de xìngmíng.",
+      "sentenceRu": "Напиши здесь своё имя и фамилию."
+    },
+    {
+      "id": "chuguo",
+      "hanzi": "出国",
+      "pinyin": "chū guó",
+      "ru": "выезжать за границу",
+      "sentence": "我想明年___学习汉语。",
+      "sentencePinyin": "Wǒ xiǎng míngnián chūguó xuéxí Hànyǔ.",
+      "sentenceRu": "В следующем году я хочу поехать учиться за границу."
+    },
+    {
+      "id": "menpiao",
+      "hanzi": "门票",
+      "pinyin": "mén piào",
+      "ru": "входной билет",
+      "sentence": "我在网上买了动物园的___。",
+      "sentencePinyin": "Wǒ zài wǎngshàng mǎi le dòngwùyuán de ménpiào.",
+      "sentenceRu": "Я купил в интернете билет в зоопарк."
+    },
+    {
+      "id": "gaozhong",
+      "hanzi": "高中",
+      "pinyin": "gāo zhōng",
+      "ru": "старшая школа",
+      "sentence": "我哥哥现在上___。",
+      "sentencePinyin": "Wǒ gēge xiànzài shàng gāozhōng.",
+      "sentenceRu": "Мой старший брат учится в старшей школе."
+    },
+    {
+      "id": "chumen",
+      "hanzi": "出门",
+      "pinyin": "chū mén",
+      "ru": "выходить из дома",
+      "sentence": "我每天早上七点___。",
+      "sentencePinyin": "Wǒ měi tiān zǎoshang qī diǎn chūmén.",
+      "sentenceRu": "Я каждый день выхожу из дома в семь утра."
+    },
+    {
+      "id": "lu",
+      "hanzi": "路",
+      "pinyin": "lù",
+      "ru": "дорога; путь",
+      "sentence": "这条___可以到机场。",
+      "sentencePinyin": "Zhè tiáo lù kěyǐ dào jīchǎng.",
+      "sentenceRu": "По этой дороге можно добраться до аэропорта."
+    },
+    {
+      "id": "jichang",
+      "hanzi": "机场",
+      "pinyin": "jī chǎng",
+      "ru": "аэропорт",
+      "sentence": "我们要早点儿去___。",
+      "sentencePinyin": "Wǒmen yào zǎo diǎnr qù jīchǎng.",
+      "sentenceRu": "Нам нужно пораньше приехать в аэропорт."
+    },
+    {
+      "id": "jipiao",
+      "hanzi": "机票",
+      "pinyin": "jī piào",
+      "ru": "билет на самолёт",
+      "sentence": "去北京的___已经买好了。",
+      "sentencePinyin": "Qù Běijīng de jīpiào yǐjīng mǎi hǎo le.",
+      "sentenceRu": "Авиабилет в Пекин уже куплен."
+    },
+    {
+      "id": "fei",
+      "hanzi": "飞",
+      "pinyin": "fēi",
+      "ru": "лететь; летать",
+      "sentence": "小鸟在天上___。",
+      "sentencePinyin": "Xiǎo niǎo zài tiān shang fēi.",
+      "sentenceRu": "Птичка летит по небу."
+    },
+    {
+      "id": "haoxiang",
+      "hanzi": "好像",
+      "pinyin": "hǎo xiàng",
+      "ru": "кажется; словно; похоже",
+      "sentence": "他___不太舒服。",
+      "sentencePinyin": "Tā hǎoxiàng bú tài shūfu.",
+      "sentenceRu": "Кажется, он не очень хорошо себя чувствует."
+    },
+    {
+      "id": "niao",
+      "hanzi": "鸟",
+      "pinyin": "niǎo",
+      "ru": "птица",
+      "sentence": "树上有一只小___。",
+      "sentencePinyin": "Shù shang yǒu yì zhī xiǎo niǎo.",
+      "sentenceRu": "На дереве сидит маленькая птица."
+    }
+  ]
+}
