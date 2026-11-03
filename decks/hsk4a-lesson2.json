@@ -1,0 +1,344 @@
+{
+  "title": "HSK-4A · Урок 2",
+  "subtitle": "租到了合适的房子 · Сняли подходящую квартиру",
+  "source": "《新HSK教程 4 上》, урок 2, 生词 №1–37, печатные страницы 13, 15, 17, 19 (PDF страницы 23, 25, 27, 29); без 专有名词",
+  "words": [
+    {
+      "hanzi": "房东",
+      "pinyin": "fáng dōng",
+      "ru": "арендодатель; хозяин жилья",
+      "sentence": "这位___对我们很热情。",
+      "sentencePinyin": "Zhè wèi fángdōng duì wǒmen hěn rèqíng.",
+      "sentenceRu": "Этот арендодатель очень доброжелателен к нам.",
+      "id": "fangdong"
+    },
+    {
+      "hanzi": "出租",
+      "pinyin": "chū zū",
+      "ru": "сдавать в аренду",
+      "sentence": "房东想把这套房子___。",
+      "sentencePinyin": "Fángdōng xiǎng bǎ zhè tào fángzi chūzū.",
+      "sentenceRu": "Хозяин хочет сдать эту квартиру.",
+      "id": "chuzu"
+    },
+    {
+      "hanzi": "房租",
+      "pinyin": "fáng zū",
+      "ru": "квартирная плата; аренда жилья",
+      "sentence": "这间房子的___每月五千元。",
+      "sentencePinyin": "Zhè jiān fángzi de fángzū měi yuè wǔ qiān yuán.",
+      "sentenceRu": "Арендная плата за эту квартиру — пять тысяч юаней в месяц.",
+      "id": "fangzu"
+    },
+    {
+      "hanzi": "收拾",
+      "pinyin": "shōu shi",
+      "ru": "прибирать; приводить в порядок",
+      "sentence": "搬家之前，我要先___房间。",
+      "sentencePinyin": "Bānjiā zhīqián, wǒ yào xiān shōushi fángjiān.",
+      "sentenceRu": "Перед переездом мне нужно прибрать комнату.",
+      "id": "shoushi"
+    },
+    {
+      "hanzi": "租",
+      "pinyin": "zū",
+      "ru": "арендовать; снимать",
+      "sentence": "我们打算在学校附近___房子。",
+      "sentencePinyin": "Wǒmen dǎsuàn zài xuéxiào fùjìn zū fángzi.",
+      "sentenceRu": "Мы собираемся снять жильё недалеко от школы.",
+      "id": "zu"
+    },
+    {
+      "hanzi": "嗯",
+      "pinyin": "ǹg",
+      "ru": "угу; да (междометие)",
+      "sentence": "甲：你明天有时间吗？乙：___，有。",
+      "sentencePinyin": "Jiǎ: Nǐ míngtiān yǒu shíjiān ma? Yǐ: Ǹg, yǒu.",
+      "sentenceRu": "— Завтра у тебя есть время? — Угу, есть.",
+      "id": "ng",
+      "audioText": "嗯，好",
+      "audioNote": "Междометие 嗯 — звук согласия; при синтезе даём дополнительный контекст «嗯，好»."
+    },
+    {
+      "hanzi": "亮",
+      "pinyin": "liàng",
+      "ru": "светлый; яркий",
+      "sentence": "这个房间又大又___。",
+      "sentencePinyin": "Zhège fángjiān yòu dà yòu liàng.",
+      "sentenceRu": "Эта комната просторная и светлая.",
+      "id": "liang"
+    },
+    {
+      "hanzi": "就是",
+      "pinyin": "jiù shì",
+      "ru": "именно; вот и всё",
+      "sentence": "你想租的话，告诉我___了。",
+      "sentencePinyin": "Nǐ xiǎng zū de huà, gàosu wǒ jiùshì le.",
+      "sentenceRu": "Если захочешь снять, просто скажи мне.",
+      "id": "jiushi"
+    },
+    {
+      "hanzi": "种",
+      "pinyin": "zhòng",
+      "ru": "сажать; выращивать",
+      "sentence": "爷爷在花园里___了很多花。",
+      "sentencePinyin": "Yéye zài huāyuán lǐ zhòng le hěn duō huā.",
+      "sentenceRu": "Дедушка посадил в саду много цветов.",
+      "id": "zhong",
+      "audioText": "种花",
+      "audioNote": "Здесь 种 читается zhòng — «сажать» (种花)."
+    },
+    {
+      "hanzi": "周围",
+      "pinyin": "zhōu wéi",
+      "ru": "окрестности; вокруг",
+      "sentence": "学校___有很多商店。",
+      "sentencePinyin": "Xuéxiào zhōuwéi yǒu hěn duō shāngdiàn.",
+      "sentenceRu": "Вокруг школы много магазинов.",
+      "id": "zhouwei"
+    },
+    {
+      "hanzi": "不过",
+      "pinyin": "bú guò",
+      "ru": "однако; но",
+      "sentence": "这里很安静，___离地铁有点远。",
+      "sentencePinyin": "Zhèlǐ hěn ānjìng, búguò lí dìtiě yǒudiǎn yuǎn.",
+      "sentenceRu": "Здесь тихо, но до метро далековато.",
+      "id": "buguo"
+    },
+    {
+      "hanzi": "毕业",
+      "pinyin": "bì yè",
+      "ru": "оканчивать учебное заведение",
+      "sentence": "姐姐去年大学___了。",
+      "sentencePinyin": "Jiějie qùnián dàxué bìyè le.",
+      "sentenceRu": "Сестра в прошлом году окончила университет.",
+      "id": "biye"
+    },
+    {
+      "hanzi": "恐怕",
+      "pinyin": "kǒng pà",
+      "ru": "боюсь, что; вероятно",
+      "sentence": "这么晚了，___商店已经关门了。",
+      "sentencePinyin": "Zhème wǎn le, kǒngpà shāngdiàn yǐjīng guānmén le.",
+      "sentenceRu": "Уже так поздно, боюсь, магазин закрылся.",
+      "id": "kongpa"
+    },
+    {
+      "hanzi": "热闹",
+      "pinyin": "rè nao",
+      "ru": "оживлённый; шумный; весёлый",
+      "sentence": "周末的市场特别___。",
+      "sentencePinyin": "Zhōumò de shìchǎng tèbié rènao.",
+      "sentenceRu": "По выходным на рынке особенно оживлённо.",
+      "id": "renao"
+    },
+    {
+      "hanzi": "入住",
+      "pinyin": "rù zhù",
+      "ru": "вселяться; заселяться",
+      "sentence": "我们明天就可以___新房子了。",
+      "sentencePinyin": "Wǒmen míngtiān jiù kěyǐ rùzhù xīn fángzi le.",
+      "sentenceRu": "Завтра мы уже сможем заселиться в новую квартиру.",
+      "id": "ruzhu"
+    },
+    {
+      "hanzi": "日记",
+      "pinyin": "rì jì",
+      "ru": "дневник; дневниковая запись",
+      "sentence": "她每天晚上写___。",
+      "sentencePinyin": "Tā měi tiān wǎnshang xiě rìjì.",
+      "sentenceRu": "Каждый вечер она пишет дневник.",
+      "id": "riji"
+    },
+    {
+      "hanzi": "顺利",
+      "pinyin": "shùn lì",
+      "ru": "удачно; гладко; без препятствий",
+      "sentence": "希望你搬家一切___。",
+      "sentencePinyin": "Xīwàng nǐ bānjiā yíqiè shùnlì.",
+      "sentenceRu": "Надеюсь, твой переезд пройдёт гладко.",
+      "id": "shunli"
+    },
+    {
+      "hanzi": "并",
+      "pinyin": "bìng",
+      "ru": "и при этом; к тому же",
+      "sentence": "他介绍了房子，___告诉我怎么使用空调。",
+      "sentencePinyin": "Tā jièshào le fángzi, bìng gàosu wǒ zěnme shǐyòng kōngtiáo.",
+      "sentenceRu": "Он показал квартиру и объяснил, как пользоваться кондиционером.",
+      "id": "bing"
+    },
+    {
+      "hanzi": "客厅",
+      "pinyin": "kè tīng",
+      "ru": "гостиная",
+      "sentence": "___里有一张沙发和一台电视。",
+      "sentencePinyin": "Kètīng lǐ yǒu yì zhāng shāfā hé yì tái diànshì.",
+      "sentenceRu": "В гостиной стоят диван и телевизор.",
+      "id": "keting"
+    },
+    {
+      "hanzi": "台",
+      "pinyin": "tái",
+      "ru": "счётное слово для техники",
+      "sentence": "客厅里有一___大电视。",
+      "sentencePinyin": "Kètīng lǐ yǒu yì tái dà diànshì.",
+      "sentenceRu": "В гостиной есть большой телевизор.",
+      "id": "tai"
+    },
+    {
+      "hanzi": "厨房",
+      "pinyin": "chú fáng",
+      "ru": "кухня",
+      "sentence": "妈妈正在___里做饭。",
+      "sentencePinyin": "Māma zhèngzài chúfáng lǐ zuòfàn.",
+      "sentenceRu": "Мама готовит на кухне.",
+      "id": "chufang"
+    },
+    {
+      "hanzi": "平常",
+      "pinyin": "píng cháng",
+      "ru": "обычно; повседневный",
+      "sentence": "我___在学校食堂吃午饭。",
+      "sentencePinyin": "Wǒ píngcháng zài xuéxiào shítáng chī wǔfàn.",
+      "sentenceRu": "Обычно я обедаю в школьной столовой.",
+      "id": "pingchang"
+    },
+    {
+      "hanzi": "基本上",
+      "pinyin": "jī běn shàng",
+      "ru": "в основном; практически",
+      "sentence": "房子___已经收拾好了。",
+      "sentencePinyin": "Fángzi jīběnshàng yǐjīng shōushi hǎo le.",
+      "sentenceRu": "Квартира практически уже прибрана.",
+      "id": "jibenshang"
+    },
+    {
+      "hanzi": "整个",
+      "pinyin": "zhěng gè",
+      "ru": "целый; весь",
+      "sentence": "我花了一个下午打扫___房间。",
+      "sentencePinyin": "Wǒ huā le yí ge xiàwǔ dǎsǎo zhěnggè fángjiān.",
+      "sentenceRu": "Я потратил весь день после полудня на уборку всей комнаты.",
+      "id": "zhengge"
+    },
+    {
+      "hanzi": "毛巾",
+      "pinyin": "máo jīn",
+      "ru": "полотенце",
+      "sentence": "浴室里还有两条干净的___。",
+      "sentencePinyin": "Yùshì lǐ hái yǒu liǎng tiáo gānjìng de máojīn.",
+      "sentenceRu": "В ванной есть ещё два чистых полотенца.",
+      "id": "maojin"
+    },
+    {
+      "hanzi": "建议",
+      "pinyin": "jiàn yì",
+      "ru": "предлагать; совет",
+      "sentence": "我___你先看看房子的环境。",
+      "sentencePinyin": "Wǒ jiànyì nǐ xiān kànkan fángzi de huánjìng.",
+      "sentenceRu": "Советую сначала осмотреть окружение дома.",
+      "id": "jianyi"
+    },
+    {
+      "hanzi": "查看",
+      "pinyin": "chá kàn",
+      "ru": "проверять; просматривать",
+      "sentence": "请在网站上___租房信息。",
+      "sentencePinyin": "Qǐng zài wǎngzhàn shang chákàn zūfáng xìnxī.",
+      "sentenceRu": "Посмотри информацию об аренде на сайте.",
+      "id": "chakan"
+    },
+    {
+      "hanzi": "信息",
+      "pinyin": "xìn xī",
+      "ru": "информация; сообщение",
+      "sentence": "网上有很多租房___。",
+      "sentencePinyin": "Wǎngshàng yǒu hěn duō zūfáng xìnxī.",
+      "sentenceRu": "В интернете много информации об аренде жилья.",
+      "id": "xinxi"
+    },
+    {
+      "hanzi": "查找",
+      "pinyin": "chá zhǎo",
+      "ru": "искать; разыскивать",
+      "sentence": "她正在网上___合适的房子。",
+      "sentencePinyin": "Tā zhèngzài wǎngshàng cházhǎo héshì de fángzi.",
+      "sentenceRu": "Она ищет подходящее жильё в интернете.",
+      "id": "chazhao"
+    },
+    {
+      "hanzi": "接着",
+      "pinyin": "jiē zhe",
+      "ru": "затем; после этого",
+      "sentence": "我们先看客厅，___再看厨房。",
+      "sentencePinyin": "Wǒmen xiān kàn kètīng, jiēzhe zài kàn chúfáng.",
+      "sentenceRu": "Сначала осмотрим гостиную, затем кухню.",
+      "id": "jiezhe"
+    },
+    {
+      "hanzi": "同时",
+      "pinyin": "tóng shí",
+      "ru": "одновременно; в то же время",
+      "sentence": "他一边介绍房子，___回答我们的问题。",
+      "sentencePinyin": "Tā yìbiān jièshào fángzi, tóngshí huídá wǒmen de wèntí.",
+      "sentenceRu": "Он показывал квартиру и одновременно отвечал на вопросы.",
+      "id": "tongshi"
+    },
+    {
+      "hanzi": "位置",
+      "pinyin": "wèi zhi",
+      "ru": "расположение; место",
+      "sentence": "这套房子的___很好，离地铁很近。",
+      "sentencePinyin": "Zhè tào fángzi de wèizhi hěn hǎo, lí dìtiě hěn jìn.",
+      "sentenceRu": "Расположение этой квартиры удачное — рядом метро.",
+      "id": "weizhi"
+    },
+    {
+      "hanzi": "价格",
+      "pinyin": "jià gé",
+      "ru": "цена; стоимость",
+      "sentence": "这里的房子___比较高。",
+      "sentencePinyin": "Zhèlǐ de fángzi jiàgé bǐjiào gāo.",
+      "sentenceRu": "Цены на жильё здесь довольно высокие.",
+      "id": "jiage"
+    },
+    {
+      "hanzi": "理想",
+      "pinyin": "lǐ xiǎng",
+      "ru": "идеальный; идеал",
+      "sentence": "我们终于租到了___的房子。",
+      "sentencePinyin": "Wǒmen zhōngyú zū dào le lǐxiǎng de fángzi.",
+      "sentenceRu": "Мы наконец сняли идеальную для нас квартиру.",
+      "id": "lixiang"
+    },
+    {
+      "hanzi": "由于",
+      "pinyin": "yóu yú",
+      "ru": "поскольку; вследствие",
+      "sentence": "___房租太高，我们决定再找找。",
+      "sentencePinyin": "Yóuyú fángzū tài gāo, wǒmen juédìng zài zhǎozhao.",
+      "sentenceRu": "Поскольку аренда слишком дорогая, мы решили поискать ещё.",
+      "id": "youyu"
+    },
+    {
+      "hanzi": "工资",
+      "pinyin": "gōng zī",
+      "ru": "зарплата; заработная плата",
+      "sentence": "他每个月的___都按时发。",
+      "sentencePinyin": "Tā měi ge yuè de gōngzī dōu ànshí fā.",
+      "sentenceRu": "Ему вовремя выплачивают зарплату каждый месяц.",
+      "id": "gongzi"
+    },
+    {
+      "hanzi": "感",
+      "pinyin": "gǎn",
+      "ru": "суффикс: ощущение; чувство",
+      "sentence": "住在自己家里更有安全___。",
+      "sentencePinyin": "Zhù zài zìjǐ jiā lǐ gèng yǒu ānquángǎn.",
+      "sentenceRu": "В собственном доме сильнее чувство безопасности.",
+      "id": "gan"
+    }
+  ]
+}

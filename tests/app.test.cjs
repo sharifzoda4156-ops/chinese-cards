@@ -37,12 +37,15 @@ assert.ok(hsk1Section && hsk2Section && hsk3Section && hsk4aSection && hsk4bSect
 assert.deepEqual(catalog.sections.map(s => s.id), ['hsk1', 'hsk2', 'hsk3', 'hsk4a', 'hsk4b']);
 assert.deepEqual(hsk4aSection.lessons.map(l => l.id), Array.from({length:10},(_,i)=>'hsk4a-lesson'+(i+1)));
 assert.deepEqual(hsk4bSection.lessons.map(l => l.id), Array.from({length:10},(_,i)=>'hsk4b-lesson'+(i+11)));
-assert.deepEqual(hsk4aSection.lessons.filter(l => l.available).map(l => l.id), ['hsk4a-lesson1']);
+assert.deepEqual(hsk4aSection.lessons.filter(l => l.available).map(l => l.id), ['hsk4a-lesson1','hsk4a-lesson2','hsk4a-lesson3','hsk4a-lesson4']);
 assert.deepEqual(hsk4bSection.lessons.filter(l => l.available).map(l => l.id), ['hsk4b-lesson11']);
 assert.equal(hsk2Section.lessons.length, 15);
 // A/B volume structure follows the printed contents. Only completed decks are clickable.
 const hsk4Sources = [
   {section:hsk4aSection,id:'hsk4a-lesson1',count:40,words:'签证 入学 通知 证件 材料 证 任何 食堂 座 申请 奖学金 表现 获得 要是 减轻 经济 压力 加油 随着 课程 专业 本科 硕士 研究生 博士 研究 活动 通过 交流 适应 将来 国际 当 教育 成为 教师 贸易 方面 知识 另'},
+  {section:hsk4aSection,id:'hsk4a-lesson2',count:37,words:'房东 出租 房租 收拾 租 嗯 亮 就是 种 周围 不过 毕业 恐怕 热闹 入住 日记 顺利 并 客厅 台 厨房 平常 基本上 整个 毛巾 建议 查看 信息 查找 接着 同时 位置 价格 理想 由于 工资 感'},
+  {section:hsk4aSection,id:'hsk4a-lesson3',count:40,words:'十字路口 直接 转 正好 熟悉 正 目的地 下载 进行 支付 软件 不仅 扫码 结账 购物 订 快递 现金 网购 寄 等 货 甚至 改变 手指 乱 管 提供 身份证 个人 能否 保护 于是 密码 随便 技术 法律 手段 保证 网络'},
+  {section:hsk4aSection,id:'hsk4a-lesson4',count:39,words:'啊 停 交 费 信号 感谢 联系 方式 客气 剩 提 袋子 重 算 再说 之间 互相 辛苦 出行 距离 往往 既 电动车 速度 充电 流行 省 力气 乘客 购买 食物 免费 早餐 来得及 鲜花 顺便 心情 更加 愉快'},
   {section:hsk4bSection,id:'hsk4b-lesson11',count:41,words:'老年 散步 丰富 羡慕 即使 活 继续 网友 无聊 数字 点名 教授 线上 线下 视频 记录 资料 自学 口语 科技 获取 礼貌 打招呼 家长 成功 分数 目的 养成 留 做法 棒 一生 快速 优秀 律师 仍 准时 网页 弹 钢琴 重新'}
 ];
 const hsk4Decks = {};
@@ -225,7 +228,7 @@ const server = http.createServer((req, res) => {
     assert.equal(await page.locator('#sections button').first().innerText(), 'HSK-1\n新HSK教程 1 · 15 уроков\nДоступно 15 из 15 уроков →');
     assert.equal(await page.locator('#sections button').nth(1).innerText(), 'HSK-2\n新HSK教程 2 · 15 уроков\nДоступно 15 из 15 уроков →');
     assert.equal(await page.locator('#sections button').nth(2).innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 18 из 18 уроков →');
-    assert.equal(await page.locator('#sections button').nth(3).innerText(), 'HSK-4A\n新HSK教程 4 上 · 10 уроков\nДоступно 1 из 10 уроков →');
+    assert.equal(await page.locator('#sections button').nth(3).innerText(), 'HSK-4A\n新HSK教程 4 上 · 10 уроков\nДоступно 4 из 10 уроков →');
     assert.equal(await page.locator('#sections button').nth(4).innerText(), 'HSK-4B\n新HSK教程 4 下 · 10 уроков\nДоступно 1 из 10 уроков →');
     await page.locator('#sections button').first().click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 15);
@@ -384,11 +387,16 @@ const server = http.createServer((req, res) => {
     for (const index of [3,4]) {
       await page.locator('#sections button').nth(index).click(); await visible('lessons');
       assert.equal(await page.locator('#lessons button').count(), 10);
-      assert.equal(await page.locator('#lessons button:disabled').count(), 9);
-      assert.ok((await page.locator('#lessons button').first().innerText()).includes('40 слов') === (index === 3));
+      assert.equal(await page.locator('#lessons button:disabled').count(), index === 3 ? 6 : 9);
+      assert.ok((await page.locator('#lessons button').first().innerText()).includes(index === 3 ? '40 слов' : '41 слов'));
+      if (index === 3) {
+        assert.ok((await page.locator('#lessons button').nth(1).innerText()).includes('37 слов'));
+        assert.ok((await page.locator('#lessons button').nth(2).innerText()).includes('40 слов'));
+        assert.ok((await page.locator('#lessons button').nth(3).innerText()).includes('39 слов'));
+      }
       await page.locator('#btn-sections').click(); await visible('sections');
     }
-    // HSK-4A lesson 1 / HSK-4B lesson 11: cards, audio, quiz, score, share.
+    // All ready HSK-4A lessons (1–4) / HSK-4B lesson 11: cards, audio, quiz, score, share.
     for (const source of hsk4Sources) {
       const data = hsk4Decks[source.id];
       await page.goto(base + '/?deck=' + source.id); await visible('lesson');
@@ -483,6 +491,6 @@ const server = http.createServer((req, res) => {
     await page.waitForFunction(() => !document.getElementById('btn-begin').disabled);
     assert.equal(await page.locator('#deck-title').innerText(), 'HSK-3 · Урок 1');
     assert.equal(errors.length, 0, errors.join('\n'));
-    console.log('PASS: HSK-1 (15/317), HSK-2 (15/210), HSK-3 (18/482), HSK-4A (1/40), HSK-4B (1/41), 1090 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
+    console.log('PASS: HSK-1 (15/317), HSK-2 (15/210), HSK-3 (18/482), HSK-4A (4/156), HSK-4B (1/41), 1206 cards, mobile navigation, synonym exclusions, audio URLs, repetitions, quiz, duplicate-click guards, report, deep links and fetch retry.');
   } finally { await browser.close(); server.close(); }
 })().catch(e => { console.error(e); process.exitCode=1; server.close(); });

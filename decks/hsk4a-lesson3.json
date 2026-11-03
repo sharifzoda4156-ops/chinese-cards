@@ -1,0 +1,385 @@
+{
+  "title": "HSK-4A · Урок 3",
+  "subtitle": "手机扫一扫 · Просто отсканируй телефоном",
+  "source": "《新HSK教程 4 上》, урок 3, 生词 №1–40, печатные страницы 24, 26, 28, 30 (PDF страницы 34, 36, 38, 40); без 专有名词",
+  "words": [
+    {
+      "hanzi": "十字路口",
+      "pinyin": "shí zì lù kǒu",
+      "ru": "перекрёсток",
+      "sentence": "走到前面的___再右转。",
+      "sentencePinyin": "Zǒu dào qiánmiàn de shízìlùkǒu zài yòu zhuǎn.",
+      "sentenceRu": "Дойдите до перекрёстка впереди и поверните направо.",
+      "id": "shizilukou"
+    },
+    {
+      "hanzi": "直接",
+      "pinyin": "zhí jiē",
+      "ru": "прямо; непосредственно",
+      "sentence": "不用换车，___坐地铁就能到。",
+      "sentencePinyin": "Bú yòng huàn chē, zhíjiē zuò dìtiě jiù néng dào.",
+      "sentenceRu": "Пересаживаться не нужно, можно доехать на метро напрямую.",
+      "id": "zhijie"
+    },
+    {
+      "hanzi": "转",
+      "pinyin": "zhuǎn",
+      "ru": "поворачивать; изменять направление",
+      "sentence": "到路口以后向左___。",
+      "sentencePinyin": "Dào lùkǒu yǐhòu xiàng zuǒ zhuǎn.",
+      "sentenceRu": "На перекрёстке поверни налево.",
+      "id": "zhuan"
+    },
+    {
+      "hanzi": "正好",
+      "pinyin": "zhèng hǎo",
+      "ru": "как раз; вовремя; впору",
+      "sentence": "你来得___，我们正准备出发。",
+      "sentencePinyin": "Nǐ lái de zhènghǎo, wǒmen zhèng zhǔnbèi chūfā.",
+      "sentenceRu": "Ты пришёл как раз вовремя, мы собирались выходить.",
+      "id": "zhenghao"
+    },
+    {
+      "hanzi": "熟悉",
+      "pinyin": "shú xī",
+      "ru": "хорошо знать; быть знакомым",
+      "sentence": "我还不太___北京的道路。",
+      "sentencePinyin": "Wǒ hái bú tài shúxī Běijīng de dàolù.",
+      "sentenceRu": "Я пока не очень хорошо знаю дороги Пекина.",
+      "id": "shuxi"
+    },
+    {
+      "hanzi": "正",
+      "pinyin": "zhèng",
+      "ru": "прямой; прямо",
+      "sentence": "请一直往___北方向走。",
+      "sentencePinyin": "Qǐng yìzhí wǎng zhèngběi fāngxiàng zǒu.",
+      "sentenceRu": "Идите всё время строго на север.",
+      "id": "zheng"
+    },
+    {
+      "hanzi": "目的地",
+      "pinyin": "mù dì dì",
+      "ru": "пункт назначения; цель пути",
+      "sentence": "我们终于找到了___。",
+      "sentencePinyin": "Wǒmen zhōngyú zhǎodào le mùdìdì.",
+      "sentenceRu": "Мы наконец нашли пункт назначения.",
+      "id": "mudidi"
+    },
+    {
+      "hanzi": "下载",
+      "pinyin": "xià zǎi",
+      "ru": "скачивать; загружать",
+      "sentence": "你可以在手机上___这个软件。",
+      "sentencePinyin": "Nǐ kěyǐ zài shǒujī shang xiàzǎi zhège ruǎnjiàn.",
+      "sentenceRu": "Можешь скачать эту программу на телефон.",
+      "id": "xiazai"
+    },
+    {
+      "hanzi": "进行",
+      "pinyin": "jìn xíng",
+      "ru": "осуществлять; проводить",
+      "sentence": "明天我们要___一次考试。",
+      "sentencePinyin": "Míngtiān wǒmen yào jìnxíng yí cì kǎoshì.",
+      "sentenceRu": "Завтра мы будем проводить экзамен.",
+      "id": "jinxing"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhī fù",
+      "ru": "оплачивать; производить платёж",
+      "sentence": "在中国可以用手机___。",
+      "sentencePinyin": "Zài Zhōngguó kěyǐ yòng shǒujī zhīfù.",
+      "sentenceRu": "В Китае можно оплачивать покупки телефоном.",
+      "id": "zhifu",
+      "quizExcludes": [
+        "jiezhang"
+      ]
+    },
+    {
+      "hanzi": "软件",
+      "pinyin": "ruǎn jiàn",
+      "ru": "программное обеспечение; приложение",
+      "sentence": "这个翻译___很方便。",
+      "sentencePinyin": "Zhège fānyì ruǎnjiàn hěn fāngbiàn.",
+      "sentenceRu": "Это приложение для перевода очень удобно.",
+      "id": "ruanjian"
+    },
+    {
+      "hanzi": "不仅",
+      "pinyin": "bù jǐn",
+      "ru": "не только",
+      "sentence": "她___会说中文，还会说英语。",
+      "sentencePinyin": "Tā bùjǐn huì shuō Zhōngwén, hái huì shuō Yīngyǔ.",
+      "sentenceRu": "Она говорит не только по-китайски, но и по-английски.",
+      "id": "bujin"
+    },
+    {
+      "hanzi": "扫码",
+      "pinyin": "sǎo mǎ",
+      "ru": "сканировать QR-код",
+      "sentence": "买东西时可以直接___付款。",
+      "sentencePinyin": "Mǎi dōngxi shí kěyǐ zhíjiē sǎomǎ fùkuǎn.",
+      "sentenceRu": "При покупке можно оплатить, отсканировав QR-код.",
+      "id": "saoma"
+    },
+    {
+      "hanzi": "结账",
+      "pinyin": "jié zhàng",
+      "ru": "рассчитываться; оплачивать счёт",
+      "sentence": "吃完饭后，我们一起去___。",
+      "sentencePinyin": "Chī wán fàn hòu, wǒmen yìqǐ qù jiézhàng.",
+      "sentenceRu": "После еды мы вместе пошли платить по счёту.",
+      "id": "jiezhang",
+      "quizExcludes": [
+        "zhifu"
+      ]
+    },
+    {
+      "hanzi": "购物",
+      "pinyin": "gòu wù",
+      "ru": "делать покупки",
+      "sentence": "周末妈妈喜欢去商场___。",
+      "sentencePinyin": "Zhōumò māma xǐhuan qù shāngchǎng gòuwù.",
+      "sentenceRu": "По выходным мама любит ходить за покупками в торговый центр.",
+      "id": "gouwu",
+      "quizExcludes": [
+        "wanggou"
+      ]
+    },
+    {
+      "hanzi": "订",
+      "pinyin": "dìng",
+      "ru": "заказывать; бронировать",
+      "sentence": "我在网上___了一张机票。",
+      "sentencePinyin": "Wǒ zài wǎngshàng dìng le yì zhāng jīpiào.",
+      "sentenceRu": "Я забронировал билет на самолёт онлайн.",
+      "id": "ding"
+    },
+    {
+      "hanzi": "快递",
+      "pinyin": "kuài dì",
+      "ru": "экспресс-доставка; посылка",
+      "sentence": "我的___今天下午就到了。",
+      "sentencePinyin": "Wǒ de kuàidì jīntiān xiàwǔ jiù dào le.",
+      "sentenceRu": "Моя посылка пришла сегодня днём.",
+      "id": "kuaidi"
+    },
+    {
+      "hanzi": "现金",
+      "pinyin": "xiàn jīn",
+      "ru": "наличные деньги",
+      "sentence": "我身上没有___，可以刷卡吗？",
+      "sentencePinyin": "Wǒ shēnshang méiyǒu xiànjīn, kěyǐ shuākǎ ma?",
+      "sentenceRu": "У меня нет наличных, можно расплатиться картой?",
+      "id": "xianjin"
+    },
+    {
+      "hanzi": "网购",
+      "pinyin": "wǎng gòu",
+      "ru": "покупать в интернете; онлайн-шопинг",
+      "sentence": "现在___已经成为一种习惯。",
+      "sentencePinyin": "Xiànzài wǎnggòu yǐjīng chéngwéi yì zhǒng xíguàn.",
+      "sentenceRu": "Сейчас покупки через интернет уже вошли в привычку.",
+      "id": "wanggou",
+      "quizExcludes": [
+        "gouwu"
+      ]
+    },
+    {
+      "hanzi": "寄",
+      "pinyin": "jì",
+      "ru": "посылать; отправлять",
+      "sentence": "请帮我___这封信。",
+      "sentencePinyin": "Qǐng bāng wǒ jì zhè fēng xìn.",
+      "sentenceRu": "Помоги мне отправить это письмо.",
+      "id": "ji"
+    },
+    {
+      "hanzi": "等",
+      "pinyin": "děng",
+      "ru": "и так далее; прочее",
+      "sentence": "我在超市买了牛奶、面包___食品。",
+      "sentencePinyin": "Wǒ zài chāoshì mǎi le niúnǎi, miànbāo děng shípǐn.",
+      "sentenceRu": "В супермаркете я купил молоко, хлеб и другие продукты.",
+      "id": "deng"
+    },
+    {
+      "hanzi": "货",
+      "pinyin": "huò",
+      "ru": "товары; груз",
+      "sentence": "商店里的___都已经卖完了。",
+      "sentencePinyin": "Shāngdiàn lǐ de huò dōu yǐjīng mài wán le.",
+      "sentenceRu": "Все товары в магазине уже распроданы.",
+      "id": "huo"
+    },
+    {
+      "hanzi": "甚至",
+      "pinyin": "shèn zhì",
+      "ru": "даже; вплоть до",
+      "sentence": "他太忙了，___没时间吃午饭。",
+      "sentencePinyin": "Tā tài máng le, shènzhì méi shíjiān chī wǔfàn.",
+      "sentenceRu": "Он настолько занят, что даже не успевает пообедать.",
+      "id": "shenzhi"
+    },
+    {
+      "hanzi": "改变",
+      "pinyin": "gǎi biàn",
+      "ru": "изменять; перемена",
+      "sentence": "手机支付___了我们的生活。",
+      "sentencePinyin": "Shǒujī zhīfù gǎibiàn le wǒmen de shēnghuó.",
+      "sentenceRu": "Мобильные платежи изменили нашу жизнь.",
+      "id": "gaibian"
+    },
+    {
+      "hanzi": "手指",
+      "pinyin": "shǒu zhǐ",
+      "ru": "палец руки",
+      "sentence": "他用___轻轻点了一下屏幕。",
+      "sentencePinyin": "Tā yòng shǒuzhǐ qīngqīng diǎn le yíxià píngmù.",
+      "sentenceRu": "Он слегка коснулся экрана пальцем.",
+      "id": "shouzhi"
+    },
+    {
+      "hanzi": "乱",
+      "pinyin": "luàn",
+      "ru": "беспорядочно; хаотичный",
+      "sentence": "不要在网上___花钱。",
+      "sentencePinyin": "Bú yào zài wǎngshàng luàn huā qián.",
+      "sentenceRu": "Не трать деньги в интернете бездумно.",
+      "id": "luan",
+      "quizExcludes": [
+        "suibian"
+      ]
+    },
+    {
+      "hanzi": "管",
+      "pinyin": "guǎn",
+      "ru": "управлять; контролировать",
+      "sentence": "父母教孩子怎么___钱。",
+      "sentencePinyin": "Fùmǔ jiāo háizi zěnme guǎn qián.",
+      "sentenceRu": "Родители учат детей управлять деньгами.",
+      "id": "guan"
+    },
+    {
+      "hanzi": "提供",
+      "pinyin": "tí gōng",
+      "ru": "предоставлять; обеспечивать",
+      "sentence": "酒店免费___早餐。",
+      "sentencePinyin": "Jiǔdiàn miǎnfèi tígōng zǎocān.",
+      "sentenceRu": "Отель бесплатно предоставляет завтрак.",
+      "id": "tigong"
+    },
+    {
+      "hanzi": "身份证",
+      "pinyin": "shēn fèn zhèng",
+      "ru": "удостоверение личности",
+      "sentence": "坐火车前要准备好___。",
+      "sentencePinyin": "Zuò huǒchē qián yào zhǔnbèi hǎo shēnfènzhèng.",
+      "sentenceRu": "Перед поездкой на поезде нужно приготовить удостоверение личности.",
+      "id": "shenfenzheng"
+    },
+    {
+      "hanzi": "个人",
+      "pinyin": "gè rén",
+      "ru": "личный; отдельный человек",
+      "sentence": "不要随便告诉别人___信息。",
+      "sentencePinyin": "Bú yào suíbiàn gàosu biérén gèrén xìnxī.",
+      "sentenceRu": "Не сообщай другим свои личные данные без необходимости.",
+      "id": "geren"
+    },
+    {
+      "hanzi": "能否",
+      "pinyin": "néng fǒu",
+      "ru": "можно ли; сможет ли",
+      "sentence": "请问___提前订票？",
+      "sentencePinyin": "Qǐngwèn néngfǒu tíqián dìng piào?",
+      "sentenceRu": "Скажите, можно ли заказать билеты заранее?",
+      "id": "nengfou"
+    },
+    {
+      "hanzi": "保护",
+      "pinyin": "bǎo hù",
+      "ru": "защищать; охранять",
+      "sentence": "我们应该___自己的密码。",
+      "sentencePinyin": "Wǒmen yīnggāi bǎohù zìjǐ de mìmǎ.",
+      "sentenceRu": "Нужно защищать собственные пароли.",
+      "id": "baohu"
+    },
+    {
+      "hanzi": "于是",
+      "pinyin": "yú shì",
+      "ru": "поэтому; вследствие этого",
+      "sentence": "手机没电了，___我回家充电。",
+      "sentencePinyin": "Shǒujī méi diàn le, yúshì wǒ huí jiā chōngdiàn.",
+      "sentenceRu": "Телефон разрядился, поэтому я вернулся домой зарядить его.",
+      "id": "yushi"
+    },
+    {
+      "hanzi": "密码",
+      "pinyin": "mì mǎ",
+      "ru": "пароль; код доступа",
+      "sentence": "不要把银行___告诉别人。",
+      "sentencePinyin": "Bú yào bǎ yínháng mìmǎ gàosu biérén.",
+      "sentenceRu": "Никому не сообщай банковский пароль.",
+      "id": "mima"
+    },
+    {
+      "hanzi": "随便",
+      "pinyin": "suí biàn",
+      "ru": "как угодно; произвольно",
+      "sentence": "不能___把身份证借给别人。",
+      "sentencePinyin": "Bù néng suíbiàn bǎ shēnfènzhèng jiè gěi biérén.",
+      "sentenceRu": "Нельзя бездумно давать своё удостоверение личности другим.",
+      "id": "suibian",
+      "quizExcludes": [
+        "luan"
+      ]
+    },
+    {
+      "hanzi": "技术",
+      "pinyin": "jì shù",
+      "ru": "техника; технология",
+      "sentence": "这种新___让支付更加方便。",
+      "sentencePinyin": "Zhè zhǒng xīn jìshù ràng zhīfù gèngjiā fāngbiàn.",
+      "sentenceRu": "Эта новая технология делает оплату ещё удобнее.",
+      "id": "jishu"
+    },
+    {
+      "hanzi": "法律",
+      "pinyin": "fǎ lǜ",
+      "ru": "закон; право",
+      "sentence": "每个人都应该遵守___。",
+      "sentencePinyin": "Měi ge rén dōu yīnggāi zūnshǒu fǎlǜ.",
+      "sentenceRu": "Каждый должен соблюдать закон.",
+      "id": "falu"
+    },
+    {
+      "hanzi": "手段",
+      "pinyin": "shǒu duàn",
+      "ru": "средство; способ; метод",
+      "sentence": "我们可以用不同的___保护信息。",
+      "sentencePinyin": "Wǒmen kěyǐ yòng bùtóng de shǒuduàn bǎohù xìnxī.",
+      "sentenceRu": "Мы можем защищать информацию разными средствами.",
+      "id": "shouduan"
+    },
+    {
+      "hanzi": "保证",
+      "pinyin": "bǎo zhèng",
+      "ru": "гарантировать; обеспечивать",
+      "sentence": "这样的措施能___信息安全。",
+      "sentencePinyin": "Zhèyàng de cuòshī néng bǎozhèng xìnxī ānquán.",
+      "sentenceRu": "Эти меры могут обеспечить безопасность информации.",
+      "id": "baozheng"
+    },
+    {
+      "hanzi": "网络",
+      "pinyin": "wǎng luò",
+      "ru": "интернет; сеть",
+      "sentence": "使用公共___时要注意安全。",
+      "sentencePinyin": "Shǐyòng gōnggòng wǎngluò shí yào zhùyì ānquán.",
+      "sentenceRu": "При использовании общественной сети следует соблюдать осторожность.",
+      "id": "wangluo"
+    }
+  ]
+}

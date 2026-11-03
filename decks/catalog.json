@@ -373,19 +373,22 @@
           "id": "hsk4a-lesson2",
           "title": "Урок 2",
           "subtitle": "Мы сняли подходящую квартиру",
-          "available": false
+          "available": true,
+          "wordCount": 37
         },
         {
           "id": "hsk4a-lesson3",
           "title": "Урок 3",
           "subtitle": "Просто отсканируй телефоном",
-          "available": false
+          "available": true,
+          "wordCount": 40
         },
         {
           "id": "hsk4a-lesson4",
           "title": "Урок 4",
           "subtitle": "Рад, что смог помочь тебе",
-          "available": false
+          "available": true,
+          "wordCount": 39
         },
         {
           "id": "hsk4a-lesson5",
