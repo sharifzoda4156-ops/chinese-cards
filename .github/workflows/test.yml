@@ -1,0 +1,31 @@
+name: Проверка карточек
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  lesson-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Установить Playwright и Chromium
+        run: |
+          npm install --no-save playwright@1.62.1
+          npx playwright install --with-deps chromium
+      - name: Проверить JavaScript и все уроки
+        run: |
+          node --check app.js
+          node tests/app.test.cjs
+      - name: Проверить генерацию озвучки без сети
+        run: python3 tests/audio_test.py
