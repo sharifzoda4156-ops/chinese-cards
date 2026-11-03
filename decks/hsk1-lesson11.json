@@ -1,0 +1,244 @@
+{
+  "title": "HSK-1 · Урок 11",
+  "subtitle": "我读大学呢 · Я учусь в университете",
+  "source": "新HSK教程 1, урок 11, 生词 №1–25, печатные страницы 79, 81, 83",
+  "words": [
+    {
+      "id": "shihou",
+      "hanzi": "时候",
+      "pinyin": "shí hou",
+      "ru": "время; момент",
+      "sentence": "你什么___去上课？",
+      "sentencePinyin": "Nǐ shénme shíhou qù shàngkè?",
+      "sentenceRu": "Когда ты идёшь на занятия?"
+    },
+    {
+      "id": "fandian",
+      "hanzi": "饭店",
+      "pinyin": "fàn diàn",
+      "ru": "ресторан; гостиница",
+      "sentence": "我们在这家___吃午饭。",
+      "sentencePinyin": "Wǒmen zài zhè jiā fàndiàn chī wǔfàn.",
+      "sentenceRu": "Мы обедаем в этом ресторане."
+    },
+    {
+      "id": "zhidao",
+      "hanzi": "知道",
+      "pinyin": "zhī dào",
+      "ru": "знать",
+      "sentence": "我___他在哪儿。",
+      "sentencePinyin": "Wǒ zhīdào tā zài nǎr.",
+      "sentenceRu": "Я знаю, где он."
+    },
+    {
+      "id": "zhengzai",
+      "hanzi": "正在",
+      "pinyin": "zhèng zài",
+      "ru": "прямо сейчас (длительное действие)",
+      "sentence": "老师___上课。",
+      "sentencePinyin": "Lǎoshī zhèngzài shàngkè.",
+      "sentenceRu": "Учитель сейчас проводит урок."
+    },
+    {
+      "id": "zhao",
+      "hanzi": "找",
+      "pinyin": "zhǎo",
+      "ru": "искать",
+      "sentence": "我在___我的手机。",
+      "sentencePinyin": "Wǒ zài zhǎo wǒ de shǒujī.",
+      "sentenceRu": "Я ищу свой телефон."
+    },
+    {
+      "id": "kaiche",
+      "hanzi": "开车",
+      "pinyin": "kāi chē",
+      "ru": "водить машину",
+      "sentence": "爸爸每天___上班。",
+      "sentencePinyin": "Bàba měi tiān kāichē shàngbān.",
+      "sentenceRu": "Папа каждый день ездит на работу за рулём."
+    },
+    {
+      "id": "che",
+      "hanzi": "车",
+      "pinyin": "chē",
+      "ru": "машина; транспортное средство",
+      "sentence": "这是我家的新___。",
+      "sentencePinyin": "Zhè shì wǒ jiā de xīn chē.",
+      "sentenceRu": "Это наша новая машина."
+    },
+    {
+      "id": "zai",
+      "hanzi": "在",
+      "pinyin": "zài",
+      "ru": "длительное действие (в процессе)",
+      "sentence": "弟弟___写作业。",
+      "sentencePinyin": "Dìdi zài xiě zuòyè.",
+      "sentenceRu": "Младший брат делает домашнее задание."
+    },
+    {
+      "id": "du",
+      "hanzi": "读",
+      "pinyin": "dú",
+      "ru": "читать; учиться",
+      "sentence": "我在大学___中文。",
+      "sentencePinyin": "Wǒ zài dàxué dú Zhōngwén.",
+      "sentenceRu": "Я изучаю китайский в университете."
+    },
+    {
+      "id": "daxue",
+      "hanzi": "大学",
+      "pinyin": "dà xué",
+      "ru": "университет; вуз",
+      "sentence": "我姐姐在北京上___。",
+      "sentencePinyin": "Wǒ jiějie zài Běijīng shàng dàxué.",
+      "sentenceRu": "Моя сестра учится в университете в Пекине."
+    },
+    {
+      "id": "daxuesheng",
+      "hanzi": "大学生",
+      "pinyin": "dà xué shēng",
+      "ru": "студент вуза",
+      "sentence": "哥哥是一名___。",
+      "sentencePinyin": "Gēge shì yì míng dàxuéshēng.",
+      "sentenceRu": "Мой старший брат — студент университета."
+    },
+    {
+      "id": "xue",
+      "hanzi": "学",
+      "pinyin": "xué",
+      "ru": "учить; изучать",
+      "sentence": "我想___汉语。",
+      "sentencePinyin": "Wǒ xiǎng xué Hànyǔ.",
+      "sentenceRu": "Я хочу учить китайский."
+    },
+    {
+      "id": "yi",
+      "hanzi": "医",
+      "pinyin": "yī",
+      "ru": "медицина (в сочетании 学医)",
+      "sentence": "我的姐姐在大学学___。",
+      "sentencePinyin": "Wǒ de jiějie zài dàxué xué yī.",
+      "sentenceRu": "Моя сестра изучает медицину в университете."
+    },
+    {
+      "id": "didi",
+      "hanzi": "弟弟",
+      "pinyin": "dì di",
+      "ru": "младший брат",
+      "sentence": "我___今年十岁。",
+      "sentencePinyin": "Wǒ dìdi jīnnián shí suì.",
+      "sentenceRu": "Моему младшему брату десять лет."
+    },
+    {
+      "id": "qilai",
+      "hanzi": "起来",
+      "pinyin": "qǐ lái",
+      "ru": "вставать; подниматься",
+      "sentence": "弟弟早上七点___。",
+      "sentencePinyin": "Dìdi zǎoshang qī diǎn qǐlái.",
+      "sentenceRu": "Младший брат встаёт в семь утра."
+    },
+    {
+      "id": "shuijiao",
+      "hanzi": "睡觉",
+      "pinyin": "shuì jiào",
+      "ru": "спать; ложиться спать",
+      "sentence": "我每天晚上十点___。",
+      "sentencePinyin": "Wǒ měi tiān wǎnshang shí diǎn shuìjiào.",
+      "sentenceRu": "Я каждый день ложусь спать в десять вечера.",
+      "quizExcludes": [
+        "shui"
+      ]
+    },
+    {
+      "id": "shui",
+      "hanzi": "睡",
+      "pinyin": "shuì",
+      "ru": "спать",
+      "sentence": "他还在___，别叫他。",
+      "sentencePinyin": "Tā hái zài shuì, bié jiào tā.",
+      "sentenceRu": "Он всё ещё спит, не буди его.",
+      "quizExcludes": [
+        "shuijiao"
+      ]
+    },
+    {
+      "id": "nali_there",
+      "hanzi": "那里",
+      "pinyin": "nà lǐ",
+      "ru": "там; в том месте",
+      "sentence": "___有一家大书店。",
+      "sentencePinyin": "Nàlǐ yǒu yì jiā dà shūdiàn.",
+      "sentenceRu": "Там есть большой книжный магазин.",
+      "quizExcludes": [
+        "nali_where"
+      ]
+    },
+    {
+      "id": "nali_where",
+      "hanzi": "哪里",
+      "pinyin": "nǎ lǐ",
+      "ru": "где; куда",
+      "sentence": "你的书放在___？",
+      "sentencePinyin": "Nǐ de shū fàng zài nǎlǐ?",
+      "sentenceRu": "Где твоя книга?",
+      "quizExcludes": [
+        "nali_there"
+      ]
+    },
+    {
+      "id": "zuotian",
+      "hanzi": "昨天",
+      "pinyin": "zuó tiān",
+      "ru": "вчера",
+      "sentence": "___我去看了电影。",
+      "sentencePinyin": "Zuótiān wǒ qù kàn le diànyǐng.",
+      "sentenceRu": "Вчера я ходил в кино."
+    },
+    {
+      "id": "wen",
+      "hanzi": "问",
+      "pinyin": "wèn",
+      "ru": "спрашивать; задавать вопрос",
+      "sentence": "我想___老师一个问题。",
+      "sentencePinyin": "Wǒ xiǎng wèn lǎoshī yí ge wèntí.",
+      "sentenceRu": "Я хочу задать учителю вопрос."
+    },
+    {
+      "id": "dui",
+      "hanzi": "对",
+      "pinyin": "duì",
+      "ru": "для; по отношению к; к",
+      "sentence": "这件事___我很重要。",
+      "sentencePinyin": "Zhè jiàn shì duì wǒ hěn zhòngyào.",
+      "sentenceRu": "Это для меня очень важно."
+    },
+    {
+      "id": "shuo",
+      "hanzi": "说",
+      "pinyin": "shuō",
+      "ru": "говорить; рассказывать",
+      "sentence": "请___慢一点儿。",
+      "sentencePinyin": "Qǐng shuō màn yì diǎnr.",
+      "sentenceRu": "Говорите, пожалуйста, помедленнее."
+    },
+    {
+      "id": "yao",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "ru": "хотеть; собираться",
+      "sentence": "我___去看朋友。",
+      "sentencePinyin": "Wǒ yào qù kàn péngyou.",
+      "sentenceRu": "Я собираюсь навестить друга."
+    },
+    {
+      "id": "xiaopengyou",
+      "hanzi": "小朋友",
+      "pinyin": "xiǎo péng you",
+      "ru": "малыш; ребёнок",
+      "sentence": "这个___今年五岁。",
+      "sentencePinyin": "Zhège xiǎo péngyou jīnnián wǔ suì.",
+      "sentenceRu": "Этому малышу пять лет."
+    }
+  ]
+}
