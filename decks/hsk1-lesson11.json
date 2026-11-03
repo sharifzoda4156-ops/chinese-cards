@@ -37,7 +37,10 @@
       "ru": "прямо сейчас (длительное действие)",
       "sentence": "老师___上课。",
       "sentencePinyin": "Lǎoshī zhèngzài shàngkè.",
-      "sentenceRu": "Учитель сейчас проводит урок."
+      "sentenceRu": "Учитель сейчас проводит урок.",
+      "quizExcludes": [
+        "zai"
+      ]
     },
     {
       "id": "zhao",
@@ -73,7 +76,10 @@
       "ru": "длительное действие (в процессе)",
       "sentence": "弟弟___写作业。",
       "sentencePinyin": "Dìdi zài xiě zuòyè.",
-      "sentenceRu": "Младший брат делает домашнее задание."
+      "sentenceRu": "Младший брат делает домашнее задание.",
+      "quizExcludes": [
+        "zhengzai"
+      ]
     },
     {
       "id": "du",
