@@ -1,0 +1,249 @@
+{
+  "title": "HSK-3 · Урок 6",
+  "subtitle": "高铁上还可以点外卖 · В скоростном поезде тоже можно заказать доставку еды",
+  "source": "新HSK教程 3, урок 6, 生词 № 1–26, страницы 48, 50, 51, 53 (имена собственные не включены)",
+  "words": [
+    {
+      "id": "gai",
+      "hanzi": "该",
+      "pinyin": "gāi",
+      "ru": "следует; пора; должен",
+      "sentence": "天已经黑了，我们___回家了。",
+      "sentencePinyin": "Tiān yǐjīng hēi le, wǒmen gāi huí jiā le.",
+      "sentenceRu": "Уже стемнело, нам пора домой.",
+      "quizExcludes": [
+        "bixu"
+      ]
+    },
+    {
+      "id": "dasuan",
+      "hanzi": "打算",
+      "pinyin": "dǎ suàn",
+      "ru": "собираться; планировать",
+      "sentence": "我___寒假去上海旅游，已经买好车票了。",
+      "sentencePinyin": "Wǒ dǎsuàn hánjià qù Shànghǎi lǚyóu, yǐjīng mǎi hǎo chēpiào le.",
+      "sentenceRu": "Я планирую на зимних каникулах поехать в Шанхай, билеты уже куплены."
+    },
+    {
+      "id": "gaotie",
+      "hanzi": "高铁",
+      "pinyin": "gāo tiě",
+      "ru": "скоростной поезд",
+      "sentence": "从北京到上海，坐___比坐普通火车快得多。",
+      "sentencePinyin": "Cóng Běijīng dào Shànghǎi, zuò gāotiě bǐ zuò pǔtōng huǒchē kuài de duō.",
+      "sentenceRu": "Из Пекина в Шанхай на скоростном поезде гораздо быстрее, чем на обычном."
+    },
+    {
+      "id": "xing",
+      "hanzi": "行",
+      "pinyin": "xíng",
+      "ru": "ладно; годится; можно",
+      "sentence": "甲：明天早上七点出发，可以吗？乙：___，我没问题。",
+      "sentencePinyin": "Jiǎ: Míngtiān zǎoshang qī diǎn chūfā, kěyǐ ma? Yǐ: Xíng, wǒ méi wèntí.",
+      "sentenceRu": "— Завтра выезжаем в семь утра, хорошо? — Ладно, у меня нет возражений.",
+      "audioText": "行啊",
+      "audioNote": "Здесь 行 читается xíng («ладно, можно»). В озвучке — 行啊 (xíng a)."
+    },
+    {
+      "id": "lukou",
+      "hanzi": "路口",
+      "pinyin": "lù kǒu",
+      "ru": "перекрёсток; пересечение дорог",
+      "sentence": "在下一个___右转，就能看见火车站。",
+      "sentencePinyin": "Zài xià yí ge lùkǒu yòu zhuǎn, jiù néng kànjiàn huǒchēzhàn.",
+      "sentenceRu": "На следующем перекрёстке поверните направо и увидите вокзал."
+    },
+    {
+      "id": "xiaoxin",
+      "hanzi": "小心",
+      "pinyin": "xiǎo xīn",
+      "ru": "осторожно; быть осторожным",
+      "sentence": "路上车很多，过马路一定要___。",
+      "sentencePinyin": "Lù shang chē hěn duō, guò mǎlù yídìng yào xiǎoxīn.",
+      "sentenceRu": "На дороге много машин, при переходе нужно быть осторожным."
+    },
+    {
+      "id": "chidao",
+      "hanzi": "迟到",
+      "pinyin": "chí dào",
+      "ru": "опаздывать",
+      "sentence": "火车八点开，我们不能___。",
+      "sentencePinyin": "Huǒchē bā diǎn kāi, wǒmen bù néng chídào.",
+      "sentenceRu": "Поезд отправляется в восемь, нам нельзя опаздывать."
+    },
+    {
+      "id": "hongludeng",
+      "hanzi": "红绿灯",
+      "pinyin": "hóng lǜ dēng",
+      "ru": "светофор",
+      "sentence": "过马路前先看___，绿灯亮了再走。",
+      "sentencePinyin": "Guò mǎlù qián xiān kàn hónglǜdēng, lǜdēng liàng le zài zǒu.",
+      "sentenceRu": "Перед переходом посмотрите на светофор и идите, когда загорится зелёный."
+    },
+    {
+      "id": "houlai",
+      "hanzi": "后来",
+      "pinyin": "hòu lái",
+      "ru": "потом; впоследствии",
+      "sentence": "我们先去车站买票，___又去附近吃了午饭。",
+      "sentencePinyin": "Wǒmen xiān qù chēzhàn mǎi piào, hòulái yòu qù fùjìn chī le wǔfàn.",
+      "sentenceRu": "Сначала мы купили билеты на вокзале, а потом пообедали поблизости."
+    },
+    {
+      "id": "ji",
+      "hanzi": "急",
+      "pinyin": "jí",
+      "ru": "срочный; волноваться; спешить",
+      "sentence": "别___，还有二十分钟才发车。",
+      "sentencePinyin": "Bié jí, hái yǒu èrshí fēnzhōng cái fāchē.",
+      "sentenceRu": "Не спеши, до отправления ещё двадцать минут."
+    },
+    {
+      "id": "ruguo",
+      "hanzi": "如果",
+      "pinyin": "rú guǒ",
+      "ru": "если",
+      "sentence": "___明天下雨，我们就不去爬山了。",
+      "sentencePinyin": "Rúguǒ míngtiān xià yǔ, wǒmen jiù bú qù páshān le.",
+      "sentenceRu": "Если завтра пойдёт дождь, мы не пойдём в горы."
+    },
+    {
+      "id": "yiqian",
+      "hanzi": "以前",
+      "pinyin": "yǐ qián",
+      "ru": "раньше; прежде",
+      "sentence": "我___从来没有坐过高铁，今天是第一次。",
+      "sentencePinyin": "Wǒ yǐqián cónglái méiyǒu zuò guo gāotiě, jīntiān shì dì yī cì.",
+      "sentenceRu": "Раньше я никогда не ездил на скоростном поезде; сегодня впервые."
+    },
+    {
+      "id": "erji",
+      "hanzi": "耳机",
+      "pinyin": "ěr jī",
+      "ru": "наушники",
+      "sentence": "车上很吵，我戴上___听音乐。",
+      "sentencePinyin": "Chē shang hěn chǎo, wǒ dài shang ěrjī tīng yīnyuè.",
+      "sentenceRu": "В вагоне шумно, поэтому я надел наушники и слушаю музыку."
+    },
+    {
+      "id": "chongdianbao",
+      "hanzi": "充电宝",
+      "pinyin": "chōng diàn bǎo",
+      "ru": "внешний аккумулятор; пауэрбанк",
+      "sentence": "我的手机快没电了，可以借我一个___吗？",
+      "sentencePinyin": "Wǒ de shǒujī kuài méi diàn le, kěyǐ jiè wǒ yí ge chōngdiànbǎo ma?",
+      "sentenceRu": "У меня почти разрядился телефон. Можешь одолжить пауэрбанк?"
+    },
+    {
+      "id": "changyong",
+      "hanzi": "常用",
+      "pinyin": "cháng yòng",
+      "ru": "часто используемый; употребительный",
+      "sentence": "这个词在日常生活中很___，你应该记住。",
+      "sentencePinyin": "Zhège cí zài rìcháng shēnghuó zhōng hěn chángyòng, nǐ yīnggāi jìzhù.",
+      "sentenceRu": "Это слово часто используется в повседневной жизни, его стоит запомнить."
+    },
+    {
+      "id": "yue",
+      "hanzi": "越",
+      "pinyin": "yuè",
+      "ru": "чем дальше, тем…; всё более",
+      "sentence": "天气___来越冷了，出门记得穿外套。",
+      "sentencePinyin": "Tiānqì yuè lái yuè lěng le, chūmén jìde chuān wàitào.",
+      "sentenceRu": "Погода становится всё холоднее, выходя на улицу, не забудь куртку."
+    },
+    {
+      "id": "fenkai",
+      "hanzi": "分开",
+      "pinyin": "fēn kāi",
+      "ru": "разделять(ся); идти отдельно",
+      "sentence": "我们在车站___走吧，你去东门，我去西门。",
+      "sentencePinyin": "Wǒmen zài chēzhàn fēnkāi zǒu ba, nǐ qù dōngmén, wǒ qù xīmén.",
+      "sentenceRu": "Давай разойдёмся на вокзале: ты пойдёшь к восточному входу, а я — к западному."
+    },
+    {
+      "id": "jiancha",
+      "hanzi": "检查",
+      "pinyin": "jiǎn chá",
+      "ru": "проверять; осматривать",
+      "sentence": "进站前，工作人员会___你的行李。",
+      "sentencePinyin": "Jìn zhàn qián, gōngzuò rényuán huì jiǎnchá nǐ de xíngli.",
+      "sentenceRu": "Перед входом на станцию сотрудники проверят твой багаж."
+    },
+    {
+      "id": "shua",
+      "hanzi": "刷",
+      "pinyin": "shuā",
+      "ru": "сканировать; проводить картой",
+      "sentence": "进地铁站时，可以___手机上的二维码。",
+      "sentencePinyin": "Jìn dìtiězhàn shí, kěyǐ shuā shǒujī shang de èrwéimǎ.",
+      "sentenceRu": "При входе в метро можно отсканировать QR-код на телефоне."
+    },
+    {
+      "id": "jianpiao",
+      "hanzi": "检票",
+      "pinyin": "jiǎn piào",
+      "ru": "проверять билеты",
+      "sentence": "请到二楼的___口排队进站。",
+      "sentencePinyin": "Qǐng dào èr lóu de jiǎnpiàokǒu páiduì jìn zhàn.",
+      "sentenceRu": "Пожалуйста, встаньте в очередь ко входу на проверку билетов на втором этаже."
+    },
+    {
+      "id": "dianti",
+      "hanzi": "电梯",
+      "pinyin": "diàn tī",
+      "ru": "лифт; эскалатор",
+      "sentence": "我拿着很重的箱子，决定坐___上二楼。",
+      "sentencePinyin": "Wǒ ná zhe hěn zhòng de xiāngzi, juédìng zuò diàntī shàng èr lóu.",
+      "sentenceRu": "С тяжёлым чемоданом я решил подняться на второй этаж на лифте."
+    },
+    {
+      "id": "fangjia",
+      "hanzi": "放假",
+      "pinyin": "fàng jià",
+      "ru": "уходить на каникулы; быть в отпуске",
+      "sentence": "下周学校要___了，我想去上海旅游。",
+      "sentencePinyin": "Xià zhōu xuéxiào yào fàngjià le, wǒ xiǎng qù Shànghǎi lǚyóu.",
+      "sentenceRu": "На следующей неделе начинаются каникулы, я хочу поехать в Шанхай."
+    },
+    {
+      "id": "shafa",
+      "hanzi": "沙发",
+      "pinyin": "shā fā",
+      "ru": "диван",
+      "sentence": "坐在客厅的___上看书很舒服。",
+      "sentencePinyin": "Zuò zài kètīng de shāfā shang kàn shū hěn shūfu.",
+      "sentenceRu": "Очень удобно читать, сидя на диване в гостиной."
+    },
+    {
+      "id": "anjing",
+      "hanzi": "安静",
+      "pinyin": "ān jìng",
+      "ru": "тихий; спокойный",
+      "sentence": "图书馆里很___，大家都在认真学习。",
+      "sentencePinyin": "Túshūguǎn lǐ hěn ānjìng, dàjiā dōu zài rènzhēn xuéxí.",
+      "sentenceRu": "В библиотеке тихо, все сосредоточенно занимаются."
+    },
+    {
+      "id": "xuanze",
+      "hanzi": "选择",
+      "pinyin": "xuǎn zé",
+      "ru": "выбирать; выбор",
+      "sentence": "这两趟车时间不同，你想___哪一趟？",
+      "sentencePinyin": "Zhè liǎng tàng chē shíjiān bù tóng, nǐ xiǎng xuǎnzé nǎ yí tàng?",
+      "sentenceRu": "Эти два поезда отправляются в разное время. Какой ты хочешь выбрать?"
+    },
+    {
+      "id": "bixu",
+      "hanzi": "必须",
+      "pinyin": "bì xū",
+      "ru": "обязательно; необходимо",
+      "sentence": "按照规定，乘客___出示身份证才能进站。",
+      "sentencePinyin": "Ànzhào guīdìng, chéngkè bìxū chūshì shēnfènzhèng cái néng jìn zhàn.",
+      "sentenceRu": "По правилам пассажиры обязаны предъявить удостоверение личности для входа на станцию.",
+      "quizExcludes": [
+        "gai"
+      ]
+    }
+  ]
+}
