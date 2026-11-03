@@ -1,0 +1,169 @@
+{
+  "title": "HSK-1 · Урок 3",
+  "subtitle": "我是中国人 · Я китаец",
+  "source": "新HSK教程 1 (2026, ISBN 9787521367744), урок 3, 生词 (без 专有名词), печатные страницы 11, 13, 14",
+  "words": [
+    {
+      "id": "ren",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "ru": "человек; люди",
+      "sentence": "他是中国___。",
+      "sentencePinyin": "Tā shì Zhōngguó rén.",
+      "sentenceRu": "Он китаец."
+    },
+    {
+      "id": "de",
+      "hanzi": "的",
+      "pinyin": "de",
+      "ru": "частица принадлежности",
+      "sentence": "这是我___书。",
+      "sentencePinyin": "Zhè shì wǒ de shū.",
+      "sentenceRu": "Это моя книга."
+    },
+    {
+      "id": "zhe",
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "ru": "это; этот",
+      "sentence": "___是谁的手机？",
+      "sentencePinyin": "Zhè shì shéi de shǒujī?",
+      "sentenceRu": "Чей это телефон?"
+    },
+    {
+      "id": "shei",
+      "hanzi": "谁",
+      "pinyin": "shéi",
+      "ru": "кто",
+      "sentence": "门外的人是___？",
+      "sentencePinyin": "Mén wài de rén shì shéi?",
+      "sentenceRu": "Кто стоит за дверью?"
+    },
+    {
+      "id": "nupengyou",
+      "hanzi": "女朋友",
+      "pinyin": "nǚ péng you",
+      "ru": "девушка; подруга (романтические отношения)",
+      "sentence": "她是我的___。",
+      "sentencePinyin": "Tā shì wǒ de nǚpéngyou.",
+      "sentenceRu": "Она моя девушка."
+    },
+    {
+      "id": "na",
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "ru": "какой; который",
+      "sentence": "你是___国人？",
+      "sentencePinyin": "Nǐ shì nǎ guó rén?",
+      "sentenceRu": "Из какой ты страны?"
+    },
+    {
+      "id": "guo",
+      "hanzi": "国",
+      "pinyin": "guó",
+      "ru": "страна; государство",
+      "sentence": "你来自哪个___？",
+      "sentencePinyin": "Nǐ láizì nǎ ge guó?",
+      "sentenceRu": "Из какой ты страны?"
+    },
+    {
+      "id": "ta",
+      "hanzi": "她",
+      "pinyin": "tā",
+      "ru": "она; её",
+      "sentence": "___是我的姐姐。",
+      "sentencePinyin": "Tā shì wǒ de jiějie.",
+      "sentenceRu": "Она моя старшая сестра."
+    },
+    {
+      "id": "wei",
+      "hanzi": "喂",
+      "pinyin": "wèi",
+      "ru": "алло; эй",
+      "sentence": "接电话时，我说：“___，你好！”",
+      "sentencePinyin": "Jiē diànhuà shí, wǒ shuō: “Wèi, nǐ hǎo!”",
+      "sentenceRu": "Отвечая на звонок, я говорю: «Алло, здравствуйте!»"
+    },
+    {
+      "id": "jiejie",
+      "hanzi": "姐姐",
+      "pinyin": "jiě jie",
+      "ru": "старшая сестра",
+      "sentence": "我___在医院工作。",
+      "sentencePinyin": "Wǒ jiějie zài yīyuàn gōngzuò.",
+      "sentenceRu": "Моя старшая сестра работает в больнице."
+    },
+    {
+      "id": "gongzuo",
+      "hanzi": "工作",
+      "pinyin": "gōng zuò",
+      "ru": "работать; работа",
+      "sentence": "爸爸在医院___。",
+      "sentencePinyin": "Bàba zài yīyuàn gōngzuò.",
+      "sentenceRu": "Папа работает в больнице."
+    },
+    {
+      "id": "hai",
+      "hanzi": "还",
+      "pinyin": "hái",
+      "ru": "всё ещё; также",
+      "sentence": "现在很晚了，他___在工作。",
+      "sentencePinyin": "Xiànzài hěn wǎn le, tā hái zài gōngzuò.",
+      "sentenceRu": "Уже поздно, а он всё ещё работает."
+    },
+    {
+      "id": "mang",
+      "hanzi": "忙",
+      "pinyin": "máng",
+      "ru": "занятой; быть занятым",
+      "sentence": "我今天很___。",
+      "sentencePinyin": "Wǒ jīntiān hěn máng.",
+      "sentenceRu": "Сегодня я очень занят."
+    },
+    {
+      "id": "ma",
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "ru": "вопросительная частица",
+      "sentence": "你是老师___？",
+      "sentencePinyin": "Nǐ shì lǎoshī ma?",
+      "sentenceRu": "Ты учитель?"
+    },
+    {
+      "id": "dui",
+      "hanzi": "对",
+      "pinyin": "duì",
+      "ru": "верно; правильно",
+      "sentence": "甲：你是学生吗？乙：___。",
+      "sentencePinyin": "Jiǎ: Nǐ shì xuésheng ma? Yǐ: Duì.",
+      "sentenceRu": "— Ты ученик? — Да, верно."
+    },
+    {
+      "id": "tai",
+      "hanzi": "太",
+      "pinyin": "tài",
+      "ru": "слишком; очень",
+      "sentence": "今天___热了！",
+      "sentencePinyin": "Jīntiān tài rè le!",
+      "sentenceRu": "Сегодня слишком жарко!"
+    },
+    {
+      "id": "women",
+      "hanzi": "我们",
+      "pinyin": "wǒ men",
+      "ru": "мы; нас",
+      "sentence": "___一起学习汉语。",
+      "sentencePinyin": "Wǒmen yìqǐ xuéxí Hànyǔ.",
+      "sentenceRu": "Мы вместе учим китайский."
+    },
+    {
+      "id": "xiang",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "ru": "хотеть; думать",
+      "sentence": "我___喝一杯茶。",
+      "sentencePinyin": "Wǒ xiǎng hē yì bēi chá.",
+      "sentenceRu": "Я хочу выпить чашку чая."
+    }
+  ]
+}
