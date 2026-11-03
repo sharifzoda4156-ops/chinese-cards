@@ -228,7 +228,7 @@ const server = http.createServer((req, res) => {
     assert.equal(await page.locator('#sections button').first().innerText(), 'HSK-1\n新HSK教程 1 · 15 уроков\nДоступно 15 из 15 уроков →');
     assert.equal(await page.locator('#sections button').nth(1).innerText(), 'HSK-2\n新HSK教程 2 · 15 уроков\nДоступно 15 из 15 уроков →');
     assert.equal(await page.locator('#sections button').nth(2).innerText(), 'HSK-3\n新HSK教程 3 · 18 уроков\nДоступно 18 из 18 уроков →');
-    assert.equal(await page.locator('#sections button').nth(3).innerText(), 'HSK-4A\n新HSK教程 4 上 · 10 уроков\nДоступно 1 из 10 уроков →');
+    assert.equal(await page.locator('#sections button').nth(3).innerText(), 'HSK-4A\n新HSK教程 4 上 · 10 уроков\nДоступно 4 из 10 уроков →');
     assert.equal(await page.locator('#sections button').nth(4).innerText(), 'HSK-4B\n新HSK教程 4 下 · 10 уроков\nДоступно 1 из 10 уроков →');
     await page.locator('#sections button').first().click(); await visible('lessons');
     assert.equal(await page.locator('#lessons button').count(), 15);
